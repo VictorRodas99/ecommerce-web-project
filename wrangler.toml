@@ -1,0 +1,3 @@
+name = "ecommerce-web-project"
+main = "api/index.js"
+compatibility_date = "2023-01-15"

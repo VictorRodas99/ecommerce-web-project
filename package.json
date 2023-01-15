@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "dev:api": "wrangler dev ./api/index.js",
     "scrap": "node ./scraping/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,10 +21,13 @@
   },
   "homepage": "https://github.com/VictorRodas99/ecommerce-web-project#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "hono": "^2.7.2"
   },
   "devDependencies": {
-    "standard": "^17.0.0"
+    "standard": "^17.0.0",
+    "vitest": "^0.27.1",
+    "wrangler": "^2.7.1"
   },
   "eslintConfig": {
     "extends": "standard"
