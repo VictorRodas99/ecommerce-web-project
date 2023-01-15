@@ -1,4 +1,5 @@
 import * as cheerio from 'cheerio'
+import { removeEmptyData, parseString, printProcess } from './utils.js'
 
 const baseURL = 'https://nissei.com/py/informatica'
 
@@ -22,8 +23,8 @@ async function getProductsLinks () {
     rawSrcImages.push(rawImageLink)
   })
 
-  const links = rawLinks.filter(link => link !== undefined)
-  const srcImages = rawSrcImages.filter(src => src !== undefined)
+  const links = removeEmptyData(rawLinks)
+  const srcImages = removeEmptyData(rawSrcImages)
 
   return {
     links,
@@ -33,7 +34,6 @@ async function getProductsLinks () {
 
 async function getProductData (productLink) {
   const $ = await scrape(productLink)
-  let productData = {}
 
   const getDetails = (html) => {
     const rawDetails = []
@@ -41,18 +41,19 @@ async function getProductData (productLink) {
 
     $(html).each((_, el) => rawDetails.push($(el).text()))
 
-    const filtered = rawDetails.filter(rawDetail => rawDetail && rawDetail !== '\n')
-    const parsedDetails = filtered.map(e => e.trim())
+    const parsedDetails = removeEmptyData(rawDetails)
     
     parsedDetails.forEach(detail => {
       const [key, value] = detail.split(':')
-      details[key] = value
+      details[key] = parseString(value)
     })
 
     return details
   }
 
-  const getLabel = (html) => $(html).first().text().replace(/\s+/g, ' ').trim()
+  const getLabel = (html) => {
+    return parseString($(html).text()).split(' ')[1]
+  }
 
   const getParsedData = (rawObjectData) => {
     const rawData = Object.values(rawObjectData)
@@ -62,15 +63,15 @@ async function getProductData (productLink) {
       return {}
     }
 
-    const parsedData = rawData.map(data => data.trim())
-    const [ name, price, detailsHTML, labelHTML ] = parsedData
-
+    const [ name, price, detailsHTML, labelHTML ] = rawData
     const details = getDetails(detailsHTML)
     const label = getLabel(labelHTML)
 
     return {
-      name, price,
-      details, label
+      name: parseString(name),
+      price: parseString(price),
+      details,
+      label
     }
   }
 
@@ -79,16 +80,12 @@ async function getProductData (productLink) {
   const rawProductName = $container.find('.page-title-wrapper h1').text()
   const rawPrice = $container.find('.product-info-main .product-info-price .price').text()
   const rawDetails = $container.find('.product-info-main .overview ul').html()
-  const rawLabel = $container.find('.data .additional-attributes tbody').html()
+  const rawLabel = $container.find('.data .additional-attributes tbody tr').html()
 
-  const parsedProductData = getParsedData({
+  const productData = getParsedData({
     rawProductName, rawPrice,
     rawDetails, rawLabel
   })
-
-  if(Object.keys(parsedProductData).length > 0) {
-    productData = parsedProductData
-  }
 
   return productData
 }
@@ -101,15 +98,17 @@ async function main () {
   while(index < links.length) {
     const srcImage = srcImages[index]
     const link = links[index]
-
     const productData = await getProductData(link)
-    productData.image = srcImage
 
-    products.push(productData)
-    index++
+    if(Object.keys(productData).length > 0) {
+      productData.image = srcImage
+      products.push(productData)
+      index++
+      printProcess(index, links.length)
+    }
   }
 
-  console.log(products)
+  console.log('\n', products)
 }
 
 main()
