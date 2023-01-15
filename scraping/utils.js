@@ -4,8 +4,8 @@ import { writeFile } from 'node:fs/promises'
 /**
  * @param {Array<{}>} data 
  */
-export const writeJSON = async (data) => {
-    const filePath = path.join(process.cwd(), 'db', 'products.json')
+export const writeJSON = async (data, fileName) => {
+    const filePath = path.join(process.cwd(), 'db', fileName)
     await writeFile(filePath, JSON.stringify(data, null, 4), 'utf-8')
     console.log(`\nCreated successfully JSON\n(Path: ${filePath})`)
 }

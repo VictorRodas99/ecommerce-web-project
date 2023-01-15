@@ -10,8 +10,8 @@ async function scrape (url) {
   return cheerio.load(html)
 }
 
-async function getProductsLinks () {
-  const $ = await scrape(baseURL)
+async function getProductsLinks (url) {
+  const $ = await scrape(url)
   const rawLinks = []
   const rawSrcImages = []
 
@@ -90,8 +90,8 @@ async function getProductData (productLink) {
   return productData
 }
 
-async function main () {
-  const { links, srcImages } = await getProductsLinks()
+async function scraper (url, jsonFileName = 'products.json') {
+  const { links, srcImages } = await getProductsLinks(url)
   const products = []
   let index = 0
 
@@ -108,7 +108,7 @@ async function main () {
     }
   }
 
-  await writeJSON(products)
+  await writeJSON(products, jsonFileName)
 }
 
-main()
+scraper(baseURL)
