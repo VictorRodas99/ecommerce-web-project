@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio'
-import { removeEmptyData, parseString, printProcess } from './utils.js'
+import { removeEmptyData, parseString, printProcess, writeJSON } from './utils.js'
 
 const baseURL = 'https://nissei.com/py/informatica'
 
@@ -108,7 +108,7 @@ async function main () {
     }
   }
 
-  console.log('\n', products)
+  await writeJSON(products)
 }
 
 main()
