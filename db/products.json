@@ -212,20 +212,6 @@
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/m/o/mochila_klip_12_.jpg"
     },
     {
-        "name": "Cooler Liquido Gigabyte Aorus Water 240 RGB Fusion 2.0",
-        "price": "Gs. 1.345.291",
-        "details": {
-            "Velocidad del ventilador": "2500 RPM +/- 10%",
-            "Tamaño del ventilador": "272 x 121 x 27 mm",
-            "Flujo de aire": "59.25 CFM",
-            "Fuente de alimentación": "12 VDC",
-            "Compatibilidad": "AMD, Intel"
-        },
-        "label": "Gigabyte",
-        "id": 16,
-        "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/c/o/cooler-para-cpu-giga_1_.jpg"
-    },
-    {
         "name": "Cooler para Notebook Havit HV-F2081 4 Fan USB - Negro",
         "price": "Gs. 139.946",
         "details": {
@@ -235,7 +221,7 @@
             "Compatible con": "Notebooks desde 11\" hasta 17\""
         },
         "label": "Havit",
-        "id": 17,
+        "id": 16,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/n/o/notepad.jpg"
     },
     {
@@ -248,7 +234,7 @@
             "Compatible con portátiles": "Mac y Windows y otros dispositivos USB-C"
         },
         "label": "Belkin",
-        "id": 18,
+        "id": 17,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/a/d/adapatdor_.jpg"
     },
     {
@@ -261,7 +247,7 @@
             "Velocidad de rotación": "1200 RPM"
         },
         "label": "REDRAGON",
-        "id": 19,
+        "id": 18,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/6/4/64033.jpg"
     },
     {
@@ -274,7 +260,21 @@
             "Conectividad": "USB"
         },
         "label": "Honeywell",
-        "id": 20,
+        "id": 19,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/l/e/lectoroorr-1.jpg"
+    },
+    {
+        "name": "Lector de Código de Barra Zkteco ZKB101 - Negro",
+        "price": "Gs. 207.662",
+        "details": {
+            "Tipo": "Escáner láser rojo de 32 bits",
+            "Ángulo de lectura": "70°, 70° (vertical, horizontal)",
+            "Velocidad de escaneo": "300 veces/segundo",
+            "Precisión": "Mayor o igual a 3000",
+            "Interfaz compatible": "RJ-45, USB"
+        },
+        "label": "ZKTECO",
+        "id": 20,
+        "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/6/8/68051_1.jpg"
     }
 ]
