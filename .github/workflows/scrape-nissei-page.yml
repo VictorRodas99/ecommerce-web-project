@@ -17,9 +17,11 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: npm run scrap
-             git config user.name scraper-bot
-             git add .
-             git commit -m "[bot] update database"
-             git push origin main
-             npm run publish:api
+      - run:
+            npm ci 
+            npm run scrap
+            git config user.name scraper-bot
+            git add .
+            git commit -m "[bot] update database"
+            git push origin main
+            npm run publish:api
