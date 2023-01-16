@@ -1,0 +1,23 @@
+name: Scrape niseei website
+
+on:
+  repository_dispatch:
+    types:
+      - webhook
+  schedule:
+    - cron: "0 20 * * 1"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run scrap
+             git config user.name scraper-bot
+             git add .
+             git commit -m "[bot] update database"
+             git push origin main
+             npm run publish:api
