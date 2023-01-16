@@ -2,36 +2,36 @@ import path from 'node:path'
 import { writeFile } from 'node:fs/promises'
 
 /**
- * @param {Array<{}>} data 
+ * @param {Array<{}>} data
  */
 export const writeJSON = async (data, fileName) => {
-    const filePath = path.join(process.cwd(), 'db', fileName)
-    await writeFile(filePath, JSON.stringify(data, null, 4), 'utf-8')
-    console.log(`\nCreated successfully JSON\n(Path: ${filePath})`)
+  const filePath = path.join(process.cwd(), 'db', fileName)
+  await writeFile(filePath, JSON.stringify(data, null, 4), 'utf-8')
+  console.log(`\nCreated successfully JSON\n(Path: ${filePath})`)
 }
 
 /**
- * @param {string} dirtyString 
-*/
+ * @param {string} dirtyString
+ */
 export const parseString = (dirtyString) => {
-    if(!dirtyString) return ''
+  if (!dirtyString) return ''
 
-    return dirtyString
-            .replace(/[\r\n]/gm, '') //Removes all the line breaks
-            .replace(/\s+/g, ' ') //Removes all the blank spaces
-            .trim()
+  return dirtyString
+    .replace(/[\r\n]/gm, '') //Removes all the line breaks
+    .replace(/\s+/g, ' ') //Removes all the blank spaces
+    .trim()
 }
 
-/** 
- * @param {Array<string>} array 
+/**
+ * @param {Array<string>} array
  * @returns {Array<string>} filteredArray
  */
 export const removeEmptyData = (array) => {
-    const parsed = array.map(element => parseString(element))
-    return parsed.filter(element => Boolean(element))
+  const parsed = array.map((element) => parseString(element))
+  return parsed.filter((element) => Boolean(element))
 }
 
 export const printProcess = (current, final) => {
-    const percent = Math.floor((current * 100) / final)
-    process.stdout.write(`\rScraping process (${percent}%)...`)
+  const percent = Math.floor((current * 100) / final)
+  process.stdout.write(`\rScraping process (${percent}%)...`)
 }
