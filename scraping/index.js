@@ -12,6 +12,7 @@ export async function scrape (url) {
 }
 
 async function scraper (url, jsonFileName = 'products.json') {
+  console.log(`---- Scraping ${url} ----`)
   const { links, srcImages } = await getProductsLinks(url)
   const products = []
   let index = 0
