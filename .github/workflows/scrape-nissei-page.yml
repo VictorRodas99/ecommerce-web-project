@@ -24,4 +24,3 @@ jobs:
             git add .
             git commit -m "[bot] update database"
             git push origin main
-            npm run publish:api
