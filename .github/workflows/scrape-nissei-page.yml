@@ -1,4 +1,4 @@
-name: Scrape niseei website
+name: Scrape nissei website
 
 on:
   repository_dispatch:
