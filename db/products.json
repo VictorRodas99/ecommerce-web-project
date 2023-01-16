@@ -10,6 +10,7 @@
             "Tamaño": "150 x 115 x 71 cm"
         },
         "label": "Cougar",
+        "id": 1,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/p/r/proyecto_nuevo_42_.jpg"
     },
     {
@@ -24,6 +25,7 @@
             "Interfaz": "USB, HDMI 2.0b, USB-C, Thunderbolt 3/4 y RJ45"
         },
         "label": "Intel",
+        "id": 2,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/n/u/nuc11tnhi3000_-_1.jpg"
     },
     {
@@ -37,6 +39,7 @@
             "Dimensiones": "16 x 24 x 35 cm"
         },
         "label": "Stalo",
+        "id": 3,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/r/p/rpm-1003128.jpg"
     },
     {
@@ -50,6 +53,7 @@
             "Dimensiones": "12 x 24 x 35 cm"
         },
         "label": "Stalo",
+        "id": 4,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/r/p/rpm-1003729.jpg"
     },
     {
@@ -62,6 +66,7 @@
             "Compatible con": "Notebooks de hasta 17\""
         },
         "label": "Generico",
+        "id": 5,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/r/p/rpm-1003293-1.jpg"
     },
     {
@@ -74,6 +79,7 @@
             "Conectividad": "Wi-Fi y Bluetooth 5.0"
         },
         "label": "Radxa",
+        "id": 6,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/1/0/101967-2.jpg"
     },
     {
@@ -88,6 +94,7 @@
             "Reproducción de audio": "WMA, MP3 y M4A"
         },
         "label": "Onled",
+        "id": 7,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/i/m/img_01.jpg"
     },
     {
@@ -102,6 +109,7 @@
             "Interfaz": "USB 3.2, HDMI 2.0b, USB-C, Mini DP 1.4, RJ45, Jack 3.5 mm y SD"
         },
         "label": "Intel",
+        "id": 8,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/i/n/intel_nuc11pahi50001_-_1.jpg"
     },
     {
@@ -116,6 +124,7 @@
             "Sistema operativo": "FreeDos"
         },
         "label": "HP",
+        "id": 9,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/p/c/pc_all_in_one_hp_200_g4_-_1.jpg"
     },
     {
@@ -130,6 +139,7 @@
             "Chipset": "AMD B550"
         },
         "label": "Asus",
+        "id": 10,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/a/s/asus_am4_tuf_gaming_b550-pro_-_1.jpg"
     },
     {
@@ -142,6 +152,7 @@
             "Memoria RAM": "32 GB"
         },
         "label": "Apple",
+        "id": 11,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/1/6/1646763624_1694670.jpg"
     },
     {
@@ -155,6 +166,7 @@
             "Compatibilidad": "9\" a 17\""
         },
         "label": "Satellite",
+        "id": 12,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/c/o/cooler_satellite.jpg"
     },
     {
@@ -168,6 +180,7 @@
             "Compatibilidad": "9\" a 17\""
         },
         "label": "Satellite",
+        "id": 13,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/s/a/sate_19.jpg"
     },
     {
@@ -181,6 +194,7 @@
             "Compatibilidad": "9\" a 17\""
         },
         "label": "Satellite",
+        "id": 14,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/s/a/sate_20.jpg"
     },
     {
@@ -193,6 +207,7 @@
             "Conectividad": "Receptor USB"
         },
         "label": "Logitech",
+        "id": 15,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/m/1/m187-azul_2.jpg"
     },
     {
@@ -206,6 +221,7 @@
             "Voltaje": "Bivolt"
         },
         "label": "Logitech",
+        "id": 16,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/m/o/mochila_klip_12_.jpg"
     },
     {
@@ -218,6 +234,7 @@
             "Compatible con": "Notebooks desde 11\" hasta 17\""
         },
         "label": "Havit",
+        "id": 17,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/n/o/notepad.jpg"
     },
     {
@@ -230,6 +247,7 @@
             "Compatible con portátiles": "Mac y Windows y otros dispositivos USB-C"
         },
         "label": "Belkin",
+        "id": 18,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/a/d/adapatdor_.jpg"
     },
     {
@@ -242,6 +260,7 @@
             "Velocidad de rotación": "1200 RPM"
         },
         "label": "REDRAGON",
+        "id": 19,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/6/4/64033.jpg"
     },
     {
@@ -254,6 +273,7 @@
             "Conectividad": "USB"
         },
         "label": "Honeywell",
+        "id": 20,
         "image": "https://nissei.com/media/catalog/product/cache/82488c8dc45c4819d3542b60fadf1fa9/l/e/lectoroorr-1.jpg"
     }
 ]
