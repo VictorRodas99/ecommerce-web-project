@@ -3,3 +3,4 @@ node_modules/
 
 # files
 TODOS.md
+db/*-debug.json
