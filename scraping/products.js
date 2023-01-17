@@ -1,6 +1,10 @@
 import { scrape } from './index.js'
 import { removeEmptyData } from './utils/data-treatment.js'
-import { findImageLinks, getParsedData } from './utils/scraper-tools.js'
+import {
+  findImageLinks,
+  getParsedData,
+  getLiteralObjectFrom
+} from './utils/scraper-tools.js'
 
 export async function getProductsLinks(url) {
   const $ = await scrape(url)
@@ -32,14 +36,26 @@ export async function getProductData(productLink) {
   const rawLabel = $container
     .find('.data .additional-attributes tbody tr')
     .html()
+  const rawCategories = $container
+    .find('.product-info-main-content .cat-links')
+    .text()
+
+  const rawSpecs = $container.find('.detailed #description .value ul').html()
 
   const productData = getParsedData($, {
     rawProductName,
     rawPrice,
     rawDetails,
     rawLabel,
+    rawCategories,
     rawImageLinks
   })
+
+  // sometimes there aren't specifications the for product
+  if (rawSpecs) {
+    const specs = getLiteralObjectFrom($, rawSpecs)
+    productData.specifications = specs
+  }
 
   return productData
 }

@@ -1,6 +1,26 @@
 import { parseString, validateURL, removeEmptyData } from './data-treatment.js'
 
 /**
+ * @param { import('cheerio').CheerioAPI } $
+ * @param {string} html
+ * @returns { Object } literalObject
+ */
+export const getLiteralObjectFrom = ($, html) => {
+  const rawData = []
+  const cleanedData = {}
+
+  $(html).each((_, el) => rawData.push($(el).text()))
+
+  const parsedData = removeEmptyData(rawData)
+  parsedData.forEach((field) => {
+    const [key, value] = field.split(':')
+    cleanedData[key] = parseString(value)
+  })
+
+  return cleanedData
+}
+
+/**
  * @param { import('cheerio').Element } parent
  * @param { import('cheerio').CheerioAPI } $
  * @param { string } selectors
@@ -20,22 +40,6 @@ export const findImageLinks = ($, parent, selectors) => {
 }
 
 export function getParsedData($, rawObjectData) {
-  const getDetails = (html) => {
-    const rawDetails = []
-    const details = {}
-
-    $(html).each((_, el) => rawDetails.push($(el).text()))
-
-    const parsedDetails = removeEmptyData(rawDetails)
-
-    parsedDetails.forEach((detail) => {
-      const [key, value] = detail.split(':')
-      details[key] = parseString(value)
-    })
-
-    return details
-  }
-
   const getLabel = (html) => {
     return parseString($(html).text()).split(' ')[1]
   }
@@ -47,9 +51,13 @@ export function getParsedData($, rawObjectData) {
     return {}
   }
 
-  const [name, price, detailsHTML, labelHTML, rawSrcImages] = rawData
-  const details = getDetails(detailsHTML)
+  const [name, price, detailsHTML, labelHTML, rawCategories, rawSrcImages] =
+    rawData
+  const details = getLiteralObjectFrom($, detailsHTML)
   const label = getLabel(labelHTML)
+  const categories = rawCategories
+    .replace(/.*:\s/, '') //Removes all characters before ': ' including the colon and the whitespace
+    .split(', ')
 
   const areValidURLs = rawSrcImages.every(validateURL)
 
@@ -63,6 +71,7 @@ export function getParsedData($, rawObjectData) {
     price: parseString(price),
     details,
     label,
+    categories,
     srcImages
   }
 }
