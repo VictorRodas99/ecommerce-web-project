@@ -1,4 +1,4 @@
-export const URLS = {
+const SCRAPER_URLS = {
   computing: {
     home: 'https://nissei.com/py/informatica?product_list_limit=40',
     notebooks:
@@ -31,3 +31,5 @@ export const URLS = {
     audio: 'https://nissei.com/py/audio?product_list_limit=40'
   }
 }
+
+export default SCRAPER_URLS
