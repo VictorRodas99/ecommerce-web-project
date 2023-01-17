@@ -1,26 +1,22 @@
 import { scrape } from './index.js'
-import { removeEmptyData, parseString } from './utils.js'
+import {
+  removeEmptyData,
+  parseString,
+  validateURL
+} from './utils/data-treatment.js'
+import { findImageLinks } from './utils/scraper-tools.js'
 
 export async function getProductsLinks(url) {
   const $ = await scrape(url)
   const rawLinks = []
-  const rawSrcImages = []
 
   $('ol .product-item .product-item-info').each((_, el) => {
     const rawProductLink = $(el).find('.product-item-link').attr('href')
-    const rawImageLink = $(el).find('.product-image-photo').attr('data-src')
-
     rawLinks.push(rawProductLink)
-    rawSrcImages.push(rawImageLink)
   })
 
   const links = removeEmptyData(rawLinks)
-  const srcImages = removeEmptyData(rawSrcImages)
-
-  return {
-    links,
-    srcImages
-  }
+  return links
 }
 
 export async function getProductData(productLink) {
@@ -54,21 +50,33 @@ export async function getProductData(productLink) {
       return {}
     }
 
-    const [name, price, detailsHTML, labelHTML] = rawData
+    const [name, price, detailsHTML, labelHTML, srcImages] = rawData
     const details = getDetails(detailsHTML)
     const label = getLabel(labelHTML)
+
+    const areValidURLs = srcImages.every(validateURL)
+
+    if (!areValidURLs) {
+      return {}
+    }
 
     return {
       name: parseString(name),
       price: parseString(price),
       details,
-      label
+      label,
+      srcImages
     }
   }
 
   const $container = $('.main')
 
   const rawProductName = $container.find('.page-title-wrapper h1').text()
+  const rawImageLinks = findImageLinks(
+    $,
+    $container,
+    '.product-info-main-content .media script'
+  )
   const rawPrice = $container
     .find('.product-info-main .product-info-price .price')
     .text()
@@ -81,7 +89,8 @@ export async function getProductData(productLink) {
     rawProductName,
     rawPrice,
     rawDetails,
-    rawLabel
+    rawLabel,
+    rawImageLinks
   })
 
   return productData
