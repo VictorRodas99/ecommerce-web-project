@@ -7,8 +7,7 @@ const SCRAPER_URLS = {
       'https://nissei.com/py/informatica/impresoras-y-suplementos?product_list_limit=40',
     monitors:
       'https://nissei.com/py/informatica/accesorios-y-componentes/monitores?product_list_limit=40',
-    storage:
-      'https://nissei.com/py/informatica/almacenamiento?product_list_limit=40',
+    storage: 'https://nissei.com/py/informatica/almacenamiento',
     internet:
       'https://nissei.com/py/informatica/redes-e-internet?product_list_limit=40'
   },
@@ -17,7 +16,7 @@ const SCRAPER_URLS = {
       'https://nissei.com/py/informatica/accesorios-y-componentes/procesadores-cpu?product_list_limit=40',
     motherboards:
       'https://nissei.com/py/informatica/accesorios-y-componentes/placas-madres?product_list_limit=40',
-    ram: 'https://nissei.com/py/informatica/accesorios-y-componentes/memorias-ram?product_list_limit=40',
+    ram: 'https://nissei.com/py/informatica/accesorios-y-componentes/memorias-ram',
     graphicsCards:
       'https://nissei.com/py/informatica/accesorios-y-componentes/tarjetas-graficas?product_list_limit=40',
     keyboards:
