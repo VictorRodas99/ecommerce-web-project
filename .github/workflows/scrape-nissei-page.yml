@@ -22,5 +22,5 @@ jobs:
             npm run scrap
             git config user.name scraper-bot
             git add .
-            git diff --quiet && git diff --staged --quiet || git commit -am "[bot] update Kings League database"
+            git diff --quiet && git diff --staged --quiet || git commit -am "[bot] update database"
             git push origin main
