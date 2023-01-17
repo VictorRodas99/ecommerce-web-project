@@ -3,6 +3,7 @@ import { getProductsLinks, getProductData } from './products.js'
 import { writeJSON } from './utils/data-treatment.js'
 import { printProcess, log } from './utils/log.js'
 import URLS from './scraper.config.js'
+import { getTopicLink } from './utils/cli-tools.js'
 
 export async function scrape(url) {
   const response = await fetch(url)
@@ -67,14 +68,25 @@ async function runScraper(
   // debug mode
   if (thirdArg === '--debug') {
     const topicParam = args[3]
-    const foundKey = Object.keys(URLS).find((key) => URLS[key][topicParam])
+    const topicLink = getTopicLink(topicParam)
 
-    if (!foundKey) {
-      return log.error(`"${topicParam}" is not a valid topic to search!`)
+    if (topicLink.type === 'error') {
+      return log.error(topicLink.result)
     }
 
-    const foundTopicLink = URLS[foundKey][topicParam]
-    return runScraper(foundTopicLink, `${topicParam}-debug.json`, true)
+    return runScraper(topicLink.result, `${topicParam}-debug.json`, true)
+  }
+
+  // scrape specific topic
+  if (thirdArg === '--scrape') {
+    const topicParam = args[3]
+    const topicLink = getTopicLink(topicParam)
+
+    if (topicLink.type === 'error') {
+      return log.error(topicLink.result)
+    }
+
+    return runScraper(topicLink.result, `${topicParam}.json`)
   }
 
   return log.error(`"${thirdArg}" is not a valid parametter`)
