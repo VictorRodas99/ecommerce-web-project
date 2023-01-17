@@ -6,6 +6,12 @@ import URLS from './scraper.config.js'
 
 export async function scrape(url) {
   const response = await fetch(url)
+
+  if (!response.ok) {
+    log.error(response.statusText)
+    process.exit(1)
+  }
+
   const html = await response.text()
 
   return cheerio.load(html)
