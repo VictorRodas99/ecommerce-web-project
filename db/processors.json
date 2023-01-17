@@ -1,0 +1,1156 @@
+[
+    {
+        "name": "Procesador CPU Intel Core i7-13700F 2.1 GHz LGA 1700 30 MB",
+        "price": "Gs. 3.458.030",
+        "details": {
+            "Número de procesador": "Intel Core i7-13700F",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Frecuencia turbo máxima": "5.2 GHz",
+            "Caché": "30 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 700"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/7/i7-13700_-_1.jp.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Núcleos de rendimiento": "8",
+            "Núcleos eficientes": "8",
+            "Cantidad de subprocesos": "24",
+            "Frecuencia básica de núcleos eficientes": "1.5 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "2.1 GHz",
+            "Frecuencia turbo de núcleos eficientes": "4.1 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "5.1 GHz",
+            "Caché": "30 MB Intel Smart Cache",
+            "TDP": "65 W",
+            "Compatible con placas base": "Chipset Intel serie 700"
+        },
+        "id": 1
+    },
+    {
+        "name": "Procesador CPU Intel Core i7-13700 2.1 GHZ LGA 1700 30 MB",
+        "price": "Gs. 3.701.808",
+        "details": {
+            "Número de procesador": "Intel Core i7-13700",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Frecuencia turbo máxima": "5.2 GHz",
+            "Caché": "30 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 700"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/7/i7-13700_-_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Núcleos de rendimiento": "8",
+            "Núcleos eficientes": "8",
+            "Cantidad de subprocesos": "24",
+            "Frecuencia básica de núcleos eficientes": "1.5 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "2.1 GHz",
+            "Frecuencia turbo de núcleos eficientes": "4.1 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "5.1 GHz",
+            "Gráficos del procesador": "Intel UHD 770",
+            "Caché": "30 MB Intel Smart Cache",
+            "TDP": "65 W",
+            "Compatible con placas base": "Chipset Intel serie 700"
+        },
+        "id": 2
+    },
+    {
+        "name": "Procesador CPU Intel Core i5-13400 2.5 GHz LGA 1700 20 MB con Cooler",
+        "price": "Gs. 2.157.883",
+        "details": {
+            "Número de procesador": "Intel Core i5-13400",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "10",
+            "Frecuencia turbo máxima": "4.6 GHz",
+            "Caché": "20 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 600 y 700"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/5/i5-13600k_-_1_1__1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "10",
+            "Núcleos de rendimiento": "6",
+            "Núcleos eficientes": "4",
+            "Cantidad de subprocesos": "16",
+            "Frecuencia básica de núcleos eficientes": "1.8 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "2.5 GHz",
+            "Frecuencia turbo de núcleos eficientes": "3.3 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "4.6 GHz",
+            "Gráficos del procesador": "Intel UHD 770",
+            "Caché": "20 MB Intel Smart Cache",
+            "TDP": "65 W",
+            "Compatible con placas base": "Chipset Intel serie 600 y 700"
+        },
+        "id": 3
+    },
+    {
+        "name": "Procesador CPU Intel Core i5-13400F 2.5 GHz LGA 1700 20 MB con Cooler",
+        "price": "Gs. 2.004.394",
+        "details": {
+            "Número de procesador": "Intel Core i5-13400F",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "10",
+            "Frecuencia turbo máxima": "4.6 GHz",
+            "Caché": "20 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 600 y 700"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/5/i5-13600k_-_1_1_.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "10",
+            "Núcleos de rendimiento": "6",
+            "Núcleos eficientes": "4",
+            "Cantidad de subprocesos": "16",
+            "Frecuencia básica de núcleos eficientes": "1.8 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "2.5 GHz",
+            "Frecuencia turbo de núcleos eficientes": "3.3 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "4.6 GHz",
+            "Caché": "20 MB Intel Smart Cache",
+            "TDP": "65 W",
+            "Compatible con placas base": "Chipset Intel serie 600 y 700"
+        },
+        "id": 4
+    },
+    {
+        "name": "Procesador CPU Intel Core i3-13100F 3.6 GHz LGA 1700 12 MB con Cooler",
+        "price": "Gs. 1.155.686",
+        "details": {
+            "Número de procesador": "Intel Core i3-13100F",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "4",
+            "Frecuencia turbo máxima": "4.8 GHz",
+            "Caché": "12 MB Intel Smart Cache"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_i3-13100_-_1_1_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "4",
+            "Cantidad de subprocesos": "8",
+            "Frecuencia básica de núcleos": "3.40 GHz",
+            "Frecuencia turbo de núcleos": "4.80 GHz",
+            "Caché": "12 MB Intel Smart Cache",
+            "TDP": "58 W"
+        },
+        "id": 5
+    },
+    {
+        "name": "Procesador CPU Intel Core i3-13100 3.4 GHz LGA 1700 12 MB con Cooler",
+        "price": "Gs. 1.399.464",
+        "details": {
+            "Número de procesador": "Intel Core i3-13100",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "4",
+            "Frecuencia turbo máxima": "4.8 GHz",
+            "Caché": "12 MB Intel Smart Cache"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_i3-13100_-_1_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "4",
+            "Cantidad de subprocesos": "8",
+            "Frecuencia básica de núcleos": "3.40 GHz",
+            "Frecuencia turbo de núcleos": "4.80 GHz",
+            "Gráficos del procesador": "Intel UHD 770",
+            "Caché": "12 MB Intel Smart Cache",
+            "TDP": "60 W"
+        },
+        "id": 6
+    },
+    {
+        "name": "Procesador CPU Intel Core i5-13600KF 2.6 GHz LGA 1700 24 MB",
+        "price": "Gs. 2.726.698",
+        "details": {
+            "Número de procesador": "Intel Core i5-13600K",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "14",
+            "Frecuencia turbo máxima": "5.10 GHz",
+            "Caché": "24 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 600 y 700"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/5/i5-13600kf_-_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "14",
+            "Núcleos de rendimiento": "6",
+            "Núcleos eficientes": "8",
+            "Cantidad de subprocesos": "20",
+            "Frecuencia básica de núcleos eficientes": "2.6 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "3.50 GHz",
+            "Frecuencia turbo de núcleos eficientes": "3.9 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "5.10 GHz",
+            "Frecuencia turbo máxima": "5.10 GHz",
+            "Caché": "24 MB Intel Smart Cache",
+            "Cache L2 Total": "20 MB",
+            "Potencia base": "125 W",
+            "Potencia turbo máxima": "181 W"
+        },
+        "id": 7
+    },
+    {
+        "name": "Procesador CPU Intel Core i5-13600K 2.6 GHz LGA 1700 24 MB",
+        "price": "Gs. 2.925.331",
+        "details": {
+            "Número de procesador": "Intel Core i5-13600K",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "14",
+            "Frecuencia turbo máxima": "5.10 GHz",
+            "Caché": "24 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 600 y 700"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/5/i5-13600k_-_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "14",
+            "Núcleos de rendimiento": "6",
+            "Núcleos eficientes": "8",
+            "Cantidad de subprocesos": "20",
+            "Frecuencia básica de núcleos eficientes": "2.6 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "3.50 GHz",
+            "Frecuencia turbo de núcleos eficientes": "3.9 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "5.10 GHz",
+            "Frecuencia turbo máxima": "5.10 GHz",
+            "Caché": "24 MB Intel Smart Cache",
+            "Cache L2 Total": "20 MB",
+            "Gráficos del procesador": "Intel UHD 770",
+            "Potencia base": "125 W",
+            "Potencia turbo máxima": "181 W"
+        },
+        "id": 8
+    },
+    {
+        "name": "Procesador CPU Intel Core i7-13700K 2.5 GHz LGA 1700 30 MB",
+        "price": "Gs. 3.900.442",
+        "details": {
+            "Número de procesador": "Intel Core i7-13700K",
+            "Generación": "13ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Frecuencia turbo máxima": "5.40 GHz",
+            "Caché": "30 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 700"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/7/i7-13700kf_-_1_1_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Núcleos de rendimiento": "8",
+            "Núcleos eficientes": "8",
+            "Cantidad de subprocesos": "24",
+            "Frecuencia básica de núcleos eficientes": "2.50 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "3.40 GHz",
+            "Frecuencia turbo de núcleos eficientes": "4.20 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "5.30 GHz",
+            "Frecuencia turbo máxima": "5.40 GHz",
+            "Gráficos del procesador": "Intel UHD 770",
+            "Caché": "30 MB Intel Smart Cache",
+            "Total L2 Cache": "24 MB",
+            "Potencia base": "125 W",
+            "Potencia turbo máxima": "253 W"
+        },
+        "id": 9
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 9 7900X 4.7 GHz 76 MB (Con Cooler)",
+        "price": "Gs. 4.694.976",
+        "details": {
+            "Número de procesador": "Ryzen 9 7900X",
+            "Socket": "AM5",
+            "Cantidad de núcleos": "12",
+            "Frecuencia básica": "4.7 GHz",
+            "Caché total": "76 MB",
+            "Compatible con placas base": "Chipset AMD serie 600"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/y/ryzen_r9-7900x_-_1.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "12",
+            "Cantidad de hilos": "24",
+            "Frecuencia básica del procesador": "4.7 GHz",
+            "Frecuencia turbo máxima": "5.6 GHz",
+            "Caché L1 total": "768 KB",
+            "Caché L2 total": "12 MB",
+            "Caché L3 total": "64 MB",
+            "Socket": "AM5",
+            "TDP": "170W"
+        },
+        "id": 10
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 7 7700X 4.5 GHz 40 MB (Sin Cooler)",
+        "price": "Gs. 3.430.944",
+        "details": {
+            "Número de procesador": "Ryzen 7 7700X",
+            "Socket": "AM5",
+            "Cantidad de núcleos": "8",
+            "Frecuencia básica": "4.5 GHz",
+            "Caché total": "40 MB",
+            "Compatible con placas base": "Chipset AMD serie 600"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/y/ryzen_r7-7700x_-_1.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "8",
+            "Cantidad de hilos": "16",
+            "Frecuencia básica del procesador": "4.5 GHz",
+            "Frecuencia turbo máxima": "5.4 GHz",
+            "Caché L1 total": "512 KB",
+            "Caché L2 total": "8 MB",
+            "Caché L3 total": "32 MB",
+            "Socket": "AM5",
+            "TDP": "105W"
+        },
+        "id": 11
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 5 7600X 4.7 GHz 38 MB (Sin Cooler)",
+        "price": "Gs. 2.600.294",
+        "details": {
+            "Número de procesador": "Ryzen 5 7600X",
+            "Socket": "AM5",
+            "Cantidad de núcleos": "6",
+            "Frecuencia básica": "4.7 GHz",
+            "Caché total": "38 MB",
+            "Compatible con placas base": "Chipset AMD serie 600"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/y/ryzen_r5-7600x_-_1.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "6",
+            "Cantidad de hilos": "12",
+            "Frecuencia básica del procesador": "4.7 GHz",
+            "Frecuencia turbo máxima": "5.3 GHz",
+            "Caché L1 total": "384 KB",
+            "Caché L2 total": "6 MB",
+            "Caché L3 total": "32 MB",
+            "Socket": "AM5",
+            "TDP": "105W"
+        },
+        "id": 12
+    },
+    {
+        "name": "Mini PC Intel NUC10I3FNKN1 Intel Core i3-10110U 2.1 GHz",
+        "price": "Gs. 2.789.899",
+        "details": {
+            "Procesador": "Intel Core i3-10110U Dual-Core 2.1 - 4.1 GHz",
+            "Tipo de memoria RAM": "2 x DDR4 2666 MHz hasta 64 GB (no incluye)",
+            "Ranura SSD": "1 x SSD M.2 2280 PCIe x4 y 1 x SSD 2.5\" (no incluye)",
+            "Gráficos": "Intel UHD",
+            "Conectividad": "Wi-Fi 6 802.11ac y Bluetooth",
+            "Interfaz": "USB, USB Tipo-C, HDMI 2.0b, RJ45, y SD"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)",
+            "Desktops"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/i/mini_pc_intel_nuc_10_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/i/mini_pc_intel_nuc_10_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/i/mini_pc_intel_nuc_10_-_3.jpg"
+        ],
+        "id": 13
+    },
+    {
+        "name": "Procesador CPU Intel Core i5-11600KF 3.9 GHz LGA 1200 12 MB (Sin Cooler)",
+        "price": "Gs. 1.923.134",
+        "details": {
+            "Número de procesador": "Intel Core i5-11600KF",
+            "Generación": "11ª Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "6",
+            "Frecuencia básica": "3.90 GHz",
+            "Caché": "12 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 400"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/6452218cv1d_1_1_.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "6",
+            "Cantidad de subprocesos": "12",
+            "Frecuencia básica del procesador": "3.90 GHz",
+            "Frecuencia turbo máxima": "4.90 GHz",
+            "Caché": "12 MB Intel Smart Cache",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "95 W"
+        },
+        "id": 14
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 5 4500 3.6 GHz 11 MB",
+        "price": "Gs. 740.362",
+        "details": {
+            "Número de procesador": "Ryzen 5 4500",
+            "Generación": "4th Gen",
+            "Socket": "AM4",
+            "Cantidad de núcleos": "6",
+            "Frecuencia base": "3.6 GHz",
+            "Caché combinada": "11 MB",
+            "Compatible con placas base": "Chipset AMD serie 300, 400 y 500"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005950059_1__1.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "6",
+            "Cantidad de hilos": "12",
+            "Frecuencia básica del procesador": "3.6 GHz",
+            "Frecuencia turbo máxima": "4.1 GHz",
+            "Caché L1 total": "384 KB",
+            "Caché L2 total": "3 MB",
+            "Caché L3 total": "8 MB",
+            "Socket": "AM4",
+            "TDP": "65 W"
+        },
+        "id": 15
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 7 5800X3D 3.4 GHz 100 MB (Sin Cooler)",
+        "price": "Gs. 3.458.030",
+        "details": {
+            "Número de procesador": "Ryzen 7 5800X3D",
+            "Socket": "AM4",
+            "Cantidad de núcleos": "8",
+            "Frecuencia básica": "3.4 GHz",
+            "Caché total": "100 MB",
+            "Compatible con placas base": "Chipset AMD 400 y 500"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/y/ryzen_r7-5800x3d_-_1.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "8",
+            "Cantidad de hilos": "16",
+            "Frecuencia básica del procesador": "3.4 GHz",
+            "Frecuencia turbo máxima": "4.5 GHz",
+            "Caché L2 total": "4 MB",
+            "Caché L3 total": "96 MB",
+            "Socket": "AM4",
+            "TDP": "105 W"
+        },
+        "id": 16
+    },
+    {
+        "name": "Procesador CPU Intel Core i9-11900F 2.5 GHz LGA 1200 16 MB",
+        "price": "Gs. 3.629.578",
+        "details": {
+            "Número de procesador": "Intel Core I9-11900F",
+            "Generación": "11ª Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "8",
+            "Frecuencia básica": "2.50 GHz",
+            "Caché": "16 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 400 y 500"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/2/_/2_11th_gen_i9_box_angle_1_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "8",
+            "Cantidad de subprocesos": "16",
+            "Frecuencia básica del procesador": "2.50 GHz",
+            "Frecuencia turbo máxima": "5.20 GHz",
+            "Caché": "16 MB Intel Smart Cache",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "65 W"
+        },
+        "id": 17
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 5 4600G 3.7 GHz 11 MB con Gráficos Radeon",
+        "price": "Gs. 984.139",
+        "details": {
+            "Número de procesador": "Ryzen 5 4600G",
+            "Generación": "4th Gen",
+            "Socket": "AM4",
+            "Cantidad de núcleos": "6",
+            "Frecuencia base": "3.7 GHz",
+            "Caché combinada": "11 MB",
+            "Compatible con placas base": "Chipset AMD serie 300, 400 y 500"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005950059_1_.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "6",
+            "Cantidad de hilos": "12",
+            "Frecuencia básica del procesador": "3.7 GHz",
+            "Frecuencia turbo máxima": "4.2 GHz",
+            "Caché L2 total": "3 MB",
+            "Caché L3 total": "8 MB",
+            "Socket": "AM4",
+            "TDP": "45-65 W",
+            "Especificaciones de gráficos": "",
+            "Frecuencia de gráficos": "1900 MHz",
+            "Modelo de gráficos": "Radeon Graphics",
+            "Cant. de núcleos de los gráficos": "7",
+            "Placas madres compatible": "",
+            "AMD X570": "",
+            "AMD B550": "",
+            "AMD A520": "",
+            "AMD X470": "",
+            "AMD B450": "",
+            "AMD X370 (se necesita una actualización selectiva a la versión beta del BIOS)": "",
+            "AMD B350 (se necesita una actualización selectiva a la versión beta del BIOS)": "",
+            "AMD A320 (se necesita una actualización selectiva a la versión beta del BIOS)": ""
+        },
+        "id": 18
+    },
+    {
+        "name": "Procesador CPU Intel Core i9-11900 2.5 GHz LGA 1200 16 MB",
+        "price": "Gs. 3.539.290",
+        "details": {
+            "Número de procesador": "Intel Core I9-11900",
+            "Generación": "11ª Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "8",
+            "Frecuencia básica": "2.50 GHz",
+            "Caché": "16 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 400 y 500"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/2/_/2_11th_gen_i9_box_angle_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "8",
+            "Cantidad de subprocesos": "16",
+            "Frecuencia básica del procesador": "2.50 GHz",
+            "Frecuencia turbo máxima": "5.20 GHz",
+            "Gráficos del procesador": "Intel UHD 750",
+            "Caché": "16 MB Intel Smart Cache",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "65 W"
+        },
+        "id": 19
+    },
+    {
+        "name": "Procesador CPU Intel Core i9-11900KF 3.5 GHz LGA 1200 16 MB (Sin Cooler)",
+        "price": "Gs. 2.970.475",
+        "details": {
+            "Número de procesador": "Intel Core I9-11900KF",
+            "Generación": "11ª Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "8",
+            "Frecuencia básica": "3.50 GHz",
+            "Caché": "16 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 400 y 500"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)",
+            "Cyberday"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/5/_/5_11th_gen_i9kf_box_angle_1200x1200.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "8",
+            "Cantidad de subprocesos": "16",
+            "Frecuencia básica del procesador": "3.50 GHz",
+            "Frecuencia turbo máxima": "5.30 GHz",
+            "Caché": "16 MB Intel Smart Cache",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "95 W"
+        },
+        "id": 20
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 3 4100 3.8 GHz 6 MB",
+        "price": "Gs. 856.833",
+        "details": {
+            "Número de procesador": "AMD Ryzen 3 4100",
+            "Socket": "AM4",
+            "Cantidad de núcleos": "4",
+            "Frecuencia base": "3.8 GHz",
+            "Caché total": "6 MB",
+            "Compatible con placas base": "Chipset AMD 300, 400 y 500"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd_am4_ryzen_r3-4100_-_1_1.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "4",
+            "Cantidad de hilos": "8",
+            "Frecuencia base": "3.8 GHz",
+            "Frecuencia turbo máxima": "4.0 GHz",
+            "Caché L2 total": "2 MB",
+            "Caché L3 total": "4 MB",
+            "Socket": "AM4",
+            "TDP": "65 W"
+        },
+        "id": 21
+    },
+    {
+        "name": "Procesador CPU Intel Core I9-12900F 2.4 GHz LGA 1700 30 MB Con Cooler",
+        "price": "Gs. 4.514.400",
+        "details": {
+            "Número de procesador": "Intel Core i9-12900F",
+            "Generación": "12ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Frecuencia turbo máximo": "5.1 GHz",
+            "Caché": "30 MB Intel Smart Cache"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_i9-12900_-_1_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Núcleos de rendimiento": "8",
+            "Núcleos eficientes": "8",
+            "Cantidad de subprocesos": "24",
+            "Frecuencia básica de núcleos eficientes": "1.80 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "2.40 GHz",
+            "Frecuencia turbo de núcleos eficientes": "3.80 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "5.00 GHz",
+            "Frecuencia turbo máximo": "5.10 GHz",
+            "Caché": "30 MB Intel Smart Cache",
+            "Potencia base": "65 W",
+            "Potencia turbo máxima": "202 W"
+        },
+        "id": 22
+    },
+    {
+        "name": "Procesador CPU Intel Core i9-12900K 3.2 GHz LGA 1700 30 MB",
+        "price": "Gs. 4.722.062",
+        "details": {
+            "Número de procesador": "Intel Core i9-12900K",
+            "Generación": "12ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Frecuencia turbo máximo": "5.20 GHz",
+            "Caché": "30 MB Intel Smart Cache",
+            "Compatible con placas base": "Chipset Intel serie 600"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005900230_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Núcleos de rendimiento": "8",
+            "Núcleos eficientes": "8",
+            "Cantidad de subprocesos": "24",
+            "Frecuencia básica de núcleos eficientes": "2.40 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "3.20 GHz",
+            "Frecuencia turbo de núcleos eficientes": "3.90 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "5.10 GHz",
+            "Frecuencia turbo máximo": "5.20 GHz",
+            "Caché": "30 MB Intel Smart Cache",
+            "Potencia base": "125 W",
+            "Potencia turbo máxima": "241 W"
+        },
+        "id": 23
+    },
+    {
+        "name": "Procesador CPU Intel Core i9-12900 2.4 GHz LGA 1700 30 MB con Cooler",
+        "price": "Gs. 4.722.062",
+        "details": {
+            "Número de procesador": "Intel Core i9-12900",
+            "Generación": "12ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Frecuencia turbo máximo": "5.1 GHz",
+            "Caché": "30 MB Intel Smart Cache"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_i9-12900_-_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "16",
+            "Núcleos de rendimiento": "8",
+            "Núcleos eficientes": "8",
+            "Cantidad de subprocesos": "24",
+            "Frecuencia básica de núcleos eficientes": "1.80 GHz",
+            "Frecuencia básica de núcleos de rendimiento": "2.40 GHz",
+            "Frecuencia turbo de núcleos eficientes": "3.80 GHz",
+            "Frecuencia turbo de núcleos de rendimiento": "5.00 GHz",
+            "Frecuencia turbo máximo": "5.10 GHz",
+            "Caché": "30 MB Intel Smart Cache",
+            "Gráficos": "Intel UHD 770",
+            "Potencia base": "65 W",
+            "Potencia turbo máxima": "202 W"
+        },
+        "id": 24
+    },
+    {
+        "name": "Procesador CPU Intel Core i3-12100 3.30 GHz LGA 1700 12 MB con Cooler",
+        "price": "Gs. 1.137.629",
+        "details": {
+            "Número de procesador": "Intel Core i3-12100",
+            "Generación": "12ª Gen",
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "4",
+            "Frecuencia turbo máximo": "4.30 GHz",
+            "Caché": "12 MB Intel Smart Cache"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005914913_1_1.jpg"
+        ],
+        "specifications": {
+            "Socket": "LGA 1700",
+            "Cantidad de núcleos": "4",
+            "Núcleos de rendimiento": "4",
+            "Núcleos eficientes": "0",
+            "Cantidad de subprocesos": "8",
+            "Frecuencia básica de núcleos eficientes": "0",
+            "Frecuencia básica de núcleos de rendimiento": "3.30 GHz",
+            "Frecuencia turbo de núcleos eficientes": "0",
+            "Frecuencia turbo de núcleos de rendimiento": "4.30 GHz",
+            "Frecuencia turbo máximo": "4.30 GHz",
+            "Caché": "12 MB Intel Smart Cache",
+            "Potencia base": "60 W",
+            "Potencia turbo máxima": "89 W"
+        },
+        "id": 25
+    },
+    {
+        "name": "Procesador CPU Ryzen 5 5500 3.6 GHz 19 MB (Con Cooler)",
+        "price": "Gs. 948.024",
+        "details": {
+            "Número de procesador": "Ryzen 5 5500",
+            "Socket": "AM4",
+            "Cantidad de núcleos": "6",
+            "Frecuencia básica": "3.6 GHz",
+            "Caché total": "19 MB",
+            "Compatible con placas base": "Chipset AMD 300, 400 y 500"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/1/616656-amd-ryzen-5-5000-series-pib-fan-1260x709.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "6",
+            "Cantidad de hilos": "12",
+            "Frecuencia básica del procesador": "3.6 GHz",
+            "Frecuencia turbo máxima": "4.2 GHz",
+            "Caché L2 total": "3 MB",
+            "Caché L3 total": "16 MB",
+            "Socket": "AM4",
+            "TDP": "65 W"
+        },
+        "id": 26
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 5 2600 3.9 GHz AM4 19 MB + Solución Térmica",
+        "price": "Gs. 722.304",
+        "details": {
+            "Número de procesador": "Ryzen 5 2600",
+            "Generación": "2nd Gen",
+            "Socket": "AM4",
+            "Cantidad de núcleos": "6",
+            "Frecuencia básica": "3.4 GHz",
+            "Caché combinada": "19 MB",
+            "Compatible con placas base": "Chipset AMD serie 300, 400 y 500"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/5/9/595.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/9/7/97_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/1/61dtuv1l_-l._sl1500__1_2.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "6",
+            "Cantidad de hilos": "12",
+            "Frecuencia básica del procesador": "3.4 GHz",
+            "Frecuencia turbo máxima": "3.9 GHz",
+            "Caché combinada": "19 MB",
+            "Socket": "AM4",
+            "TDP": "65 W"
+        },
+        "id": 27
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 5 3600 3.6 GHz AM4 35 MB (Con Cooler)",
+        "price": "Gs. 1.092.485",
+        "details": {
+            "Número de procesador": "R5-3600",
+            "Generación": "3nd Gen",
+            "Socket": "AM4",
+            "Cantidad de núcleos": "6",
+            "Frecuencia básica": "3.6 GHz",
+            "Caché combinada": "35 MB",
+            "Compatible con placas base": "Chipset AMD serie 300, 400 y 500"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/f/hfgkjsdfgfhdgjhfdjkhgjkhfdjkdfhgjdhfgdfg.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/f/hfjksdhfhsdkjhfjkhsdjkfhkjsdhfjkhsd_2.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "6",
+            "Cantidad de hilos": "12",
+            "Frecuencia básica del procesador": "3.6 GHz",
+            "Frecuencia turbo máxima": "4.2 GHz",
+            "Caché combinada": "35 MB",
+            "Socket": "AM4",
+            "TDP": "65 W"
+        },
+        "id": 28
+    },
+    {
+        "name": "Procesador CPU Intel Core I3-10100 3.6 GHz LGA 1200 6 MB",
+        "price": "Gs. 988.654",
+        "details": {
+            "Número de procesador": "Intel Core i3-10100",
+            "Generación": "10 Th Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "4",
+            "Frecuencia básica": "3.60 GHz",
+            "Caché": "6 MB Intel Smart Cache"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/x/bx8070110100.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "4",
+            "Cantidad de subprocesos": "8",
+            "Frecuencia básica del procesador": "3.60 GHz",
+            "Frecuencia turbo máxima": "4.30 GHz",
+            "Caché": "6 MB Intel Smart Cache",
+            "Gráficos del procesador": "HD Intel 630",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "65 W"
+        },
+        "id": 29
+    },
+    {
+        "name": "Procesador CPU Intel Core I5-10400 2.9 GHz LGA 1200 12 MB",
+        "price": "Gs. 1.173.744",
+        "details": {
+            "Número de procesador": "Intel Core i5-10400",
+            "Generación": "10 Th Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "6",
+            "Frecuencia básica": "2.90 GHz",
+            "Caché": "12 MB Intel Smart Cache"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/9/c9f88f43d79521ebcdbc965e2b2371ad3c12eeac_2.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "6",
+            "Cantidad de subprocesos": "12",
+            "Frecuencia básica del procesador": "2.90 GHz",
+            "Frecuencia turbo máxima": "4.30 GHz",
+            "Caché": "12 MB Intel Smart Cache",
+            "Gráficos del procesador": "HD Intel 630",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "65 W"
+        },
+        "id": 30
+    },
+    {
+        "name": "Procesador CPU Intel Core I7-10700 2.9 GHz LGA 1200 16 MB",
+        "price": "Gs. 2.302.344",
+        "details": {
+            "Número de procesador": "Intel Core i7-10700",
+            "Generación": "10 Th Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "8",
+            "Frecuencia básica": "2.90 GHz",
+            "Caché": "16 MB Intel Smart Cache"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/5/1589327172_1558674.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "8",
+            "Cantidad de subprocesos": "16",
+            "Frecuencia básica del procesador": "2.90 GHz",
+            "Frecuencia turbo máxima": "4.80 GHz",
+            "Caché": "16 MB Intel Smart Cache",
+            "Gráficos del procesador": "HD Intel 630",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "65 W"
+        },
+        "id": 31
+    },
+    {
+        "name": "Procesador CPU Intel Core I7-10700K 3.8 GHz LGA 1200 16 MB (Sin Cooler)",
+        "price": "Gs. 2.519.035",
+        "details": {
+            "Número de procesador": "Intel Core i7-10700K",
+            "Generación": "10 Th Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "8",
+            "Frecuencia básica": "3.80 GHz",
+            "Caché": "16 MB Intel Smart Cache",
+            "Cooler": "No incluye"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/5/1589327172_1558672.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "8",
+            "Cantidad de subprocesos": "16",
+            "Frecuencia básica del procesador": "3.80 GHz",
+            "Frecuencia turbo máxima": "5.10 GHz",
+            "Caché": "16 MB Intel Smart Cache",
+            "Gráficos del procesador": "HD Intel 630",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "125 W"
+        },
+        "id": 32
+    },
+    {
+        "name": "Procesador CPU Intel Core I9-10900 2.8 GHz LGA 1200 20MB",
+        "price": "Gs. 3.476.088",
+        "details": {
+            "Número de procesador": "Intel Core i9-10900",
+            "Generación": "10th Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "10"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)",
+            "Componentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/p/cpu11111_1.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "10",
+            "Cantidad de subprocesos": "20",
+            "Frecuencia básica del procesador": "2.80 GHz",
+            "Frecuencia turbo máxima": "5.20 GHz",
+            "Caché": "20 MB Intel Smart Cache",
+            "Gráficos del procesador": "UHD Intel 630",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "65 W"
+        },
+        "id": 33
+    },
+    {
+        "name": "Procesador CPU Intel Core i5-10400F 2.9 GHz LGA 1200 12 MB",
+        "price": "Gs. 1.020.254",
+        "details": {
+            "Número de procesador": "Intel Core i5-10400F",
+            "Generación": "10 Th Gen",
+            "Socket": "LGA 1200",
+            "Cantidad de núcleos": "6",
+            "Frecuencia básica": "2.90 GHz",
+            "Caché": "12 MB Intel Smart Cache",
+            "Cooler": "Incluido"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/9/c9f88f43d79521ebcdbc965e2b2371ad3c12eeac_1.jpg"
+        ],
+        "specifications": {
+            "Cantidad de núcleos": "6",
+            "Cantidad de subprocesos": "12",
+            "Frecuencia básica del procesador": "2.90 GHz",
+            "Frecuencia turbo máxima": "4.30 GHz",
+            "Caché": "12 MB Intel Smart Cache",
+            "Velocidad del bus": "8 GT/s",
+            "TDP": "65 W"
+        },
+        "id": 34
+    },
+    {
+        "name": "Mini PC Intel NUC10I3FNH1 Intel Core I3-10110U 2.1GHz",
+        "price": "Gs. 2.889.216",
+        "details": {
+            "Procesador": "Intel Core i3-10110U 2.1 GHz",
+            "Tipo de memoria RAM": "2 x DDR4 2666 MHz hasta 64 GB (no incluye)",
+            "Ranura SSD": "1 x SSD M.2 2280 PCIe x4 y 1 x SSD 2.5\" (no incluye)",
+            "Gráficos": "Intel UHD",
+            "Conectividad": "Wi-Fi 6 802.11ac y Bluetooth 5.1",
+            "Interfaz": "USB, USB Tipo-C, HDMI 2.0a, RJ45, Jack 3.5 mm y SD"
+        },
+        "label": "Intel",
+        "categories": [
+            "Procesadores (CPU)",
+            "Cyberday",
+            "RegalOFF"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/0/0/0001074_intel-mini-pc-nuc-kit-nuc10i3fnh1.jpeg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel-mini-pc-nuc-kit-nuc10i3fnh1_1.jpeg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel-mini-pc-nuc-kit-nuc10i3fnh1_2_.jpeg"
+        ],
+        "id": 35
+    },
+    {
+        "name": "Procesador CPU AMD Ryzen 9 5950X 3.4 GHz 72 MB (Sin Cooler)",
+        "price": "Gs. 4.785.264",
+        "details": {
+            "Número de procesador": "R9-5950X",
+            "Socket": "AM4",
+            "Cantidad de núcleos": "16",
+            "Frecuencia básica": "3.4 GHz",
+            "Caché combinada": "72 MB",
+            "Compatible con placas base": "Chipset AMD serie 400 y 500"
+        },
+        "label": "AMD",
+        "categories": [
+            "Procesadores (CPU)"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd-ryzen-9-5950x.jpg"
+        ],
+        "specifications": {
+            "16": ""
+        },
+        "id": 36
+    }
+]

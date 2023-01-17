@@ -1,0 +1,1442 @@
+[
+    {
+        "name": "Placa Madre Asus Prime X670-P AM5 DDR5",
+        "price": "Gs. 2.934.360",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "AMD Ryzen Series 7000",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM DDR5 admite hasta 128 GB",
+            "Almacenamiento": "3 x M.2, 6 x SATA 6Gb/s",
+            "Chipset": "AMD B550"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670-p_prime_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670-p_prime_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670-p_prime_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670-p_prime_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670-p_prime_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM DDR5, máx. 128 GB, 6400+(OC), 6200(OC), 6000(OC), 5800(OC), 5600(OC), 5400(OC), 5200, 5000, 4800 MHz",
+            "Procesadores": "AMD Ryzen Series 7000",
+            "Chipset": "AMD X670",
+            "Almacenamiento": "3 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Realtek 7.1 Surround Sound High Definition Audio CODEC",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16, 3 x PCI Express 3.0 x1",
+            "LAN": "1 x Realtek 2.5Gb Ethernet",
+            "Interfaz": "1 x USB-C 3.2 Gen 2x2, 3 x USB 3.2 Gen 2, 4 x USB 3.2 Gen 1, 2 x USB 2.0, 1 x DisplayPort, 1 x HDMI, 1 x V-M.2, 1 x Realtek 2.5Gb Ethernet, 3 x Audio jacks, 1 x botón BIOS FlashBack, 1 x PS/2 Keyboard/Mouse"
+        },
+        "id": 1
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming X670E-PLUS Wifi AM5 DDR5",
+        "price": "Gs. 3.331.627",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "AMD Ryzen Series 7000",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM DDR5 admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Chipset": "AMD B650"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670e-plus_wifi_tuf_gaming_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670e-plus_wifi_tuf_gaming_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670e-plus_wifi_tuf_gaming_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670e-plus_wifi_tuf_gaming_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670e-plus_wifi_tuf_gaming_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_x670e-plus_wifi_tuf_gaming_-_6.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM DDR5, máx. 128 GB, 6400+(OC), 6200(OC), 6000(OC), 5800(OC), 5600(OC), 5400(OC), 5200, 5000, 4800 MHz",
+            "Procesadores": "AMD Ryzen Series 7000",
+            "Chipset": "AMD B650",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Audio": "CÓDEC de audio de alta definición con sonido envolvente Realtek 7.1",
+            "Slot de expansión": "1 x PCI Express 5.0 x16, 1 x PCI Express 4.0 x16(admite modo x4), 3 x PCI Express 4.0 x4",
+            "LAN": "1 x Realtek 2.5Gb Ethernet, TUF LANGuard",
+            "Interfaz": "1 x USB-C 3.2 Gen 2x2, 4 x USB 3.2 Gen 2 (3 x Type-A, 1 x USB Type-C), 5 x USB 3.2 Gen 1, 1 x DisplayPort, 1 x HDMI, 1 x Modulo Wi-Fi, 1 x Realtek 2.5Gb Ethernet, 5 x Audio jacks, 1 x Botón BIOS FlashBack"
+        },
+        "id": 2
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B650M-PLUS Wifi AM5 DDR5",
+        "price": "Gs. 2.031.480",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "AMD Ryzen Series 7000",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM DDR4 admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Chipset": "AMD B650"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_b650m-plus_wifi_tuf_gaming_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_b650m-plus_wifi_tuf_gaming_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_b650m-plus_wifi_tuf_gaming_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_b650m-plus_wifi_tuf_gaming_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am5_b650m-plus_wifi_tuf_gaming_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM, Max. 128GB, DDR5 6400+(OC), 6200(OC), 6000(OC), 5800(OC), 5600(OC), 5400(OC), 5200, 5000, 4800",
+            "Procesadores": "AMD Ryzen Series 7000",
+            "Chipset": "AMD B650",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Audio": "CÓDEC de audio de alta definición con sonido envolvente Realtek 7.1",
+            "Slot de expansión": "1 x PCI Express 4.0/3.0 x16, 1 x PCI Express 4.0/3.0 x16 (admite modo x4), 3 x PCI Express 4.0/3.0 x1",
+            "LAN": "1 x Realtek 2.5Gb Ethernet, TUF LANGuard",
+            "Interfaz": "1 x USB-C 3.2 Gen 2x2, 2 x USB 3.2 Gen 2, 1 x USB 3.2 Gen 1, 4 x USB 2.0, 1 x DisplayPort, 1 x HDMI, 1 x Modulo Wi-Fi, 1 x Realtek 2.5Gb Ethernet, 5 x Audio jacks, 1 x Botón BIOS FlashBack"
+        },
+        "id": 3
+    },
+    {
+        "name": "Placa Madre MSI H510M PRO-E LGA 1200 DDR4",
+        "price": "Gs. 721.401",
+        "details": {
+            "Factor de Forma": "Micro-ATX",
+            "Soporta procesadores": "Intel de 10ª y 11ª generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DDR4 DIMM hasta 64 GB (max. 32 GB c/u)",
+            "Almacenamiento": "4 x SATA III",
+            "Chipset": "Intel H510"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/5/h510m_pro-e_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/5/h510m_pro-e_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/5/h510m_pro-e_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/5/h510m_pro-e_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/5/h510m_pro-e_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro-ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DIMM DDR4-3200 MHz, ampliables hasta 64 GB",
+            "Soporta procesadores": "Intel Core, Pentium, Celeron de 10ª y 11ª generación",
+            "Chipset": "Intel H510",
+            "Almacenamiento": "4 x SATA III",
+            "Audio": "Realtek ALC897 Codec",
+            "Slot de expansión": "1 x PCI Express 4.0 x16 y 2 x PCI Express 3.0 x1",
+            "LAN": "Realtek RTL8111H Gigabit LAN",
+            "Interfaz": "1 x P/2 Teclado/Mouse, 1 x HDMI, 1 x VGA, 3 x Jack 3.5mm, 6 x USB 2.0, 4 x USB 3.2 y 1 x LAN"
+        },
+        "id": 4
+    },
+    {
+        "name": "Placa Madre ASRock H510M-HVS R2.0 LGA 1200 DDR4",
+        "price": "Gs. 559.786",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core, Pentium Gold, Celeron de 10ª y 11ª generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DDR4 DIMM hasta 64 GB (max. 32 GB c/u)",
+            "Almacenamiento": "4 x SATA III 6.0 Gb/s",
+            "Chipset": "Intel H510"
+        },
+        "label": "ASRock",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1200_h510m-hvs_r2.0_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1200_h510m-hvs_r2.0_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1200_h510m-hvs_r2.0_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1200_h510m-hvs_r2.0_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1200_h510m-hvs_r2.0_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DIMM, DDR4 3200(OC), 2933, 2800, 2666, 2400, 2133 MHz que admiten hasta 64 GB",
+            "Soporta procesadores": "Intel Core, Pentium Gold, Celeron de 10ª y 11ª generación",
+            "Chipset": "Intel H510",
+            "Almacenamiento": "4 x Sata III 6 Gb/s",
+            "Audio": "7.1 canales HD (Realtek ALC897 Audio Codec)",
+            "Slot de expansión": "1 x PCI Express 4.0/3.0 x16, 1 x PCI Express 3.0 x1",
+            "LAN": "1 x Realtek RTL8111H, PCIE x1 Gigabit LAN 10/100/1000 Mb/s",
+            "Interfaz": "1 x PS/2 Teclado, 1 x PS/2 Mouse, 1 x VGA, 1 x HDMI, 2 x USB 3.2, 4 x USB 2.0, 1 x RJ-45, 3 x Jack 3.5 mm"
+        },
+        "id": 5
+    },
+    {
+        "name": "Placa Madre MSI A320M-A PRO AM4 DDR4",
+        "price": "Gs. 496.584",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "AMD Ryzen series 1000, 2000, 3000, 4000 y 5000",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "2 x DDR4 DIMM hasta 64 GB (max. 32 GB c/u)",
+            "Almacenamiento": "4 x SATA III",
+            "Chipset": "AMD A320"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_a320m-a_pro_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_a320m-a_pro_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_a320m-a_pro_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_a320m-a_pro_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_a320m-a_pro_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "2 x DIMM DDR4, hasta 64 GB, 1866, 2133, 2400, 2667, 2933, 3200 MHz",
+            "Soporta procesadores": "AMD Ryzen Series 1000, 2000, 3000, 4000 y 5000",
+            "Chipset": "AMD A320",
+            "Almacenamiento": "4 x SATA III",
+            "Audio": "Realtek ALC892/ALC897 (7.1 canales)",
+            "Slot de expansión": "1 x PCI Express 3.0 x16, 1 x PCI Express 2.0 x1",
+            "LAN": "Realtek 8111H Gigabit",
+            "Interfaz": "1 x P/2 Teclado/Mouse, 1 x HDMI 1.4, 1 x DVI-D, 3 x Jack 3.5mm, 2 x USB 2.0, 4 x USB 3.2 Gen 1 y 1 x LAN RJ-45"
+        },
+        "id": 6
+    },
+    {
+        "name": "Placa Madre MSI PRO B660M-G LGA 1700 DDR4",
+        "price": "Gs. 984.139",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel de 12ª y 13ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DDR4 DIMM hasta 64 GB",
+            "Almacenamiento": "4 x SATA III y 2 x M.2",
+            "Chipset": "Intel B660"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/6/b660m-g_pro_-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/6/b660m-g_pro_-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/6/b660m-g_pro_-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/6/b660m-g_pro_-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/6/b660m-g_pro_-5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4, hasta 64 GB, 2133, 2666, 2933, 3200, 4000, 4600 MHz",
+            "Soporta procesadores": "Intel Core, Celeron y Pentium de 12ª y 13ª generación",
+            "Chipset": "Intel B660",
+            "Almacenamiento": "4 x SATA III y 2 x M.2",
+            "Audio": "Realtek ALC897 Codec",
+            "Slot de expansión": "1 x PCI Express 4.0 x16 y 1 x PCI Express 3.0 x1",
+            "LAN": "Realtek 8125BG 2.5 Gigabit",
+            "Interfaz": "1 x P/2 Teclado/Mouse, 1 x HDMI 2.1, 1 x VGA, 1 x DisplayPort, 3 x Jack 3.5mm, 4 x USB 2.0, 4 x USB 3.2 Gen 1 y 1 x LAN RJ-45"
+        },
+        "id": 7
+    },
+    {
+        "name": "Placa Madre MSI B560M-A PRO LGA 1200 DDR4",
+        "price": "Gs. 758.419",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel de 10ª y 11ª generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DDR4 DIMM hasta 64 GB",
+            "Almacenamiento": "6 x SATA III y 1 x M.2",
+            "Chipset": "Intel B560"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/5/b560m-a_pro_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/5/b560m-a_pro_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/5/b560m-a_pro_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/5/b560m-a_pro_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/5/b560m-a_pro_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DIMM DDR4, hasta 64 GB, 2133, 2666, 2933, 3200, 4700, 5200 MHz",
+            "Soporta procesadores": "Intel Core, Celeron y Pentium de 10ª y 11ª generación",
+            "Chipset": "Intel B560",
+            "Almacenamiento": "6 x SATA III y 1 x M.2",
+            "Audio": "Realtek ALC897 Codec",
+            "Slot de expansión": "1 x PCI Express 4.0 x16 y 2 x PCI Express 3.0 x1",
+            "LAN": "Realtek 8125B 2.5 Gigabit",
+            "Interfaz": "1 x P/2 Teclado/Mouse, 1 x HDMI 2.0b, 1 x VGA, 3 x Jack 3.5mm, 4 x USB 2.0, 4 x USB 3.2 Gen 1 y 1 x LAN RJ-45"
+        },
+        "id": 8
+    },
+    {
+        "name": "Placa Madre MSI Pro B650-P Wifi AM5 DDR5",
+        "price": "Gs. 2.302.344",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta Procesadores": "AMD Ryzen Series 7000",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DDR5 DIMM hasta 128 GB",
+            "Almacenamiento": "6 x Sata de 6 GB/s, 2 x M.2",
+            "Chipset": "AMD B650"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_am5_b650-p_pro_wifi_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_am5_b650-p_pro_wifi_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_am5_b650-p_pro_wifi_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_am5_b650-p_pro_wifi_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_am5_b650-p_pro_wifi_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM, Max. 128GB, DDR5 6400+(OC), 6200(OC), 6000(OC), 5800(OC), 5600(OC), 5400(OC), 5200(OC), 5000(OC), 4800 MHz",
+            "Procesadores": "AMD Ryzen Series 7000",
+            "Chipset": "AMD B650",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Códec Realtek ALC897, Audio de alta definición de 7.1 canales",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1‎ x PCI Express 4.0 x16 (soporta modo x4) y 2 x PCI Express 3.0 x16 (admite modo x1)",
+            "LAN": "Realtek 8125BG 2.5G LAN",
+            "Conectividad inalámbrica": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) y Bluetooth 5.2",
+            "Interfaz": "3 x USB 3.2 Gen 2 10Gbps (Type-A), 4 x USB 3.2 Gen 15Gbps (Type-A), 1 x 2.5G LAN, 2 x Wi-Fi/Bluetooth, 6 x Jack 3.5 mm, 1 x Botón Flash BIOS, 1 x DisplayPort, 1 x HDMI"
+        },
+        "id": 9
+    },
+    {
+        "name": "Placa Madre MSI Pro B650M-A Wifi AM5 DDR5",
+        "price": "Gs. 2.031.480",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta Procesadores": "AMD Ryzen Series 7000",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DDR5 DIMM hasta 128 GB",
+            "Almacenamiento": "6 x Sata de 6 GB/s, 2 x M.2",
+            "Chipset": "AMD B650"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m-a_pro_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m-a_pro_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m-a_pro_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m-a_pro_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m-a_pro_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM, Max. 128GB, DDR5 6400+(OC), 6200(OC), 6000(OC), 5800(OC), 5600(OC), 5400(OC), 5200(OC), 5000(OC), 4800 MHz",
+            "Procesadores": "AMD Ryzen Series 7000",
+            "Chipset": "AMD B650",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Códec Realtek ALC897, Audio de alta definición de 7.1 canales",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1‎ x PCI Express 3.0 x16 (soporta modo x4) y 1 x PCI Express 3.0 x1",
+            "LAN": "Realtek 8125BG 2.5G LAN",
+            "Conectividad inalámbrica": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) y Bluetooth 5.2",
+            "Interfaz": "2 x USB 3.2 Gen 2 10Gbps (Type-A), 4 x USB 3.2 Gen 1 5Gbps (Type-A), 1 x 2.5G LAN, 2 x Wi-Fi/Bluetooth, 3 x Jack 3.5 mm, 1 x Botón Flash BIOS, 1 x DisplayPort, 1 x HDMI"
+        },
+        "id": 10
+    },
+    {
+        "name": "Placa Madre MSI MAG B650M Mortar Wifi AM5 DDR5",
+        "price": "Gs. 2.510.006",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta Procesadores": "AMD Ryzen Series 7000",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DDR5 DIMM hasta 128 GB",
+            "Almacenamiento": "6 x Sata de 6 GB/s, 2 x M.2",
+            "Chipset": "AMD B650"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m_mortar_mag_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m_mortar_mag_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m_mortar_mag_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m_mortar_mag_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_b650m_mortar_mag_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DIMM, Max. 128GB, DDR5 6400+(OC), 6200(OC), 6000(OC), 5800(OC), 5600(OC), 5400(OC), 5200(OC), 5000(OC), 4800 MHz",
+            "Procesadores": "AMD Ryzen Series 7000",
+            "Chipset": "AMD B650",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Códec Realtek ALC4080, Audio de alto rendimiento de 7.1 canales",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1‎ x PCI Express 3.0 x16 (soporta modo x4) y 3 x PCI Express 3.0 x1",
+            "LAN": "Realtek RTL8125B 2.5Gbps LAN",
+            "Conectividad inalámbrica": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) y Bluetooth 5.2",
+            "Interfaz": "1 x DisplayPort, 1 x HDMI, 1 x LAN (RJ45), 2 x USB 3.2 Gen 2 (teal blue) (1 x Type-A+1 x USB Type-C), 4 x USB 3.2 Gen 1 (blue) Type-A, 2 x USB 2.0, 1 x Optical S/PDIF, 5 x Audio jack"
+        },
+        "id": 11
+    },
+    {
+        "name": "Placa Madre MSI Pro Z790-P Wifi LGA 1700 DDR4",
+        "price": "Gs. 2.473.891",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta Procesadores": "Intel de 12ª y 13ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DDR4 DIMM hasta 128 GB",
+            "Almacenamiento": "6 x Sata de 6 GB/s, 4 x M.2",
+            "Chipset": "Intel Z790"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_z790-p_pro_wifi_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_z790-p_pro_wifi_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_z790-p_pro_wifi_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_z790-p_pro_wifi_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_z790-p_pro_wifi_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM, Max. 128GB, DDR4 5333, 5200, 5066, 5000, 4800, 4600, 4533, 4400, 4266, 4000, 3866, 3733, 3600, 3466, 3333(O.C.), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Procesadores": "Intel Core, Pentium y Celeron de 12ª y 13ª generación",
+            "Chipset": "Intel Z790",
+            "Almacenamiento": "4 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Códec Realtek ALC897, Audio de alta definición de 7.1 canales",
+            "Slot de expansión": "1 x PCI Express 5.0 x16, 1‎ x PCI Express 4.0 x16 (soporta modo x4), 1 x PCI Express 3.0 x16(soporta modo x1) y 1 x PCI Express 3.0 x1",
+            "LAN": "Realtek RTL8111H, ASUS LANGuard",
+            "Interfaz": "1 x DisplayPort, 1 x HDMI, 1 x LAN (RJ45), 2 x USB 3.2 Gen 2 (teal blue) (1 x Type-A+1 x USB Type-C), 4 x USB 3.2 Gen 1 (blue) Type-A, 2 x USB 2.0, 1 x Optical S/PDIF, 5 x Audio jack"
+        },
+        "id": 12
+    },
+    {
+        "name": "Placa Madre Asus Prime B550-Plus AM4 DDR4",
+        "price": "Gs. 1.435.579",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta Procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DDR4 DIMM hasta 128 GB",
+            "Almacenamiento": "6 x Sata de 6 GB/s, 2 x M.2",
+            "Chipset": "AMD B550"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_b550-plus_prime_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_b550-plus_prime_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_b550-plus_prime_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_b550-plus_prime_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_b550-plus_prime_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_b550-plus_prime_-_6.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM, Max. 128GB, DDR4 4400(O.C), 3466(O.C.), 3200(O.C.), 3000(O.C.), 2800(O.C.), 2666, 2400, 2133 MHzz",
+            "Procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
+            "Chipset": "AMD B550",
+            "Almacenamiento": "2 x M.2, 6 x puerto (s) SATA 6Gb/s",
+            "Audio": "CÓDEC de audio de alta definición de 7.1 canales Realtek ALC887",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1‎ x PCI Express 3.0 x16 (soporta modo x4) y 3 x PCI Express 3.0 x1",
+            "LAN": "Realtek RTL8111H, ASUS LANGuard",
+            "Interfaz": "1 x DisplayPort, 1 x HDMI, 1 x LAN (RJ45), 2 x USB 3.2 Gen 2 (teal blue) (1 x Type-A+1 x USB Type-C), 4 x USB 3.2 Gen 1 (blue) Type-A, 2 x USB 2.0, 1 x Optical S/PDIF, 5 x Audio jack"
+        },
+        "id": 13
+    },
+    {
+        "name": "Placa Madre ASRock Z790M PG Lightning LGA 1700 DDR4",
+        "price": "Gs. 1.805.760",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel de 12ª y 13ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel Z790"
+        },
+        "label": "ASRock",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_z790m_pg_lightning_d4_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_z790m_pg_lightning_d4_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_z790m_pg_lightning_d4_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_z790m_pg_lightning_d4_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_z790m_pg_lightning_d4_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Soporta procesador": "Intel Core, Pentium, Celeron de 12ª y 13ª generación",
+            "Memoria RAM": "4 x DIMM DDR4, hasta 5333+ (OC) MHz, Max. 128 GB",
+            "Chipset": "Intel Z790",
+            "Almacenamiento": "4 x Sata 3 de 6 Gb/s, 2 x M.2",
+            "Audio": "7.1 CH HD Audio (Realtek ALC897 Audio Codec), Nahimic Audio",
+            "Slot de expansión": "1 x PCIe 4.0 x16, 1 x PCIe 3.0 x16, 1 x PCIe 3.0 x1",
+            "LAN": "Gigabit LAN 10/100/1000 Mb/s, Intel I219V",
+            "Conectores": "1 x HDMI, 1 x USB 3.2 Gen2 Type-A (10 Gb/s), 1 x USB 3.2 Gen2 Type-C (10 Gb/s), 4 x USB 3.2 Gen1, 2 x USB 2.0, 1 x RJ-45 LAN, 3 x Jack 3.5 mm"
+        },
+        "id": 14
+    },
+    {
+        "name": "Placa Madre Asus Prime H610M-A WiFi LGA 1700 DDR4",
+        "price": "Gs. 1.038.312",
+        "details": {
+            "Factor de Forma": "mATX",
+            "Soporta procesadores": "Intel de 12.ª y 13ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4 que admite hasta 64 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel H610"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_prime_wifi_d4_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_prime_wifi_d4_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_prime_wifi_d4_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_prime_wifi_d4_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_prime_wifi_d4_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "mATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4, Max. 64 GB, 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Soporta procesadores": "Intel Core, Pentium y Celeron de 12ª y 13ª generación",
+            "Chipset": "Intel H610",
+            "Almacenamiento": "2 x M.2 y 4 x SATA 6 Gb/s",
+            "Audio": "CÓDEC de audio de alta definición con sonido envolvente Realtek 7.1",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x 1",
+            "LAN": "1 x Intel 1Gb Ethernet",
+            "Conectividad inalámbrica": "WiFi 5 2x2 (802.11 a/b/g/n/ac) y Bluetooth 5.0",
+            "Interfaz": "2 x USB 3.2 Gen 2, 4 x USB 2.0, 1 x DisplayPort, 1 x HDMI, 1 x D-Sub, 1 x Wi-Fi, 1 x Intel 1Gb Ethernet, 3 x Audio jacks, 1 x PS/2 Teclado (violeta) y 1 x PS/2 Mouse (verde)"
+        },
+        "id": 15
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B660M-PLUS WIFI D4 LGA 1700 DDR4",
+        "price": "Gs. 1.670.328",
+        "details": {
+            "Factor de forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Soporta procesadores": "Intel Core de 13° generación y Intel Core, Pentium Gold y Celeron de 12° generación",
+            "Memoria RAM": "Soporta 4 DDR4 DIMM hasta 128 GB",
+            "Almacenamiento": "4 x Sata III y 2 x M.2",
+            "Chipset": "Intel B660 Chipset"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104538-8.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104538-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104538-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104538-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104538-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104538-7.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104538-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104538-1.jpg"
+        ],
+        "id": 16
+    },
+    {
+        "name": "Placa Madre ASRock X670E PG Lightning AM5 DDR5",
+        "price": "Gs. 2.871.158",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "AMD Ryzen de la serie 7000",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "4 x DDR4 DIMM hasta 128 GB",
+            "Almacenamiento": "4 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "AMD X670"
+        },
+        "label": "ASRock",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_am5_x670e_pg_lightning_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_am5_x670e_pg_lightning_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_am5_x670e_pg_lightning_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_am5_x670e_pg_lightning_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_am5_x670e_pg_lightning_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "AM5",
+            "Soporta procesador": "AMD Ryzen de la serie 7000",
+            "Memoria RAM": "4 x DIMM DDR5, hasta 6600+ (OC) MHz, Max. 128 GB",
+            "Chipset": "AMD X670",
+            "Almacenamiento": "4 x Sata 3 de 6 Gb/s, 4 x M.2",
+            "Audio": "Audio HD de 7.1 canales (códec de audio Realtek ALC897), Audio Nahimic",
+            "Slot de expansión": "1 x PCIe 5.0 x16, 2 x PCIe 4.0 x16, 1 x PCIe 4.0 x1",
+            "LAN": "2.5 Gigabit LAN 10/100/1000/2500 Mb/s, Dragon RTL8125BG",
+            "Conectores": "1 x HDMI, 1 x DisplayPort 1.4, 1 x USB 3.2 Gen2x2 Type-C, 1 x USB 3.2 Gen2 Type-A, 6 x USB 3.2 Gen1, 4 x USB 2.0, 1 x RJ-45 LAN, 1 x Botón BIOS Flashback, 3 x Jacks 3.5 mm"
+        },
+        "id": 17
+    },
+    {
+        "name": "Placa Madre MSI Pro H610M-G LGA 1700 DDR4",
+        "price": "Gs. 767.448",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel de 12ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4 que admite hasta 64 GB",
+            "Almacenamiento": "1 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel H610"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_h610m-g_pro_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_h610m-g_pro_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_h610m-g_pro_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_h610m-g_pro_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1700_h610m-g_pro_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4, máx. 64 GB, 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Procesadores": "Intel Core, Pentium, Celeron de 12ª generación",
+            "Chipset": "Intel H610",
+            "Almacenamiento": "1 x M.2, 4 x SATA III 6Gb/s",
+            "Audio": "Realtek ALC892/ ALC897 Codec",
+            "Slot de expansión": "1 x PCI Express x16, 1 x PCI Express x1",
+            "LAN": "Intel I219V Gigabit LAN",
+            "Interfaz": "1 x PS/2 Teclado/Mouse, 4 x USD 2.0, 2 x USB 3.2, DisplayPort, VGA, HDMI, 1 x RJ45, 3 x Jack 3.5 mm"
+        },
+        "id": 18
+    },
+    {
+        "name": "Placa Madre Gigabyte Z590 Aorus Elite Ax LGA 1200 DDR4",
+        "price": "Gs. 1.571.011",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "Intel de 10ª y 11ª generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6 Gb/s",
+            "Chipset": "Intel Z590"
+        },
+        "label": "Gigabyte",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_aorus_elite_ax_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_aorus_elite_ax_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_aorus_elite_ax_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_aorus_elite_ax_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_aorus_elite_ax_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 5400(OC), 5333(O.C.), 5133(O.C.), 5000(O.C.), 4933(O.C.), 4800(O.C.), 4700(O.C.), 4600(O.C.), 4500(O.C.), 4400(O.C.), 4300(O.C.), 4266(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3800(O.C.), 3733(O.C.), 3666(O.C.), 3600(O.C.), 3466(O.C.), 3400(O.C.), 3333(O.C.), 3300(O.C.), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Procesadores": "Intel Core, Pentium, Celeron de 11ª y 10ª generación",
+            "Chipset": "Intel Z590",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Realtek ALC1220-VB codec",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16(admite modo x4), 1 x PCI Express 3.0 x1",
+            "LAN": "1 x Intel 2.5Gb Ethernet, ASUS LANGuard",
+            "Conectividad inalámbrica": "Bluetooth 5.1 y Wi-Fi 6 AX201",
+            "Interfaz": "1 x USB Type-C USB 3.2 Gen 2, 2 x USB 3.2 Gen 2 Type-A, 3 x USB 3.2 Gen 1, 4 x USB 2.0/1.1, 1 x DisplayPort, 1 x RJ-45, 1 x optical S/PDIF, 5 x audio jacks, 2 x Antena SMA"
+        },
+        "id": 19
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B550-PRO AM4 DDR4",
+        "price": "Gs. 1.670.328",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "AMD Ryzen Series 1000, 2000 y 3000",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM DDR4 admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Chipset": "AMD B550"
+        },
+        "label": "Asus",
+        "categories": [
+            "Informática",
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_2.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 5100(O.C), 5000(O.C), 4866(O.C), 4800(O.C.), 4600(O.C), 4500(O.C), 4400(O.C), 4333(O.C.), 4266(O.C.), 4200(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3733(O.C.), 3600(O.C.), 3466(O.C.), 3400(O.C.), 3333(O.C.), 3200, 3000, 2800, 2666, 2400, 2133 MHz",
+            "Procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
+            "Chipset": "AMD B550",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Códec de audio de alta definición con sonido envolvente Realtek ALC S1200A 7.1",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16, 3 x PCI Express 3.0 x1",
+            "LAN": "Realtek RTL8125B 2.5Gb Ethernet",
+            "Interfaz": "1 x DisplayPort, 1 x HDMI, 1 x LAN (2.5G), 2 x USB 3.2 Gen 2, 2 x USB 3.2 Gen 1, 4 x USB 2.0, 1 x Optical S/PDIF, 5 x Audio Jack, 1 x Boton BIOS FlashBack"
+        },
+        "id": 20
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B550M-PLUS Wifi II AM4 DDR4",
+        "price": "Gs. 1.625.184",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "AMD Ryzen Series 1000, 2000 y 3000",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM DDR4 admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Chipset": "AMD B550"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_wifi_ii_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_wifi_ii_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_wifi_ii_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_wifi_ii_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_wifi_ii_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_wifi_ii_-_6.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 4866(O.C), 4800(O.C.), 4600(O.C), 4466(O.C.), 4400(O.C), 4266(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3733(O.C.), 3600(O.C.), 3466(O.C.), 3333(O.C.), 3200, 3000, 2800, 2666, 2400, 2133 MHz",
+            "Procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
+            "Chipset": "AMD B550",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Audio": "CÓDEC de audio de alta definición con sonido envolvente Realtek 7.1",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16 (admite modo x4), 1 x PCI Express 3.0 x1",
+            "LAN": "TUF LANGuard",
+            "Conectividad inalámbrica": "WiFi 6 2x2 (802.11 a/b/g/n/ac/ax), Bluetooth 5.2",
+            "Interfaz": "2 x USB 3.2 Gen 2, 4 x USB 3.2 Gen 1, 2 x USB 2.0, 1 x DisplayPort, 1 x HDMI, 1 x Modulo Wi-Fi, 1 x Realtek 2.5Gb Ethernet, 5 x Audio jacks, 1 x Optical S/PDIF, 1 x Boton BIOS FlashBack, 1 x PS/2 Teclado/Mouse"
+        },
+        "id": 21
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B660-PLUS Wifi LGA 1700 DDR4",
+        "price": "Gs. 1.769.645",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "Intel de 12ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "3 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel B660"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660-plus_wifi_d4_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660-plus_wifi_d4_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660-plus_wifi_d4_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660-plus_wifi_d4_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660-plus_wifi_d4_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660-plus_wifi_d4_-_6.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4, Max. 128 GB, 5333(OC), 5066(OC), 5000(OC), 4800(OC), 4600(OC), 4400(OC), 4266(OC), 4000(OC), 3733(OC), 3600(OC), 3466(OC), 3400(OC), 3333(OC), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Soporta procesadores": "Intel Core, Pentium, Celeron de 12ª generación",
+            "Chipset": "Intel B660",
+            "Almacenamiento": "3 x M.2, 4 x SATA 6 Gb/s",
+            "Audio": "Realtek 7.1 Surround Sound High Definition Audio CODEC",
+            "Slot de expansión": "1 x PCI Express 5.0/4.0/3.0 x16, 1 x PCI Express 3.0 x16 (admite modo x4), 2 x PCI Express x1",
+            "LAN": "1 x Intel 2.5 Gb Ethernet",
+            "Conectividad inalámbrica": "Wi-Fi 6 (802.11a/b/g/n/ac/ax), Bluetooth 5.2",
+            "Interfaz": "1 x USB 3.2 Gen 2x2 USB Type-C, 1 x USB 3.2 Gen 2 Type-A, 3 x USB 3.2 Gen 1 Type-A, 1 x USB 2.0 Type-A, 1 x DisplayPort, 1 x HDMI, 1 x Wi-Fi Module, 1 x Intel 2.5Gb Ethernet, 5 x Audio jacks, 1 x Optical S/PDIF"
+        },
+        "id": 22
+    },
+    {
+        "name": "Placa Madre Asus Prime H610M-A LGA 1700 DDR4",
+        "price": "Gs. 848.707",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel de 12ª generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DIMM DDR4 que admite hasta 64 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel B660"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_d4_prime_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_d4_prime_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_d4_prime_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_d4_prime_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_h610m-a_d4_prime_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4, Max. 64 GB, 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Soporta procesadores": "Intel de 12ª generación",
+            "Chipset": "Intel H610",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6 Gb/s",
+            "Audio": "CÓDEC de audio de alta definición con sonido envolvente Realtek 7.1",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x1",
+            "LAN": "1 x Ethernet Intel de 1 Gb",
+            "Interfaz": "2 x USB 3.2 Gen 2 Type-A, 4 x USB 2.0 Type-A, 1 x DisplayPort, 1 x HDMI, 1 x D-Sub, 1 x V-M.2 slot (Key - E), 1 x Intel 1Gb Ethernet, 3 x Audio jacks, 1 x PS/2 Teclado, 1 x PS/2 Mouse"
+        },
+        "id": 23
+    },
+    {
+        "name": "Placa Madre Asus Prime B660M-A Wifi LGA 1700 DDR4",
+        "price": "Gs. 1.408.493",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel de 12ª generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "1 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel B660"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_b660m-a_d4_prime_wifi_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_b660m-a_d4_prime_wifi_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_b660m-a_d4_prime_wifi_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_b660m-a_d4_prime_wifi_-_4.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4, Max. 128 GB, 5333(OC), 5000(OC), 4800(OC), 4600(OC), 4400(OC), 4266(OC), 4000(OC), 3733(OC), 3600(OC), 3466(OC), 3400(OC), 3333(OC), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Soporta procesadores": "Intel de 12ª generación",
+            "Chipset": "B660",
+            "Almacenamiento": "1 x M.2, 4 x SATA 6 Gb/s",
+            "Audio": "CÓDEC de audio de alta definición con sonido envolvente Realtek 7.1",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16 (admite modo x4), 1 x PCI Express 3.0 x16 (admite modo x4)",
+            "LAN": "1 x Ethernet Intel de 1 Gb",
+            "Conectividad inalámbrica": "Wi-Fi 6 (802.11a/b/g/n/ac/ax), Bluetooth 5.2",
+            "Interfaz": "2 x USB 3.2 Gen 2 Type-A, 4 x USB 2.0 Type-A, 1 x DisplayPort, 2 x HDMI",
+            "1 x Wi-Fi Module, 1 x Intel 1Gb Ethernet, 3 x Audio jacks, 1 x PS/2 Teclado/Mouse": ""
+        },
+        "id": 24
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming Z690-PLUS Wifi LGA 1700 DDR4",
+        "price": "Gs. 2.573.208",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "Intel de 12.ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "4 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel Z690"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_z690-plus_d4_tuf_gaming_wifi_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_z690-plus_d4_tuf_gaming_wifi_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_z690-plus_d4_tuf_gaming_wifi_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_z690-plus_d4_tuf_gaming_wifi_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_z690-plus_d4_tuf_gaming_wifi_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_z690-plus_d4_tuf_gaming_wifi_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_z690-plus_d4_tuf_gaming_wifi_-_6.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4, Max. 128 GB, 5333(OC), 5133(OC), 5000(OC), 4800(OC), 4600(OC), 4400(OC), 4266(OC), 4133(OC), 4000(OC), 3866(OC), 3733(OC)",
+            "Soporta procesadores": "Intel Core, Pentium y Celeron de 12ª generación",
+            "Chipset": "Intel Z690",
+            "Almacenamiento": "4 x M.2 y 4 x SATA 6 Gb/s",
+            "Audio": "CÓDEC de audio de alta definición con sonido envolvente Realtek 7.1",
+            "Slot de expansión": "1 x PCI Express 5.0 x16, 1 x PCI Express 3.0 x16 (admite x4), 2 x PCI Express 3.0 x 1",
+            "LAN": "1 x Ethernet Intel de 2.5 Gb, TUF LANGuard",
+            "Interfaz": "1 x USB 3.2 Type-C, 2 x USB 3.2 Gen 2 Type-A, 5 x USB 3.2 Gen 1 Type-A, 1 x DisplayPort, 1 x HDMI, 1 x Wi-Fi, 1 x Intel 2.5Gb Ethernet, 5 x Audio jacks, 1 x Optical S/PDIF"
+        },
+        "id": 25
+    },
+    {
+        "name": "Placa Madre Goline H510M-G LGA 1200 DDR4",
+        "price": "Gs. 530.442",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core, Pentium y Celeron de 10ma y 11a generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DIMM DDR4 hasta 32 GB",
+            "Almacenamiento": "1 x M.2, 4 x SATA 2.0 3 Gb/s",
+            "Chipset": "Intel H510"
+        },
+        "label": "GOLINE",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/o/goline_1200_h510m-g_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/o/goline_1200_h510m-g_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/o/goline_1200_h510m-g_-_3.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DIMM DDR4, Máx. 32 GB, 2400 MHz",
+            "Soporta procesadores": "Intel Core, Pentium y Celeron de 10ma y 11a generación",
+            "Chipset": "Intel H510",
+            "Almacenamiento": "1 x M.2, 4 x SATA 2.0 3Gb/s",
+            "Audio": "Realtek ALC 662 HD",
+            "Slot de expansión": "1 x PCI Express x16, 1 x PCI Express x1",
+            "LAN": "Realtek RTL8111",
+            "Interfaz": "4 x USB 2.0, 2 x USB 3.0, 1 x HDMI, 1 x VGA, 1 x RJ45, 2 x PS/2, 1 x DVI-I y 3 x Jack 3.5 mm"
+        },
+        "id": 26
+    },
+    {
+        "name": "Placa Madre Goline H55M-G LGA 1156 DDR3",
+        "price": "Gs. 331.808",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core i3, i5 e i7",
+            "Socket de procesador": "LGA 1156",
+            "Memoria RAM": "2 x DIMM DDR4 hasta 8 GB",
+            "Almacenamiento": "4 x SATA 2.0 3 Gb/s",
+            "Chipset": "Intel H55"
+        },
+        "label": "GOLINE",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/o/goline_h55m-g_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/o/goline_h55m-g_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/o/goline_h55m-g_-_3.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1156",
+            "Memoria RAM": "2 x DIMM DDR3, Máx. 8 GB, 1600 MHz",
+            "Soporta procesadores": "Intel Core i3, i5 e i7",
+            "Chipset": "Intel H55",
+            "Almacenamiento": "4 x SATA 2.0 3Gb/s",
+            "Audio": "Realtek ALC 662 HD",
+            "Slot de expansión": "1 x PCI Express x16, 1 x PCI Express x1",
+            "LAN": "Realtek RTL8111",
+            "Interfaz": "6 x USB 2.0, 1 x HDMI, 1 x VGA, 1 x RJ45 y 3 x Jack 3.5 mm"
+        },
+        "id": 27
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B660M-PLUS LGA 1700 DDR4",
+        "price": "Gs. 1.616.155",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core, Pentium Gold y Celeron de 12.ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel B660"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660m-plus_d4_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660m-plus_d4_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660m-plus_d4_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660m-plus_d4_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_gaming_b660m-plus_d4_-_6.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM, máx. 128 GB, DDR4, 5333(OC), 5066(OC), 5000(OC), 4800(OC), 4600(OC), 4400(OC), 4266(OC), 4000(OC), 3866(OC), 3733(OC), 3600(OC), 3466(OC), 3400(OC), 3333(OC), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Soporta procesadores": "Intel Core, Pentium Gold y Celeron de 12.ª generación",
+            "Chipset": "Intel B660",
+            "Almacenamiento": "2 x M.2 y 4 x SATA 6Gb/s",
+            "Audio": "CÓDEC de audio de alta definición con sonido envolvente Realtek 7.1",
+            "Slot de expansión": "1 x PCI Express 5.0 x16, 1 x PCI Express 3.0 x16 (Admite modo x4), 1 PCI Express 4.0 x1",
+            "LAN": "Realtek 2.5Gb Ethernet, TUF LANGuard",
+            "Interfaz": "1 x USB 3.2 Type-C, 4 x USB 3.2 Gen 2 Type-A, 1 x USB 3.2 Gen 1 Type-A, 2 x USB 2.0 Type-A, 1 x DisplayPort, 1 x HDMI, 1 x Realtek 2.5Gb Ethernet, 5 x Jack 3.5 mm, 1 x Salida Optical S/PDIF"
+        },
+        "id": 28
+    },
+    {
+        "name": "Placa Madre Asus Prime B450-PLUS AM4 DDR4",
+        "price": "Gs. 1.002.197",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta Procesadores": "AMD Ryzen Series 1000, 2000, 3000, 4000 y 5000",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DDR4 DIMM hasta 128 GB",
+            "Almacenamiento": "6 x Sata de 6 GB/s, 1 x M.2",
+            "Chipset": "AMD B450"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_prime_b450-plus_-_0.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_prime_b450-plus_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_prime_b450-plus_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_prime_b450-plus_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_prime_b450-plus_-_14.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM, Max. 128GB, DDR4 4400(O.C), 3466(O.C.), 3200(O.C.), 3000(O.C.), 2800(O.C.), 2666, 2400, 2133 MHzz",
+            "Procesadores": "AMD Ryzen Series 1000, 2000, 3000, 4000 y 5000",
+            "Chipset": "AMD B450",
+            "Almacenamiento": "1 x M.2, 6 x puerto (s) SATA 6Gb/s",
+            "Audio": "CODEC de audio de alta definición de 8 canales Realtek ALC887-VD2",
+            "Slot de expansión": "1 x PCI Express 3.0 x16, 1‎ x PCI Express 2.0/3.0 x16 (soporta modo x4 y x8) y 3 x PCI Express 2.0 x1",
+            "LAN": "Realtek RTL8111H y ASUS LAN Guard",
+            "Interfaz": "1 x PS/2 teclado/mouse, 1 x DVI-D, 1 x HDMI, 1 x LAN (RJ45), 1 x USB Type-C, 2 x USB 3.1 Gen 2 Type-A, 2 x USB 3.1 Gen 1 Type-A, 2 x USB 2.0 y 3 x Jack 3.5 mm"
+        },
+        "id": 29
+    },
+    {
+        "name": "Placa Madre Gigabyte Z590M Gaming X LGA 1200 DDR4",
+        "price": "Gs. 1.471.694",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta Procesadores": "11.ª y 10.ª generación Intel Core, Celeron, Pentium",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "4 x DDR4 DIMM hasta 128 GB",
+            "Almacenamiento": "6 x Sata de 6 GB/s, 2 x M.2",
+            "Chipset": "Intel Z590 Express"
+        },
+        "label": "Gigabyte",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590m_gaming_x_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590m_gaming_x_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590m_gaming_x_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590m_gaming_x_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590m_gaming_x_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 5333(O.C.), 5133(O.C.), 5000(O.C.), 4933(O.C.), 4800(O.C.), 4700(O.C.), 4600(O.C.), 4500(O.C.), 4400(O.C.), 4300(O.C.), 4266(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3800(O.C.), 3733(O.C.), 3666(O.C.), 3600(O.C.), 3466(O.C.), 3400(O.C.), 3333(O.C.), 3300(O.C.), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Procesadores": "11.ª y 10.ª generación de procesadores Intel Core, Celeron, Pentium",
+            "Chipset": "Intel Z590 Express",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Códec de audio Realtek, Audio de alta definición, 2/4/5.1/7.1 canales y Compatibilidad con salida S/PDIF",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1‎ x PCI Express 3.0 x16 (soporta modo x4) y 1 x PCI Express 3.0 x1",
+            "LAN": "Chip LAN Realtek de 2.5 GbE (2.5 Gbit/1 Gbit/100 Mbit)",
+            "Interfaz": "1 x PS/2 teclado/mouse, 4 x USB 3.2 Gen 1, 1 x DisplayPort, 1 x HDMI, 1 x USB 3.2 Gen 2 Type-A (red), 1 x USB Type-C USB 3.2 Gen 2, 1 x RJ-45, 6 x audio jacks"
+        },
+        "id": 30
+    },
+    {
+        "name": "Placa Madre Gigabyte Z590 Gaming X LGA 1200 DDR4",
+        "price": "Gs. 1.309.176",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta Procesadores": "11.ª y 10.ª generación Intel Core, Celeron, Pentium",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "4 x DDR4 DIMM hasta 128 GB",
+            "Almacenamiento": "6 x Sata de 6 GB/s, 3 x M.2",
+            "Chipset": "Intel Z590 Express"
+        },
+        "label": "Gigabyte",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_gaming_x_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_gaming_x_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_gaming_x_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_gaming_x_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_1200_z590_gaming_x_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 5333(O.C.), 5133(O.C.), 5000(O.C.), 4933(O.C.), 4800(O.C.), 4700(O.C.), 4600(O.C.), 4500(O.C.), 4400(O.C.), 4300(O.C.), 4266(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3800(O.C.), 3733(O.C.), 3666(O.C.), 3600(O.C.), 3466(O.C.), 3400(O.C.), 3333(O.C.), 3300(O.C.), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz",
+            "Procesadores": "11.ª y 10.ª generación de procesadores Intel Core, Celeron, Pentium",
+            "Chipset": "Intel Z590 Express",
+            "Almacenamiento": "3 x M.2, 6 x puerto (s) SATA 6Gb/s",
+            "Audio": "Códec de audio Realtek, Audio de alta definición, 2/4/5.1/7.1 canales y Compatibilidad con salida S/PDIF",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1‎ x PCI Express 3.0 x16 (soporta modo x4) y 2 x PCI Express 3.0 x1",
+            "LAN": "Chip LAN Realtek de 2.5 GbE (2.5 Gbit/1 Gbit/100 Mbit)",
+            "Interfaz": "1 x PS/2 Teclado/Mouse, 1 x USB Type-C USB 3.2 Gen2, 1 x DisplayPort, 1 x USB 3.2 Gen 2 Type-A (rojo), 5 x USB 3.2 Gen 1, 2 x USB 2.0/1.1, 1 x RJ-45 y 6 x Audio Jacks"
+        },
+        "id": 31
+    },
+    {
+        "name": "Placa Madre ASRock H610M-HDV LGA 1700 DDR4",
+        "price": "Gs. 731.333",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel de 12.ª generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4 que admite hasta 64 GB",
+            "Almacenamiento": "4 x SATA III 6 Gb/s",
+            "Chipset": "Intel H610"
+        },
+        "label": "ASRock",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_h610m-hdv_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_h610m-hdv_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_h610m-hdv_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_1700_h610m-hdv_-_4.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4, ampliables hasta 64 GB, Frecuencia hasta 3200 MHz",
+            "Soporta procesadores": "Intel Core, Pentium, Celeron de 12.ª generación",
+            "Chipset": "Intel H610",
+            "Almacenamiento": "4 x SATA III",
+            "Audio": "7.1 canales HD (Realtek ALC897/887 Audio Codec)",
+            "Slot de expansión": "1 x PCI Express 4.0 x16 (admite modo x16) y 2 x PCI Express 3.0 x1",
+            "LAN": "Gigabit LAN 10/100/1000 Mb/s, Realtek RTL8111H",
+            "Interfaz": "1 x PS/2 Teclado/Mouse, 1 x D-Sub, 1 x HDMI, 1 x DisplayPort 1.4, 2 x USB 3.2 Gen1 (Soporta Protección ESD), 4 x USB 2.0 (Soporta Protección ESD), 1 x Puerto LAN RJ-45 con LED (ACT/LINK LED y SPEED LED) 3 x Jack 3.5 mm"
+        },
+        "id": 32
+    },
+    {
+        "name": "Placa Madre Biostar H610MX-E LGA 1700 DDR4",
+        "price": "Gs. 794.534",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core, Pentium, Celeron de 12th generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DDR4 DIMM que admite hasta 64 GB",
+            "Almacenamiento": "1 x M.2, 4 x SATA III (6Gb/s)",
+            "Chipset": "Intel H610"
+        },
+        "label": "Biostar",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/i/biostar_1700_h610mx-e-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/i/biostar_1700_h610mx-e-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/i/biostar_1700_h610mx-e-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/i/biostar_1700_h610mx-e-_4.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DDR4 DIMM 1866, 2133, 2400, 2666, 2933, 3200 MHz. Admite hasta 64 GB",
+            "Procesadores": "Intel Core, Pentium, Celeron de 12th generación",
+            "Chipset": "Intel H610",
+            "Almacenamiento": "1 x M.2, 4 x SATA III (6Gb/s)",
+            "Audio": "ALC897, 7.1 Channels, High Definition Audio",
+            "Slot de expansión": "1 x PCI Express 3.0 x1 y 1 x PCI Express 4.0 x16",
+            "LAN": "Intel I219V 10/100/1000 Mb/s, capacidad Half y Full duplex",
+            "Interfaz": "1 x WIFI Antenna Port, 1 x PS/2 Teclado/Mouse, 1 x HDMI, 1 x VGA+DVI, 2 x USB 3.2 (Gen1), 4 x USB 2.0, 1 x LAN, 3 x Audio Jack"
+        },
+        "id": 33
+    },
+    {
+        "name": "Placa Madre Biostar H510MH 2.0 LGA 1200 DDR4",
+        "price": "Gs. 631.113",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core, Pentium, Celeron de 10th y 11th Generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DDR4 DIMM que admite hasta 64 GB",
+            "Almacenamiento": "1 x M.2, 4 x SATA III (6Gb/s)",
+            "Chipset": "Intel H510"
+        },
+        "label": "Biostar",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/i/biostar_1200_h510mh_2.0_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/i/biostar_1200_h510mh_2.0_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/i/biostar_1200_h510mh_2.0_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/i/biostar_1200_h510mh_2.0_-_4.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DDR4 DIMM 3200, 2933, 2666, 2400, 2133, 1866 MHz. Admite hasta 64 GB",
+            "Procesadores": "Intel Core, Pentium, Celeron de 10th y 11th Generación",
+            "Chipset": "Intel H510",
+            "Almacenamiento": "1 x M.2, 4 x SATA III (6Gb/s)",
+            "Audio": "ALC897, 7.1 Channels, High Definition Audio",
+            "Slot de expansión": "1 x PCI Express 3.0 x1 y 1 x PCI Express 3.0/4.0 x16",
+            "LAN": "Intel I219V 10/100/1000 Mb/s, capacidad Half y Full duplex",
+            "Interfaz": "1 x teclado/mouse PS/2, 1 x HDMI, 1 x VGA, 2 x USB 3.2 (Gen1), 4 x USB 2.0, 1 x LAN y 3 x conectores de audio"
+        },
+        "id": 34
+    },
+    {
+        "name": "Placa Madre Asus ProArt B660-CREATOR D4 LGA 1700 DDR4",
+        "price": "Gs. 2.121.768",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "Intel Core, Pentium Gold, Celeron de 12ª Generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "3 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel B660"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_b660-creator_d4_proart_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_b660-creator_d4_proart_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_b660-creator_d4_proart_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_b660-creator_d4_proart_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_b660-creator_d4_proart_-_2.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM, DDR4 5333(OC), 5066(OC), 5000(OC), 4800(OC), 4600(OC), 4400(OC), 4266(OC), 4000(OC), 3866(OC), 3733(OC), 3600(OC), 3466(OC), 3400(OC), 3333(OC), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz que admiten hasta 128 GB",
+            "Procesadores": "Intel Core, Pentium Gold, Celeron de 12ª Generación",
+            "Chipset": "Intel B660",
+            "Almacenamiento": "3 x M.2, 4 x Sata 6 Gb/s",
+            "Audio": "Realtek 7.1 Surround Sound High Definition Audio CODEC",
+            "Slot de expansión": "1 x PCI Express 5.0/4.0/3.0 x16, 1 x PCI Express 3.0 x16 (admite el modo x4), 1 x PCI Express 3.0 x1",
+            "LAN": "1 x Realtek 2.5Gb Ethernet, 1 x Intel 1Gb Ethernet y Asus LANGuard",
+            "Interfaz": "1 x USB Type-C USB 3.2 Gen2, 4 x USB 3.2 Gen 1 (4 x Type-A), 4 x USB 2.0 (4 x Type-A), 1 x DisplayPort, 1 x HDMI, 1 x Realtek 2.5Gb Ethernet, 1 x Intel 1Gb Ethernet, 5 x Audio jacks, 1 x Optical S/PDIF"
+        },
+        "id": 35
+    },
+    {
+        "name": "Placa Madre MSI H410M-B PRO LGA 1200 DDR4",
+        "price": "Gs. 622.987",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core, Pentium Gold, Celeron de 10th generación",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DIMM DDR4 que admite hasta 64 GB",
+            "Almacenamiento": "1 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel H410"
+        },
+        "label": "MSI",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1200_h410m-b_pro_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1200_h410m-b_pro_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1200_h410m-b_pro_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1200_h410m-b_pro_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_1200_h410m-b_pro_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1200",
+            "Memoria RAM": "2 x DIMM DDR4 2933(JEDEC), 2666(JEDEC), 2400(JEDEC), 2133(JEDEC) MHz que admiten hasta 64 GB",
+            "Procesadores": "Intel Core, Pentium Gold, Celeron de 10th generación",
+            "Chipset": "Intel H410",
+            "Almacenamiento": "1 x M.2, 4 x Sata 6 Gb/s",
+            "Audio": "8-Channel (7.1) Audio HD con Audio Boost",
+            "Slot de expansión": "1 x PCI Express 3.0 x16, 1 x PCI Express 3.0 x1",
+            "LAN": "1 x Intel I219V Gigabit LAN",
+            "Interfaz": "2 x USB 3.2 Gen 1, 4 x USB 2.0, 3 x Jack 3.5mm, 1 x VGA, 1 x HDMI, 1 x DVI-D y 1 x RJ45"
+        },
+        "id": 36
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B550M-PLUS AM4 DDR4",
+        "price": "Gs. 1.498.781",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "AMD Ryzen Serie 3000, 4000 y 5000",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "AMD B550"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550m-plus_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM DDR4 2933, 2800, 2666, 2400, 2133 MHz que admiten hasta 128 GB",
+            "Procesadores": "AMD Ryzen Serie 3000, 4000/4000G y 5000/5000G",
+            "Chipset": "AMD B550",
+            "Almacenamiento": "2 x M.2, 4 x Sata 6 Gb/s",
+            "Audio": "Realtek ALC S1200A 7.1 Surround Sound CODEC de audio de alta definición",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16 (admite modo x4) y 1 x PCI Express 3.0 x1",
+            "LAN": "Realtek RTL8125B 2.5Gb Ethernet, TUF LANGuard",
+            "Interfaz": "1 x PS/2 Teclado/Mouse, 1 x DisplayPort, 1 x HDMI, 1 x Salida S/PDIF óptica, 5 x Jack(s) de áudio, 1 x LAN (2.5G), 1 x Botón USB BIOS Flashback, 2 x USB 3.2 Gen 2 (color azul) (1 x Tipo A+1 x Tipo C), 4 x USB 3.2 Gen 1 (azul) Tipo A, 2 x USB 2.0"
+        },
+        "id": 37
+    },
+    {
+        "name": "Placa Madre Asus Prime H670-PLUS LGA 1700 DDR4",
+        "price": "Gs. 1.390.435",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "Intel Core, Pentium Gold, Celeron de 12th generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4 que admite hasta 128 GB",
+            "Almacenamiento": "3 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel H670"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h670-plus_d4_prime_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h670-plus_d4_prime_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h670-plus_d4_prime_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h670-plus_d4_prime_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h670-plus_d4_prime_-_3.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DIMM DDR4, 5066(OC), 5000(OC), 4800(OC), 4600(OC), 4400(OC), 4266(OC), 4000(OC), 3866(OC), 3733(OC), 3600(OC), 3466(OC), 3400(OC), 3333(OC), 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz que admiten hasta 128 GB",
+            "Procesadores": "Intel Core, Pentium Gold, Celeron de 12th generación",
+            "Chipset": "Intel H670",
+            "Almacenamiento": "3 x M.2, 4 x Sata 6 Gb/s",
+            "Audio": "Realtek 7.1 Surround Sound High Definition Audio CODEC",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 4.0 x16 (admite modo x4), 1 x PCI Express 3.0 x16 (admite modo x4), 2 x PCI Express 3.0 x1",
+            "LAN": "1 x Realtek 2.5Gb Ethernet, ASUS LANGuard",
+            "Interfaz": "1 x USB 3.2 Gen 2 (1 x USB Type-C), 2 x USB 3.2 Gen 2 (2 x Type-A), 3 x USB 3.2 Gen 1 (3 x Type-A), 2 x USB 2.0 (2 x Type-A), 1 x DisplayPort, 1 x HDMI, 1 x Realtek 2.5Gb Ethernet, 3 x Audio jacks"
+        },
+        "id": 38
+    },
+    {
+        "name": "Placa Madre Asus Prime H610M-K LGA 1700 DDR4",
+        "price": "Gs. 762.482",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core, Pentium Gold, Celeron de 12th generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4 que admite hasta 64 GB",
+            "Almacenamiento": "1 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel H610"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-k_d4_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-k_d4_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-k_d4_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-k_d4_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-k_d4_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4, 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz que admiten hasta 64 GB",
+            "Procesadores": "Intel Core, Pentium Gold, Celeron de 12th generación",
+            "Chipset": "Intel H610",
+            "Almacenamiento": "1 x M.2, 4 x Sata 6 Gb/s",
+            "Audio": "Realtek 7.1 Surround Sound High Definition Audio CODEC",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x1",
+            "LAN": "Realtek 1Gb Ethernet",
+            "Interfaz": "2 x USB 3.2 Gen 1 (2 x Type-A), 4 x USB 2.0 (4 x Type-A), 1 x D-Sub port, 1 x HDMI, 1 x Realtek 1Gb Ethernet, 3 x Audio jacks, 1 x PS/2 Keyboard/Mouse"
+        },
+        "id": 39
+    },
+    {
+        "name": "Placa Madre Asus Prime H610M-E LGA 1700 DDR4",
+        "price": "Gs. 767.448",
+        "details": {
+            "Factor de Forma": "Micro ATX",
+            "Soporta procesadores": "Intel Core, Pentium Gold, Celeron de 12th generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4 que admite hasta 64 GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6 Gb/s",
+            "Chipset": "Intel H610"
+        },
+        "label": "Asus",
+        "categories": [
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-e_d4_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-e_d4_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-e_d4_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-e_d4_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_1700_h610m-e_d4_-_5.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "Micro ATX",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "2 x DIMM DDR4, 3200, 3000, 2933, 2800, 2666, 2400, 2133 MHz que admiten hasta 64 GB",
+            "Procesadores": "Intel Core, Pentium Gold, Celeron de 12th generación",
+            "Chipset": "Intel H610",
+            "Almacenamiento": "2 x M.2, 4 x Sata 6 Gb/s",
+            "Audio": "Realtek 7.1 Surround Sound High Definition Audio CODEC",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x1",
+            "LAN": "Realtek 1Gb Ethernet",
+            "Interfaz": "2 x USB 3.2 Gen 1 (2 x Type-A), 2 x USB 2.0 ports (2 x Type-A), 1 x DisplayPort, 1 x D-Sub, 1 x HDMI, 1 x Realtek 1Gb Ethernet, 3 x Audio jacks, 1 x PS/2 Keyboard (purple), 1 x PS/2 Mouse (green)"
+        },
+        "id": 40
+    }
+]

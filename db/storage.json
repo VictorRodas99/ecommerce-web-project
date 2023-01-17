@@ -1,0 +1,400 @@
+[
+    {
+        "name": "Memoria Micro SD SanDisk Extreme Pro 170-90 MB/s",
+        "price": "Gs. 215.788",
+        "details": {
+            "Velocidad de lectura": "Hasta 170 MB/s",
+            "Velocidad de escritura": "Hasta 90 MB/s",
+            "Velocidad de videos": "C10, U3, A2, V30",
+            "Compatible con": "MicroSDXC"
+        },
+        "label": "SanDisk",
+        "categories": [
+            "Almacenamiento"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/sansgiss_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/sandiss_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/sandusos_1.jpg"
+        ],
+        "id": 1
+    },
+    {
+        "name": "Memoria Micro SD SanDisk Ultra 100 MB/s C10",
+        "price": "Gs. 25.281Gs. 25.732",
+        "details": {
+            "Velocidad de lectura": "100 MB/S",
+            "Clase de memoria": "C10",
+            "Tipo Memoria": "MicroSDXC",
+            "Incluye": "Adaptador"
+        },
+        "label": "SanDisk",
+        "categories": [
+            "Almacenamiento"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-104245-2.jpg"
+        ],
+        "id": 2
+    },
+    {
+        "name": "Disco Duro Interno Western Digital WD Red Plus NAS",
+        "price": "Gs. 2.031.480",
+        "details": {
+            "Factor de forma": "3.5\"",
+            "Velocidad del disco": "7200 RPM"
+        },
+        "label": "Western",
+        "categories": [
+            "Discos duros",
+            "Disco Interno"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-pc-102236-1.jpg"
+        ],
+        "id": 3
+    },
+    {
+        "name": "SSD M.2 NVMe Western Digital WD_BLACK SN850X con Disipador",
+        "price": "Gs. 1.516.838",
+        "details": {
+            "Factor de Forma": "M.2 2280",
+            "Interfaz": "PCIe 4.0 x4",
+            "Dimensiones": "8 x 2.3 x 0.8 cm"
+        },
+        "label": "Western",
+        "categories": [
+            "SSD interno",
+            "SSD M.2"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-black-sn850x-nvme-ssd_-_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-black-sn850x-nvme-ssd_-_2_2.jpg"
+        ],
+        "id": 4
+    },
+    {
+        "name": "SSD M.2 NVMe Lexar NM620 3300/3000 MB/s 512 GB (LNM620X512G-RNNNU)",
+        "price": "Gs. 278.990",
+        "details": {
+            "Factor de forma": "2280",
+            "Velocidad de lectura": "3300 MB/s",
+            "Velocidad de escritura": "3000 MB/s",
+            "Interfaz": "PCIe Gen3 x4"
+        },
+        "label": "Lexar",
+        "categories": [
+            "Discos duros",
+            "SSD interno",
+            "SSD M.2",
+            "Disco Interno"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102604-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102604-1.jpg"
+        ],
+        "id": 5
+    },
+    {
+        "name": "SSD 2.5\" Western Digital Red SA500 NAS SATA",
+        "price": "Gs. 1.245.072",
+        "details": {
+            "Factor de forma": "2.5\"",
+            "Velocidad de lectura": "560 Mb/s",
+            "Interfaz": "SATA III (6 Gb/s)"
+        },
+        "label": "Western",
+        "categories": [
+            "Discos duros",
+            "SSD interno",
+            "Disco Interno"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-red-sata-01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-red-sata-03.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-red-sata-02.jpg"
+        ],
+        "id": 6
+    },
+    {
+        "name": "Disco Duro Interno Western Digital Red NAS",
+        "price": "Gs. 762.934",
+        "details": {
+            "Factor de forma": "3.5\"",
+            "Caché": "256 MB",
+            "Interfaz de conexión": "SATA III",
+            "Velocidad del disco": "5400 rpm",
+            "Capacidad": "4 TB"
+        },
+        "label": "Western",
+        "categories": [
+            "Discos duros",
+            "Disco Interno"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/d/hd_interno_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd_reddd_1.jpg"
+        ],
+        "id": 7
+    },
+    {
+        "name": "SSD M.2 NVMe Western Digital WD_BLACK SN850X",
+        "price": "Gs. 1.326.331",
+        "details": {
+            "Factor de Forma": "M.2 2280",
+            "Interfaz": "PCIe 4.0 x4",
+            "Velocidad de lectura": "7300MB/s",
+            "Velocidad de escritura": "6600MB/s"
+        },
+        "label": "Western",
+        "categories": [
+            "SSD interno",
+            "SSD M.2"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-black-sn850x-_1_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-black-sn850x-_2_3.jpg"
+        ],
+        "id": 8
+    },
+    {
+        "name": "SSD 2.5\" Lexar NQ100 SATA 550 MB/s",
+        "price": "Gs. 142.655",
+        "details": {
+            "Factor de forma": "2.5\"",
+            "Velocidad de lectura": "550Mb/s",
+            "Interfaz": "SATA III (6 Gb/s)"
+        },
+        "label": "Lexar",
+        "categories": [
+            "Discos duros"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/4/74670-3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/4/74670-2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/4/74670-1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/4/74670_1.jpg"
+        ],
+        "id": 9
+    },
+    {
+        "name": "SSD M.2 SATA Western Digital WD Red SA500 NAS",
+        "price": "Gs. 1.245.072",
+        "details": {
+            "Tipo": "SSD M.2 SATA",
+            "Interfaz": "SATA III",
+            "Dimensión": "8 x 2.2 x 0.2 cm"
+        },
+        "label": "Western",
+        "categories": [
+            "SSD interno",
+            "SSD M.2"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-red-sa500-nas-sata_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-red-sa500-nas-sata_-_2.jpg"
+        ],
+        "id": 10
+    },
+    {
+        "name": "SSD M.2 NVMe Western Digital AN1500 6500/4100 MB/s PCIe Gen3 x8 RGB 1TB (WDS100T1X0L)",
+        "price": "Gs. 1.841.875",
+        "details": {
+            "Capacidad": "1TB",
+            "Velocidad de lectura": "6500 MB/s",
+            "Velocidad de escritura": "4100 MB/s",
+            "Iluminación": "RGB",
+            "Interfaz": "PCIe Gen3 x8"
+        },
+        "label": "Western",
+        "categories": [
+            "Accesorios",
+            "Discos duros",
+            "SSD interno",
+            "SSD M.2"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/100118.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/100118-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/100118-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/100118-2.jpg"
+        ],
+        "id": 11
+    },
+    {
+        "name": "SSD Portátil Western Digital Elements SE",
+        "price": "Gs. 566.557",
+        "details": {
+            "Tipo": "Almacenamiento portátil",
+            "Conexión": "USB 3.0",
+            "Compatibilidad": "Windows 10+ y macOS 11+"
+        },
+        "label": "Western",
+        "categories": [
+            "Accesorios",
+            "Discos duros",
+            "SSD Portatil"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc-100285.jpg"
+        ],
+        "id": 12
+    },
+    {
+        "name": "SSD M.2 NVMe Western Digital WD Red SN700",
+        "price": "Gs. 704.246",
+        "details": {
+            "Factor de Forma": "M.2 2280 S3-M",
+            "Interfaz": "PCIe 3.0 x4",
+            "Dimensiones": "80 x 22 x 2 mm"
+        },
+        "label": "Western",
+        "categories": [
+            "SSD interno",
+            "SSD M.2"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-red-sn700-nvme-ssd-01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-red-sn700-nvme-ssd-02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-red-sn700-nvme-ssd-03.jpg"
+        ],
+        "id": 13
+    },
+    {
+        "name": "SSD M.2 NVMe Western Digital WD_BLACK SN770",
+        "price": "Gs. 898.366",
+        "details": {
+            "Factor de Forma": "M.2 2280",
+            "Interfaz": "PCIe 4.0 x4",
+            "Color": "Negro"
+        },
+        "label": "Western",
+        "categories": [
+            "SSD interno",
+            "SSD M.2"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-black-sn770_-_01_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-black-sn770_-_02_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/w/d/wd-black-sn770_-_03_1_1.jpg"
+        ],
+        "id": 14
+    },
+    {
+        "name": "SSD 2.5\" Hikvision C100",
+        "price": "Gs. 103.741",
+        "details": {
+            "Factor de forma": "2.5\"",
+            "Ideal para": "Optimizar tu sistema",
+            "Interfaz": "SATA 6.0 GB/s"
+        },
+        "label": "Hikvision",
+        "categories": [
+            "Accesorios",
+            "Discos duros",
+            "SSD interno"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/1/11111_14.jpg"
+        ],
+        "id": 15
+    },
+    {
+        "name": "Gaveta Satellite AX-205S para SSD M.2 - Gris Oscuro",
+        "price": "Gs. 189.605",
+        "details": {
+            "Capacidad máxima": "2 TB (No incluye)",
+            "Velocidad de transferencia": "Hasta 10 Gbps",
+            "Conector": "USB 3.1 Tipo C",
+            "Compatibilidad": "SSD M.2"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Accesorios",
+            "Discos duros",
+            "Disco externo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/u/hub_satellite_ax-205s_usb-c_3.0_ssd_m.2_nvme_-_gris.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/u/hub_satellite_ax-205s_usb-c_3.0_ssd_m.2_nvme_-_gris1.jpg"
+        ],
+        "id": 16
+    },
+    {
+        "name": "SSD M.2 NVMe Hikvision E2000",
+        "price": "Gs. 568.814",
+        "details": {
+            "Factor de forma": "M.2 NVMe (2280)",
+            "Integrado": "Disipador de calor",
+            "Interfaz": "NVMe PCIe Gen 3.0 de 4 lanes"
+        },
+        "label": "Hikvision",
+        "categories": [
+            "Discos duros",
+            "SSD interno",
+            "SSD M.2"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc-100406-1.jpg"
+        ],
+        "id": 17
+    },
+    {
+        "name": "SSD M.2 NVMe Hikvision E3000",
+        "price": "Gs. 440.154",
+        "details": {
+            "Factor de forma": "M.2 NVMe",
+            "Velocidad de lectura": "3500 MB/s",
+            "Interfaz": "NVMe PCIe Gen 3.0 de 4 lanes"
+        },
+        "label": "Hikvision",
+        "categories": [
+            "Discos duros",
+            "SSD interno",
+            "SSD M.2"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc-100403.jpg"
+        ],
+        "id": 18
+    },
+    {
+        "name": "SSD Portátil Hikvision T200N - Plata",
+        "price": "Gs. 451.440",
+        "details": {
+            "Tipo": "Almacenamiento portátil",
+            "Velocidad": "450 - 400 MB/s",
+            "Conexión": "USB 3.1 Gen 1",
+            "Compatibilidad": "Android, Mac y Windows"
+        },
+        "label": "Hikvision",
+        "categories": [
+            "Discos duros",
+            "SSD Portatil",
+            "Disco externo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc-100411-1.jpg"
+        ],
+        "id": 19
+    },
+    {
+        "name": "Pendrive Philips WEE FM64FD110B/97 USB 2.0 64 GB - Blanco/Lila",
+        "price": "Gs. 31.149",
+        "details": {
+            "Diseño": "Compacto",
+            "Capacidad": "64 GB",
+            "Conectividad": "USB 2.0",
+            "Compatible con": "Windows 7 o superior, Vista, XP, ME 2000, MAC OS 9.0 o superior y Linux 2.4.0 o superior"
+        },
+        "label": "Philips",
+        "categories": [
+            "Pen drive"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/e/pen_64gb_philips_wee_fm64fd110b-97-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/e/pen_64gb_philips_wee_fm64fd110b-97.jpg"
+        ],
+        "id": 20
+    }
+]

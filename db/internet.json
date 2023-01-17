@@ -1,0 +1,910 @@
+[
+    {
+        "name": "Switch Ethernet Hikvision DS-3E0318P-E/M 16 Puertos - Celeste",
+        "price": "Gs. 1.309.176",
+        "details": {
+            "Diseño": "Compacto y resistente",
+            "Número de puertos": "16 × 10/100 Mbps PoE, 1 × gigabit RJ45 y 1 × gigabit fiber optical",
+            "Tipo de puertos": "RJ45, full duplex, MDI/MDI-X adaptive",
+            "Estándar": "IEEE 802.3, IEEE 802.3u, IEEE 802.3x"
+        },
+        "label": "Hikvision",
+        "categories": [
+            "Redes e internet"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/0/80645.jpg"
+        ],
+        "specifications": {
+            "Gestión inteligente de PoE": "Cuando la fuente de alimentación supera el límite, los puertos PoE gestionan de forma inteligente la fuente de alimentación, lo que prolonga la vida útil del conmutador.",
+            "Transmisión PoE de largo alcance de hasta 300 m": "La distancia entre los IPC y el conmutador puede alcanzar un máximo de 300 metros.",
+            "Fuente de alimentación adaptable de 4/8 núcleos con menos pérdida de energía": "La fuente de alimentación de 8 núcleos reduce la pérdida de energía en los cables.",
+            "Protección contra sobretensiones de 6KV para mejorar la confiabilidad en entornos hostiles": "El dispositivo de protección contra sobretensiones integrado protege el interruptor de sobretensiones repentinas por rayos en entornos hostiles.",
+            "Diseño para transmisión de video": "El puerto VIP garantiza la transmisión de datos importantes cuando se produce una congestión de la red."
+        },
+        "id": 1
+    },
+    {
+        "name": "Switch Ethernet TP-Link TL-SG1016PE 16 Puertos 10/100/1000 Mbps PoE+",
+        "price": "Gs. 1.218.888",
+        "details": {
+            "Velocidad de reenvió": "23.8 Mpps",
+            "Capacidad de conmutación": "32 Gbps",
+            "Estándares": "IEEE 802.3i/u/ab/x, IEEE 802.1p/q",
+            "Interfaz": "16 x puertos RJ45 10/100/1000 Mbps (8 puertos compatibles con PoE+)"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1016pe_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1016pe_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1016pe_-_3.jpg"
+        ],
+        "id": 2
+    },
+    {
+        "name": "Switch Ethernet TP-Link TL-SG1016DE 16 Puertos 10/100/1000 Mbps",
+        "price": "Gs. 740.362",
+        "details": {
+            "Velocidad de reenvió": "23.8 Mpps",
+            "Capacidad de conmutación": "32 Gbps",
+            "Estándares": "IEEE 802.3i/u/ab/x, IEEE 802.1p/q",
+            "Interfaz": "16 x puertos RJ45 10/100/1000 Mbps"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1016de_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1016de_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1016de_-_3.jpg"
+        ],
+        "id": 3
+    },
+    {
+        "name": "Router TP-Link Archer C5 AC1200 Dual Band Wi-Fi 5",
+        "price": "Gs. 243.778",
+        "details": {
+            "Estándar": "Wi-Fi 5 802.11ac",
+            "Frecuencia": "2.4",
+            "Seguridad": "WPA/WPA2 y WPA-PSK/WPA2-PSK",
+            "Cobertura": "4 antenas fijas",
+            "Interfaz": "4 x LAN, 1 x WAN y 1 x USB 2.0"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c5_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c5_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c5_-_3.jpg"
+        ],
+        "id": 4
+    },
+    {
+        "name": "Punto de Acceso Grandstream GMN7664 Dual Band 4x4:4 MU-MIMO (U6-LR)",
+        "price": "Gs. 1.760.616",
+        "details": {
+            "Estándar": "IEEE 802.11a/b/g/n/ac/ax",
+            "Frecuencia": "2.4 GHz y 5 GHz",
+            "Interfaz": "1 Puerto de 1G y 1 puerto de 2.5G",
+            "Alcance de cobertura": "175 metros",
+            "Seguridad": "WEP, WPA/WPA2-PSK, WPA/WPA2"
+        },
+        "label": "Grandstream",
+        "categories": [
+            "Redes e internet"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7660_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7660_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7660_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7660_-_4_1.jpg"
+        ],
+        "id": 5
+    },
+    {
+        "name": "Punto de Acceso Grandstream GWN7660 Dual Band 2x2:2 MU-MIMO (U6-LITE)",
+        "price": "Gs. 948.024",
+        "details": {
+            "Estándar": "IEEE 802.11a/b/g/n/ac/ax",
+            "Frecuencia": "2.4 GHz y 5 GHz",
+            "Interfaz": "2 x Ethernet 10/100/1000 Mbps",
+            "Alcance de cobertura": "175 metros",
+            "Seguridad": "WEP, WPA/WPA2-PSK, WPA/WPA2"
+        },
+        "label": "Grandstream",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7660_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7660_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7660_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7660_-_4.jpg"
+        ],
+        "id": 6
+    },
+    {
+        "name": "Punto de Acceso Grandstream GWN7625 Dual Band 4x4:4 MU-MIMO (UAP-NANOHD)",
+        "price": "Gs. 1.264.032",
+        "details": {
+            "Estándar": "IEEE 802.11a/b/g/n/ac",
+            "Frecuencia": "2.4 GHz y 5 GHz",
+            "Interfaz": "2 x Ethernet 10/100/1000 Mbps",
+            "Seguridad": "WEP, WPA/WPA2-PSK, WPA/WPA2"
+        },
+        "label": "Grandstream",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7615_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7615_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7615_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7615_-_4_1.jpg"
+        ],
+        "id": 7
+    },
+    {
+        "name": "Punto de Acceso Grandstream GWN7615 Dual Band 3x3:3 MU-MIMO (UAP-AC-PRO)",
+        "price": "Gs. 1.083.456",
+        "details": {
+            "Estándar": "IEEE 802.11a/b/g/n/ac",
+            "Frecuencia": "2.4 GHz y 5 GHz",
+            "Interfaz": "2 x Ethernet 10/100/1000 Mbps",
+            "Alcance de cobertura": "175 metros",
+            "Seguridad": "WEP, WPA/WPA2-PSK, WPA/WPA2"
+        },
+        "label": "Grandstream",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7615_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7615_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7615_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/w/gwn7615_-_4.jpg"
+        ],
+        "id": 8
+    },
+    {
+        "name": "Switch Ethernet TP-Link LS1008G 8 Puertos 10/100/1000 Mbps",
+        "price": "Gs. 171.547",
+        "details": {
+            "Diseño": "Sin ventilador",
+            "Velocidad de reenvió": "11.9 Mpps",
+            "Capacidad de conmutación": "16 Gbps",
+            "Estándares": "IEEE 802.3i/802.3u/ 802.3ab/802.3x",
+            "Interfaz": "24 x puertos RJ45 10/100/1000Mbps"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/s/ls1008g_-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/s/ls1008g_-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/s/ls1008g_-_03.jpg"
+        ],
+        "id": 9
+    },
+    {
+        "name": "Switch Ethernet TP-Link TL-SF1024D 24 Puertos 10/100 Mbps",
+        "price": "Gs. 469.498",
+        "details": {
+            "Diseño": "Sin ventilador",
+            "Velocidad de reenvió": "3.57 Mpps",
+            "Capacidad de conmutación": "4.8 Gbps",
+            "Estándares": "IEEE 802.3i/802.3u/802.3x",
+            "Interfaz": "24 x puertos RJ45 10/100Mbps"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sf1024d_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sf1024d_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sf1024d_-_3.jpg"
+        ],
+        "id": 10
+    },
+    {
+        "name": "Switch Ethernet TP-Link TL-SF1024 24 Portas 10/100 Mbps",
+        "price": "Gs. 496.584",
+        "details": {
+            "Design": "Sem ventoinha",
+            "Velocidade de encaminhamento": "3.57 Mpps",
+            "Capacidade de comutação": "4.8 Gbps",
+            "Padrões": "IEEE 802.3i/802.3u/802.3x",
+            "Interface": "24 portas RJ45 10/100 Mbps"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sf1024_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sf1024_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sf1024_-_3.jpg"
+        ],
+        "id": 11
+    },
+    {
+        "name": "Switch Ethernet TP-Link TL-SG116E 16 Puertos 10/100/1000 Mbps",
+        "price": "Gs. 622.987",
+        "details": {
+            "Diseño": "Sin ventilador",
+            "Velocidad de reenvió": "3.57 Mpps",
+            "Capacidad de conmutación": "4.8 Gbps",
+            "Estándares": "IEEE 802.3i/802.3u/ 802.3ab/802.3x, IEEE 802.1q/p",
+            "Interfaz": "24 x puertos RJ45 10/100/1000Mbps"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg116e_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg116e_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg116e_-_3.jpg"
+        ],
+        "id": 12
+    },
+    {
+        "name": "Switch Ethernet Hikvision Unmanaged PoE DS-3E0105P-E/M 5 Puertos - Azul",
+        "price": "Gs. 261.835",
+        "details": {
+            "Diseño": "Compacto y resistente",
+            "Estándar": "IEEE 802.3, IEEE 802.3u, IEEE 802.3x",
+            "Número de puertos": "4 × 10/100 Mbps PoE, 1 × 10/100 Mbps RJ45",
+            "Tipo de puertos": "RJ45, full duplex, MDI/MDI-X adaptive"
+        },
+        "label": "Hikvision",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-103583-1.jpg"
+        ],
+        "specifications": {
+            "Gestión inteligente de PoE": "Cuando la fuente de alimentación supera el límite, los puertos PoE gestionan de forma inteligente la fuente de alimentación, lo que prolonga la vida útil del conmutador.",
+            "Transmisión PoE de largo alcance de hasta 300 m": "La distancia entre los IPC y el conmutador puede alcanzar un máximo de 300 metros.",
+            "Fuente de alimentación adaptable de 4/8 núcleos con menos pérdida de energía": "La fuente de alimentación de 8 núcleos reduce la pérdida de energía en los cables.",
+            "Protección contra sobretensiones de 6KV para mejorar la confiabilidad en entornos hostiles": "El dispositivo de protección contra sobretensiones incorporado protege el interruptor de la repentina sobretensión de un rayo en un entorno hostil.",
+            "Diseño para transmisión de video": "El puerto VIP garantiza la transmisión de datos importantes cuando se produce una congestión de la red."
+        },
+        "id": 13
+    },
+    {
+        "name": "Switch Ethernet Huawei S5735-L8P4S-A1 8 Puertos - Gris",
+        "price": "Gs. 2.753.784",
+        "details": {
+            "Diseño": "Resistente",
+            "Número de puertos": "8 x 10/100/1000Base-T y 4 x GE SFP",
+            "Rendimiento de reenvío": "18 Mpps",
+            "Capacidad de conmutación": "24 Gbps/336 Gbps"
+        },
+        "label": "Huawei",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102736-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102736-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102736-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102736-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102736-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102736-4.jpg"
+        ],
+        "id": 14
+    },
+    {
+        "name": "Switch Ethernet Huawei S5735-L48T4X-A1 48 Puertos - Gris",
+        "price": "Gs. 7.132.752",
+        "details": {
+            "Diseño": "Resistente",
+            "Número de puertos": "48 x 10/100/1000Base-T y 4 x 10 GE SFP+",
+            "Rendimiento de reenvío": "132 Mpps",
+            "Capacidad de conmutación": "176 Gbit/s/432 Gbit/s"
+        },
+        "label": "Huawei",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102740-6_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102740-3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102740-5_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102740-4_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102740-1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102740-2_1.jpg"
+        ],
+        "id": 15
+    },
+    {
+        "name": "Switch Ethernet Huawei S5735-L24T4S-A1 24 Puertos - Gris",
+        "price": "Gs. 2.573.208",
+        "details": {
+            "Diseño": "Resistente",
+            "Número de puertos": "24 x 10/100/1000Base-T y 4 x GE SFP",
+            "Rendimiento de reenvío": "42 Mpps",
+            "Capacidad de conmutación": "56 Gbit/s/336 Gbit/s"
+        },
+        "label": "Huawei",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102735-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102735-1.jpg"
+        ],
+        "id": 16
+    },
+    {
+        "name": "Switch Ethernet Huawei S5735-L24P4X-A1 24 Puertos - Gris",
+        "price": "Gs. 5.643.000",
+        "details": {
+            "Diseño": "Resistente",
+            "Número de puertos": "24 x 10/100/1000BASE-T y 4 x 10 GE SFP+",
+            "Rendimiento de reenvío": "96 Mpps",
+            "Capacidad de conmutación": "128 Gbit/s/336 Gbit/s"
+        },
+        "label": "Huawei",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102738-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102738-1.jpg"
+        ],
+        "id": 17
+    },
+    {
+        "name": "Switch Ethernet Huawei S5735-L24P4S-A1 24 Puertos - Gris",
+        "price": "Gs. 4.153.248",
+        "details": {
+            "Diseño": "Resistente",
+            "Número de puertos": "24 × 10/100/1000Base-T PoE+ y 4 × GE SFP",
+            "Rendimiento de reenvío": "42 Mpps",
+            "Capacidad de conmutación": "56 Gbit/s/336 Gbit/s"
+        },
+        "label": "Huawei",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102737-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102737-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102737-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-102737-3.jpg"
+        ],
+        "id": 18
+    },
+    {
+        "name": "Switch Ethernet TP-Link TL-SG1005D 5 Puertos 10/100/1000 Mbps",
+        "price": "Gs. 101.123",
+        "details": {
+            "Diseño": "Sin ventilador",
+            "Estándares": "IEEE 802.3/802.3u/ 802.3ab/802.3x",
+            "Interfaz": "5 x puertos RJ45 10/100/1000Mbps",
+            "Instalación": "Plug and play"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1005d_-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1005d_-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1005d_-_03.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1005d_-_04.jpg"
+        ],
+        "id": 19
+    },
+    {
+        "name": "Switch Ethernet TP-Link TL-SG1024D 24 Puertos 10/100/1000 Mbps",
+        "price": "Gs. 893.851",
+        "details": {
+            "Diseño": "Sin ventilador",
+            "Velocidad de reenvió": "35.7 Mpps",
+            "Capacidad de conmutación": "48 Gbps",
+            "Estándares": "IEEE 802.3i/802.3u/ 802.3ab/802.3x",
+            "Interfaz": "24 x puertos RJ45 10/100/1000Mbps"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1024d_-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1024d_-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1024d_-_03.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1024d_-_04.jpg"
+        ],
+        "id": 20
+    },
+    {
+        "name": "Router TP-Link Archer C7 AC1750 Dual Band Wi-Fi 5",
+        "price": "Gs. 519.156",
+        "details": {
+            "Estándar": "Wi-Fi 5 802.11ac",
+            "Frecuencia": "2.4",
+            "Seguridad": "WPA, WPA2, WPA/WPA2-Enterprise",
+            "Cobertura": "3 antenas fijas de alto rendimiento",
+            "Interfaz": "4 x LAN y 1 x WAN"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c7_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c7_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c7_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c7_-_4.jpg"
+        ],
+        "id": 21
+    },
+    {
+        "name": "Router TP-Link EC220-G5 AC1200 Dual Band Wi-Fi 5",
+        "price": "Gs. 261.835",
+        "details": {
+            "Estándar": "Wi-Fi 5 802.11ac",
+            "Frecuencia": "2.4",
+            "Seguridad": "WEP, WPA/WPA2, WPA-PSK/WPA2-PSK",
+            "Cobertura": "4 antenas fijas de alto rendimiento",
+            "Interfaz": "4 x LAN y 1 x WAN"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/e/c/ec220-g5-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/e/c/ec220-g5-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/e/c/ec220-g5-_03.jpg"
+        ],
+        "id": 22
+    },
+    {
+        "name": "Router TP-Link Archer C6 AC1200 Dual Band MU-MIMO Wi-Fi 5",
+        "price": "Gs. 316.911",
+        "details": {
+            "Estándar": "Wi-Fi 5 802.11ac",
+            "Frecuencia": "2.4",
+            "Seguridad": "WPA, WPA2, WPA3, WPA/WPA2-Enterprise",
+            "Cobertura": "5 antenas fijas de alto rendimiento",
+            "Interfaz": "4 x LAN y 1 x WAN"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/p/tp-link_archer_c6_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/p/tp-link_archer_c6_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/p/tp-link_archer_c6_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/p/tp-link_archer_c6_-_4.jpg"
+        ],
+        "id": 23
+    },
+    {
+        "name": "Router TP-Link Archer C60 AC1350 Dual Band Wi-Fi 5",
+        "price": "Gs. 279.893",
+        "details": {
+            "Estándar": "Wi-Fi 5 802.11ac",
+            "Frecuencia": "2.4",
+            "Seguridad": "WEP, WPA, WPA2, WPA/WPA2-Enterprise",
+            "Cobertura": "5 antenas fijas de alto rendimiento",
+            "Interfaz": "4 x LAN y 1 x WAN"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c60_-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c60_-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_c60_-_03.jpg"
+        ],
+        "id": 24
+    },
+    {
+        "name": "Router TP-Link Archer AX10 AX1500 Dual Band Wi-Fi 6",
+        "price": "Gs. 505.613",
+        "details": {
+            "Estándar": "Wi-Fi 6 802.11ax",
+            "Frecuencia": "2.4 GHz",
+            "Seguridad": "WPA, WPA2, WPA3 y WPA/WPA2-Entreprise",
+            "Cobertura": "4 antenas fijas de alto rendimiento",
+            "Interfaz": "1 x WAN y 4 x LAN"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_ax10_ax1500_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_ax10_ax1500_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_ax10_ax1500_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/r/archer_ax10_ax1500_-_4.jpg"
+        ],
+        "id": 25
+    },
+    {
+        "name": "Router Inalámbrico TP-Link TL-MR3020 Portátil 3G/4G 10/100 Mbps",
+        "price": "Gs. 171.547",
+        "details": {
+            "Estándar": "Wi-Fi 802.11n/g/b",
+            "Frecuencia": "2.4 GHz",
+            "Seguridad": "WPA-PSK/WPA2-PSK",
+            "Modo portátil": "Soporta módem USB 3G/4G",
+            "Interfaz": "WAN/LAN y USB 2.0"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-mr3020_-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-mr3020_-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-mr3020_-_04.jpg"
+        ],
+        "id": 26
+    },
+    {
+        "name": "Sistema Wi-Fi Xiaomi Mesh System AX3000 DVB4315GL",
+        "price": "Gs. 568.814",
+        "details": {
+            "Frecuencia": "2.4 GHz",
+            "Interfaz": "3 x LAN y 1 x WAN",
+            "Seguridad": "WPA-PSK/WPA2-PSK/ WPA3-SAE",
+            "Conectividad": "Wi-Fi 6 (802.11ax)",
+            "Compatible con": "Android e iOS"
+        },
+        "label": "Xiaomi",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/v/dvb4315gl_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/v/dvb4315gl_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/v/dvb4315gl_-_3.jpg"
+        ],
+        "id": 27
+    },
+    {
+        "name": "Router Huawei AX3 WS7100 Quad Core Wi-Fi 6 Plus",
+        "price": "Gs. 343.094",
+        "details": {
+            "Cobertura": "4 antenas externas de alto rendimiento de 5dBi",
+            "Interfaz": "LAN y WAN",
+            "Estándares": "Wi-Fi 6",
+            "Frecuencia": "2.4 y 5 GHz",
+            "Seguridad": "WEP3, Firewall, DMZ, PAP/CHAP, DMZ"
+        },
+        "label": "Huawei",
+        "categories": [
+            "Redes e internet",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005818186_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005818182_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005818185_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005818184_1_1.jpg"
+        ],
+        "id": 28
+    },
+    {
+        "name": "Switch Gestionable Ubiquiti USW-PRO-24-POE de 24 Puertos 10/100/1000 Mbps",
+        "price": "Gs. 7.042.464",
+        "details": {
+            "Pantalla": "Táctil a color LCM de 1.3\"",
+            "Capacidad de conmutación": "88 Gbps",
+            "Tasa de reenvío": "65.472 Mpps",
+            "Interfaz": "24 x RJ45 y 2 x SFP+ Gigabit"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/u/s/usw-pro-24-poe_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/u/s/usw-pro-24-poe_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/u/s/usw-pro-24-poe_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/u/s/usw-pro-24-poe_-_4.jpg"
+        ],
+        "id": 29
+    },
+    {
+        "name": "Punto de Acceso Ubiquiti UAP-AC-HD Dual Band 2.4/5.0GHz",
+        "price": "Gs. 3.024.648",
+        "details": {
+            "Estándares y protocolo": "Wi-Fi 802.11ac Wave 2",
+            "Frecuencias": "2.4",
+            "Interfaz": "2 x Puertos Ethernet 10/100/1000 Mbps",
+            "Montaje en": "Pared o techo"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/u/b/ubiquiti_uap-ac-hd_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/u/b/ubiquiti_uap-ac-hd_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/u/b/ubiquiti_uap-ac-hd_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/u/b/ubiquiti_uap-ac-hd_-_4.jpg"
+        ],
+        "id": 30
+    },
+    {
+        "name": "Punto de Acceso Ubiquiti NBE-5AC-GEN2 NanoBeam airMax 5 GHz",
+        "price": "Gs. 758.419",
+        "details": {
+            "Banda de frecuencias": "5 GHz",
+            "Tecnología": "airMax ac",
+            "Ganancia": "19 dBi",
+            "Interfaz": "2 x Puertos Ethernet Gigabit"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/b/nbe-5ac_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/b/nbe-5ac_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/b/nbe-5ac_-_3.jpg"
+        ],
+        "id": 31
+    },
+    {
+        "name": "Switch Ethernet TP-Link TL-SG1024 24 Puertos 10/100/1000 Mbps",
+        "price": "Gs. 857.736",
+        "details": {
+            "Diseño": "Sin ventilador, funcionamiento silencioso",
+            "Interfaz": "24 x puertos RJ45 10/100/1000 Mbps",
+            "Estándares y protocolos": "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x",
+            "Instalación": "Plug and Play, sin ninguna configuración adicional"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Switchs"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1024_-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1024_-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/l/tl-sg1024_-_03.jpg"
+        ],
+        "id": 32
+    },
+    {
+        "name": "Fuente PoE Ubiquiti POE-48-24W-BR 24W 48V",
+        "price": "Gs. 109.248",
+        "details": {
+            "Potencia": "24 W",
+            "Tensión de Salida": "48 V CC a 0.5 A",
+            "Interfaz": "2 x RJ45 (PoE)"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Fuentes de alimentación",
+            "Redes e internet",
+            "Adaptadores"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/poe-48-24w_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/poe-48-24w_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/poe-48-24w_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/poe-48-24w_-_4.jpg"
+        ],
+        "id": 33
+    },
+    {
+        "name": "Punto de Acceso Ubiquiti airMax LiteAp LAP-GPS 5.0 GHz con Sincronización GPS",
+        "price": "Gs. 920.938",
+        "details": {
+            "Ganancia de la antena": "17 dBi",
+            "Frecuencia": "5 GHz",
+            "Consumo de energía": "7.1W",
+            "Potencia de transmisión": "25 dBm",
+            "Interfaz de red": "1 x Puerto Ethernet 10/100/1000Mbps"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/a/lap-gps_-_001.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/a/lap-gps_-_002.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/a/lap-gps_-_003.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/a/lap-gps_-_004.jpg"
+        ],
+        "specifications": {
+            "Estandar": "Wi-Fi 5 (802.11ac)",
+            "Ganancia de la antena": "17 dBi",
+            "Frecuencia": "5 GHz",
+            "Consumo de energía": "7.1W",
+            "Soporte de Protocolo": "airMAX ac",
+            "Potencia de transmisión": "25 dBm",
+            "Interfaz de red": "1 x Puerto Ethernet 10/100/1000Mbps",
+            "Compatibilidad con sincronización GPS": ""
+        },
+        "id": 34
+    },
+    {
+        "name": "Sistema Wi-Fi TP-Link Deco M4 Whole-Home AC1200",
+        "price": "Gs. 406.296",
+        "details": {
+            "Frecuencia": "2.4 GHz",
+            "Interfaz": "2 x Ethernet Gigabit",
+            "Seguridad": "WPA-Persona/WPA2-Personal",
+            "Conectividad": "Wi-Fi 5 (802.11ac)",
+            "Compatible con": "Android e iOS"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/decoe4_1-pack_-_01_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/decoe4_1-pack_-_02_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/decom4_1-pack_-_01.jpg"
+        ],
+        "id": 35
+    },
+    {
+        "name": "Sistema Wi-Fi TP-Link Deco E4 Whole-Home AC1200",
+        "price": "Gs. 279.893",
+        "details": {
+            "Frecuencia": "2.4 GHz",
+            "Interfaz": "2 x Ethernet 10/100Mbps",
+            "Seguridad": "WPA-Persona/WPA2-Personal",
+            "Conectividad": "Wi-Fi 5 (802.11ac)",
+            "Compatible con": "Android e iOS"
+        },
+        "label": "Tp-link",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points",
+            "Routers wifi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/decoe4_1-pack_-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/decoe4_1-pack_-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/decoe4_1-pack_-_03.jpg"
+        ],
+        "id": 36
+    },
+    {
+        "name": "Punto de Acceso Ubiquiti RP-5AC-GEN2-BR Rocket AC PRISM AC Gen2 5.0 GHz",
+        "price": "Gs. 2.166.912",
+        "details": {
+            "Banda de frecuencias": "5 GHz",
+            "Procesador": "Atheros Mips 74Kc",
+            "Indicador": "Intensidad de la señal, GPS, LAN",
+            "Tecnología": "airMax ac",
+            "Interfaz": "1 x Puertos Ethernet Gigabit y 3 x RF RP-SMA"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rp-5ac-gen2_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rp-5ac-gen2_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rp-5ac-gen2_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rp-5ac-gen2_-_4_1.jpg"
+        ],
+        "id": 37
+    },
+    {
+        "name": "Punto de Acceso Ubiquiti RP-5AC-GEN2 Rocket AC PRISM AC Gen2 5.0 GHz",
+        "price": "Gs. 2.166.912",
+        "details": {
+            "Banda de frecuencias": "5 GHz",
+            "Procesador": "Atheros Mips 74Kc",
+            "Indicador": "Intensidad de la señal, GPS, LAN",
+            "Tecnología": "airMax ac",
+            "Interfaz": "1 x Puertos Ethernet Gigabit y 3 x RF RP-SMA"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rp-5ac-gen2_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rp-5ac-gen2_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rp-5ac-gen2_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rp-5ac-gen2_-_4.jpg"
+        ],
+        "id": 38
+    },
+    {
+        "name": "Punto de Acceso Ubiquiti R5AC-LITE-BR Rocket ac AirMax 5.0 GHz",
+        "price": "Gs. 1.196.316",
+        "details": {
+            "Banda de frecuencias": "5 GHz",
+            "Procesador": "Atheros Mips 74Kc",
+            "Tecnología": "airMax ac",
+            "Interfaz": "1 x Puertos Ethernet Gigabit y 2 x RF coaxial",
+            "Instalación": "Plug and Play"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_4_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_5_1.jpg"
+        ],
+        "id": 39
+    },
+    {
+        "name": "Punto de Acceso Ubiquiti R5AC-LITE Rocket ac AirMax 5.0 GHz",
+        "price": "Gs. 1.155.686",
+        "details": {
+            "Banda de frecuencias": "5 GHz",
+            "Tecnología": "airMax ac",
+            "Interfaz": "1 x Puertos Ethernet Gigabit y 2 x RF coaxial",
+            "Instalación": "Plug and Play"
+        },
+        "label": "Ubiquiti",
+        "categories": [
+            "Redes e internet",
+            "Wifi y Access Points"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/5/r5ac-lite_-_5.jpg"
+        ],
+        "id": 40
+    }
+]

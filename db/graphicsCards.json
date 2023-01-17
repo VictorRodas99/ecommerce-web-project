@@ -1,0 +1,1079 @@
+[
+    {
+        "name": "Placa de Video PNY GeForce RTX 4080 XLR8 Gaming Uprising RGB 16 GB GDDR6x",
+        "price": "Gs. 11.827.728",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 4080",
+            "Memoria de video": "GDDR6x de 16 GB",
+            "Salida de video": "HDMI 2.1, DisplayPort 1.4",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "256 bits"
+        },
+        "label": "PNY",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/v/c/vcg408016tfxmpb_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/v/c/vcg408016tfxmpb_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/v/c/vcg408016tfxmpb_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/v/c/vcg408016tfxmpb_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/v/c/vcg408016tfxmpb_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/v/c/vcg408016tfxmpb_-_6.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA GeForce RTX 4080",
+            "Bus estándar": "PCI Express 4.0 x16",
+            "OpenGL": "4.6",
+            "DirectX": "12",
+            "Memoria de video": "GDDR6x de 16 GB",
+            "Reloj del motor": "2505 Mhz (Boost Clock)",
+            "Cuda Core": "9728",
+            "Reloj de memoria": "22.4 Gbps",
+            "Interfaz de memoria": "256 bits",
+            "Resolución máxima digital": "7680 x 4320p",
+            "Interfaz": "3 x DisplayPort 1.4 y 1 x HDMI 2.1",
+            "Máxima soporte de pantalla": "4",
+            "Conector de alimentación": "1 x 16 pines",
+            "TDP": "320 W",
+            "Dimensiones": "351 x 145 x 63 mm"
+        },
+        "id": 1
+    },
+    {
+        "name": "Placa de Video PNY GeForce RTX 4090 XLR8 Gaming Uprising RGB 24 GB GDDR6x (VCG409024TFXMPB)",
+        "price": "Gs. 16.242.811",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 4090",
+            "Memoria de video": "GDDR6x de 24 GB",
+            "Salida de video": "HDMI 2.1, DisplayPort 1.4a",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "384 bits"
+        },
+        "label": "PNY",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx4090_xlr8_epic-x_rgb_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx4090_xlr8_epic-x_rgb_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx4090_xlr8_epic-x_rgb_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx4090_xlr8_epic-x_rgb_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx4090_xlr8_epic-x_rgb_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA GeForce RTX 4090",
+            "Bus estándar": "PCI Express 4.0 x16",
+            "OpenGL": "4.6",
+            "DirectX": "12",
+            "Memoria de video": "GDDR6x de 24 GB",
+            "Reloj del motor": "2520 Mhz (Boost Clock)",
+            "Cuda Core": "16384",
+            "Reloj de memoria": "21 Gbps",
+            "Interfaz de memoria": "384 bit",
+            "Resolución máxima digital": "7680 x 4320p",
+            "Interfaz": "3 x DisplayPort 1.4a y 1 x HDMI 2.1",
+            "Máxima soporte de pantalla": "4",
+            "Conector de alimentación": "1 x 16 pines",
+            "TDP": "450 W",
+            "Dimensiones": "351 x 145 x 63 mm"
+        },
+        "id": 2
+    },
+    {
+        "name": "Placa de Video Gigabyte GeForce RTX 3070 Ti Eagle OC 8 GB GDDR6x",
+        "price": "Gs. 5.408.251",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3070 Ti",
+            "Memoria de video": "GDDR6x de 8 GB",
+            "Salida de video": "HDMI 2.1, DisplayPort 1.4a",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "256 bits"
+        },
+        "label": "Gigabyte",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_rtx3070_ti_eagle_oc_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_rtx3070_ti_eagle_oc_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_rtx3070_ti_eagle_oc_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_rtx3070_ti_eagle_oc_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_rtx3070_ti_eagle_oc_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/i/gigabyte_rtx3070_ti_eagle_oc_-_6.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA GeForce RTX 3070 Ti",
+            "Bus estándar": "PCI Express 4.0 x16",
+            "OpenGL": "4.6",
+            "DirectX": "12",
+            "Memoria de video": "GDDR6x de 8 GB",
+            "Reloj del motor": "1800 Mhz (Boost Clock)",
+            "Cuda Core": "6144",
+            "Reloj de memoria": "19000 MHz",
+            "Interfaz de memoria": "256 bit",
+            "Resolución máxima digital": "7680 x 4320p",
+            "Interfaz": "2 x DisplayPort 1.4a y 2 x HDMI 2.1",
+            "Máxima soporte de pantalla": "4",
+            "Conector de alimentación": "2 x 8 pines",
+            "Fuente de alimentación recomendada": "750 W",
+            "Dimensiones": "283 x 115 x 50 mm"
+        },
+        "id": 3
+    },
+    {
+        "name": "Placa de Video Afox GeForce GT 610 2 GB DDR3 (AF610-2048D3L7-V6)",
+        "price": "Gs. 322.780",
+        "details": {
+            "Gráfico": "NVIDIA GeForce GT 610",
+            "Memoria de video": "DDR3 de 2 GB",
+            "Salida de video": "HDMI A, DVI-D, VGA",
+            "Estándar de bus": "PCI Express 2.0",
+            "Interfaz de memoria": "64 bits"
+        },
+        "label": "Afox",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/f/af610-2048d3l7-v6_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/f/af610-2048d3l7-v6_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/f/af610-2048d3l7-v6_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/f/af610-2048d3l7-v6_-_4.jpg"
+        ],
+        "specifications": {
+            "Modelo": "AF610-2048D3L7-V6",
+            "Motor de gráficos": "NVIDIA GeForce GT 610",
+            "Estándar de bus": "PCI Express 2.0",
+            "Memoria de video": "2 GB DDR3",
+            "Reloj del motor": "810 MHz",
+            "Reloj de memoria": "1800 MHz",
+            "Interfaz de memoria": "64 bits",
+            "Resolución máxima": "2560 x 1600p",
+            "Salida VGA": "Si x 1",
+            "Salida DVI": "Sí x 1",
+            "Salida HDMI": "Sí x 1",
+            "Soporte HDCP": "Si"
+        },
+        "id": 4
+    },
+    {
+        "name": "Placa de Video Afox GeForce GT210 1 GB DDR3 (AF210-1024D3L5)",
+        "price": "Gs. 223.463",
+        "details": {
+            "Gráfico": "NVIDIA GeForce GT 210",
+            "Memoria de video": "DDR3 de 1 GB",
+            "Salida de video": "HDMI A, DVI-D, VGA",
+            "Estándar de bus": "PCI Express 2.0",
+            "Interfaz de memoria": "64 bits"
+        },
+        "label": "Afox",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/f/afox_nvidia_gt210_1gbddr3_-_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/f/afox_nvidia_gt210_1gbddr3_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/f/afox_nvidia_gt210_1gbddr3_-_3_2.jpg"
+        ],
+        "specifications": {
+            "Modelo": "AF210-1024D3L5",
+            "Motor de gráficos": "NVIDIA GeForce GT 210",
+            "Estándar de bus": "PCI Express 2.0",
+            "Memoria de video": "1 GB DDR3",
+            "Reloj del motor": "589 MHz",
+            "Reloj de memoria": "1000 MHz",
+            "Interfaz de memoria": "64 bits",
+            "Resolución máxima": "2560 x 1600p",
+            "Salida VGA": "Si x 1",
+            "Salida DVI": "Sí x 1",
+            "Salida HDMI": "Sí x 1",
+            "Soporte HDCP": "Si"
+        },
+        "id": 5
+    },
+    {
+        "name": "Placa de Video MSI GeForce RTX 3090 Ventus 3X OC 24 GB GDDR6x (912-V388-019)",
+        "price": "Gs. 8.757.936",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3090",
+            "Memoria de video": "24 GB GDDR6x",
+            "Salida de video": "HDMI 2.1, DisplayPort 1.4a",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "384 bit"
+        },
+        "label": "MSI",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_rtx3090_ventus_3x_24g_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_rtx3090_ventus_3x_24g_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_rtx3090_ventus_3x_24g_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_rtx3090_ventus_3x_24g_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_rtx3090_ventus_3x_24g_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA Geforce RTX 3090",
+            "Bus estándar": "PCI Express 4.0 x16",
+            "OpenGL": "4.6",
+            "DirectX": "12",
+            "Memoria de video": "GDDR6x de 24 GB",
+            "Reloj del motor": "1725 Mhz (Boost)",
+            "Cuda Core": "10496",
+            "Velocidad de memoria": "19.5 Gbps",
+            "Interfaz de memoria": "384 bits",
+            "Resolución máxima digital": "7680 x 4320p",
+            "Interfaz": "3 x DisplayPort 1.4a, 1 x HDMI 2.1",
+            "Máxima soporte de pantalla": "4",
+            "Conectores de alimentación": "2 x 8 pines",
+            "Dimensiones": "305 x 120 x 57 mm",
+            "Peso": "1387 g",
+            "PSU recomendado": "750 W"
+        },
+        "id": 6
+    },
+    {
+        "name": "Placa de Video MSI GeForce GTX 1630 Ventus XS OC 4 GB GDDR6 (912-V809-4204)",
+        "price": "Gs. 1.580.040",
+        "details": {
+            "Gráfico": "NVIDIA GeForce GTX 1630",
+            "Memoria de video": "4 GB GDDR6",
+            "Salida de video": "HDMI 2.0b, DisplayPort 1.4a y DVI-D",
+            "Estándar de bus": "PCI Express 3.0 x16",
+            "Interfaz de memoria": "64 bit"
+        },
+        "label": "MSI",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_ventus_xs_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_ventus_xs_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_ventus_xs_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_ventus_xs_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_ventus_xs_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA Geforce GTX 1630",
+            "Bus estándar": "PCI Express 3.0 x16",
+            "OpenGL": "4.6",
+            "DirectX": "12",
+            "Memoria de video": "GDDR6 de 4 GB",
+            "Reloj del motor": "1815 Mhz (Boost)",
+            "Cuda Core": "512",
+            "Velocidad de memoria": "12 Gb/s",
+            "Interfaz de memoria": "64 bits",
+            "Resolución máxima digital": "7680 x 4320p",
+            "Interfaz": "1 x DisplayPort 1.4a, 1 x HDMI 2.0b y DVI-D",
+            "Máxima soporte de pantalla": "3",
+            "Dimensiones": "178 x 122 x 39 mm",
+            "Peso": "446 g",
+            "PSU recomendado": "300 W"
+        },
+        "id": 7
+    },
+    {
+        "name": "Placa de Video MSI GeForce GTX 1630 Aero ITX OC 4 GB GDDR6",
+        "price": "Gs. 1.552.954",
+        "details": {
+            "Gráfico": "NVIDIA GeForce GTX 1630",
+            "Memoria de video": "4 GB GDDR6",
+            "Salida de video": "HDMI 2.0b, DisplayPort 1.4a y DVI-D",
+            "Estándar de bus": "PCI Express 3.0 x16",
+            "Interfaz de memoria": "64 bit"
+        },
+        "label": "MSI",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_aero_itx_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_aero_itx_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_aero_itx_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_aero_itx_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gtx1630_aero_itx_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA Geforce GTX 1630",
+            "Bus estándar": "PCI Express 3.0 x16",
+            "OpenGL": "4.6",
+            "DirectX": "12",
+            "Memoria de video": "GDDR6 de 4 GB",
+            "Reloj del motor": "1815 Mhz (Boost)",
+            "Cuda Core": "512",
+            "Velocidad de memoria": "12 Gb/s",
+            "Interfaz de memoria": "64 bits",
+            "Resolución máxima digital": "7680 x 4320",
+            "Interfaz": "1 x DisplayPort 1.4a, 1 x HDMI 2.0b y DVI-D",
+            "Máxima soporte de pantalla": "3",
+            "Dimensiones": "170 x 122 x 39 mm",
+            "Peso": "388 g",
+            "PSU recomendado": "300 W"
+        },
+        "id": 8
+    },
+    {
+        "name": "Placa de Video Colorful RTX 3050 Battle Ax LHR 8 GB GDDR6",
+        "price": "Gs. 3.139.765",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3050",
+            "Memoria de video": "8 GB GDDR6",
+            "Salida de video": "HDMI, DisplayPort",
+            "Estándar de bus": "PCI Express 4.0",
+            "Interfaz de memoria": "128 bit"
+        },
+        "label": "Colorful",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/o/colorful_rtx3050_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/o/colorful_rtx3050_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/o/colorful_rtx3050_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/o/colorful_rtx3050_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/o/colorful_rtx3050_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA Geforce RTX 3050",
+            "Bus estándar": "PCI Express 4.0",
+            "OpenGL": "4.6",
+            "DirectX": "12 ultimate",
+            "Memoria de video": "GDDR6 de 8 GB",
+            "Reloj del motor": "1777 Mhz (Boost)",
+            "Cuda Core": "2560",
+            "Velocidad de memoria": "14 Gbps",
+            "Interfaz de memoria": "128 bits",
+            "Resolución máxima digital": "7680 x 4320p",
+            "Interfaz": "3 x DisplayPort, 1 x HDMI",
+            "Máxima soporte de pantalla": "4",
+            "Conectores de alimentación": "1 x 8 pines",
+            "Dimensiones": "316 x 135 x 53 mm",
+            "Peso": "1.04 Kg",
+            "PSU recomendado": "550 W"
+        },
+        "id": 9
+    },
+    {
+        "name": "Placa de Video PowerColor Hellhound AMD Radeon RX 6600 XT 8 GB GDDR6",
+        "price": "Gs. 3.051.734",
+        "details": {
+            "Gráfico": "AMD Radeon RX 6600 XT",
+            "Memoria de video": "GDDR6 de 8 GB",
+            "Salida de video": "HDMI 2.1, DisplayPort 1.4",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "128 bit"
+        },
+        "label": "PowerColor",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/powercolor_rx6600_xt_hellhound_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/powercolor_rx6600_xt_hellhound_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/powercolor_rx6600_xt_hellhound_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/powercolor_rx6600_xt_hellhound_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/o/powercolor_rx6600_xt_hellhound_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "AMD Radeon RX 6600 XT",
+            "Bus estándar": "PCI Express 4.0 x16",
+            "OpenGL": "4.6",
+            "DirectX": "12",
+            "Memoria de video": "GDDR6 de 8 GB",
+            "Reloj del motor": "Modo OC",
+            "Stream Processor": "2048",
+            "Reloj de memoria": "16 Gbps",
+            "Interfaz de memoria": "128 bit",
+            "Resolución máxima digital": "7680 x 4320",
+            "Interfaz": "3 x DisplayPort 1.4 y 1 x HDMI 2.1",
+            "Máxima soporte de pantalla": "4",
+            "Conector de alimentación": "1 x 8 pines",
+            "PSU recomendado": "600 W",
+            "Dimensiones": "220 x 132 x 45 mm"
+        },
+        "id": 10
+    },
+    {
+        "name": "Placa de Video Goline GeForce GT210 1 GB DDR2 (GL-GT210-1D2)",
+        "price": "Gs. 260.932",
+        "details": {
+            "Gráfico": "NVIDIA GeForce GT210",
+            "Memoria de video": "DDR2 de 1 GB",
+            "Salida de video": "HDMI, DVI y VGA",
+            "Estándar de bus": "PCI Express 2.0",
+            "Interfaz de memoria": "64 bits"
+        },
+        "label": "GOLINE",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/o/goline_nvidia_gt210_gl-gt210-1d2_-_1.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA GeForce GT210",
+            "Estándar de bus": "PCI Express 2.0",
+            "Memoria de video": "1 GB DDR2",
+            "Reloj del motor": "533 MHz",
+            "Reloj de memoria": "533 MHz",
+            "Interfaz de memoria": "64 bits",
+            "Resolución máxima": "2560 x 1600p",
+            "Interfaz": "DVI, HDMI y VGA"
+        },
+        "id": 11
+    },
+    {
+        "name": "Placa de Video Goline GT 210 1GB DDR3",
+        "price": "Gs. 248.292",
+        "details": {
+            "Gráfico": "GeForce G210",
+            "Memoria de video": "DDR3 1 GB",
+            "Salida de video": "HDMI A, VGA, DVI",
+            "Estándar de bus": "PCI Express 2.0",
+            "Interfaz de memoria": "64 bits"
+        },
+        "label": "GOLINE",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/0/705585_ihvuwj.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/0/705585-1_b8bgt1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/0/705585-2_dfbjo1.jpg"
+        ],
+        "specifications": {
+            "Modelo": "GL-GT210",
+            "Motor de gráficos": "GeForce G210",
+            "Estándar de bus": "PCI Express 2.0",
+            "Memoria de video": "DDR3 1 GB",
+            "Velocidad del nucleo": "500 MHz",
+            "Frecuencia de memoria": "266 MHz",
+            "Interfaz de memoria": "64 bits",
+            "Resolución D-Sub Max": "1920 x 1080",
+            "Resolución máxima": "1920 x 1080",
+            "Salida DVI": "Si x 1",
+            "Salida VGA": "Si x 1",
+            "Salida HDMI": "Sí x 1"
+        },
+        "id": 12
+    },
+    {
+        "name": "Placa Video EVGA NVIDIA GeForce RTX 3090 FTW3 Ultra Gaming ARGB LED 24 GB GDDR6X (24G-P5-3987-KR)",
+        "price": "Gs. 8.757.936",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3090",
+            "Memoria de video": "GDDR6x de 24 GB",
+            "Salida de video": "HDMI, 3 x DisplayPort",
+            "Estándar de bus": "PCI Express 4.0 x 16",
+            "Interfaz de memoria": "384 bits"
+        },
+        "label": "Nvidia",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/v/nvidia_geforce_rtx_3090_rgb-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/v/nvidia_geforce_rtx_3090_rgb-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/v/nvidia_geforce_rtx_3090_rgb-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/v/nvidia_geforce_rtx_3090_rgb-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/v/nvidia_geforce_rtx_3090_rgb-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/v/nvidia_geforce_rtx_3090_rgb-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/v/nvidia_geforce_rtx_3090_rgb-7.jpg"
+        ],
+        "id": 13
+    },
+    {
+        "name": "Placa de Video ASRock Radeon RX 550 Phantom Gaming 2 GB GDDR5",
+        "price": "Gs. 1.340.777",
+        "details": {
+            "Gráfico": "AMD Radeon RX 550",
+            "Memoria de video": "GDDR5 de 2 GB",
+            "Salida de video": "HDMI , DisplayPort 1.4, DVI-D",
+            "Estándar de bus": "PCI Express 3.0 x 16",
+            "Interfaz de memoria": "128 bits"
+        },
+        "label": "ASRock",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/h/phantom_gaming_radeon_rx550_2g_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/h/phantom_gaming_radeon_rx550_2g_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/h/phantom_gaming_radeon_rx550_2g_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/h/phantom_gaming_radeon_rx550_2g_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/h/phantom_gaming_radeon_rx550_2g_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "AMD Radeon RX 550",
+            "Bus estándar": "PCI Express 3.0 x 16",
+            "OpenGL": "4.5",
+            "DirectX": "12",
+            "Memoria de video": "GDDR5 de 2 GB",
+            "Reloj del motor": "1183 MHz",
+            "Cuda Core": "512",
+            "Reloj de memoria": "6000 MHz",
+            "Interfaz de memoria": "128 bits",
+            "Resolución máxima digital": "5120 x 2880 a 60Hz",
+            "Interfaz": "1 x DVI-D, 1 x HDMI 2.0, 1 x DisplayPort 1.4",
+            "Máxima soporte de pantalla": "3",
+            "PSU recomendado": "350 W"
+        },
+        "id": 14
+    },
+    {
+        "name": "Placa de Video Sapphire Nitro+ AMD Radeon RX 6900 XT ARGB 16 GB GDDR6 (11308-01-20G)",
+        "price": "Gs. 17.154.720",
+        "details": {
+            "Gráfico": "AMD Radeon RX 6900 XT",
+            "Arquitectura": "AMD RDNA 2",
+            "Memoria de video": "GDDR6 de 16 GB",
+            "Salida de video": "1 x HDMI, 3 x DisplayPort 1.4",
+            "Estándar de bus": "PCI Express 4.0 x 16"
+        },
+        "label": "Sapphire",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd_radeon_rx_6900_xt_11308-01-20g.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd_radeon_rx_6900_xt_11308-01-20g_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd_radeon_rx_6900_xt_11308-01-20g_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd_radeon_rx_6900_xt_11308-01-20g_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd_radeon_rx_6900_xt_11308-01-20g_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd_radeon_rx_6900_xt_11308-01-20g_-_6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/m/amd_radeon_rx_6900_xt_11308-01-20g_-_7.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "AMD Radeon RX 6900 XT",
+            "Bus estándar": "PCI Express 4.0 x 16",
+            "Arquitectura": "RDNA 2",
+            "Memoria de video": "GDDR6 de 16 GB",
+            "Reloj del motor": "Reloj de impulso",
+            "Cuda Core": "5120",
+            "Reloj de memoria": "16 Gbps",
+            "Resolución máxima digital": "7680 x 4320",
+            "Interfaz": "3 x DisplayPort 1.4, 1 x HDMI",
+            "Máxima soporte de pantalla": "4",
+            "Enfriamiento": "3 ventiladores",
+            "Consumo de energía": "340 W",
+            "Conector de alimentación de": "2 x 8 pines"
+        },
+        "id": 15
+    },
+    {
+        "name": "Placa de Video PNY GeForce RTX 3080 XLR8 Gaming UPRISING EPIC-X RGB Triple Fan Edition 10 GB GDDR6X",
+        "price": "Gs. 6.591.024",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3080",
+            "Memoria de video": "GDDR6X de 10 GB",
+            "Salida de video": "HDMI 2.1 y DisplayPort 1.4",
+            "Estándar de bus": "PCI Express 4.0 x 16",
+            "Interfaz de memoria": "320 Bits"
+        },
+        "label": "PNY",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx3080_xlr8_rgb_triple_fan_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx3080_xlr8_rgb_triple_fan_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx3080_xlr8_rgb_triple_fan_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx3080_xlr8_rgb_triple_fan_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx3080_xlr8_rgb_triple_fan_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_rtx3080_xlr8_rgb_triple_fan_-_6.jpg"
+        ],
+        "specifications": {
+            "Gráfico": "NVIDIA GeForce RTX 3080",
+            "Núcleos CUDA": "8704",
+            "Velocidad de reloj": "1440 MHz",
+            "Velocidad de impulso": "1710 MHz",
+            "Velocidad de memoria (Gbps)": "19",
+            "Tamaño de la memoria": "GDDR6X de 10 GB",
+            "interfaz de memoria": "320 bits",
+            "Ancho de banda de memoria (GB / seg) 760": "",
+            "TDP": "320 W",
+            "Salidas": "DisplayPort 1.4 x 3, HDMI 2.1",
+            "Pantalla multiple": "4",
+            "Resolución": "7680 × 4320 a 60Hz (digital)",
+            "Entrada de alimentación": "Dos de 8 pines",
+            "Tipo de bus": "PCI-Express 4.0 × 16",
+            "Dimensiones de la tarjeta": "12.48 \"x 4.53\" x 2.36 \" (3 ranuras)"
+        },
+        "id": 16
+    },
+    {
+        "name": "Placa de Video EVGA GeForce RTX 3060 Ti XC Gaming LHR 8 GB GDDR6",
+        "price": "Gs. 5.308.934",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3060 Ti",
+            "Memoria de video": "GDDR6 de 8 GB",
+            "Salida de video": "HDMI, DisplayPort v1.4a",
+            "Estándar de bus": "PCI Express 4.0 x 16",
+            "Interfaz de memoria": "256 bits"
+        },
+        "label": "EVGA",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/0/8/08g-p5-3663-kl_xl_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/0/8/08g-p5-3663-kl_xl_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/0/8/08g-p5-3663-kl_xl_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/0/8/08g-p5-3663-kl_xl_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/0/8/08g-p5-3663-kl_xl_6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/0/8/08g-p5-3663-kl_xl_4.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "NVIDIA GeForce RTX 3060 Ti",
+            "Bus estándar": "PCI Express 4.0 x 16",
+            "OpenGL": "4.6",
+            "DirectX": "12 Ultimate",
+            "Memoria de video": "GDDR6 de 8 GB",
+            "Reloj del motor": "Boost",
+            "Cuda Core": "4864",
+            "Reloj de memoria": "14 Gbps",
+            "Interfaz de memoria": "256 bits",
+            "Resolución máxima digital": "7680 x 4320",
+            "Interfaz": "3 x DisplayPort 1.4a, 1 x HDMI",
+            "Máxima soporte de pantalla": "4",
+            "PSU recomendado": "600 W"
+        },
+        "id": 17
+    },
+    {
+        "name": "Placa de Video Gainward GeForce GTX 1050 Ti 4 GB GDDR5 (NE5105T018G1-1070F)",
+        "price": "Gs. 1.561.982",
+        "details": {
+            "Gráfico": "NVIDIA GeForce GTX 1050 Ti",
+            "Memoria de video": "GDDR5 de 4 GB",
+            "Salida de video": "HDMI 2.0, DisplayPort y DVI",
+            "Estándar de bus": "PCI Express 3.0 x16",
+            "Interfaz de memoria": "128 bits"
+        },
+        "label": "Gainward",
+        "categories": [
+            "Tarjetas gráficas",
+            "Cyberday"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_gtx1050ti_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_gtx1050ti_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_gtx1050ti_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_gtx1050ti_-_4.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce GTX 1050 Ti",
+            "Velocidad de reloj de la GPU": "1392 Mhz (impulso)/1290 Mhz (base)",
+            "Memoria": "GDDR5 de 4 GB (128 bits)",
+            "Velocidad de reloj de memoria": "3500Mhz",
+            "Banda ancha": "112 GB/s",
+            "Autobús": "PCI-Express 3.0 x 16",
+            "Enfriamiento": "Enfriador de ventilador de 2 ranuras",
+            "Conectividad": "HDMI 2.0, DVI-D y DisplayPort",
+            "Tamaño del producto": "166 mm x 112 mm"
+        },
+        "id": 18
+    },
+    {
+        "name": "Placa de Video Gainward Pegasus GeForce GTX 1660 Ti 6 GB GDDR6 (NE6166T018J9-161F)",
+        "price": "Gs. 3.521.232",
+        "details": {
+            "Gráfico": "NVIDIA GeForce GTX 1660 Ti",
+            "Memoria de video": "GDDR6 de 6 GB",
+            "Salida de video": "HDMI 2.0, DisplayPort y DVI",
+            "Estándar de bus": "PCI Express 3.0 x16",
+            "Interfaz de memoria": "192 bits"
+        },
+        "label": "Gainward",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_gtx1660_ti_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_gtx1660_ti_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_gtx1660_ti_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_gtx1660_ti_-_4.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce GTX 1660 Ti",
+            "Velocidad de reloj de GPU": "1770 MHz",
+            "Memoria": "6GB GDDR6 (192 bits)",
+            "Velocidad del Reloj de la Memoria": "6000Mhz (12Gbps)",
+            "Ancho de banda": "288 GB/s",
+            "Bus": "PCI-Express 3.0 x16",
+            "Enfriamiento": "2 Slot Fan cooler",
+            "Conectividad": "HDMI 2.0, DisplayPort y DVI-D",
+            "Tamaño del Producto": "168mm x 126mm (Mini-ITX)",
+            "Conector de alimentación": "8 pines"
+        },
+        "id": 19
+    },
+    {
+        "name": "Placa Video Gainward Phoenix V1 GeForce RTX 3080 10 GB GDDR6 (LHR)",
+        "price": "Gs. 7.764.768",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3080",
+            "Memoria de video": "GDDR6x de 10 GB",
+            "Salida de video": "HDMI 2.1 y DisplayPort",
+            "Estándar de bus": "PCI Express 4.0 x 16",
+            "Interfaz de memoria": "320 bits"
+        },
+        "label": "Gainward",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3080_phoenix_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3080_phoenix_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3080_phoenix_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3080_phoenix_-_5_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3080_phoenix_-_4_1.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce RTX 3080",
+            "Velocidad de reloj de la GPU": "1710 MHz (impulso)",
+            "Memoria": "GDDR6x de 10 GB (320 bits)",
+            "Velocidad de reloj de memoria": "9500 Mhz (19 Gbps)",
+            "Banda ancha": "760 GB/s",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Enfriamiento": "Enfriador de ventilador de 2.7 ranuras",
+            "Conectividad": "1 x HDMI 2.1 y 3 x DisplayPort",
+            "Tamaño del producto": "294 mm x 112 mm",
+            "Conector de alimentación": "2 x 8 pines"
+        },
+        "id": 20
+    },
+    {
+        "name": "Placa de Video Gainward GeForce RTX 3090 Phoenix GS 24 GB GDDR6x (NED30900S19SB-132BX)",
+        "price": "Gs. 10.383.120",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3090",
+            "Memoria de video": "GDDR6x de 24 GB",
+            "Salida de video": "DisplayPort y HDMI 2.1",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "384 bits"
+        },
+        "label": "Gainward",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3090_24gb_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3090_24gb_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3090_24gb_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3090_24gb_-_7.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3090_24gb_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3090_24gb_-_6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3090_24gb_-_5.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce RTX 3090",
+            "GPU Clockspeed": "1725 MHz (Boost)",
+            "Memoria": "24 GB GDDR6x (384 bits)",
+            "Memoria Clockspeed": "9750Mhz (19.5Gbps)",
+            "Ancho de banda": "936 GB/s",
+            "Bus": "PCI-Express 4.0 x 16",
+            "Refrigeración": "2.7 Slot Dual Fan Cooler",
+            "Conectividad": "3 x DisplayPort, 1 x HDMI v2.1",
+            "Dimensiones": "294 mm x 112 mm",
+            "Conector de alimentación": "2 x 8 pines"
+        },
+        "id": 21
+    },
+    {
+        "name": "Placa de Video Gainward GeForce GTX 1660 Super Ghost 6 GB GDDR6",
+        "price": "Gs. 2.148.854",
+        "details": {
+            "Gráfico": "NVIDIA GeForce GTX 1660 Super",
+            "Memoria de video": "GDDR6 de 6 GB",
+            "Salida de video": "HDMI v2.0, DisplayPort y DVI",
+            "Estándar de bus": "PCI Express 3.0 x16",
+            "Interfaz de memoria": "192 bits"
+        },
+        "label": "Gainward",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_geforce_gtx_1660_super_-_01.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_geforce_gtx_1660_super_-_02.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_geforce_gtx_1660_super_-_03.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_geforce_gtx_1660_super_-_04.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_geforce_gtx_1660_super_-_05.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_geforce_gtx_1660_super_-_06.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce GTX 1660 Super",
+            "Velocidad de reloj de la GPU": "1785 MHz (Boost)",
+            "Memoria": "6GB GDDR6 (192 bits)",
+            "Velocidad de reloj de memoria": "7000 Mhz (14 Gbps)",
+            "Banda ancha": "336 GB/s",
+            "Bus": "PCI-Express 3.0 x 16",
+            "Enfriamiento": "2 Slot Fan cooler",
+            "Conectividad": "DisplayPort, DVI-D y HDMI v2.0",
+            "Tamaño del producto": "235 mm x 115 mm",
+            "Conector de alimentación": "8 pines"
+        },
+        "id": 22
+    },
+    {
+        "name": "Placa de Video Gainward Phoenix GeForce RTX 3080 Ti 12 GB GDDR6x (NED308T019KB-132AX)",
+        "price": "Gs. 12.098.592",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3080 Ti",
+            "Memoria de video": "GDDR6x de 12 GB",
+            "Salida de video": "DisplayPort y HDMI v2.1",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "384 bits"
+        },
+        "label": "Gainward",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned308t019kb-132ax_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned308t019kb-132ax_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned308t019kb-132ax_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned308t019kb-132ax_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned308t019kb-132ax_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "GeForce RTX 3080 Ti",
+            "Velocidad de reloj de la GPU": "1665 MHz (Boost)",
+            "Memoria": "GDDR6X de 12 GB (384 bits)",
+            "Velocidad de reloj de memoria": "9500 Mhz (19 Gbps)",
+            "Banda ancha": "912 GB/s",
+            "Bus": "PCI-Express Gen 4 x16",
+            "Conectividad": "DisplayPort 1.4a x 3, HDMI v2.1",
+            "Tamaño del producto": "294 mm x 112 mm",
+            "Conector de alimentación": "8 pines x 2"
+        },
+        "id": 23
+    },
+    {
+        "name": "Placa de Video Gainward Phantom + GeForce RTX 3090 24 GB GDDR6x (NED3090T19SB-1021M)",
+        "price": "Gs. 24.332.616",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3090",
+            "Memoria de video": "GDDR6x de 24 GB",
+            "Salida de video": "HDMI 2.1, DisplayPort",
+            "Estándar de bus": "PCI Express 4.0 x 16",
+            "Interfaz de memoria": "384 bits"
+        },
+        "label": "Gainward",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3090t19sb-1021m_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3090t19sb-1021m_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3090t19sb-1021m_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3090t19sb-1021m_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3090t19sb-1021m_-_5.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "GeForce RTX 3090",
+            "Velocidad de reloj de GPU": "1740 MHz (impulso)",
+            "Memoria": "24 GB GDDR6X (384 bits)",
+            "Velocidad de reloj de memoria": "9750 Mhz (19.5 Gbps)",
+            "Banda ancha": "936 GB/s",
+            "Bus": "PCI-Express Gen 4 x16",
+            "Enfriamiento": "3 x Coolers",
+            "Funciones de video": "HDMI v2.1",
+            "Conectividad": "3 x DisplayPort, HDMI 2.1",
+            "Tamaño del producto": "304 mm x 138 mm",
+            "Conector de alimentación": "3 x 8 pines"
+        },
+        "id": 24
+    },
+    {
+        "name": "Placa de Video ASRock AMD Radeon RX 6600 XT Challenger D OC 8 GB GDDR6 (90-GA2TZZ-00UANY)",
+        "price": "Gs. 4.017.816",
+        "details": {
+            "Gráfico": "AMD Radeon RX 6600 XT",
+            "Memoria de video": "GDDR6 de 8 GB",
+            "Salida de video": "HDMI v2.1 y DisplayPort 1.4",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "128 bits"
+        },
+        "label": "ASRock",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_challenger_rx6600_xt_8gb_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_challenger_rx6600_xt_8gb_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_challenger_rx6600_xt_8gb_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_challenger_rx6600_xt_8gb_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asrock_challenger_rx6600_xt_8gb_-_4.jpg"
+        ],
+        "specifications": {
+            "Motor de gráficos": "AMD Radeon RX 6600 XT",
+            "Bus estándar": "PCI Express 4.0",
+            "Memoria de video": "GDDR6 de 8 GB",
+            "Reloj del motor": "Boost",
+            "Cuda Core": "2048",
+            "Reloj de memoria": "16 Gb/s",
+            "Interfaz de memoria": "128 bits",
+            "Resolución máxima digital": "7680 x 4320p",
+            "Interfaz": "3 x DisplayPort 1.4 y 1 x HDMI 2.1",
+            "Máxima soporte de pantalla": "4",
+            "PSU recomendado": "500 W",
+            "Conector de alimentación": "1 x 8 pines"
+        },
+        "id": 25
+    },
+    {
+        "name": "Placa de Video Gainward Ghost LHR GeForce RTX 3050 8 GB GDDR6 (NE63050019P1-190AB)",
+        "price": "Gs. 2.636.410",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3050",
+            "Memoria de video": "GDDR6 de 8 GB",
+            "Salida de video": "HDMI v2.1 y DisplayPort",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Interfaz de memoria": "128 bits"
+        },
+        "label": "Gainward",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3050_ghost_lhr_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3050_ghost_lhr_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3050_ghost_lhr_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3050_ghost_lhr_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3050_ghost_lhr_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gainward_rtx3050_ghost_lhr_-_6.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce RTX 3050",
+            "Velocidad de reloj de la GPU": "1777 MHz (Boost)",
+            "Memoria": "8 GB GDDR6 (128 bits)",
+            "Velocidad de reloj de memoria": "7000 Mhz (14 Gbps)",
+            "Banda ancha": "224 GB/s",
+            "Bus": "PCI-Express 4.0 x16",
+            "Enfriamiento": "2 x Fan cooler",
+            "Conectividad": "3 x DisplayPort y HDMI v2.1",
+            "Tamaño del producto": "245 mm x 119 mm",
+            "Conector de alimentación": "8 pines"
+        },
+        "id": 26
+    },
+    {
+        "name": "Placa de Video Palit Dual GeForce RTX 2060 12 GB GDDR6 (NE62060018K9-1160C)",
+        "price": "Gs. 3.476.088",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 2060",
+            "Memoria de video": "GDDR6 de 12 GB",
+            "Salida de video": "HDMI 2.0b y DisplayPort 1.4a",
+            "Estándar de bus": "PCI Express 3.0 x 16",
+            "Interfaz de memoria": "192 bits"
+        },
+        "label": "Palit",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ne62060018k9-1160c_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ne62060018k9-1160c_-_7.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ne62060018k9-1160c_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ne62060018k9-1160c_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ne62060018k9-1160c_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ne62060018k9-1160c_-_6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ne62060018k9-1160c_-_5.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce RTX 2060",
+            "Velocidad de reloj de la GPU": "1650 MHz (impulso)",
+            "Memoria": "GDDR6 de 12 GB (192 bits)",
+            "Velocidad de reloj de memoria": "14 Gbps",
+            "Núcleos CUDA": "2176",
+            "Banda ancha": "336 GB/s",
+            "Estándar de bus": "PCI Express 3.0 x16",
+            "Enfriamiento": "Enfriador de ventilador de 2 ranuras",
+            "Conectividad": "1 x HDMI 2.0 y 3 x DisplayPort 1.4a",
+            "Tamaño del producto": "235 mm x 115 mm",
+            "Fuente de alimentación recomendada": "500W",
+            "Conector de alimentación": "1 x 8 pines"
+        },
+        "id": 27
+    },
+    {
+        "name": "Placa de Video Palit GeForce RTX 3080 GamingPro OC LHR 12 GB GDDR6x (NED3080S19KB-132AA)",
+        "price": "Gs. 7.042.464",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3080",
+            "Memoria de video": "GDDR6x de 12 GB",
+            "Salida de video": "HDMI 2.1 y DisplayPort 1.4a",
+            "Estándar de bus": "PCI Express 4.0 x 16",
+            "Interfaz de memoria": "384 bits"
+        },
+        "label": "Palit",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080s19kb-132aa_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080s19kb-132aa_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080s19kb-132aa_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080s19kb-132aa_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080s19kb-132aa_-_7.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080s19kb-132aa_-_6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080s19kb-132aa_-_4.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce RTX 3080",
+            "Velocidad de reloj de la GPU": "1740 MHz (Boost)",
+            "Memoria": "GDDR6x de 12 GB (384 bits)",
+            "Velocidad de reloj de memoria": "19 Gbps",
+            "Banda ancha": "912 GB/s",
+            "Núcleos CUDA": "8960",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Enfriamiento": "3 x Coolers",
+            "Conectividad": "1 x HDMI 2.1 y 3 x DisplayPort 1.4a",
+            "Tamaño del producto": "294 mm x 112 mm x 60 mm",
+            "Fuente de alimentación recomendada": "750W",
+            "Conector de alimentación": "2 x 8 pines"
+        },
+        "id": 28
+    },
+    {
+        "name": "Placa de Video Palit GamingPro LHR GeForce RTX 3080 10 GB GDDR6x (NED3080019IA-132AA)",
+        "price": "Gs. 6.455.592",
+        "details": {
+            "Gráfico": "NVIDIA GeForce RTX 3080",
+            "Memoria de video": "GDDR6x de 10 GB",
+            "Salida de video": "HDMI 2.1 y DisplayPort 1.4a",
+            "Estándar de bus": "PCI Express 4.0 x 16",
+            "Interfaz de memoria": "320 bits"
+        },
+        "label": "Palit",
+        "categories": [
+            "Tarjetas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080019ia-132aa_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080019ia-132aa_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080019ia-132aa_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080019ia-132aa_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080019ia-132aa_-_6.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/ned3080019ia-132aa_-_7.jpg"
+        ],
+        "specifications": {
+            "Gráficos": "GeForce RTX 3080",
+            "Velocidad de reloj de la GPU": "1710 MHz (Boost)",
+            "Memoria": "GDDR6x de 10 GB (320 bits)",
+            "Velocidad de reloj de memoria": "19 Gbps",
+            "Banda ancha": "760 GB/s",
+            "Núcleos CUDA": "8704",
+            "Estándar de bus": "PCI Express 4.0 x16",
+            "Enfriamiento": "3 x Coolers",
+            "Conectividad": "1 x HDMI 2.1 y 3 x DisplayPort 1.4a",
+            "Tamaño del producto": "294 mm x 112 mm x 60 mm",
+            "Fuente de alimentación recomendada": "750W",
+            "Conector de alimentación": "2 x 8 pines"
+        },
+        "id": 29
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "name": "Memoria RAM DDR2 SO-DIMM Keepdata",
+        "price": "Gs. 44.241",
+        "details": {
+            "Tipo de memoria": "DDR2",
+            "Conector": "SO-DIMM para notebook"
+        },
+        "label": "Keepdata",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/d/kd667s5_2g_-_1_1.jpg"
+        ],
+        "id": 1
+    },
+    {
+        "name": "Memoria RAM DDR5 Kingston 4800 MHz 8 GB Fury Beast KF548C38BB/8",
+        "price": "Gs. 404.039",
+        "details": {
+            "Tipo de memoria": "DDR5",
+            "Capacidad": "8 GB",
+            "Frecuencia": "4800 MHz",
+            "Latencia": "CL 38",
+            "Conector": "DIMM",
+            "Integrado": "Disipador de calor"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg_-_001_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-2-zm-lg_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg_-002_1_1.jpg"
+        ],
+        "id": 2
+    },
+    {
+        "name": "Memoria RAM DDR5 Kingston 5200 MHz 8 GB Fury Beast KF552C40BB/8",
+        "price": "Gs. 419.839",
+        "details": {
+            "Tipo de memoria": "DDR5",
+            "Capacidad": "8 GB",
+            "Frecuencia": "5200 MHz",
+            "Latencia": "CL 40",
+            "Conector": "DIMM",
+            "Integrado": "Disipador de calor"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg_2_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg_-_001_2_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg_-002_2_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-2-zm-lg_2_3.jpg"
+        ],
+        "id": 3
+    },
+    {
+        "name": "Memoria RAM DDR3L Kingston 1600 MHz 4 GB KVR16LN11/4",
+        "price": "Gs. 157.101",
+        "details": {
+            "Tipo de memoria": "DDR3L",
+            "Capacidad": "4 GB",
+            "Frecuencia": "1600 MHz",
+            "Latencia": "CL 11",
+            "Conector": "DIMM"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc-58939-1_1_1.jpg"
+        ],
+        "id": 4
+    },
+    {
+        "name": "Memoria RAM DDR4 Lexar Hades RGB (2 x GB)",
+        "price": "Gs. 1.327.234",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "DIMM",
+            "Retroiluminación": "RGB"
+        },
+        "label": "Lexar",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc-76403.jpg"
+        ],
+        "id": 5
+    },
+    {
+        "name": "Memoria RAM DDR4 Lexar Hades (2 x GB)",
+        "price": "Gs. 1.223.402",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "DIMM"
+        },
+        "label": "Lexar",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/6/76401-1.jpg"
+        ],
+        "id": 6
+    },
+    {
+        "name": "Memoria RAM DDR4 SO-DIMM Lexar",
+        "price": "Gs. 260.932",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "SO-DIMM"
+        },
+        "label": "Lexar",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc-76391.jpg"
+        ],
+        "id": 7
+    },
+    {
+        "name": "Memoria RAM DDR4 HP V6 3200 MHz 16 GB - Negro (7EH68AA)",
+        "price": "Gs. 677.160",
+        "details": {
+            "Capacidad": "16 GB",
+            "Tecnología": "DDR4 SDRAM",
+            "Velocidad": "3200 Mhz",
+            "Conector": "DIMM",
+            "Integrado": "Disipador de calor"
+        },
+        "label": "HP",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/1/71ph_fznipl._ac_sl1500_.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/1/61u9vyq0wnl._ac_sl1500_.jpg"
+        ],
+        "id": 8
+    },
+    {
+        "name": "Memoria RAM DDR4 SO-DIMM HP S1",
+        "price": "Gs. 622.987",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "SO-DIMM para notebook"
+        },
+        "label": "HP",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/10465_87_1_photo_noise_scale_level3_x2.000000__2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/10465_87_2_photo_noise_scale_level3_x2.000000__2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/10465_87_3_photo_noise_scale_level3_x2.000000__2.jpg"
+        ],
+        "id": 9
+    },
+    {
+        "name": "Memoria RAM DDR4 PNY 3200 MHz 8 GB MD8GSD43200-TB",
+        "price": "Gs. 243.778",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Capacidad": "8 GB",
+            "Frecuencia": "3200 MHz",
+            "Latencia": "CL 22",
+            "Conector": "DIMM"
+        },
+        "label": "PNY",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/n/pny_md8gsd43200-tb.jpg"
+        ],
+        "id": 10
+    },
+    {
+        "name": "Memoria RAM DDR5 Kingston Fury Beast (2 x GB)",
+        "price": "Gs. 2.212.056",
+        "details": {
+            "Tipo de memoria": "DDR5",
+            "Conector": "DIMM",
+            "Integrado": "Disipador de calor"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/f/bfxd548.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-kit2-2-zm-lg.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-kit2-1-zm-lg.jpg"
+        ],
+        "id": 11
+    },
+    {
+        "name": "Memoria RAM DDR4 SO-DIMM Kingston 3200 MHZ 8 GB KVR32S22S8/8",
+        "price": "Gs. 225.720",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Capacidad": "8 GB",
+            "Frecuencia": "3200 MHz",
+            "Latencia": "CL 22",
+            "Conector": "SO-DIMM para notebook"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/i/kingston_ddr4_so-dimm_6_1.jpg"
+        ],
+        "id": 12
+    },
+    {
+        "name": "Memoria RAM DDR5 Kingston Fury Beast",
+        "price": "Gs. 649.171",
+        "details": {
+            "Tipo de memoria": "DDR5",
+            "Conector": "DIMM",
+            "Integrado": "Disipador de calor"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg_-_001.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-2-zm-lg.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/t/ktc-product-memory-beast-ddr5-single-1-zm-lg_-002.jpg"
+        ],
+        "id": 13
+    },
+    {
+        "name": "Memoria RAM DDR4 SO-DIMM Up Gamer - Negro",
+        "price": "Gs. 523.670",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "SO-DIMM para notebook"
+        },
+        "label": "Up",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/3/73206-1_1.jpg"
+        ],
+        "id": 14
+    },
+    {
+        "name": "Memoria RAM DDR4 SO-DIMM Kingston Fury Impact",
+        "price": "Gs. 234.749",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "SO-DIMM para notebook"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/1/71662.jpg"
+        ],
+        "specifications": {
+            "SO-DIMM de potente rendimiento": "",
+            "Función de overclocking automático Plug N Play": "",
+            "Preparado para Intel XMP y con homologación XMP": "",
+            "Preparado para AMD Ryzen": "",
+            "Mejor rendimiento con menor consumo eléctrico": "",
+            "Delgado factor de forma, estilizado diseño": ""
+        },
+        "id": 15
+    },
+    {
+        "name": "Memoria RAM DDR4 Markvision",
+        "price": "Gs. 392.753",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "DIMM"
+        },
+        "label": "Markvision",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/0/70052-2.jpg"
+        ],
+        "id": 16
+    },
+    {
+        "name": "Memoria RAM DDR3 Markvision",
+        "price": "Gs. 76.745",
+        "details": {
+            "Tipo de memoria": "DDR3",
+            "Conector": "DIMM"
+        },
+        "label": "Markvision",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/0/70357-2.jpg"
+        ],
+        "id": 17
+    },
+    {
+        "name": "Memoria RAM DDR4 Patriot Signature Line - Negro",
+        "price": "Gs. 521.413",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "DIMM"
+        },
+        "label": "Patriot",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc-69976.jpg"
+        ],
+        "id": 18
+    },
+    {
+        "name": "Memoria RAM DDR4 Kingston Fury Beast - Negro",
+        "price": "Gs. 185.090",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "DIMM",
+            "Integrado": "Disipador de calor"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/f/u/fury_beast_9.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/f/u/fury_beast-1_1_1.jpg"
+        ],
+        "id": 19
+    },
+    {
+        "name": "Memoria RAM DDR4 Kingston Fury Beast RGB - Negro",
+        "price": "Gs. 314.202",
+        "details": {
+            "Tipo de memoria": "DDR4",
+            "Conector": "DIMM",
+            "Retroiluminación": "RGB",
+            "Integrado": "Disipador de calor"
+        },
+        "label": "Kingston",
+        "categories": [
+            "Memorias RAM"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/f/u/fury_beast_rgb-111.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/f/u/fury_beast_rgb-112.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/f/u/fury_beast_rgb-113.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/f/u/fury_beast_rgb-114.jpg"
+        ],
+        "id": 20
+    }
+]

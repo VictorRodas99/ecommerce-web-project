@@ -1,0 +1,799 @@
+[
+    {
+        "name": "Blu C5 2019 C-110L Dual",
+        "price": "Gs. 432.480",
+        "details": {
+            "Tamaño de pantalla": "5\" IPS LCD",
+            "Resolución": "480 x 854",
+            "Cámara principal": "5MP",
+            "Cámara frontal": "5MP"
+        },
+        "label": "BLU",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/negreec5dscdscsd_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/negreec5dwedewwdsaddsa_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/negreec5dwewdewed_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/negreec5fbgfbg_1.jpg"
+        ],
+        "id": 1
+    },
+    {
+        "name": "Blu C5 C-110L Dual 16 GB - Pastel",
+        "price": "Gs. 432.480",
+        "details": {
+            "Tamaño de pantalla": "5\" IPS LCD",
+            "Resolución": "480 x 854",
+            "Cámara principal": "5MP",
+            "Cámara frontal": "5MP"
+        },
+        "label": "BLU",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/m/smartphone-blu-c5-2019-3g-dual-sim-50-1gb-16gb-pastel.jpg"
+        ],
+        "id": 2
+    },
+    {
+        "name": "Blu J4 J-170EQ Dual",
+        "price": "Gs. 504.710",
+        "details": {
+            "Tamaño de pantalla": "5.5\" LCD",
+            "Resolución": "720 x 1440",
+            "Cámara principal": "8MP",
+            "Cámara frontal": "8MP"
+        },
+        "label": "BLU",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-0-8-7-9-4-108794-1611231844_1611231844_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-1-5-3-4-3-115343-1613222035_1613222035_2_1.jpg"
+        ],
+        "id": 3
+    },
+    {
+        "name": "ZTE Blade A31 Plus Dual 32 GB - Gris",
+        "price": "Gs. 641.045",
+        "details": {
+            "Tamaño de pantalla": "6.0\" IPS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "5MP",
+            "Cámara frontal": "2MP"
+        },
+        "label": "Zte",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/f/g/fgfgfggfgf.jpg"
+        ],
+        "id": 4
+    },
+    {
+        "name": "ZTE Blade A31 Lite Dual 32 GB - Gray",
+        "price": "Gs. 713.275",
+        "details": {
+            "Tamaño de Pantalla": "5.0'' TFT LCD",
+            "Resolución": "480 x 960",
+            "Cámara principal": "5MP",
+            "Cámara frontal": "2MP"
+        },
+        "label": "Zte",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/g/tgrttrhtrh.jpg"
+        ],
+        "id": 5
+    },
+    {
+        "name": "BLU G50 G0330WW Dual",
+        "price": "Gs. 811.689",
+        "details": {
+            "Tamaño de Pantalla": "5.5'' LCD IPS",
+            "Resolución": "720 x 1440",
+            "Cámara principal": "13MP",
+            "Cámara frontal": "8MP",
+            "Memoria interna": "32 GB"
+        },
+        "label": "BLU",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/1/811ccaf6-d81b-4aa1-a0bd-b7969d012878_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/0/70127148-ebdb-4ae5-a61c-3a05c138fb52_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/e/5/e5acceb5-7fcb-49ab-a3aa-f6b52fd9186c_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/e/e/eeb7c9e1-59c5-4cc8-ab66-31a264d13acd_1.jpg"
+        ],
+        "id": 6
+    },
+    {
+        "name": "Blu G70 G-G0251WW Dual 32 GB - Azul",
+        "price": "Gs. 811.689",
+        "details": {
+            "Tamaño de pantalla": "6.4\" IPS LCD",
+            "Resolución": "720 x 1560",
+            "Cámara principal": "Dual 13MP - 2MP",
+            "Cámara frontal": "8MP",
+            "Memoria interna": "32 GB"
+        },
+        "label": "BLU",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/v/gverdeee_1_1_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-1-5-1-2-1-115121-1611840519.3_2.jpg"
+        ],
+        "id": 7
+    },
+    {
+        "name": "Samsung Galaxy A04e SM-A042M/DS Dual",
+        "price": "Gs. 848.707",
+        "details": {
+            "Tamaño de Pantalla": "6.5'' PLS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Dual 13MP + 2MP",
+            "Cámara frontal": "5MP"
+        },
+        "label": "Samsung",
+        "categories": [
+            "Teléfonos inteligentes",
+            "Samsung"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105727.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105728.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105730.jpg"
+        ],
+        "id": 8
+    },
+    {
+        "name": "Samsung Galaxy A04 SM-A045M/DS Dual",
+        "price": "Gs. 880.308",
+        "details": {
+            "Tamaño de pantalla": "6.5\" PLS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Dual 50MP + 2MP",
+            "Cámara frontal": "5MP"
+        },
+        "label": "Samsung",
+        "categories": [
+            "Teléfonos inteligentes",
+            "Samsung"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/o/i/oilioloil.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/o/i/oiliouloi.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/y/tyhthyhty.jpg"
+        ],
+        "id": 9
+    },
+    {
+        "name": "ZTE Blade A52 Dual",
+        "price": "Gs. 893.851",
+        "details": {
+            "Tamaño de Pantalla": "6.52'' IPS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Triple 13MP + 2MP + 2MP",
+            "Cámara frontal": "5MP"
+        },
+        "label": "Zte",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/f/dfvdfvfvddfvfddfdfvdfvdfv.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/f/dfvdfvfvddfvfddfdfvdfvdfvtry.jpg"
+        ],
+        "id": 10
+    },
+    {
+        "name": "Samsung Galaxy A04 SM-A045M/DS Dual + Memoria 64 GB",
+        "price": "Gs. 893.851",
+        "details": {
+            "Tamaño de pantalla": "6.5\" PLS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Dual 50MP + 2MP",
+            "Cámara frontal": "5MP"
+        },
+        "label": "Samsung",
+        "categories": [
+            "Teléfonos inteligentes",
+            "Samsung"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/o/i/oilioloil_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/o/i/oiliouloi_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/y/tyhthyhty_2.jpg"
+        ],
+        "id": 11
+    },
+    {
+        "name": "Samsung Galaxy A04e SM-A042M/DS Dual",
+        "price": "Gs. 929.064",
+        "details": {
+            "Tamaño de Pantalla": "6.5'' PLS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Dual 13MP + 2MP",
+            "Cámara frontal": "5MP"
+        },
+        "label": "Samsung",
+        "categories": [
+            "Teléfonos inteligentes",
+            "Samsung"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105727_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105728_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105730_2.jpg"
+        ],
+        "id": 12
+    },
+    {
+        "name": "Nokia G10 TA-1338 64 GB - Lila",
+        "price": "Gs. 938.092",
+        "details": {
+            "Tamaño de Pantalla": "6.52\" IPS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Triple 13MP + 2MP + 2MP",
+            "Cámara frontal": "8MP"
+        },
+        "label": "Nokia",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/o/nokia-g10_-4g_-32gb_-purple-uyuy.jpg"
+        ],
+        "id": 13
+    },
+    {
+        "name": "Samsung Galaxy A04s SM-A047M/DS Dual",
+        "price": "Gs. 1.142.143",
+        "details": {
+            "Tamaño de Pantalla": "6.5\" PLS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Triple 50MP + 2MP + 2MP",
+            "Cámara frontal": "5MP"
+        },
+        "label": "Samsung",
+        "categories": [
+            "Teléfonos inteligentes",
+            "Samsung"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105729.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105731.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/105732.jpg"
+        ],
+        "id": 14
+    },
+    {
+        "name": "Oppo A57 CPH2387 Dual",
+        "price": "Gs. 1.155.686",
+        "details": {
+            "Tamaño de pantalla": "6.56\" IPS LCD",
+            "Resolución": "720 x 1612",
+            "Cámara principal": "Dual 13MP + 2MP",
+            "Cámara frontal": "8MP"
+        },
+        "label": "Oppo",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-2-9-1-3-0-129130-1663253935_1663253935_1_1.jpg"
+        ],
+        "id": 15
+    },
+    {
+        "name": "Motorola Moto G30 XT2129-2 Dual",
+        "price": "Gs. 1.275.318",
+        "details": {
+            "Tamaño de pantalla": "6.5\" LCD IPS",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Cuadruple 64MP + 8MP + 2MP + 2MP",
+            "Cámara frontal": "13MP",
+            "Memoria interna": "64 GB",
+            "Memoria RAM": "4 GB"
+        },
+        "label": "Motorola",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/o/moto-g30-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/m/image_7.jpg"
+        ],
+        "id": 16
+    },
+    {
+        "name": "ZTE Blade V40 Vita Dual 128 GB - Verde",
+        "price": "Gs. 1.282.090",
+        "details": {
+            "Tamaño de Pantalla": "6.75'' IPS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Triple 48MP + 2MP + 2MP",
+            "Cámara frontal": "8MP"
+        },
+        "label": "Zte",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/r/trgtrgtrgtrg_7.jpg"
+        ],
+        "id": 17
+    },
+    {
+        "name": "ZTE Blade V40 Vita Dual 128 GB - Gris",
+        "price": "Gs. 1.282.090",
+        "details": {
+            "Tamaño de Pantalla": "6.75'' IPS LCD",
+            "Resolución": "720 x 1600",
+            "Cámara principal": "Triple 48MP + 2MP + 2MP",
+            "Cámara frontal": "8MP"
+        },
+        "label": "Zte",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/r/trgrtgtrgtrgtrgtrg_1.jpg"
+        ],
+        "id": 18
+    },
+    {
+        "name": "Samsung Galaxy A22 5G (2021) SM-A226BR/DS Dual",
+        "price": "Gs. 1.462.666",
+        "details": {
+            "Tamaño de pantalla": "6.6\" TFT LCD",
+            "Resolución": "1080 x 2400",
+            "Cámara principal": "Triple 48MP + 5MP + 2MP",
+            "Cámara frontal": "8MP"
+        },
+        "label": "Samsung",
+        "categories": [
+            "Teléfonos inteligentes",
+            "Samsung"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/104179.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/104182.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/104183.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/104184.jpg"
+        ],
+        "id": 19
+    },
+    {
+        "name": "Oppo A77 4G Dual",
+        "price": "Gs. 1.760.616",
+        "details": {
+            "Tamaño de pantalla": "6.56\" IPS LCD",
+            "Resolución": "720 x 1612",
+            "Cámara principal": "Dual 50MP + 2MP",
+            "Cámara frontal": "8MP"
+        },
+        "label": "Oppo",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/o/p/oppo-a77-gb-1-1dfvdfvdfdf.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/o/p/oppo-a77-gb-1-1dfvdfvdfdfx_z_zx.jpg"
+        ],
+        "id": 20
+    },
+    {
+        "name": "OnePlus Nord CE 2 Lite 5G CPH2409 Dual 128 GB - Black Dust",
+        "price": "Gs. 1.941.192",
+        "details": {
+            "Tamaño de Pantalla": "6.59\" IPS LCD",
+            "Resolución": "1080 x 2412",
+            "Cámara principal": "Triple 64MP + 2MP + 2MP",
+            "Cámara frontal": "16MP"
+        },
+        "label": "OnePlus",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/e/f/efwfewfewfwefwe.jpg"
+        ],
+        "id": 21
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 Pro Dual",
+        "price": "Gs. 1.975.050",
+        "details": {
+            "Tamaño de Pantalla": "6.67'' AMOLED",
+            "Resolución": "1080 x 2400",
+            "Cámara principal": "Cuádruple 108MP + 8MP + 5MP + 2MP",
+            "Cámara frontal": "16MP"
+        },
+        "label": "Xiaomi",
+        "categories": [
+            "Teléfonos inteligentes",
+            "Xiaomi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/m/pms_1648192251.39798477-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/m/pms_1648192251.39798477-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/m/pms_1648192251.39798477-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/m/pms_1648192251.39798477-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/f/dfdfvdfdfdfv_2.jpg"
+        ],
+        "specifications": {
+            "Lapso de tiempo profesional": "",
+            "Lapso de tiempo de Telemacro": "",
+            "Vídeo dual": "",
+            "Clones de video Clones de fotos": "",
+            "Disparar estable": ""
+        },
+        "id": 22
+    },
+    {
+        "name": "Oppo Reno 7 CPH2363 Dual",
+        "price": "Gs. 2.302.344",
+        "details": {
+            "Tamaño de pantalla": "6.43\" AMOLED",
+            "Resolución": "1080 x 2400",
+            "Cámara principal": "Triple 64MP + 2MP + 2MP",
+            "Cámara frontal": "32MP"
+        },
+        "label": "Oppo",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/o/ioloiloioiloiliol_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/m/smartphone-oppo-reno-7-4g-dual-sim-6gb128gb-643-preto-cph2363_2_1_1.jpg"
+        ],
+        "id": 23
+    },
+    {
+        "name": "OnePlus Nord CE 2 5G IV2201 Dual 128 GB - Gray Mirror",
+        "price": "Gs. 2.663.496",
+        "details": {
+            "Tamaño de Pantalla": "6.43\" AMOLED",
+            "Resolución": "1080 x 2400",
+            "Cámara principal": "Triple 64MP + 8MP + 2MP",
+            "Cámara frontal": "16MP"
+        },
+        "label": "OnePlus",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/o/n/oneplus_nord_ce2_iv2201_5g_8gb_ram_128gb_rom_gray_mirror_revised-1.jpg"
+        ],
+        "id": 24
+    },
+    {
+        "name": "Xiaomi Poco X4 GT 5G Dual",
+        "price": "Gs. 2.798.928",
+        "details": {
+            "Tamaño de Pantalla": "6.6'' IPS LCD",
+            "Resolución": "1080 x 2460",
+            "Cámara principal": "Triple 64MP + 8MP + 2MP",
+            "Cámara frontal": "16MP"
+        },
+        "label": "Xiaomi",
+        "categories": [
+            "Teléfonos inteligentes",
+            "Xiaomi"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/102820.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/101841.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/102962.jpg"
+        ],
+        "id": 25
+    },
+    {
+        "name": "OnePlus Nord 2 5G DN2103 Dual 256 GB - Gray Sierra",
+        "price": "Gs. 3.340.656",
+        "details": {
+            "Tamaño de Pantalla": "6.43\" Fluid AMOLED",
+            "Resolución": "1080 x 2400",
+            "Cámara principal": "Triple 50MP + 8MP + 2MP",
+            "Cámara frontal": "32MP"
+        },
+        "label": "OnePlus",
+        "categories": [
+            "Teléfonos inteligentes"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/y/y/yykuykuykuyk.jpg"
+        ],
+        "id": 26
+    },
+    {
+        "name": "Apple iPhone XR A2105 LZ/A",
+        "price": "Gs. 3.792.096",
+        "details": {
+            "Tamaño de pantalla": "6.1\" IPS LCD",
+            "Resolución": "1792 x 828",
+            "Cámara principal": "de 12MP",
+            "Cámara frontal": "7MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Teléfonos inteligentes",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/p/iphone_11_negro_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/p/iphone_11_azul_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/p/iphone_11_amarillo_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/p/iphone_11_blanco_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/p/iphone_11_coral_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/p/iphone_11_rojo_1_1.jpg"
+        ],
+        "id": 27
+    },
+    {
+        "name": "Apple iPhone 11",
+        "price": "Gs. 4.351.882",
+        "details": {
+            "Tamaño de pantalla": "6.1\" IPS LCD",
+            "Resolución": "828 x 1792",
+            "Cámara principal": "Dual 12MP + 12MP",
+            "Cámara frontal": "Dual 12MP + 12MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Teléfonos inteligentes",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/9/8/984_2_2_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/3/6/366_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/2/125_1_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/3/0/300_3_2.jpg"
+        ],
+        "id": 28
+    },
+    {
+        "name": "Apple iPhone 11 A2221",
+        "price": "Gs. 4.469.256",
+        "details": {
+            "Tamaño de pantalla": "6.1\" IPS LCD",
+            "Resolución": "828 x 1792",
+            "Cámara principal": "Dual 12MP + 12MP",
+            "Cámara frontal": "Dual 12MP + 12MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Teléfonos inteligentes",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/1/11_negrooo_10_5_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/1/11_blancoo_8_5_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/e/lelelele_14_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/i/lila_11_9_5_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/h/nhytt_1_1_4_5_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/o/rojo_11_11_3_1.jpg"
+        ],
+        "id": 29
+    },
+    {
+        "name": "Apple iPhone SE (2022)",
+        "price": "Gs. 4.514.400",
+        "details": {
+            "Tamaño de pantalla": "4.7\" Retina IPS LCD",
+            "Resolución": "1334 x 750",
+            "Cámara principal": "12MP",
+            "Cámara frontal": "7MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Celulares & Tabletas",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/f/bf9027835c8f44d9763e65cd6cd76637.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/d/ld0005936480_1.jpg"
+        ],
+        "id": 30
+    },
+    {
+        "name": "Apple iPhone 11 A2221 LZ/A",
+        "price": "Gs. 4.965.840",
+        "details": {
+            "Tamaño de pantalla": "6.1\" IPS LCD",
+            "Resolución": "828 x 1792",
+            "Cámara principal": "Dual 12MP + 12MP",
+            "Cámara frontal": "Dual 12MP + 12MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Teléfonos inteligentes",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/9/8/984_2_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/3/0/300_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/2/125_1_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/3/0/301_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/3/6/366_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/4/8/487_2_1.jpg"
+        ],
+        "id": 31
+    },
+    {
+        "name": "Apple iPhone 12 A2403",
+        "price": "Gs. 5.408.251",
+        "details": {
+            "Tamaño de pantalla": "6.1\" Super retina XDR OLED",
+            "Resolución": "1170 x 2532",
+            "Cámara principal": "Doble 12MP + 12MP",
+            "Cámara frontal": "12MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "iPhones",
+            "Celulares & Accesorios"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-1-3-7-2-7-113727-1605615316_1605615316_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-1-3-8-1-2-113812-1606219413_1606219413_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-1-3-8-4-7-113847-1606219567_1606219567_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-1-6-7-4-9-116749-1650382566_1650382566.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/3/-/3-3-3-1-0-4-4-3-6-2-3331044362--thickbox_default.jpg"
+        ],
+        "id": 32
+    },
+    {
+        "name": "Apple iPhone 13 A2634",
+        "price": "Gs. 6.771.600",
+        "details": {
+            "Tamaño de Pantalla": "6.1\" Super Retina XDR OLED",
+            "Resolución": "1170 x 2532",
+            "Cámara principal": "Doble 12MP + 12MP",
+            "Cámara frontal": "Doble 12MP + 12MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Celulares & Tabletas",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/p/apple_iphone_13_a2482_256_gb_-_medianoche_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/p/apple_iphone_13_a2482_128_gb_-_blanco_estelar_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/p/apple_iphone_13_a2482_256_gb_-_rosado_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/p/apple_iphone_13_a2482_512_gb_-_azul_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/p/apple_iphone_13_a2482_512_gb_-_rojo_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/dedewwewdew_1_2.jpg"
+        ],
+        "specifications": {
+            "Rosa": "",
+            "Azul": "",
+            "Azul Medianoche": "",
+            "Blanco Estelar": "",
+            "Rojo": ""
+        },
+        "id": 33
+    },
+    {
+        "name": "Apple iPhone 14 Plus A2888",
+        "price": "Gs. 9.480.240",
+        "details": {
+            "Tamaño de pantalla": "6.7\" Super retina XDR OLED",
+            "Resolución": "2778 x 1284",
+            "Cámara principal": "Dual 12Mp + 12Mp",
+            "Cámara frontal": "Dual 12MP + 12MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Teléfonos inteligentes",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/3/d/3d4a79a3-96dd-4176-a0bb-57603e7eec0a_3_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/2/e/2e3f4a35-59c0-45bb-92b6-a80a3e49d04c_3_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/3/1/31a5212f-3023-40ea-9b84-958add798b6e_3_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/6/76475463-2c4f-45e0-af39-437248457d8c_3_1_1.jpg"
+        ],
+        "specifications": {
+            "Blue": "",
+            "Purple": "",
+            "Starlight": "",
+            "Midnight": "",
+            "Red": ""
+        },
+        "id": 34
+    },
+    {
+        "name": "Apple iPhone 14 Pro A2650",
+        "price": "Gs. 12.188.880",
+        "details": {
+            "Tamaño de pantalla": "6.1\" Super retina XDR OLED",
+            "Resolución": "2556 x 1179",
+            "Cámara principal": "Cuádruple 48Mp + 12Mp + 12Mp + 12Mp",
+            "Cámara frontal": "Dual 12MP + 12MP",
+            "(Sistema Esim)": ""
+        },
+        "label": "Apple",
+        "categories": [
+            "Teléfonos inteligentes",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/1/b13f17ab-aa68-4718-ad47-259bbf5ea805_2_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/b/cb50eee8-9771-4c65-b067-c1209345d1e5_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/2/f/2fdd5b9f-311a-4ad3-ae67-26ecd22583f9_1_2_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/4/f/4f8e4e51-c47c-45d2-ad8a-0fc1e5c343ce_2_2.jpg"
+        ],
+        "specifications": {
+            "Deep Purple": "",
+            "Gold": "",
+            "Silver": "",
+            "Space Black": ""
+        },
+        "id": 35
+    },
+    {
+        "name": "Apple iPhone 14 Pro A2892 256 GB - Deep Purple",
+        "price": "Gs. 12.188.880",
+        "details": {
+            "Tamaño de pantalla": "6.1\" Super retina XDR OLED",
+            "Resolución": "2556 x 1179",
+            "Cámara principal": "Cuádruple 48Mp + 12Mp + 12Mp + 12Mp",
+            "Cámara frontal": "Dual 12MP + 12MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Celulares & Tabletas",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/b/cb50eee8-9771-4c65-b067-c1209345d1e5_2_1_6.jpg"
+        ],
+        "specifications": {
+            "Deep Purple": "",
+            "Gold": "",
+            "Silver": "",
+            "Space Black": ""
+        },
+        "id": 36
+    },
+    {
+        "name": "Apple iPhone 14 Pro Max A2651",
+        "price": "Gs. 13.994.640",
+        "details": {
+            "Tamaño de pantalla": "6.7\" Super retina XDR OLED",
+            "Resolución": "1290 x 2796",
+            "Cámara principal": "Cuádruple 48Mp + 12Mp + 12Mp + 12Mp",
+            "Cámara frontal": "Dual 12MP + 12MP"
+        },
+        "label": "Apple",
+        "categories": [
+            "Teléfonos inteligentes",
+            "iPhones"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/1/b13f17ab-aa68-4718-ad47-259bbf5ea805_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/b/cb50eee8-9771-4c65-b067-c1209345d1e5_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/2/f/2fdd5b9f-311a-4ad3-ae67-26ecd22583f9_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/4/f/4f8e4e51-c47c-45d2-ad8a-0fc1e5c343ce_2.jpg"
+        ],
+        "specifications": {
+            "Deep Purple": "",
+            "Gold": "",
+            "Silver": "",
+            "Space Black": ""
+        },
+        "id": 37
+    }
+]

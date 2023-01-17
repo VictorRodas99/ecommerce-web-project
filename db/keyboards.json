@@ -1,0 +1,815 @@
+[
+    {
+        "name": "Teclado Gamer Redragon Dragonborn K630 RGB USB - Negro (Inglés)",
+        "price": "Gs. 333.163",
+        "details": {
+            "Diseño": "Compacto y resistente",
+            "Tipo de teclado": "Mecánico",
+            "Switch": "Redragon Brown",
+            "Retroiluminación": "RGB Chroma",
+            "Distribución": "Inglés",
+            "Conectividad": "USB"
+        },
+        "label": "REDRAGON",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106207-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106207-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106207-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106207.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106207-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106207-1.jpg"
+        ],
+        "id": 1
+    },
+    {
+        "name": "Teclado Gamer Corsair K65 RGB Mini USB CH-9194014-NA - Negro (Inglés)",
+        "price": "Gs. 874.891",
+        "details": {
+            "Diseño": "Compacto y resistente",
+            "Tipo de teclado": "Mecánico",
+            "Switch": "CHERRY MX SPEED Silver",
+            "Retroiluminación": "RGB",
+            "Distribución": "Inglés",
+            "Conectividad": "USB"
+        },
+        "label": "Corsair",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106316-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106316-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106316-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106316-1.jpg"
+        ],
+        "id": 2
+    },
+    {
+        "name": "Teclado Gamer Corsair K100 RGB Optical OPX USB - Negro (CH-912A01A-NA)",
+        "price": "Gs. 1.850.904",
+        "details": {
+            "Diseño": "Resistente",
+            "Tipo de teclado": "Mecánico",
+            "Interruptores de llave": "Corsair OPX",
+            "Iluminación": "RGB",
+            "Interfaz": "USB 2.0"
+        },
+        "label": "Corsair",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negro_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negroass_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negrss_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negrosa_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negroadasd_1.jpg"
+        ],
+        "id": 3
+    },
+    {
+        "name": "Teclado Gamer Corsair K100 RGB Cherry MX Speed USB - Negro (CH-912A014-NA)",
+        "price": "Gs. 1.850.904",
+        "details": {
+            "Diseño": "Resistente",
+            "Tipo de teclado": "Mecánico",
+            "Interruptores de llave": "Cherry MX",
+            "Iluminación": "RGB",
+            "Interfaz": "USB 2.0"
+        },
+        "label": "Corsair",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negro.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negroass.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negrss.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negrosa.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_corsair_k100_rgb_cherry_mx_speed_usb_-_negroadasd.jpg"
+        ],
+        "id": 4
+    },
+    {
+        "name": "Teclado Numérico Satellite AK-185 Inalámbrico - Negro",
+        "price": "Gs. 90.288",
+        "details": {
+            "Diseño": "Compacto y resistente",
+            "Pantalla": "LCD",
+            "Material": "Plástico",
+            "Conectividad": "2.4 Ghz inalámbrica",
+            "Interfaz": "Receptor nano USB"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_num_rico_satellite_ak-185_sem_fio_-_preto.jpg"
+        ],
+        "id": 5
+    },
+    {
+        "name": "Teclado Numérico Satechi Slim Bluetooth",
+        "price": "Gs. 306.979",
+        "details": {
+            "Diseño": "Delgado y elegante",
+            "Material": "Aluminio",
+            "Conectividad": "Bluetooth",
+            "Duración de la batería": "2 semanas aprox."
+        },
+        "label": "Satechi",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/t/st-salkps_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/8/78986_1.jpg"
+        ],
+        "id": 6
+    },
+    {
+        "name": "Kit Teclado + Mouse Inalámbrico Mtek KM-5239 - Negro (Portugués)",
+        "price": "Gs. 126.403",
+        "details": {
+            "Diseño": "Compacto y duradero",
+            "Tipo de mouse": "Óptico (1000 DPI)",
+            "Distribución": "Portugués",
+            "Conectividad": "2.4GHz",
+            "Conexión del teclado y mouse": "Nano receptor USB"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/104877.jpg"
+        ],
+        "id": 7
+    },
+    {
+        "name": "Kit Teclado + Mouse Inalámbrico Mtek KM-5197B - Negro (Español)",
+        "price": "Gs. 126.403",
+        "details": {
+            "Diseño": "Compacto y duradero",
+            "Tipo de mouse": "Óptico (1000 DPI)",
+            "Distribución": "Español",
+            "Conectividad": "2.4GHz",
+            "Conexión del teclado y mouse": "Nano receptor USB"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/104878_1_1.jpg"
+        ],
+        "id": 8
+    },
+    {
+        "name": "Kit Teclado + Mouse Inalámbrico Mtek KM-5197 - (Portugués)",
+        "price": "Gs. 126.403",
+        "details": {
+            "Diseño": "Compacto y duradero",
+            "Tipo de mouse": "Óptico (1000 DPI)",
+            "Distribución": "Portugués",
+            "Conectividad": "2.4GHz",
+            "Conexión del teclado y mouse": "Nano receptor USB"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/104878.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/104881-3_1.jpg"
+        ],
+        "id": 9
+    },
+    {
+        "name": "Teclado Inalámbrico Logitech K380 Bluetooth 920-009595 - Blanco",
+        "price": "Gs. 259.578",
+        "details": {
+            "Diseño": "Minimalista",
+            "Tipo de teclado": "Membrana",
+            "Distribución": "Español",
+            "Conectividad": "Bluetooth"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/2/72262_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/2/72262-1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/2/72262-2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/7/2/72262-3_1.jpg"
+        ],
+        "id": 10
+    },
+    {
+        "name": "Kit Teclado + Mouse Quanta QTKTM30 USB",
+        "price": "Gs. 63.202",
+        "details": {
+            "Material": "ABS",
+            "Sensor óptico": "1200 DPI",
+            "Interfaz": "USB 2.0",
+            "Número de botones del mouse": "3"
+        },
+        "label": "Quanta",
+        "categories": [
+            "Teclados",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_mouses_1_1.jpg"
+        ],
+        "id": 11
+    },
+    {
+        "name": "Teclado Gamer Logitech G413 SE - Negro (Inglés)",
+        "price": "Gs. 613.056",
+        "details": {
+            "Tipo de teclado": "Teclado mecánico",
+            "Switch": "Táctil",
+            "Retroiluminación": "LED blanco",
+            "Distribución": "Inglés",
+            "Conectividad": "USB 2.0"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Teclados",
+            "Gaming"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103610-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103610-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103610-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103610.jpg"
+        ],
+        "id": 12
+    },
+    {
+        "name": "Teclado Inalámbrico Logitech Pop Keys - (Ingles)",
+        "price": "Gs. 622.987",
+        "details": {
+            "Diseño": "Compacto y ergonómico",
+            "Tipo de teclado": "Mecánico",
+            "Tipo de Switch": "Brown táctiles",
+            "Conectividad": "Bluetooth 5.1 y receptor USB Logi Bolt",
+            "Idioma": "Ingles"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_logitech_pop_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103607-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103606-6_1.jpg"
+        ],
+        "id": 13
+    },
+    {
+        "name": "Teclado Gamer Kolke Némesis KGT-505",
+        "price": "Gs. 72.230",
+        "details": {
+            "Tipo Teclado": "Membrana",
+            "Conexión de teclado": "USB 2.0",
+            "Iluminación": "Rainbow",
+            "Teclado": "Inglés",
+            "Compatible con": "Windows 98/2000/XP/Vista/7/8/10"
+        },
+        "label": "Kolke",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/o/kolke_nemesis_kgt-505_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/o/kolke_nemesis_kgt-505_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/o/kolke_nemesis_kgt-505_-_3.jpg"
+        ],
+        "id": 14
+    },
+    {
+        "name": "Teclado Gamer Kolke Tánatos KGT-491",
+        "price": "Gs. 248.292",
+        "details": {
+            "Tipo Teclado": "Mecánico",
+            "Conexión de teclado": "USB 2.0",
+            "Iluminación": "Multicolor",
+            "Teclado": "Inglés",
+            "Compatible con": "Windows 98/2000/XP/Vista/7/8/10"
+        },
+        "label": "Kolke",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/o/kolke_kgt-491_-_1.jpg"
+        ],
+        "id": 15
+    },
+    {
+        "name": "Teclado Gamer Logitech G413 TKL SE - Negro (Inglés)",
+        "price": "Gs. 613.056",
+        "details": {
+            "Tipo de teclado": "Teclado mecánico",
+            "Switch": "Táctil",
+            "Retroiluminación": "LED blanco",
+            "Distribución": "Inglés",
+            "Conectividad": "USB 2.0"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Teclados",
+            "Gaming"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103343-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103343-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103343-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103343-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103343.jpg"
+        ],
+        "id": 16
+    },
+    {
+        "name": "Teclado Mtek KB-8187-PT USB - Negro (Portugués)",
+        "price": "Gs. 54.173",
+        "details": {
+            "Diseño": "Resistente y Ergonómico",
+            "Tipo de teclado": "Membrana",
+            "Distribución": "Portugués",
+            "Conectividad": "USB"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/103663.jpg"
+        ],
+        "id": 17
+    },
+    {
+        "name": "Teclado Logitech K380 Bluetooth",
+        "price": "Gs. 259.578",
+        "details": {
+            "Diseño": "Ligero y compacto",
+            "Tipo de teclado": "Membrana",
+            "Distribución": "Español",
+            "Conectividad": "Bluetooth"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/r/proyecto_nuevo_80_.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_logitechs_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/a/lavebs.jpg"
+        ],
+        "id": 18
+    },
+    {
+        "name": "Teclado Mtek KB-8269-PT USB - Negro (Portugués)",
+        "price": "Gs. 58.687",
+        "details": {
+            "Diseño": "Resistente",
+            "Distribución": "Portugués",
+            "Conectividad": "USB",
+            "Longitud del cable": "1.5 metros"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_compacto_negros.jpg"
+        ],
+        "id": 19
+    },
+    {
+        "name": "Teclado Mtek KB-8501C-PT USB - Negro (Portugués)",
+        "price": "Gs. 67.716",
+        "details": {
+            "Diseño": "Resistente",
+            "Distribución": "Portugués",
+            "Conectividad": "USB",
+            "Longitud del cable": "1.4 metros"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_metked.jpg"
+        ],
+        "id": 20
+    },
+    {
+        "name": "Teclado Mtek KB-7269L-PT LED USB - Negro (Portugués)",
+        "price": "Gs. 72.230",
+        "details": {
+            "Diseño": "Resistente",
+            "Distribución": "Portugués",
+            "Conectividad": "USB",
+            "Iluminación": "Luz de fondo LED",
+            "Longitud del cable": "1.4 metros"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclados_s_1.jpg"
+        ],
+        "id": 21
+    },
+    {
+        "name": "Teclado Mtek KB-7269L-ESP LED USB - Negro (Español)",
+        "price": "Gs. 72.230",
+        "details": {
+            "Diseño": "Resistente",
+            "Distribución": "Español",
+            "Conectividad": "USB",
+            "Iluminación": "Luz de fondo LED",
+            "Longitud del cable": "1.4 metros"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclados_s.jpg"
+        ],
+        "id": 22
+    },
+    {
+        "name": "Teclado Mtek KB-7269LR-PT Retroiluminado USB - Negro (Portugués)",
+        "price": "Gs. 76.745",
+        "details": {
+            "Diseño": "Resistente",
+            "Distribución": "Portugués",
+            "Conectividad": "USB",
+            "Iluminación": "Luz de fondo LED multicolor",
+            "Longitud del cable": "1.4 metros"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/tecaldos_mte.jpg"
+        ],
+        "id": 23
+    },
+    {
+        "name": "Teclado Mtek KB-7701LR-ESP Backlight USB - Negro (Español)",
+        "price": "Gs. 99.317",
+        "details": {
+            "Diseño": "Resistente",
+            "Distribución": "Español",
+            "Conectividad": "USB",
+            "Iluminación": "Rainbow",
+            "Longitud del cable": "1.4 metros"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/r/proyecto_nuevo_33_.jpg"
+        ],
+        "id": 24
+    },
+    {
+        "name": "Teclado Mtek KB-7701LR-PT Backlight USB - Negro (Portugués)",
+        "price": "Gs. 99.317",
+        "details": {
+            "Diseño": "Resistente",
+            "Distribución": "Portugués",
+            "Conectividad": "USB",
+            "Iluminación": "Rainbow",
+            "Longitud del cable": "1.4 metros"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/r/proyecto_nuevo_33__1.jpg"
+        ],
+        "id": 25
+    },
+    {
+        "name": "Teclado Gamer Havit KB866L LED - Negro/Rojo (Español)",
+        "price": "Gs. 99.317",
+        "details": {
+            "Diseño": "Compacto y ergonómico",
+            "Tipo de teclado": "Membrana",
+            "Retroiluminación": "LED arcoíris",
+            "Distribución": "Español",
+            "Conectividad": "USB"
+        },
+        "label": "Havit",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-103201-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-103201-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-103201-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/b/r/br-103201-2.jpg"
+        ],
+        "id": 26
+    },
+    {
+        "name": "Kit Gamer Teclado Satellite KG-502 RGB + Mouse + Mousepad + Auricular + Speaker - Negro (Español)",
+        "price": "Gs. 269.961",
+        "details": {
+            "Diseño": "Compacto y resistente",
+            "Retroiluminación": "LED",
+            "Distribución": "Español",
+            "Tipo de mouse": "Óptico 3200 DPI",
+            "Conexión del teclado y mouse": "USB",
+            "Kit incluye": "Teclado, mouse, auricular, mousepad y speaker"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/satellite_negros.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/i/ki_te_gamer.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/i/kite_gamer.jpg"
+        ],
+        "id": 27
+    },
+    {
+        "name": "Kit Gamer Teclado Satellite KG-501 RGB + Mouse + Mousepad + Auricular + Speaker - Negro (Portugués)",
+        "price": "Gs. 279.893",
+        "details": {
+            "Diseño": "Compacto y resistente",
+            "Retroiluminación": "LED",
+            "Distribución": "Portugués",
+            "Tipo de mouse": "Óptico",
+            "Conexión del teclado y mouse": "USB",
+            "Kit incluye": "Teclado, mouse, auricular, mousepad y speaker"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/k/i/kite_tec.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/u/nuevo_proyecto_-_2022-09-12t083848.435.jpg"
+        ],
+        "id": 28
+    },
+    {
+        "name": "Kit Teclado Satellite AK-718G + Mouse Wireless - (Portugués)",
+        "price": "Gs. 99.317",
+        "details": {
+            "Conector": "Nano receptor USB",
+            "Conectividad": "Wireless 2.4GHz",
+            "Sensor óptico con resolución de": "1.200 DPI"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/e/f/efrferrfefrereer.jpg"
+        ],
+        "id": 29
+    },
+    {
+        "name": "Kit Teclado Satellite AK-741G + Mouse Wireless - (Portugués)",
+        "price": "Gs. 99.317",
+        "details": {
+            "Conector": "Nano receptor USB",
+            "Conectividad": "Wireless 2.4GHz",
+            "Sensor óptico con resolución de": "1.000 DPI",
+            "Teclado": "Requiere 1 pila AA",
+            "Mouse": "Requiere 2 pilas AAA"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-2-7-1-4-2-127142-1654799347_165479934111111.jpg"
+        ],
+        "id": 30
+    },
+    {
+        "name": "Kit Teclado Satellite AK-742G + Mouse Wireless - (Español)",
+        "price": "Gs. 99.317",
+        "details": {
+            "Conector": "Nano receptor USB",
+            "Conectividad": "Wireless 2.4GHz",
+            "Sensor óptico con resolución de": "1.000 DPI",
+            "Teclado": "Requiere 1 pila AA",
+            "Mouse": "Requiere 2 pilas AAA"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-2-7-1-4-3-127143-1654801034_1654801034222222.jpg"
+        ],
+        "id": 31
+    },
+    {
+        "name": "Kit Teclado Satellite AK-751G + Mouse Wireless - (Portugués)",
+        "price": "Gs. 99.317",
+        "details": {
+            "Conector": "Nano receptor USB",
+            "Conectividad": "Wireless 2.4GHz",
+            "Sensor Óptico con resolución": "De 800, 1.200 y 1.600 DPI",
+            "Batería": "Requiere 2 pilas AAA"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-2-7-1-4-5-127145-1654858115_1654858115.jpg"
+        ],
+        "id": 32
+    },
+    {
+        "name": "Kit Teclado Satellite AK-752G + Mouse Wireless - (Español)",
+        "price": "Gs. 99.317",
+        "details": {
+            "Conector": "Nano receptor USB",
+            "Conectividad": "Wireless 2.4GHz",
+            "Sensor Óptico con resolución": "De 800, 1.200 y 1.600 DPI",
+            "Batería": "Requiere 2 pilas AAA"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-2-7-1-4-4-127144-1654802548_1654802548.jpg"
+        ],
+        "id": 33
+    },
+    {
+        "name": "Kit Teclado Satellite AK-732G + Mouse Wireless - (Español)",
+        "price": "Gs. 94.802",
+        "details": {
+            "Conector": "Nano receptor USB",
+            "Conectividad": "Wireless 2.4GHz",
+            "Sensor Óptico con resolución ajustable": "De 800, 1.200 y 1.600 DPI",
+            "Batería": "Requiere 2 pilas AAA"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-2-7-1-4-7-127147-1654792471_1654792471.jpg"
+        ],
+        "id": 34
+    },
+    {
+        "name": "Kit Teclado Satellite AK-725G + Mouse Wireless - (Español)",
+        "price": "Gs. 97.511",
+        "details": {
+            "Conector": "Nano receptor USB",
+            "Conectividad": "Wireless 2.4GHz",
+            "Teclado numérico": "Integrado",
+            "Con altura": "Ajustable"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-0-5-0-6-1-105061-1625161762_1625161762_1.jpg"
+        ],
+        "id": 35
+    },
+    {
+        "name": "Kit Teclado Satellite AK-725G + Mouse Wireless - (Portugués)",
+        "price": "Gs. 97.511",
+        "details": {
+            "Conector": "Nano receptor USB",
+            "Conectividad": "Wireless 2.4GHz",
+            "Teclado numérico": "Integrado",
+            "Con altura": "Ajustable"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/e/new-1-0-5-0-6-1-105061-1625161762_1625161762.jpg"
+        ],
+        "id": 36
+    },
+    {
+        "name": "Teclado Gamer EVGA Z12 RGB IP32 USB - Negro (Inglés)",
+        "price": "Gs. 179.673",
+        "details": {
+            "Diseño": "Elegante y resistente",
+            "Tipo de teclado": "Membrana",
+            "Iluminación": "5 zonas de LEDs RGB",
+            "Conectividad": "USB 2.0",
+            "Distribución": "Inglés",
+            "Resistencia a derrames": "IP32"
+        },
+        "label": "EVGA",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_evga_z12.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_evga_z12_negro.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_evga_z12_negros.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/tecladod_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_evga_z12_black.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_evga_z12_blacks.jpg"
+        ],
+        "id": 37
+    },
+    {
+        "name": "Teclado Gamer Cooler Master MK110 RGB USB - Negro",
+        "price": "Gs. 451.440",
+        "details": {
+            "Diseño": "Elegante y resistente",
+            "Tipo de teclado": "Mecánico",
+            "Retroiluminación": "RGB de 6 zonas",
+            "Conectividad": "USB",
+            "Longitud del cable": "1.8 metros"
+        },
+        "label": "Cooler",
+        "categories": [
+            "Teclados",
+            "Cyberday",
+            "RegalOFF"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/u/nuevo_proyecto_-_2022-08-30t095629.511.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/tecaldo_negros.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/teclado_gamer_negros.jpg"
+        ],
+        "id": 38
+    },
+    {
+        "name": "Kit Teclado + Mouse Inalámbrico Mtek KM1548 - Negro (Portugués)",
+        "price": "Gs. 115.117",
+        "details": {
+            "Diseño": "Compacto y duradero",
+            "Tipo de mouse": "Óptico (1200 DPI)",
+            "Distribución": "Portugués",
+            "Conectividad": "2.4GHz",
+            "Conexión del teclado y mouse": "Nano receptor USB"
+        },
+        "label": "Mtek",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/tecaldo_mtek_km1548.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/tecaldo_mtek_km1548_negros.jpg"
+        ],
+        "id": 39
+    },
+    {
+        "name": "Kit Teclado Devastator 3 Plus + Mouse Cooler Master SGB-3001-KKMF1-US USB - Negro",
+        "price": "Gs. 455.954",
+        "details": {
+            "Tipo de teclado": "Membrana",
+            "Iluminación": "Retroiluminación LED de 7 colores",
+            "Tipo de mouse": "Óptico (2400 DPI)",
+            "Conexión del teclado y mouse": "USB"
+        },
+        "label": "Cooler",
+        "categories": [
+            "Teclados"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/t/e/tecladoss.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/o/mouse_negros_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/u/nuevo_proyecto_-_2022-08-30t090316.795.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/u/nuevo_proyecto_-_2022-08-30t090637.129.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/o/mouse_gamer_4_1.jpg"
+        ],
+        "id": 40
+    }
+]
