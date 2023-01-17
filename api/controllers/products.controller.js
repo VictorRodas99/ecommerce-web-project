@@ -1,7 +1,7 @@
-import products from '../../db/products.json'
+import homeProducts from '../../db/home-products.json'
 
 export const getProducts = (ctx) => {
-  return ctx.json(products)
+  return ctx.json(homeProducts)
 }
 
 export const getProductsById = (ctx) => {
@@ -16,7 +16,7 @@ export const getProductsById = (ctx) => {
     )
   }
 
-  const foundProduct = products.find((product) => product.id === id)
+  const foundProduct = homeProducts.find((product) => product.id === id)
 
   return foundProduct
     ? ctx.json(foundProduct)
