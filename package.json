@@ -11,7 +11,7 @@
     "dev:page": "vite --host",
     "build:page": "vite build",
     "preview:page": "vite preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
@@ -43,6 +43,6 @@
     "wrangler": "^2.7.1"
   },
   "eslintConfig": {
-    "extends": "standard"
+    "extends": "./node_modules/standard/eslintrc.json"
   }
 }
