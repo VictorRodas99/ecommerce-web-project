@@ -2,17 +2,13 @@ import { expect } from 'vitest'
 
 /**
  * @param {*} givenData
- * @param {[ { field: string } ]} schema
+ * @param {[ { field: string, type: string } ]} schema
  */
 export const checkProperties = (givenData, schema) => {
   schema.forEach((expected) => {
-    expect(givenData).toHaveProperty(expected.field)
-  })
-}
-
-export const checkValuesType = (givenData, type) => {
-  Object.values(givenData).forEach((value) => {
-    expect(value).toBeTypeOf(type)
+    const { field, type } = expected
+    expect(givenData).toHaveProperty(field)
+    expect(givenData[field]).toBeTypeOf(type)
   })
 }
 

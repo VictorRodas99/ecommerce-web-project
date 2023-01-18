@@ -1,10 +1,6 @@
 import { unstable_dev as unstableDev } from 'wrangler'
 import { describe, expect, it, beforeAll, afterAll } from 'vitest'
-import {
-  compareArray,
-  checkProperties,
-  checkValuesType
-} from './utils/test-tools'
+import { compareArray, checkProperties } from './utils/test-tools'
 
 const setup = async () => {
   const worker = await unstableDev('api/index.js', {
@@ -33,9 +29,9 @@ describe('/ endpoint', () => {
 
     const jsonResponse = await res.json()
     const expectedProperties = [
-      { field: 'endpoint' },
-      { field: 'description' },
-      { field: 'method' }
+      { field: 'endpoint', type: 'string' },
+      { field: 'description', type: 'string' },
+      { field: 'method', type: 'string' }
     ]
 
     jsonResponse.forEach((endpoint) => {
@@ -43,7 +39,7 @@ describe('/ endpoint', () => {
     })
   })
 
-  it('should return a json with valid types and fields', async () => {
+  it('should return endpoints with parameters', async () => {
     const res = await worker.fetch()
     if (!res) return
 
@@ -51,15 +47,10 @@ describe('/ endpoint', () => {
     jsonResponse.forEach((endpoint) => {
       const hasParams = endpoint.endpoint.split('/').at(-1).includes(':')
 
-      if (!hasParams) {
-        checkValuesType(endpoint, 'string')
-        return
-      }
+      if (!hasParams) return
 
       expect(endpoint).toHaveProperty('parameters')
-      const { parameters, ...restOfData } = endpoint
-      checkValuesType(restOfData, 'string')
-      expect(parameters).toBeTypeOf('object')
+      expect(endpoint.parameters).toBeTypeOf('object')
     })
   })
 
