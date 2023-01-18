@@ -1,14 +1,10 @@
-import { unstable_dev as unstableDev } from 'wrangler'
 import { describe, expect, it, beforeAll, afterAll } from 'vitest'
-import { compareArray, checkProperties } from './utils/test-tools'
-
-const setup = async () => {
-  const worker = await unstableDev('api/index.js', {
-    experimental: { disableExperimentalWarning: true }
-  })
-
-  return worker
-}
+import {
+  compareArray,
+  checkProperties,
+  testEndpoint,
+  setup
+} from './utils/test-tools'
 
 describe('/ endpoint', () => {
   let worker
@@ -77,3 +73,8 @@ describe('/ endpoint', () => {
     })
   })
 })
+
+describe('home endpoint', () => testEndpoint('/products'))
+describe('computing endpoint', () => testEndpoint('/computing'))
+describe('hardware endpoint', () => testEndpoint('/hardware'))
+describe('electronics endpoint', () => testEndpoint('/electronics'))
