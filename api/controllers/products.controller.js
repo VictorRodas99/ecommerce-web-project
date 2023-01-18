@@ -1,8 +1,4 @@
-import homeProducts from '../../db/home-products.json'
-
-export const getProducts = (ctx) => {
-  return ctx.json(homeProducts)
-}
+import { data } from '../data/data-products.js'
 
 export const getProductsById = (ctx) => {
   const id = Number(ctx.req.param('id'))
@@ -16,7 +12,7 @@ export const getProductsById = (ctx) => {
     )
   }
 
-  const foundProduct = homeProducts.find((product) => product.id === id)
+  const foundProduct = data.homeProducts.find((product) => product.id === id)
 
   return foundProduct
     ? ctx.json(foundProduct)
