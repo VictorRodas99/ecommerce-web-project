@@ -44,6 +44,9 @@ export const compareArray = (a, b) => {
   return true
 }
 
+/**
+ * @param {string} givenEndpoint
+ */
 export const testEndpoint = (givenEndpoint) => {
   let worker
 
@@ -54,6 +57,8 @@ export const testEndpoint = (givenEndpoint) => {
   afterAll(async () => {
     await worker.stop()
   })
+
+  const getRandomId = () => Math.floor(Math.random() * 20) + 1
 
   it('should have all required properties', async () => {
     if (givenEndpoint === '/products') {
@@ -71,12 +76,11 @@ export const testEndpoint = (givenEndpoint) => {
     const response = await worker.fetch()
     if (!response) return
 
+    const topic = givenEndpoint.replace('/', '')
     const allEndpoints = await response.json()
-    const selectedEndpoints = allEndpoints
-      .filter(({ endpoint }) => endpoint.includes(givenEndpoint))
-      .map((object) => object.endpoint) //Takes only the endpoints and nothing else
+    const selectedEndpoints = allEndpoints[topic]
 
-    for (const endpoint of selectedEndpoints) {
+    for (const { endpoint } of selectedEndpoints) {
       const res = await worker.fetch(endpoint)
       if (!res) return
 
@@ -84,6 +88,37 @@ export const testEndpoint = (givenEndpoint) => {
       products.forEach((product) => {
         checkProperties(product, requiredProperties)
       })
+    }
+  })
+
+  it('should return a specific product if the id is given as parameter', async () => {
+    if (givenEndpoint === '/products') {
+      const finalEndpoint = `${givenEndpoint}/${getRandomId()}`
+
+      const res = await worker.fetch(finalEndpoint)
+      expect(res.status, `Fetch failed at ${finalEndpoint}`).toBe(200)
+
+      const product = await res.json()
+      checkProperties(product, requiredProperties)
+
+      return
+    }
+
+    const response = await worker.fetch()
+    if (!response) return
+
+    const topic = givenEndpoint.replace('/', '')
+    const allEndpoints = await response.json()
+    const selectedEndpoints = allEndpoints[topic]
+
+    for (const { endpoint } of selectedEndpoints) {
+      const finalEndpoint = `${endpoint}/${getRandomId()}`
+
+      const res = await worker.fetch(finalEndpoint)
+      expect(res.status, `Fetch failed at ${finalEndpoint}`).toBe(200)
+
+      const product = await res.json()
+      checkProperties(product, requiredProperties)
     }
   })
 }
