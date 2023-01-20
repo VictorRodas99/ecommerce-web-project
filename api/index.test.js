@@ -30,8 +30,10 @@ describe('/ endpoint', () => {
       { field: 'method', type: 'string' }
     ]
 
-    jsonResponse.forEach((endpoint) => {
-      checkProperties(endpoint, expectedProperties)
+    Object.values(jsonResponse).forEach((endpoints) => {
+      endpoints.forEach((endpoint) => {
+        checkProperties(endpoint, expectedProperties)
+      })
     })
   })
 
@@ -40,11 +42,14 @@ describe('/ endpoint', () => {
     if (!res) return
 
     const jsonResponse = await res.json()
-    jsonResponse.forEach((endpoint) => {
+    const { endpointsWithParams } = jsonResponse
+
+    expect(endpointsWithParams).toBeDefined()
+
+    endpointsWithParams.forEach((endpoint) => {
       const hasParams = endpoint.endpoint.split('/').at(-1).includes(':')
 
-      if (!hasParams) return
-
+      expect(hasParams).toBe(true)
       expect(endpoint).toHaveProperty('parameters')
       expect(endpoint.parameters).toBeTypeOf('object')
     })
@@ -55,9 +60,7 @@ describe('/ endpoint', () => {
     if (!res) return
 
     const jsonResponse = await res.json()
-    const endpointsWithParams = jsonResponse.filter(
-      (endpoint) => endpoint.parameters
-    )
+    const { endpointsWithParams } = jsonResponse
 
     endpointsWithParams.forEach((endpnt) => {
       const { endpoint, parameters: paramsDescriber } = endpnt
