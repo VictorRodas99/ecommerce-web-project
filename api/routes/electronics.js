@@ -11,6 +11,6 @@ router.get('/audio', (ctx) => ctx.json(data.audioDevices))
 /* GET by Id */
 router.get('/smartphones/:id', getProductsById)
 router.get('/televisions/:id', getProductsById)
-router.get('/audio/:id', (ctx) => getProductsById)
+router.get('/audio/:id', getProductsById)
 
 export default router
