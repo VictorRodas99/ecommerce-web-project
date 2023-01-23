@@ -18,9 +18,9 @@
 
 ## Descripción del proyecto
 
-Este proyecto tiene como objectivo crear una API y una página web de productos electrónicos.
+Este proyecto tiene como objetivo crear una API y una página web de productos electrónicos.
 
-La API proporciona datos de diversos productos, desde los precios hasta las especificaciones. Y la página web tiene como objetivo servir dichos datos proporcionando en una interfaz agradable para el usuario.
+La API proporciona datos de diversos productos, desde los precios hasta las especificaciones, y la página web tiene como propósito servir dichos datos proporcionados en una interfaz agradable para el usuario.
 
 **Todos los datos son recopilados de [nissei.com](https://nissei.com/py/) con propósitos de aprendizaje.**
 
