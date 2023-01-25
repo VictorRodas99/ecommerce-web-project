@@ -1,18 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,600&display=swap');
 
 /* Color Palette */
 :root {
   --bg-primary: #fff;
   --bg-secondary: #f3f5f9;
   --c-dark: #2b3445;
+  --c-white: #fff;
+  --c-light: var(--bg-secondary);
   --c-gray: #7c828d;
+  --c-gray-ligth: #d3d3d4;
   --c-primary: #4bb4b4;
 }
 
 /* Configs */
 :root {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 16px;
   font-weight: 400;
 
   color: var(--c-dark);
@@ -25,6 +28,9 @@
 }
 
 * {
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
   box-sizing: border-box;
   margin: 0;
 }
@@ -32,4 +38,26 @@
 body {
   padding-right: 3.5rem;
   padding-left: 3.5rem;
+}
+
+a {
+  color: var(--c-dark);
+  text-decoration: none;
+}
+
+button {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 0;
+}
+
+.icon {
+  font-size: 1.7rem;
 }

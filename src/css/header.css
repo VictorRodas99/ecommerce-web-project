@@ -1,0 +1,114 @@
+.header-container {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.header-container nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-icon-container {
+  border: 2px solid var(--c-dark);
+  border-radius: 0.8rem;
+  padding: 0.3rem;
+  padding-bottom: 0.6rem;
+  position: relative;
+}
+
+.home-icon-container::before {
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: italic;
+  content: 'Info Shop';
+  font-size: 0.8rem;
+  color: var(--c-white);
+  position: absolute;
+  width: 59px;
+  padding: 0.3rem;
+  border-radius: 12px;
+  background-color: var(--c-dark);
+  bottom: -10px;
+  right: -20px;
+}
+
+.home-icon {
+  font-size: 1.5rem;
+}
+
+.form-container {
+  width: 50%;
+}
+
+.search-container {
+  display: flex;
+  border: 1px solid var(--c-gray-ligth);
+  width: 100%;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  overflow: hidden;
+  transition: border 0.2s ease;
+}
+
+.search-container:hover {
+  border: 1px solid var(--c-primary);
+}
+
+.search-container:hover > .btn-submit {
+  border-left: 1px solid var(--c-primary);
+}
+
+.search-icon {
+  font-size: 1.4rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.7rem;
+}
+
+.search-input {
+  width: 75%;
+  padding: 0.8rem;
+  padding-left: 2.5rem;
+}
+
+.search-container:has(input:focus) {
+  outline: 1.5px solid var(--c-primary);
+}
+
+.btn-submit {
+  border-left: 1px solid var(--c-gray-ligth);
+  background-color: var(--c-light);
+  width: 25%;
+  padding: 0.8rem;
+  transition: border 0.2s ease;
+}
+
+.cart-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-icon {
+  color: var(--c-white);
+  padding: 0.5rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  border-radius: 50%;
+  background-color: var(--c-primary);
+  cursor: pointer;
+  position: relative;
+}
+
+.cart-icon::before {
+  content: '3';
+  font-size: 0.9rem;
+  background-color: #c21f1f;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 50%;
+  position: absolute;
+  right: -2px;
+  top: -5px;
+}
