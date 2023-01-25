@@ -5,12 +5,19 @@
 :root {
   --bg-primary: #fff;
   --bg-secondary: #f3f5f9;
+  --bg-tertiary: #f6f9fc;
+  --bg-card: #f5f5f5;
   --c-dark: #2b3445;
   --c-white: #fff;
   --c-light: var(--bg-secondary);
   --c-gray: #7c828d;
   --c-gray-ligth: #d3d3d4;
   --c-primary: #4bb4b4;
+}
+
+:root {
+  --main-padding-left: 3.5rem;
+  --main-padding-right: 3.5rem;
 }
 
 /* Configs */
@@ -36,8 +43,7 @@
 }
 
 body {
-  padding-right: 3.5rem;
-  padding-left: 3.5rem;
+  background-color: var(--bg-tertiary);
 }
 
 a {
@@ -60,4 +66,10 @@ input {
 
 .icon {
   font-size: 1.7rem;
+}
+
+main {
+  padding: 2rem;
+  padding-left: var(--main-padding-left);
+  padding-right: var(--main-padding-right);
 }

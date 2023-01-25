@@ -1,6 +1,8 @@
 .header-container {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding: 1.5rem;
+  padding-left: var(--main-padding-left);
+  padding-right: var(--main-padding-right);
+  background-color: var(--c-white);
 }
 
 .header-container nav {
@@ -60,16 +62,26 @@
 }
 
 .search-icon {
+  color: var(--c-dark);
   font-size: 1.4rem;
   position: absolute;
   left: 0.8rem;
   top: 0.7rem;
+  transition: color 0.2s ease;
 }
 
 .search-input {
   width: 75%;
+}
+
+.search-input > input {
+  width: 100%;
   padding: 0.8rem;
   padding-left: 2.5rem;
+}
+
+.search-input:has(input:focus) > .search-icon {
+  color: var(--c-primary);
 }
 
 .search-container:has(input:focus) {
