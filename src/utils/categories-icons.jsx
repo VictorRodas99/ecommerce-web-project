@@ -41,3 +41,26 @@ export const CATEGORIES = {
   almacenamiento: <MdStorage className="icon" />,
   televisiones: <MdTv className="icon" />
 }
+
+export const topTopics = [
+  {
+    topic: 'Notebooks',
+    classes: ['item-one', 'bg-one']
+  },
+  {
+    topic: 'Smartphones',
+    classes: ['item-two', 'bg-two']
+  },
+  {
+    topic: 'Impresoras',
+    classes: ['item-three', 'bg-three']
+  },
+  {
+    topic: 'Almacenamiento',
+    classes: ['item-four', 'bg-four']
+  },
+  {
+    topic: 'Periféricos',
+    classes: ['item-five', 'bg-five']
+  }
+]
