@@ -1,16 +1,26 @@
 import { CategoriesBox } from './CategoriesBox'
-import { TOPICS, CATEGORIES } from '../../utils/categories-icons'
+import { CategoryCard } from './TopCategories'
+import { TOPICS, CATEGORIES, topTopics } from '../../utils/categories-icons'
 import '../../css/categories.css'
 
 export function Categories() {
   return (
     <section className="categories">
       <div className="menu-categories">
-        <CategoriesBox title="topics" topics={TOPICS} />
+        <CategoriesBox title="Secciones" topics={TOPICS} />
         <CategoriesBox title="Categorías" topics={CATEGORIES} />
       </div>
 
-      <div className="top-categories"></div>
+      <div className="top-categories">
+        {topTopics.map((obj) => {
+          const [item, bg] = obj.classes
+
+          return (
+            <CategoryCard itemNumber={item} bgNumber={bg} name={obj.topic} />
+          )
+        })}
+        <CategoryCard />
+      </div>
     </section>
   )
 }
