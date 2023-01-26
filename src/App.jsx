@@ -1,16 +1,13 @@
 import './App.css'
 import { Header } from './components/Header'
+import { Categories } from './components/categories/Categories'
 
 function App() {
   return (
     <>
       <Header />
       <main>
-        <section className="categories">
-          <div className="menu-categories"></div>
-
-          <div className="top-categories"></div>
-        </section>
+        <Categories />
         <section className="products-container"></section>
       </main>
     </>
