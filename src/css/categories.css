@@ -1,12 +1,12 @@
 .categories {
   display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  gap: 1.5rem;
 }
 
 .menu-categories {
   display: flex;
   flex-direction: column;
+  width: 25%;
   gap: 1rem;
   padding: 1rem;
   background-color: var(--bg-card);
@@ -34,4 +34,99 @@
   display: flex;
   gap: 0.5rem;
   align-items: center;
+}
+
+.top-categories {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: repeat(3, 1fr);
+  gap: 1.5rem;
+  width: 75%;
+}
+
+.top-categories__card {
+  overflow: hidden;
+  cursor: pointer;
+  position: relative;
+}
+
+.top-categories__card:hover .category-image {
+  background-blend-mode: darken;
+  transform: scale(1.1);
+}
+
+.top-categories__card:hover .category-name {
+  width: 80%;
+  left: 10%;
+  letter-spacing: 1.1px;
+}
+
+.top-categories__card:hover .category-image::before {
+  display: block;
+}
+
+.category-name {
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--c-white);
+  border-bottom: 2px solid var(--c-white);
+  width: 50%;
+  padding: 1rem;
+  position: absolute;
+  left: 25%;
+  bottom: 1rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.category-image::before {
+  content: '';
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #4bb4b433;
+  transition: all 0.5s ease;
+}
+
+.item-three {
+  grid-row-end: span 3;
+}
+
+.item-five {
+  grid-column-start: 2;
+}
+
+.category-image {
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg-card);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  transition: all 0.3s ease-in-out;
+}
+
+.bg-one {
+  background-image: url('../../assets/static/top-categories/notebooks.jpg');
+}
+
+.bg-two {
+  background-image: url('../../assets/static/top-categories/smartphones.jpg');
+}
+
+.bg-three {
+  background-image: url('../../assets/static/top-categories/printers.jpg');
+  grid-row-end: span 3;
+}
+
+.bg-four {
+  background-image: url('../../assets/static/top-categories/storage.jpg');
+}
+
+.bg-five {
+  background-image: url('../../assets/static/top-categories/peripherals.jpg');
+  grid-column-start: 2;
 }
