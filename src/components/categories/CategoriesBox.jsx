@@ -1,4 +1,4 @@
-import { capitalize } from '../../utils/tools.js'
+import { capitalize } from '@utils/tools.js'
 
 export function CategoriesBox({ title, topics }) {
   return (
@@ -7,14 +7,12 @@ export function CategoriesBox({ title, topics }) {
         <h3>{title}</h3>
       </div>
       <div className="box-body">
-        {
-            Object.entries(topics).map(([topic, icon]) => (
-                <div key={topic}>
-                    {icon}
-                    {capitalize(topic)}
-                </div>
-            ))
-        }
+        {Object.entries(topics).map(([topic, icon]) => (
+          <div key={topic}>
+            {icon}
+            {capitalize(topic)}
+          </div>
+        ))}
       </div>
     </div>
   )

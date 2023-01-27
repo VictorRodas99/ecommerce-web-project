@@ -1,5 +1,5 @@
 import { MdStorefront, MdLocalMall, MdSearch } from 'react-icons/md'
-import '../css/header.css'
+import '@css/header.css'
 
 export function Header() {
   return (

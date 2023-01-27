@@ -1,7 +1,7 @@
 import { CategoriesBox } from './CategoriesBox'
 import { CategoryCard } from './TopCategories'
-import { TOPICS, CATEGORIES, topTopics } from '../../utils/categories-icons'
-import '../../css/categories.css'
+import { TOPICS, CATEGORIES, topTopics } from '@utils/categories-icons'
+import '@css/categories.css'
 
 export function Categories() {
   return (
@@ -24,7 +24,6 @@ export function Categories() {
             />
           )
         })}
-        <CategoryCard />
       </div>
     </section>
   )

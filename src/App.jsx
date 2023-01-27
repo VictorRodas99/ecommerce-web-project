@@ -1,6 +1,6 @@
-import './App.css'
-import { Header } from './components/Header'
-import { Categories } from './components/categories/Categories'
+import { Header } from '@components/Header'
+import { Categories } from '@components/categories/Categories'
+import { Products } from '@components/Products'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <Header />
       <main>
         <Categories />
-        <section className="products-container"></section>
+        <Products />
       </main>
     </>
   )
