@@ -16,7 +16,12 @@ export function Categories() {
           const [item, bg] = obj.classes
 
           return (
-            <CategoryCard itemNumber={item} bgNumber={bg} name={obj.topic} />
+            <CategoryCard
+              key={item}
+              itemNumber={item}
+              bgNumber={bg}
+              name={obj.topic}
+            />
           )
         })}
         <CategoryCard />
