@@ -1,7 +1,7 @@
 import '@css/products.css'
 import { useState, useEffect } from 'react'
-import { getProducts } from '../services/getProducts.js'
-import { MdAddShoppingCart } from 'react-icons/md'
+import { getProducts } from '@services/getProducts.js'
+import { ProductCard } from './products/ProductCard'
 
 export function Products() {
   const [products, setProducts] = useState([])
@@ -19,27 +19,9 @@ export function Products() {
       </div>
 
       <div className="products-grid">
-        {products.map((product) => {
-          const { id, name, price } = product
-          const image = product.srcImages[0]
-
-          return (
-            <div className="product-card" key={id}>
-              <div className="card-header">
-                <img src={image} alt={name} />
-              </div>
-              <div className="card-body">
-                <h4>{name}</h4>
-              </div>
-              <div className="card-footer">
-                <p className="price">{price}</p>
-                <div className="add-icon">
-                  <MdAddShoppingCart className="icon" />
-                </div>
-              </div>
-            </div>
-          )
-        })}
+        {products.map((product) => (
+          <ProductCard key={product.id} data={product} />
+        ))}
       </div>
     </section>
   )
