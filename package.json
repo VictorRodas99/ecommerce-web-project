@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/VictorRodas99/ecommerce-web-project#readme",
   "dependencies": {
+    "@uiball/loaders": "^1.2.6",
     "cheerio": "^1.0.0-rc.12",
     "hono": "^2.7.2",
     "node-fetch": "^2.6.8",
