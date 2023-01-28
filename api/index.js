@@ -3,6 +3,7 @@ import electronicsRoutes from './routes/electronics.js'
 import computingRoutes from './routes/computing.js'
 import { catchProduct } from './middleware/catch'
 import { optionalSlash } from './middleware/trailing-slashes'
+import { queryAll } from './middleware/pagination'
 import hardwareRoutes from './routes/hardware.js'
 import home from './routes/home.js'
 import { Hono } from 'hono'
@@ -12,6 +13,7 @@ const app = new Hono()
 
 /* Middlewares */
 app.use('*', cors({ origin: '*' }))
+app.use('*', queryAll)
 app.use('*', catchProduct)
 
 /* Endpoints */
