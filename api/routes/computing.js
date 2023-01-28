@@ -1,15 +1,17 @@
 import { Hono } from 'hono'
-import { getProductsById } from '../controllers/products.controller.js'
 import { data } from '../data/data-products.js'
+import { paginate } from '../middleware/pagination.js'
+import { getData, getProductsById } from '../controllers/products.controller.js'
 
 const router = new Hono()
+const { notebooks, printers, monitors, storageData, internetDevices } = data
 
 router
-  .get('/notebooks', (ctx) => ctx.json(data.notebooks))
-  .get('/printers', (ctx) => ctx.json(data.printers))
-  .get('/monitors', (ctx) => ctx.json(data.monitors))
-  .get('/storage', (ctx) => ctx.json(data.storageData))
-  .get('/internet-devices', (ctx) => ctx.json(data.internetDevices))
+  .get('/notebooks', paginate(notebooks), getData)
+  .get('/printers', paginate(printers), getData)
+  .get('/monitors', paginate(monitors), getData)
+  .get('/storage', paginate(storageData), getData)
+  .get('/internet-devices', paginate(internetDevices), getData)
 
 /* Get by Id */
 router

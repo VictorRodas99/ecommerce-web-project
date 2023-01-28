@@ -1,12 +1,14 @@
+import { paginate } from 'api/middleware/pagination.js'
 import { Hono } from 'hono'
-import { getProductsById } from '../controllers/products.controller.js'
+import { getData, getProductsById } from '../controllers/products.controller.js'
 import { data } from '../data/data-products.js'
 
 const router = new Hono()
+const { smartphones, televisions, audioDevices } = data
 
-router.get('/smartphones', (ctx) => ctx.json(data.smartphones))
-router.get('/televisions', (ctx) => ctx.json(data.televisions))
-router.get('/audio', (ctx) => ctx.json(data.audioDevices))
+router.get('/smartphones', paginate(smartphones), getData)
+router.get('/televisions', paginate(televisions), getData)
+router.get('/audio', paginate(audioDevices), getData)
 
 /* GET by Id */
 router.get('/smartphones/:id', getProductsById)

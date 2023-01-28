@@ -1,15 +1,18 @@
 import { Hono } from 'hono'
-import { getProductsById } from '../controllers/products.controller.js'
 import { data } from '../data/data-products.js'
+import { paginate } from 'api/middleware/pagination.js'
+import { getData, getProductsById } from '../controllers/products.controller.js'
+
 
 const router = new Hono()
+const { processors, motherboards, RAMDevices, graphicsCards, keyboards } = data
 
 router
-  .get('/processors', (ctx) => ctx.json(data.processors))
-  .get('/motherboards', (ctx) => ctx.json(data.motherboards))
-  .get('/ram-devices', (ctx) => ctx.json(data.RAMDevices))
-  .get('/graphics', (ctx) => ctx.json(data.graphicsCards))
-  .get('/keyboards', (ctx) => ctx.json(data.keyboards))
+  .get('/processors', paginate(processors), getData)
+  .get('/motherboards', paginate(motherboards), getData)
+  .get('/ram-devices', paginate(RAMDevices), getData)
+  .get('/graphics', paginate(graphicsCards), getData)
+  .get('/keyboards', paginate(keyboards), getData)
 
 /* GET by Id */
 router
