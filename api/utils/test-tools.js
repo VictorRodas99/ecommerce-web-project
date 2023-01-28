@@ -65,7 +65,11 @@ export const testEndpoint = (givenEndpoint) => {
       const res = await worker.fetch(givenEndpoint)
       if (!res) return
 
-      const products = await res.json()
+      const paginated = await res.json()
+      expect(paginated).toHaveProperty('data')
+
+      const products = paginated.data
+
       products.forEach((product) => {
         checkProperties(product, requiredProperties)
       })
@@ -84,7 +88,11 @@ export const testEndpoint = (givenEndpoint) => {
       const res = await worker.fetch(endpoint)
       if (!res) return
 
-      const products = await res.json()
+      const paginated = await res.json()
+      expect(paginated).toHaveProperty('data')
+
+      const products = paginated.data
+      
       products.forEach((product) => {
         checkProperties(product, requiredProperties)
       })
