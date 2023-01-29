@@ -67,3 +67,70 @@
   background-color: var(--c-primary);
   color: var(--c-white);
 }
+
+.page-controller {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3rem;
+  gap: 1rem;
+}
+
+.arrow-container {
+  padding: 0.8rem;
+  padding-bottom: 0.5rem;
+  background-color: var(--bg-card);
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px 4px #e5ddce;
+  position: relative;
+  cursor: pointer;
+}
+
+.arrow-disabled {
+  padding: 0.8rem;
+  padding-bottom: 0.5rem;
+  background-color: var(--bg-card);
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px 4px #e5ddce;
+  position: relative;
+  cursor: not-allowed;
+}
+
+.arrow-container:hover {
+  background-color: #aeecec;
+}
+
+.arrow-container:hover > .page-message {
+  visibility: visible;
+  opacity: 1;
+  transition: all 0.2s ease-in;
+}
+
+.arrow-disabled:hover > .page-message {
+  visibility: visible;
+  opacity: 1;
+  transition: all 0.2s ease-in;
+}
+
+.page-controller .icon {
+  font-size: 2rem;
+  color: var(--c-primary);
+}
+
+.page-message {
+  text-align: center;
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  width: 100%;
+  top: -2rem;
+  left: 0;
+  color: var(--c-gray-ligth);
+  pointer-events: none;
+  transition: all 0.2s ease-out;
+}
+
+.arrow-disabled .icon {
+  color: var(--c-gray);
+}
