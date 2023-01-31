@@ -1,4 +1,5 @@
 import { Header } from '@components/Header'
+import { Footer } from '@components/Footer'
 import { Categories } from '@components/categories/Categories'
 import { Products } from '@components/Products'
 
@@ -10,6 +11,7 @@ function App() {
         <Categories />
         <Products />
       </main>
+      <Footer />
     </>
   )
 }
