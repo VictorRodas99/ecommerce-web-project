@@ -1,16 +1,12 @@
-import { MdStorefront, MdLocalMall, MdSearch } from 'react-icons/md'
+import { PageIcon } from './PageIcon'
+import { MdLocalMall, MdSearch } from 'react-icons/md'
 import '@css/header.css'
 
 export function Header() {
   return (
     <header className="header-container">
       <nav>
-        <div className="home-icon-container">
-          <a href="/">
-            <MdStorefront className="icon home-icon" />
-          </a>
-        </div>
-
+        <PageIcon />
         <form className="form-container">
           <div className="search-container">
             <div className="search-input">
