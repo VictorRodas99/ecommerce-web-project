@@ -1,4 +1,4 @@
-import { PageIcon } from './PageIcon'
+import { PageIcon } from './icons/PageIcon'
 import { MdLocalMall, MdSearch } from 'react-icons/md'
 import '@css/header.css'
 
