@@ -56,6 +56,7 @@
   padding: 0.3rem;
   padding-bottom: 0;
   border: 2px solid var(--c-primary);
+  border-radius: var(--b-radius);
   color: var(--c-primary);
   bottom: 1.5rem;
   right: 1.5rem;

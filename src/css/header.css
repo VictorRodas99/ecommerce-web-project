@@ -77,30 +77,39 @@
 }
 
 .cart-logo-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  place-items: center;
 }
 
 .cart-icon {
-  color: var(--c-white);
-  padding: 0.5rem;
-  padding-left: 0.7rem;
-  padding-right: 0.7rem;
+  width: 50px;
+  height: 50px;
+
+  display: grid;
+  place-items: center;
+
+  background-color: var(--bg-card);
+  box-shadow: 0px 2px 4px 3px #e5ddce;
+  color: var(--c-primary);
   border-radius: 50%;
-  background-color: var(--c-primary);
+
   cursor: pointer;
   position: relative;
 }
 
 .cart-icon::before {
+  color: var(--c-white);
   content: '3';
   font-size: 0.9rem;
-  background-color: #c21f1f;
+  background-color: var(--c-red);
   padding-left: 5px;
   padding-right: 5px;
   border-radius: 50%;
   position: absolute;
   right: -2px;
   top: -5px;
+}
+
+.cart-icon > svg {
+  font-size: 2rem;
 }
