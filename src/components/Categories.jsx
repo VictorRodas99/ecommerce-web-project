@@ -1,6 +1,6 @@
-import { CategoriesBox } from './CategoriesBox'
-import { CategoryCard } from './TopCategories'
-import { TOPICS, CATEGORIES, topTopics } from '@utils/categories-icons'
+import { CategoriesBox } from './categories/CategoriesBox'
+import { CategoryCard } from './categories/TopCategories'
+import { TOPICS, CATEGORIES, topTopics } from '@utils/categoriesIcons'
 import '@css/categories.css'
 
 export function Categories() {
