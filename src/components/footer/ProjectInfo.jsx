@@ -1,5 +1,5 @@
-import { PageIcon } from './icons/PageIcon'
-import { LogoGithubIcon } from './icons/LogoGithub'
+import { PageIcon } from '../icons/PageIcon'
+import { LogoGithubIcon } from '../icons/LogoGithub'
 
 export function ProjectInfo({ repoLink }) {
   return (
