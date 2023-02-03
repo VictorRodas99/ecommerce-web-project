@@ -16,10 +16,6 @@ export function ProductCard({ data, notificationEvent }) {
     setLoading(false)
   }
 
-  //TODO: eliminar el evento en esta card [DONE]
-  //TODO: cambiar el icono a check [DONE]
-  //TODO: lanzar un evento de notificación [DONE]
-
   const changeIconToChek = (target) => {
     const currentIcon = target
     const checkIcon = target.nextElementSibling
@@ -30,7 +26,7 @@ export function ProductCard({ data, notificationEvent }) {
 
   const handleClickOnCart = ({ currentTarget }) => {
     setClicked(true)
-    // addProduct({ name, price })
+    addProduct({ name, price })
     notificationEvent({
       color: 'success',
       message: 'Agregado a carrito!',
