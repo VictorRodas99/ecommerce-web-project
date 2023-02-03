@@ -1,12 +1,20 @@
 aside.cart-container {
   position: fixed;
   top: 0;
-  right: 0;
   height: 100vh;
   background-color: var(--c-white);
   z-index: var(--top-index);
   width: 25%;
   padding: 2rem;
+  transition: all 0.7s ease;
+}
+
+.cart-invisible {
+  right: -50%;
+}
+
+.cart-visible {
+  right: 0;
 }
 
 .cart-header {
@@ -15,6 +23,10 @@ aside.cart-container {
   justify-content: space-between;
   padding-bottom: 2rem;
   border-bottom: 1px solid var(--c-gray-ligth);
+}
+
+.cart-close {
+  font-size: 2rem;
 }
 
 .cart-body {
