@@ -1,0 +1,16 @@
+.container {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  overflow: hidden;
+  max-height: 200px;
+  transition: max-height 0.3s ease-out;
+}
+
+.container:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.container.shrink {
+  max-height: 0;
+}

@@ -1,0 +1,63 @@
+.notification {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: var(--c-white);
+  border-radius: var(--b-radius);
+  color: var(--c-gray);
+  padding: 1rem;
+  z-index: var(--top-index);
+  position: relative;
+  transition: transform 0.3s ease-out;
+}
+
+.notification .close-button {
+  font-size: 1.2rem;
+  color: var(--c-white);
+  font-weight: 500;
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+}
+
+.notification.slide-out {
+  transform: translateX(150%);
+  flex: 0;
+}
+
+.notification.slide-in {
+  animation-name: slideIn;
+  animation-duration: 0.3s;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0%);
+  }
+}
+
+/* notification themes */
+.notification.info {
+  color: var(--c-primary);
+  border: 1px solid var(--c-primary);
+}
+
+.notification.success {
+  color: var(--c-green);
+  border: 1px solid var(--c-green);
+}
+
+.notification.warning {
+  color: var(--c-yellow);
+  border: 1px solid var(--c-yellow);
+}
+
+.notification.error {
+  color: var(--c-red);
+  border: 1px solid var(--c-red);
+}
