@@ -4,13 +4,21 @@ import { CartContext } from '@context/CartContext'
 import '@css/cart.css'
 
 export function Cart() {
-  const { cartProducts, deleteProduct } = useContext(CartContext)
+  const { cartProducts, deleteProduct, cartVisibility, modifyCartVisibility } =
+    useContext(CartContext)
+
+  const displayMode = cartVisibility ? 'cart-visible' : 'cart-invisible'
 
   return (
-    <aside className="cart-container" style={{ display: 'none' }}>
+    <aside className={`cart-container ${displayMode}`}>
       <div className="cart-header">
         <MdShoppingBag />
-        <MdClose />
+        <button
+          className="cart-close"
+          onClick={() => modifyCartVisibility(false)}
+        >
+          <MdClose />
+        </button>
       </div>
 
       <div className="cart-body">
