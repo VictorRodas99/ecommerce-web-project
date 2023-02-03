@@ -1,4 +1,4 @@
-import { MdDelete } from 'react-icons/md'
+import { MdClose } from 'react-icons/md'
 import { CartContext } from '@context/CartContext'
 import { useContext } from 'react'
 
@@ -23,7 +23,7 @@ export function CartItem({ data: product, onDelete }) {
           deleteProduct(product)
         }}
       >
-        <MdDelete />
+        <MdClose />
       </div>
     </div>
   )
