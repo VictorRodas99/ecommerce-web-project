@@ -6,7 +6,7 @@ import '@css/header.css'
 
 export function Header() {
   const [mode, setMode] = useState(false)
-  const { modifyCartVisibility } = useContext(CartContext)
+  const { modifyCartVisibility, cartProducts } = useContext(CartContext)
 
   useEffect(() => {
     modifyCartVisibility(mode)
@@ -31,7 +31,7 @@ export function Header() {
         </form>
 
         <div className="cart-logo-container" onClick={handleCartIconClick}>
-          <div className="cart-icon">
+          <div className="cart-icon" total-products={cartProducts.length}>
             <MdLocalMall />
           </div>
         </div>

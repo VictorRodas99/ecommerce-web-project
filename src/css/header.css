@@ -101,7 +101,7 @@
 
 .cart-icon::before {
   color: var(--c-white);
-  content: '3';
+  content: attr(total-products);
   font-size: 0.9rem;
   background-color: var(--c-red);
   padding-left: 5px;
