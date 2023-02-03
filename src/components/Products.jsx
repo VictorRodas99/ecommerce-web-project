@@ -3,6 +3,8 @@ import { ProductCard } from './products/ProductCard'
 import { MdArrowBack, MdArrowForward } from 'react-icons/md'
 import { Arrow } from './products/Arrow'
 import { useProducts } from '@hooks/useProducts'
+import { useNotification } from '@hooks/useNotification'
+import { NotificationCart } from '@components/Notification'
 
 const API_URL_HOME =
   'https://ecommerce-products-api.vik-apps.workers.dev/products?page=1'
@@ -13,16 +15,21 @@ export function Products() {
     apiUrl: API_URL_HOME
   })
 
+  const { notifications, createNotification, deleteNotification } =
+    useNotification()
+
   const changePage = (event) => {
     const { id } = event.currentTarget
     const numberPage = id === 'back' ? pages.previousPage : pages.nextPage
     const newPageUrl = `${API_URL}/products?page=${numberPage}`
 
-    console.log(newPageUrl)
-
     refreshProducts({
       apiUrl: newPageUrl
     })
+  }
+
+  const launchNotification = ({ color, message, icon }) => {
+    createNotification(color, message, icon)
   }
 
   return (
@@ -33,9 +40,24 @@ export function Products() {
 
       <div className="products-grid">
         {products.map((product) => (
-          <ProductCard key={product.id} data={product} />
+          <ProductCard
+            key={product.id}
+            data={product}
+            notificationEvent={launchNotification}
+          />
         ))}
       </div>
+
+      {notifications.map(({ id, color, message, icon }) => (
+        <NotificationCart
+          key={`${id}-notification`}
+          message={message}
+          color={color}
+          icon={icon}
+          onDelete={() => deleteNotification(id)}
+          autoClose={true}
+        />
+      ))}
 
       <div className="page-controller">
         <Arrow

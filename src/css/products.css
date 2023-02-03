@@ -69,6 +69,15 @@
   color: var(--c-white);
 }
 
+.product-card-icon {
+  display: none;
+  transition: all 0.3s ease;
+}
+
+.visible-icon {
+  display: block;
+}
+
 .page-controller {
   width: 100%;
   display: flex;

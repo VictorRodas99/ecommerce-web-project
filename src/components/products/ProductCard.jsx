@@ -1,14 +1,42 @@
 import { useState } from 'react'
-import { MdAddShoppingCart } from 'react-icons/md'
+import { MdAddShoppingCart, MdDone } from 'react-icons/md'
 import { Ring } from '@uiball/loaders'
+import { useContext } from 'react'
+import { CartContext } from '@context/CartContext'
 
-export function ProductCard({ data }) {
+export function ProductCard({ data, notificationEvent }) {
+  const { addProduct } = useContext(CartContext)
   const [loading, setLoading] = useState(true)
+  const [clicked, setClicked] = useState(false)
+
   const { name, price } = data
   const image = data.srcImages[0]
 
   const handleLoad = () => {
     setLoading(false)
+  }
+
+  //TODO: eliminar el evento en esta card [DONE]
+  //TODO: cambiar el icono a check [DONE]
+  //TODO: lanzar un evento de notificación [DONE]
+
+  const changeIconToChek = (target) => {
+    const currentIcon = target
+    const checkIcon = target.nextElementSibling
+
+    currentIcon.classList.toggle('visible-icon')
+    checkIcon.classList.toggle('visible-icon')
+  }
+
+  const handleClickOnCart = ({ currentTarget }) => {
+    setClicked(true)
+    // addProduct({ name, price })
+    notificationEvent({
+      color: 'success',
+      message: 'Agregado a carrito!',
+      icon: <MdDone className="icon" />
+    })
+    changeIconToChek(currentTarget)
   }
 
   return (
@@ -25,7 +53,15 @@ export function ProductCard({ data }) {
       <div className="card-footer">
         <p className="price">{price}</p>
         <div className="add-icon">
-          <MdAddShoppingCart className="icon" />
+          <div
+            className="product-card-icon visible-icon"
+            onClick={!clicked ? handleClickOnCart : null}
+          >
+            <MdAddShoppingCart className="icon" />
+          </div>
+          <div className="product-card-icon">
+            <MdDone className="icon" />
+          </div>
         </div>
       </div>
     </div>
