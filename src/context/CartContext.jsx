@@ -9,6 +9,7 @@ export function CartContextProvider({ children }) {
   const modifyCartVisibility = (mode = false) => setCartVisbility(mode)
 
   const addProduct = (newProduct) => {
+    newProduct.id = cartProducts.length - 1
     const newCartProducts = [...cartProducts]
     newCartProducts.push(newProduct)
 
