@@ -1,15 +1,11 @@
-import {
-  MdClose,
-  MdDelete,
-  MdShoppingBag,
-  MdRemoveShoppingCart
-} from 'react-icons/md'
+import { MdClose, MdShoppingBag, MdRemoveShoppingCart } from 'react-icons/md'
 import { useContext } from 'react'
 import { CartContext } from '@context/CartContext'
 import '@css/cart.css'
+import { CartItem } from '@components/cart/CartItem'
 
 export function Cart() {
-  const { cartProducts, deleteProduct, cartVisibility, modifyCartVisibility } =
+  const { cartProducts, cartVisibility, modifyCartVisibility } =
     useContext(CartContext)
 
   const totalProducts = cartProducts.length
@@ -52,36 +48,15 @@ export function Cart() {
           </div>
 
           <div className="cart-products">
-            {cartProducts.map((product) => {
-              const { name, price, image } = product
-              return (
-                <div className="cart-product-card" key={name}>
-                  <div className="product-cart-image">
-                    <img src={image} alt="Producto del carrito" />
-                  </div>
-                  <div className="product-cart-details">
-                    <h4>
-                      {name} <span className="dots">...</span>
-                    </h4>
-                    <p className="product-cart-price">{price}</p>
-                  </div>
-                  <div
-                    className="delete-icon"
-                    onClick={() => {
-                      deleteProduct(product)
-                    }}
-                  >
-                    <MdDelete />
-                  </div>
-                </div>
-              )
-            })}
+            {cartProducts.map((product) => (
+              <CartItem key={product.name} data={product} />
+            ))}
           </div>
         </div>
 
         <div
           className="cart-footer"
-          style={{ display: cartProducts.length > 0 ? 'block' : 'none' }}
+          style={{ display: totalProducts > 0 ? 'block' : 'none' }}
         ></div>
       </aside>
     </>
