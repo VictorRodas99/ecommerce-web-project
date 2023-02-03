@@ -2,7 +2,7 @@ import { MdClose } from 'react-icons/md'
 import { CartContext } from '@context/CartContext'
 import { useContext } from 'react'
 
-export function CartItem({ data: product, onDelete }) {
+export function CartItem({ data: product }) {
   const { deleteProduct } = useContext(CartContext)
   const { name, price, image } = product
 
