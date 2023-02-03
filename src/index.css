@@ -15,12 +15,15 @@
   --c-gray-ligth: #d3d3d4;
   --c-primary: #4bb4b4;
   --c-red: #b44b4b;
+  --c-green: #4bb45d;
+  --c-yellow: #ebc90c;
 }
 
 :root {
   --main-padding-left: 3.5rem;
   --main-padding-right: 3.5rem;
   --top-index: 10;
+  --mid-index: 5;
   --b-radius: 5px;
 }
 
