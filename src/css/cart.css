@@ -9,6 +9,8 @@
 
 aside.cart-container {
   position: fixed;
+  display: flex;
+  flex-direction: column;
   top: 0;
   height: 100vh;
   background-color: var(--c-white);
@@ -16,6 +18,13 @@ aside.cart-container {
   width: 30%;
   padding: 2rem;
   transition: all 0.7s ease;
+}
+
+.scroll-control {
+  width: 109%;
+  padding-right: 1rem;
+  overflow-y: auto;
+  height: 100%;
 }
 
 .cart-invisible {
@@ -50,7 +59,6 @@ aside.cart-container {
 
 .cart-body {
   height: 75%;
-  overflow-y: auto;
 }
 
 .cart-product-card {
@@ -115,4 +123,36 @@ aside.cart-container {
 
 .message-content > svg {
   font-size: 5rem;
+}
+
+.cart-footer {
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.btn-cart-footer {
+  border: 1px solid var(--c-primary);
+  border-radius: var(--b-radius);
+  font-size: 0.9rem;
+  width: 100%;
+  padding: 0.6rem;
+  transition: all 0.2s ease-out;
+}
+
+.btn-cart-footer.checkout {
+  color: var(--c-white);
+  background-color: var(--c-primary);
+}
+
+.btn-cart-footer.checkout:hover {
+  background-color: var(--c-primary-dark);
+  border-color: var(--c-primary-dark);
+}
+
+.btn-cart-footer.buy {
+  color: var(--c-primary);
+}
+
+.btn-cart-footer.buy:hover {
+  outline: 0.2px solid var(--c-primary);
 }
