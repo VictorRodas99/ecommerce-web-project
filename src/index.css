@@ -14,6 +14,7 @@
   --c-gray: #7c828d;
   --c-gray-ligth: #d3d3d4;
   --c-primary: #4bb4b4;
+  --c-primary-dark: #257181;
   --c-red: #b44b4b;
   --c-green: #4bb45d;
   --c-yellow: #ebc90c;
@@ -65,6 +66,7 @@ a {
 }
 
 button {
+  font-weight: bold;
   padding: 0;
   background-color: transparent;
   border: none;
