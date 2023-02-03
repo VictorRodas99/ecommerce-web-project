@@ -22,6 +22,8 @@
 :root {
   --main-padding-left: 3.5rem;
   --main-padding-right: 3.5rem;
+  --cart-index: 20;
+  --shadow-index: 15;
   --top-index: 10;
   --mid-index: 5;
   --b-radius: 5px;
@@ -51,6 +53,10 @@
 
 body {
   background-color: var(--bg-tertiary);
+}
+
+.stop-scroll {
+  overflow-y: hidden;
 }
 
 a {
