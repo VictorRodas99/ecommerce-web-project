@@ -1,0 +1,35 @@
+aside.cart-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  background-color: var(--c-white);
+  z-index: var(--top-index);
+  width: 25%;
+  padding: 2rem;
+}
+
+.cart-header {
+  font-size: 2rem;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--c-gray-ligth);
+}
+
+.cart-body {
+  height: 75%;
+}
+
+.cart-body .message-empty-cart {
+  place-items: center;
+  height: 100%;
+}
+
+.message-content {
+  text-align: center;
+}
+
+.message-content > svg {
+  font-size: 5rem;
+}
