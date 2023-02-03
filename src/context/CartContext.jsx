@@ -4,6 +4,9 @@ export const CartContext = createContext()
 
 export function CartContextProvider({ children }) {
   const [cartProducts, setCartProducts] = useState([])
+  const [cartVisibility, setCartVisbility] = useState(false)
+
+  const modifyCartVisibility = (mode = false) => setCartVisbility(mode)
 
   const addProduct = (newProduct) => {
     const newCartProducts = [...cartProducts]
@@ -24,7 +27,15 @@ export function CartContextProvider({ children }) {
   }
 
   return (
-    <CartContext.Provider value={{ cartProducts, addProduct, deleteProduct }}>
+    <CartContext.Provider
+      value={{
+        cartProducts,
+        addProduct,
+        deleteProduct,
+        cartVisibility,
+        modifyCartVisibility
+      }}
+    >
       {children}
     </CartContext.Provider>
   )
