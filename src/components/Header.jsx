@@ -1,8 +1,19 @@
 import { PageIcon } from './icons/PageIcon'
 import { MdLocalMall, MdSearch } from 'react-icons/md'
+import { CartContext } from '@context/CartContext'
+import { useContext, useEffect, useState } from 'react'
 import '@css/header.css'
 
 export function Header() {
+  const [mode, setMode] = useState(false)
+  const { modifyCartVisibility } = useContext(CartContext)
+
+  useEffect(() => {
+    modifyCartVisibility(mode)
+  }, [mode])
+
+  const handleCartIconClick = () => setMode(!mode)
+
   return (
     <header className="header-container">
       <nav>
@@ -19,9 +30,9 @@ export function Header() {
           </div>
         </form>
 
-        <div className="cart-logo-container">
+        <div className="cart-logo-container" onClick={handleCartIconClick}>
           <div className="cart-icon">
-            <MdLocalMall className="icon" />
+            <MdLocalMall />
           </div>
         </div>
       </nav>
