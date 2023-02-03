@@ -26,7 +26,7 @@ export function ProductCard({ data, notificationEvent }) {
 
   const handleClickOnCart = ({ currentTarget }) => {
     setClicked(true)
-    addProduct({ name, price })
+    addProduct({ name, price, image: data.srcImages[1] ?? data.srcImages[0] })
     notificationEvent({
       color: 'success',
       message: 'Agregado a carrito!',
