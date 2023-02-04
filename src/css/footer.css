@@ -104,3 +104,45 @@ footer {
   font-size: 2rem;
   color: var(--c-white);
 }
+
+@media only screen and (max-width: 768px) {
+  .info-container {
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  footer {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 7rem;
+  }
+
+  .info-container {
+    width: 100%;
+  }
+
+  .project-repo {
+    padding: 1rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  footer {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 7rem;
+  }
+
+  .project-repo {
+    padding: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .project-repo {
+    font-size: 0.8rem;
+  }
+}

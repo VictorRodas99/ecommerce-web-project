@@ -24,3 +24,12 @@
 .home-icon {
   font-size: 1.5rem;
 }
+
+@media only screen and (max-width: 425px) {
+  .home-icon-container::before {
+    font-size: 0.7rem;
+    width: 50px;
+    bottom: -5px;
+    right: -15px;
+  }
+}

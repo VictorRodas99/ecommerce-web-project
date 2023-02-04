@@ -28,7 +28,7 @@
   --shadow-index: 15;
   --top-index: 10;
   --mid-index: 5;
-  --b-radius: 5px;
+  --b-radius: 7px;
 }
 
 /* Configs */
@@ -88,4 +88,10 @@ main {
   padding: 2rem;
   padding-left: var(--main-padding-left);
   padding-right: var(--main-padding-right);
+}
+
+@media only screen and (max-width: 425px) {
+  main {
+    padding: 1.5rem;
+  }
 }

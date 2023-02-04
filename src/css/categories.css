@@ -130,3 +130,33 @@
   background-image: url('../../assets/static/top-categories/peripherals.jpg');
   grid-column-start: 2;
 }
+
+@media only screen and (max-width: 768px) {
+  .menu-categories {
+    display: none;
+  }
+
+  .top-categories {
+    width: 100%;
+  }
+
+  .top-categories__card {
+    height: 250px;
+  }
+
+  .item-three {
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .top-categories {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .item-three {
+    height: 250px;
+  }
+}

@@ -156,3 +156,27 @@ aside.cart-container {
 .btn-cart-footer.buy:hover {
   outline: 0.2px solid var(--c-primary);
 }
+
+@media only screen and (max-width: 768px) {
+  aside.cart-container {
+    width: 45%;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  aside.cart-container {
+    width: 90%;
+  }
+
+  .cart-invisible {
+    right: -100%;
+  }
+
+  .product-cart-image {
+    width: 50%;
+  }
+
+  .product-cart-details > h4 {
+    width: 120vw;
+  }
+}

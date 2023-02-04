@@ -3,6 +3,7 @@ import { Footer } from '@components/Footer'
 import { Categories } from '@components/Categories'
 import { Products } from '@components/Products'
 import { Cart } from '@components/Cart'
+import { MobileMenu } from '@components/MobileMenu'
 import { CartContext } from '@context/CartContext'
 import { useContext, useEffect } from 'react'
 
@@ -27,6 +28,7 @@ function App() {
         <Categories />
         <Products />
       </main>
+      <MobileMenu />
       <Footer />
     </>
   )

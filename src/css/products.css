@@ -144,3 +144,19 @@
 .arrow-disabled .icon {
   color: var(--c-gray);
 }
+
+@media only screen and (max-width: 768px) {
+  .products-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .products-container__title > h2 {
+    font-size: 2.5rem;
+  }
+
+  .products-grid {
+    grid-template-columns: 1fr;
+  }
+}
