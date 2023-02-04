@@ -23,6 +23,7 @@
 :root {
   --main-padding-left: 3.5rem;
   --main-padding-right: 3.5rem;
+  --notification-index: 25;
   --cart-index: 20;
   --shadow-index: 15;
   --top-index: 10;
