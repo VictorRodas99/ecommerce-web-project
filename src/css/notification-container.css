@@ -5,6 +5,7 @@
   overflow: hidden;
   max-height: 200px;
   transition: max-height 0.3s ease-out;
+  z-index: var(--notification-index);
 }
 
 .container:not(:last-child) {

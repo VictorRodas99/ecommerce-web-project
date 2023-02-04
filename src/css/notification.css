@@ -6,7 +6,6 @@
   border-radius: var(--b-radius);
   color: var(--c-gray);
   padding: 1rem;
-  z-index: var(--top-index);
   position: relative;
   transition: transform 0.3s ease-out;
 }
