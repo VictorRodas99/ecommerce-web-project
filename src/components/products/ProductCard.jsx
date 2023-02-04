@@ -1,22 +1,45 @@
 import { useState } from 'react'
-import { MdAddShoppingCart, MdDone } from 'react-icons/md'
+import { MdAddShoppingCart, MdDone, MdClose } from 'react-icons/md'
 import { Ring } from '@uiball/loaders'
-import { useContext } from 'react'
+import { useContext, useEffect } from 'react'
 import { CartContext } from '@context/CartContext'
 
 export function ProductCard({ data, notificationEvent }) {
-  const { addProduct } = useContext(CartContext)
+  const { cartProducts, addProduct } = useContext(CartContext)
+  const [productWasAdded, setProductWasAdded] = useState(false)
   const [loading, setLoading] = useState(true)
   const [clicked, setClicked] = useState(false)
+  const [iconCart, setIconCart] = useState(undefined)
 
-  const { name, price } = data
+  const { id, name, price } = data
   const image = data.srcImages[0]
+
+  useEffect(() => {
+    if (productWasAdded) {
+      // verificar si ya no existe el id de este producto de esta card
+      const existsCurrentProduct = cartProducts.some(
+        (product) => product.id === id
+      )
+
+      if (!existsCurrentProduct) {
+        setClicked(false)
+        setProductWasAdded(false)
+        changeIcon(iconCart)
+
+        notificationEvent({
+          color: 'error',
+          message: 'Eliminado del carrito!',
+          icon: <MdClose className="icon" />
+        })
+      }
+    }
+  }, [cartProducts])
 
   const handleLoad = () => {
     setLoading(false)
   }
 
-  const changeIconToChek = (target) => {
+  const changeIcon = (target) => {
     const currentIcon = target
     const checkIcon = target.nextElementSibling
 
@@ -25,14 +48,21 @@ export function ProductCard({ data, notificationEvent }) {
   }
 
   const handleClickOnCart = ({ currentTarget }) => {
+    setIconCart(currentTarget)
     setClicked(true)
-    addProduct({ name, price, image: data.srcImages[1] ?? data.srcImages[0] })
+    addProduct({
+      id,
+      name,
+      price,
+      image: data.srcImages[1] ?? data.srcImages[0]
+    })
     notificationEvent({
       color: 'success',
       message: 'Agregado a carrito!',
       icon: <MdDone className="icon" />
     })
-    changeIconToChek(currentTarget)
+    changeIcon(currentTarget)
+    setProductWasAdded(true)
   }
 
   return (
