@@ -51,7 +51,7 @@
     },
     {
         "name": "Mesa Gamer Cougar Electrical E-Mars 150 RGB USB - Negro",
-        "price": "Gs. 6.547.662",
+        "price": "Gs. 6.368.274",
         "details": {
             "Diseño": "Moderno y resistente",
             "Iluminación": "RGB",
@@ -208,65 +208,27 @@
         "id": 9
     },
     {
-        "name": "Mini PC Intel NUC11PAHI50001 Intel Core i5-1135G7 2.4 GHz",
-        "price": "Gs. 3.946.536",
+        "name": "Apple Mac Studio with M1 Max Early (2022) MJMV3LL/A 512 GB - Plata",
+        "price": "Gs. 22.423.500",
         "details": {
-            "Procesador": "Intel Core i5-1135G7 Quad-Core 2.4 - 4.2 GHz",
-            "Tipo de memória RAM": "2 x SO-DIMM DDR4-3200, 64 GB como máx. (no incluye)",
-            "Ranura para": "1 x SSD/HDD de 2.5\", 1 x M.2 2280 PCIe (no incluye)",
-            "Gráficos": "Intel Iris Xe",
-            "Conectividad": "Wi-Fi 6 y Bluetooth 5.0",
-            "Interfaz": "USB 3.2, HDMI 2.0b, USB-C, Mini DP 1.4, RJ45, Jack 3.5 mm y SD"
+            "Procesador": "Apple M1 Max",
+            "Lector de tarjetas": "UHS-II SDXC",
+            "Memoria interna": "512 GB SSD",
+            "Memoria RAM": "32 GB"
         },
-        "label": "Intel",
+        "label": "Apple",
         "categories": [
-            "Informática",
-            "Desktops"
+            "Informática"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_nuc11pahi50001_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_nuc11pahi50001_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_nuc11pahi50001_-_2.jpg"
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/6/1646763624_1694670.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/6/1646763354_img_1710015.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/6/1646763354_img_1710016.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/6/1646763354_img_1710017.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/6/1646763354_img_1710019.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/6/1646763354_img_1710020.jpg"
         ],
         "id": 10
-    },
-    {
-        "name": "Placa Madre Asus TUF Gaming B550-PRO AM4 DDR4",
-        "price": "Gs. 1.659.339",
-        "details": {
-            "Factor de Forma": "ATX",
-            "Soporta procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
-            "Socket de procesador": "AM4",
-            "Memoria RAM": "4 x DIMM DDR4 admite hasta 128 GB",
-            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
-            "Chipset": "AMD B550"
-        },
-        "label": "Asus",
-        "categories": [
-            "Informática",
-            "Placas madres"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_5.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_6.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_2.jpg"
-        ],
-        "specifications": {
-            "Factor de Forma": "ATX",
-            "Socket de procesador": "AM4",
-            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 5100(O.C), 5000(O.C), 4866(O.C), 4800(O.C.), 4600(O.C), 4500(O.C), 4400(O.C), 4333(O.C.), 4266(O.C.), 4200(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3733(O.C.), 3600(O.C.), 3466(O.C.), 3400(O.C.), 3333(O.C.), 3200, 3000, 2800, 2666, 2400, 2133 MHz",
-            "Procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
-            "Chipset": "AMD B550",
-            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
-            "Audio": "Códec de audio de alta definición con sonido envolvente Realtek ALC S1200A 7.1",
-            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16, 3 x PCI Express 3.0 x1",
-            "LAN": "Realtek RTL8125B 2.5Gb Ethernet",
-            "Interfaz": "1 x DisplayPort, 1 x HDMI, 1 x LAN (2.5G), 2 x USB 3.2 Gen 2, 2 x USB 3.2 Gen 1, 4 x USB 2.0, 1 x Optical S/PDIF, 5 x Audio Jack, 1 x Boton BIOS FlashBack"
-        },
-        "id": 11
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
@@ -285,7 +247,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/o/cooler_satellite.jpg"
         ],
-        "id": 12
+        "id": 11
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
@@ -304,7 +266,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/sate_19.jpg"
         ],
-        "id": 13
+        "id": 12
     },
     {
         "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
@@ -323,7 +285,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/sate_20.jpg"
         ],
-        "id": 14
+        "id": 13
     },
     {
         "name": "Mouse Inalámbrico Logitech M187",
@@ -346,7 +308,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-coral_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-negro_2.jpg"
         ],
-        "id": 15
+        "id": 14
     },
     {
         "name": "Speaker Logitech Z130 para PC Bivolt - Negro",
@@ -369,7 +331,52 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/o/mochila_klip_11_.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/o/mochila_klip_12_.jpg"
         ],
+        "id": 15
+    },
+    {
+        "name": "Tableta Grafica Wacom One Small 7\" - Negro",
+        "price": "Gs. 367.745",
+        "details": {
+            "Tamaño de la Tableta": "5,5 x 4,5 \"/ 138,8 x 115,0 mm",
+            "Tamaño de Area Activa": "152,40 x 93,98 mm / 6,0 x 3,7 \"",
+            "Niveles de presión": "2048",
+            "Resolución": "2540 lpp",
+            "Conectividad": "USB con cable"
+        },
+        "label": "Wacom",
+        "categories": [
+            "Informática",
+            "Accesorios",
+            "Tabletas gráficas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/5/1563189320_img_1217320.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/5/1563189320_img_1217322_2_.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/5/1563188915_1491563.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/5/1563189320_img_1217321.jpg"
+        ],
         "id": 16
+    },
+    {
+        "name": "Cooler para Notebook Havit HV-F2081 4 Fan USB - Negro",
+        "price": "Gs. 139.026",
+        "details": {
+            "Diseño": "Ergonómico",
+            "Material": "Malla de hierro, plástico",
+            "Configuraciones de": "Altura múltiple",
+            "Compatible con": "Notebooks desde 11\" hasta 17\""
+        },
+        "label": "Havit",
+        "categories": [
+            "Informática",
+            "Accesorios"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/o/notepad.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/o/notepad_1_.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/o/notepad_2_.jpg"
+        ],
+        "id": 17
     },
     {
         "name": "Adaptador USB-C a Ethernet Belkin INC001BTBK 60W - Negro",
@@ -390,7 +397,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/d/adapatdteo.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/d/adpatay.jpg"
         ],
-        "id": 17
+        "id": 18
     },
     {
         "name": "Cooler Redragon GC-F008 RGB 120 mm - 3 unidades + Control",
@@ -409,7 +416,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/64033.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/64033_-_1.jpg"
         ],
-        "id": 18
+        "id": 19
     },
     {
         "name": "Lector de Códigos de Barra Honeywell Voyager 1250g con Base",
@@ -430,7 +437,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/e/lectoroorr-2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/e/lectoroorr-3.jpg"
         ],
-        "id": 19
+        "id": 20
     },
     {
         "name": "Lector de Código de Barra Zkteco ZKB101 - Negro",
@@ -450,7 +457,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/8/68051_1.jpg"
         ],
-        "id": 20
+        "id": 21
     },
     {
         "name": "Cooler Raidmax AC904 RGB para CPU - Blanco",
@@ -474,7 +481,7 @@
             "LGA 1366": "",
             "LGA 2011": ""
         },
-        "id": 21
+        "id": 22
     },
     {
         "name": "Hub Portátil USB-C Belkin F4U090BT 4 Puertos - Negro",
@@ -504,11 +511,285 @@
             "Diseño ultra portátil/inteligente.": "",
             "Carga periféricos con los 900 mAh (compartidos).": ""
         },
-        "id": 22
+        "id": 23
+    },
+    {
+        "name": "Mini PC Intel NUC10I7FNHN Intel Core i7-10710U 1.1 GHz",
+        "price": "Gs. 4.708.935",
+        "details": {
+            "Procesador": "Intel Core i7-10710U Hexa-Core 1.1 - 4.7 GHz",
+            "Tipo de memoria RAM": "2 x DDR4 2666 MHz hasta 64 GB (no incluye)",
+            "Ranura SSD": "1 x SSD M.2 SATA 2280 PCIe x4 y 1 x SSD 2.5\" (no incluye)",
+            "Gráficos": "Intel UHD",
+            "Conectividad": "Wi-Fi 6 AX201 y Bluetooth",
+            "Interfaz": "USB, USB Tipo-C, HDMI 2.0b, RJ45 y SD"
+        },
+        "label": "Intel",
+        "categories": [
+            "Informática",
+            "Desktops"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_nuc10i7fnhn_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_nuc10i7fnhn_-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_nuc10i7fnhn_-3.jpg"
+        ],
+        "id": 24
+    },
+    {
+        "name": "Notebook Acer Nitro 5 AN515-57-51RC 15.6\" Intel Core i5-11400H RTX 3050 4 GB - Negro/Rojo",
+        "price": "Gs. 6.816.744",
+        "details": {
+            "Pantalla": "LED de 15.6\" Full HD 1920 x 1080p 144 Hz",
+            "Procesador": "Intel Core i5-11400H Hexa-Core 2.7 - 4.5 GHz",
+            "Memoria RAM": "16 GB DDR4",
+            "Memoria de almacenamiento": "SSD de 512 GB",
+            "Gráficos": "NVIDIA GeForce RTX 3050 4 GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Acer",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/n/an515-57-51rc_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/n/an515-57-51rc_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/n/an515-57-51rc_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/n/an515-57-51rc_-_4.jpg"
+        ],
+        "id": 25
+    },
+    {
+        "name": "Notebook Lenovo Chromebook 100E 2nd Gen 11.6\" MediaTek MT8173c 4 GB LPDDR3 32 GB eMMC - Negro (81QB000MUS)",
+        "price": "Gs. 1.031.481",
+        "details": {
+            "Pantalla": "TN de 11.6\" HD 1366 x 768p",
+            "Procesador": "MediaTek MT8173C Quad-Core 2.1 GHz",
+            "Memoria RAM": "4 GB LPDDR3",
+            "Memoria de almacenamiento": "eMMC de 32 GB",
+            "Gráficos": "PowerVR GX6250",
+            "Sistema operativo": "Chrome OS"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/1/81qb000mus_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/1/81qb000mus_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/1/81qb000mus_-_3.jpg"
+        ],
+        "id": 26
+    },
+    {
+        "name": "Notebook Lenovo Legion 5 15ACH6 15.6\" AMD Ryzen 5 5600H RTX 3050 Ti 4 GB - Phantom Blue (82JW00Q7US)",
+        "price": "Gs. 6.099.192",
+        "details": {
+            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p a 120 Hz",
+            "Procesador": "AMD Ryzen 5 5600H Hexa-Core 3.3 - 4.2 GHz",
+            "Memoria RAM": "8 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "NVIDIA GeForce RTX 3050 Ti de 4 GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82jw00bdus_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82jw00bdus_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82jw00bdus_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82jw00bdus_-_4_1.jpg"
+        ],
+        "id": 27
+    },
+    {
+        "name": "Notebook Lenovo V14 IIL 14\" Intel Core i5-1035G1 8 GB DDR4 256 GB SSD - Iron Grey (82C401J6US)",
+        "price": "Gs. 3.740.240",
+        "details": {
+            "Pantalla": "TN de 15.6\" Full HD 1920 x 1080p",
+            "Procesador": "Intel Core i5-1035G1 Quad-Core 1.0 - 3.6 GHz",
+            "Memoria RAM": "8 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
+            "Gráficos": "Intel UHD",
+            "Sistema operativo": "Windows 10 Home"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82c401j6us_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82c401j6us_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82c401j6us_-_3.jpg"
+        ],
+        "id": 28
+    },
+    {
+        "name": "Notebook Microsoft Surface Go 12.4\" Intel Core i5-1035G1 - Platinum (1ZP-00001)",
+        "price": "Gs. 2.645.973",
+        "details": {
+            "Pantalla": "PixelSense de 12.3\" 1536 x 1024p",
+            "Procesador": "Intel Core i5-1035G1 Quad-Core 1.0 - 3.6 GHz",
+            "Memoria RAM": "4 GB LPDDR4x",
+            "Memoria de almacenamiento": "eMMC de 64 GB",
+            "Gráficos": "Intel UHD",
+            "Sistema Operativos": "Windows 10 Pro"
+        },
+        "label": "Microsoft",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/z/1zp-00001_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/z/1zp-00001_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/z/1zp-00001_-_3.jpg"
+        ],
+        "id": 29
+    },
+    {
+        "name": "Notebook MSI Katana GF76 12UE-037US 17.3\" Intel Core i7-12700H RTX 3060 6 GB - Negro",
+        "price": "Gs. 11.122.056",
+        "details": {
+            "Pantalla": "IPS de 17.3\" Full HD 1920 x 1080p 144 Hz",
+            "Procesador": "Intel Core i7-12700H Tetracore-Core 2.3 - 4.7 GHz",
+            "Memoria RAM": "16 GB DDR5",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "NVIDIA GeForce RTX 3060 6 GB GDDR6",
+            "Sistema Operativos": "Windows 11 Home"
+        },
+        "label": "MSI",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_katana_gf76_12ue-037us_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_katana_gf76_12ue-037us_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_katana_gf76_12ue-037us_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_katana_gf76_12ue-037us_-_4.jpg"
+        ],
+        "id": 30
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad Gaming 3 16IAH7 16\" Intel Core i7-12650H RTX 3060 6 GB - Onyx Grey (82SA001GUS)",
+        "price": "Gs. 10.942.668",
+        "details": {
+            "Pantalla": "IPS de 16\" Full HD 1920 x 1080p 165 Hz",
+            "Procesador": "Intel Core i7-12650H Deca-Core 2.3 - 4.7 GHz",
+            "Memoria RAM": "16 GB DDR5",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "NVIDIA GeForce RTX 3060 6 GB GDDR6",
+            "Sistema Operativos": "Windows 11 Home"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sb0003us_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sb0003us_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sb0003us_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sb0003us_-_4_1.jpg"
+        ],
+        "id": 31
+    },
+    {
+        "name": "Notebook Asus Zenbook Duo UX482E 14\" Intel Core i7-1195G7 MX450 2 GB - Celestial Blue",
+        "price": "Gs. 12.377.772",
+        "details": {
+            "Pantalla": "IPS táctil de 14\" Full HD 1920 x 1080p",
+            "Pantalla adicional": "Screenpad Plus IPS 12.65\" 1920 x 515p",
+            "Procesador": "Intel Core i7-1195G7 Quad-Core 2.9- 5.0 GHz",
+            "Memoria RAM": "LPDDR4x de 16 GB",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 1 TB",
+            "Gráficos": "NVIDIA GeForce MX450 de 2 GB GDDR6",
+            "Sistema operativo": "Windows 10 Home"
+        },
+        "label": "Asus",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_zenbook_duo_ux482e_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_zenbook_duo_ux482e_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_zenbook_duo_ux482e_-_3.jpg"
+        ],
+        "id": 32
+    },
+    {
+        "name": "Notebook Acer Nitro 5 AN515-58-93JE 15.6\" Intel Core i9-12900H RTX 3060 6 GB - Negro/Rojo",
+        "price": "Gs. 13.633.488",
+        "details": {
+            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p 165 Hz",
+            "Procesador": "Intel Core i9-12900H Tetradeca-Core 2.4 - 5.0 GHz",
+            "Memoria RAM": "16 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "NVIDIA GeForce RTX 3060 6 GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Acer",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/c/acer_nitro_5_an515-58-93je_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/c/acer_nitro_5_an515-58-93je_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/c/acer_nitro_5_an515-58-93je_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/c/acer_nitro_5_an515-58-93je_-_4.jpg"
+        ],
+        "id": 33
+    },
+    {
+        "name": "Notebook MSI Pulse GL66 12UGKV-464 15.6\" Intel Core i7-12700H RTX 3070 8 GB - Negro",
+        "price": "Gs. 12.018.996",
+        "details": {
+            "Pantalla": "IPS de 15.6” Full HD 1920 x 1080p 144Hz",
+            "Procesador": "Intel Core i7-12700H Tetradeca-Core 2.3 - 4.7 GHz",
+            "Memoria RAM": "16 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "NVIDIA GeForce RTX 3070 8 GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "MSI",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_pulse_gl66_12ugkv-464_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_pulse_gl66_12ugkv-464_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_pulse_gl66_12ugkv-464_-_3.jpg"
+        ],
+        "id": 34
     },
     {
         "name": "Notebook Asus ZenBook 13 UX325EA-EH71 13.3\" intel Core i7-1165G7 8 GB LPDDR4x 512 GB SSD - Pine Grey",
-        "price": "Gs. 5.561.028",
+        "price": "Gs. 5.605.875",
         "details": {
             "Pantalla": "OLED de 13.3” Full HD 1920 x 1080p",
             "Procesador": "Intel Core i7-1165G7 Quad-Core 2.8 - 4.7 GHz",
@@ -528,7 +809,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_zenbook_13_ux325ea-eh71_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_zenbook_13_ux325ea-eh71_-_3.jpg"
         ],
-        "id": 23
+        "id": 35
     },
     {
         "name": "Notebook Asus X515EA-BQ959T 15.6\" Intel Core i5-1135G7 8 GB DDR4 256 GB SSD - Plata",
@@ -539,7 +820,7 @@
             "Memoria RAM": "8 GB DDR4",
             "Memoria de almacenamiento": "SSD de 256 GB",
             "Gráficos": "Intel Iris Xe",
-            "Sistema operativo": "Windows 11 Home"
+            "Sistema operativo": "Windows 10 Home"
         },
         "label": "Asus",
         "categories": [
@@ -553,63 +834,91 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/x/5/x515ea-bq959t_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/x/5/x515ea-bq959t_-_4.jpg"
         ],
-        "id": 24
+        "id": 36
     },
     {
-        "name": "Notebook Asus E510MA-BQ1083W 15.6\" Intel Celeron N4020 - Star Black",
-        "price": "Gs. 1.784.911",
+        "name": "Notebook MSI GP66 Leopard 11UG-690 15.6\" Intel Core i7-11800H RTX 3070 8 GB - Negro",
+        "price": "Gs. 10.852.974",
         "details": {
-            "Pantalla": "LED de 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Celeron N4020 Dual-Core 1.1 - 2.8 GHz",
-            "Memoria RAM": "4 GB DDR4",
-            "Memoria de almacenamiento": "eMMC de 128 GB",
-            "Gráficos": "Intel UHD 600",
+            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p 144 Hz",
+            "Procesador": "Intel Core i7-11800H Octa-Core 2.4 - 4.6 GHz",
+            "Memoria RAM": "16 GB DDR4",
+            "Memoria de almacenamiento": "SSD de 512 GB",
+            "Gráficos": "NVIDIA GeForce RTX 3070 8 GB GDDR6",
             "Sistema operativo": "Windows 11 Home"
         },
-        "label": "Asus",
+        "label": "MSI",
         "categories": [
             "Notebooks",
+            "Notebooks Gamer",
             "Notebooks Estudio",
             "Notebooks Trabajo"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_e510ma-bq1083w_-_1_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_e510ma-bq1083w_-_2_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_e510ma-bq1083w_-_3_2.jpg"
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_5_1.jpg"
         ],
-        "id": 25
+        "id": 37
     },
     {
-        "name": "Notebook Asus Vivobook Pro K3500PA-L1204W 15.6\" Intel Core i7-11370H 8 GB DDR4 512 GB SSD - Azul",
-        "price": "Gs. 7.354.908",
+        "name": "Notebook Lenovo IdeaPad 5 14ITL05 14\" Intel Core i5-1135G7 8 GB DDR4 256 GB SSD - Graphite Grey (82FE00UFUS)",
+        "price": "Gs. 3.883.750",
         "details": {
-            "Pantalla": "OLED de 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i7-11370H Quad-Core 3.3 - 4.8 GHz",
+            "Pantalla": "IPS de 14” Full HD 1920 x 1080p",
+            "Procesador": "Intel Core i5-1135G7 Quad-Core 2.4 - 4.2 GHz",
             "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
             "Gráficos": "Intel Iris Xe",
             "Sistema operativo": "Windows 11 Home"
         },
-        "label": "Asus",
+        "label": "Lenovo",
         "categories": [
             "Notebooks",
             "Notebooks Estudio",
             "Notebooks Trabajo"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_vivobook_m3500.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_vivobook_m3500-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_vivobook_m3500-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_vivobook_m3500qc-3.jpg"
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82fe00ufus_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82fe00ufus_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82fe00ufus_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82fe00ufus_-_4.jpg"
         ],
-        "id": 26
+        "id": 38
     },
     {
-        "name": "Notebook HP 15T-DW400 15.6\" Intel Core i5-1235U 8 GB DDR4 256 GB SSD",
-        "price": "Gs. 4.287.373",
+        "name": "Notebook HP Victus 15-FA0005TG 15.6\" Intel Core i5-12450H GTX 1650 4 GB - Gris",
+        "price": "Gs. 5.471.334",
         "details": {
-            "Pantalla": "LED de 15.6\" HD 1366 x 768p",
-            "Procesador": "Intel Core i5-1235U Deca-Core 1.8 - 4.4 GHz",
+            "Pantalla": "LED de 15.6\" Full HD 1920 x 1080p 144 Hz",
+            "Procesador": "Intel Core i5-12450 Octa-Core 2.0 - 4.4 GHz",
+            "Memoria RAM": "8 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
+            "Gráficos": "NVIDIA GeForce GTX 1650 4 GB",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "HP",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_victus_15-fa0005tg_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_victus_15-fa0005tg_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_victus_15-fa0005tg_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_victus_15-fa0005tg_-_4.jpg"
+        ],
+        "id": 39
+    },
+    {
+        "name": "Notebook HP 15-DY500 15.6\" Intel Core i7-1260P 8 GB DDR4 256 GB SSD",
+        "price": "Gs. 5.381.640",
+        "details": {
+            "Pantalla": "LED de 15.6\" Full HD 1920 x 1080p",
+            "Procesador": "Intel Core i7-1260P Dodeca-Core 2.1 - 4.7 GHz",
             "Memoria RAM": "8 GB DDR4",
             "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
             "Gráficos": "Intel Iris Xe",
@@ -622,350 +931,8 @@
             "Notebooks Trabajo"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_15t-dw400_gray_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_15t-dw400_red_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_15t-dw400_silver_-_1.jpg"
-        ],
-        "id": 27
-    },
-    {
-        "name": "Notebook Samsung Galaxy Book Pro NP930XDB-KH2US 13.3\" Intel Core i5-1135G7 - Mystic Silver",
-        "price": "Gs. 6.996.132",
-        "details": {
-            "Pantalla": "AMOLED de 13.3\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i5-1135G7 Quad-Core 2.4 - 4.2 GHz",
-            "Memoria RAM": "8 GB LPDDR4x",
-            "Memoria de almacenamiento": "SSD de 512 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema Operativos": "Windows 11 Home"
-        },
-        "label": "Samsung",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kh2us_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kh2us_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kh2us_-_5.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kh2us_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kh2us_-_4.jpg"
-        ],
-        "id": 28
-    },
-    {
-        "name": "Notebook Acer Nitro 5 AN515-57-58HN 15.6\" Intel Core i5-11400H GTX 1650 4 GB - Negro/Rojo",
-        "price": "Gs. 5.874.957",
-        "details": {
-            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p 144Hz",
-            "Procesador": "Intel Core i5-11400H Hexa-Core 2.7 - 4.5 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD de 256 GB",
-            "Gráficos": "NVIDIA GeForce GTX 1650 4 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Acer",
-        "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/n/an515-57-58hn_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/n/an515-57-58hn_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/n/an515-57-58hn_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/n/an515-57-58hn_-_4.jpg"
-        ],
-        "id": 29
-    },
-    {
-        "name": "Notebook Lenovo IdeaPad Gaming 3 15ARH7 15.6\" AMD Ryzen 5 6600H RTX 3050 4 GB - Onyx Grey (82SB0001US)",
-        "price": "Gs. 6.323.427",
-        "details": {
-            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p 120 Hz",
-            "Procesador": "AMD Ryzen 5 6600H Hexa-Core 3.3 - 4.5 GHz",
-            "Memoria RAM": "8 GB DDR5",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
-            "Gráficos": "NVIDIA GeForce RTX 3050 4 GB GDDR6",
-            "Sistema Operativos": "Windows 11 Home"
-        },
-        "label": "Lenovo",
-        "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106727-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106727-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106727-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/106727.jpg"
-        ],
-        "id": 30
-    },
-    {
-        "name": "Notebook Dell G15RE-A386 15.6\" AMD Ryzen 7 6800H RTX 3050 Ti 4 GB - Phantom Grey",
-        "price": "Gs. 8.601.655",
-        "details": {
-            "Pantalla": "LED de 15.6” Full HD 1920 x 1080p 120 Hz",
-            "Procesador": "AMD Ryzen 7 6800H Octa-Core 3.2 - 4.7 GHz",
-            "Memoria RAM": "16 GB",
-            "Memoria de almacenamiento": "SSD de 512 GB",
-            "Gráficos": "NVIDIA Geforce RTX 3050 Ti de 4 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Dell",
-        "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/6461724_sd_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/6461724cv1d_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/6461724_rd_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/6461724ld_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/6461724cv4d_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/6461724cv11d_1_.jpg"
-        ],
-        "id": 31
-    },
-    {
-        "name": "Notebook Samsung Chromebook XE310XBA 11.6\" Intel Celeron N4000 - Platinum Titan + Estuche Case Logic LAPS-113 - Negro",
-        "price": "Gs. 1.596.553",
-        "details": {
-            "Pantalla": "LED de 11.6\" con resolución HD 1366 x 768p",
-            "Procesador": "Intel Celeron N4000 Dual-Core 1.1 - 2.6 GHz",
-            "Memoria RAM": "4 GB LPDDR4",
-            "Memoria de almacenamiento": "eMMC de 32 GB",
-            "Gráficos": "Intel UHD 600",
-            "Sistema operativo": "Chrome OS",
-            "Incluye": "Estuche Case Logic LAPS-113"
-        },
-        "label": "Samsung",
-        "categories": [
-            "Notebooks",
-            "ChromeBooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Vuelta a Clases"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/samsung_chromebook_xe310xba_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gallery-cb4-11in-1-092519_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gallery-cb4-11in-2-092519_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gallery-cb4-11in-3-092519_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gallery-cb4-11in-4-092519_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gallery-cb4-11in-12-092519_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/gallery-cb4-11in-10-092519_1_1.jpg"
-        ],
-        "id": 32
-    },
-    {
-        "name": "Notebook Asus VivoBook 17 K712EA-WH34 17.3\" Intel Core i3-1115G4 - Plata",
-        "price": "Gs. 3.273.831",
-        "details": {
-            "Pantalla": "LED de 17.3\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i3-1115G4 Dual-Core 3.0 - 4.1 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
-            "Gráficos": "Intel UHD",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Asus",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_vivobook_17_k712ea-wh34_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_vivobook_17_k712ea-wh34_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_vivobook_17_k712ea-wh34_-_3.jpg"
-        ],
-        "id": 33
-    },
-    {
-        "name": "Notebook Asus TUF Gaming A15 FA506QM 15.6\" AMD Ryzen 9 5900HX RTX 3060 6 GB - Eclipse Gray",
-        "price": "Gs. 11.570.526",
-        "details": {
-            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p 144 Hz",
-            "Procesador": "AMD Ryzen 9 5900HX Octa-Core 3.3 - 4.6 GHz",
-            "Memoria RAM": "16 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 3060 6 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Asus",
-        "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_a15_fa506qm_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_a15_fa506qm_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_a15_fa506qm_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_a15_fa506qm_-_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_tuf_a15_fa506qm_-_5.jpg"
-        ],
-        "id": 34
-    },
-    {
-        "name": "Notebook Acer Aspire 5 A515-57T-77EC 15.6\" Intel Core i7-1255U - Steel Gray",
-        "price": "Gs. 5.991.559",
-        "details": {
-            "Pantalla": "IPS táctil de 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i7-1255U Deca-Core 1.7 - 4.7 GHz",
-            "Memoria RAM": "16 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Acer",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/5/a515-57-731e_-_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/5/a515-57-731e_-_2_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/5/a515-57-731e_-_3_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/5/a515-57-731e_-_4_1.jpg"
-        ],
-        "id": 35
-    },
-    {
-        "name": "Notebook Samsung Galaxy Book Pro NP930XDB-KF4US 13.3\" Intel Core i5-1135G7 - Mystic Blue",
-        "price": "Gs. 6.009.498",
-        "details": {
-            "Pantalla": "AMOLED de 13.3\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i5-1135G7 Quad-Core 2.4 - 4.2 GHz",
-            "Memoria RAM": "8 GB LPDDR4x",
-            "Memoria de almacenamiento": "SSD de 256 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema Operativos": "Windows 11 Home"
-        },
-        "label": "Samsung",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kf4us_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kf4us_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kf4us_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/p/np930xdb-kf4us_-_4.jpg"
-        ],
-        "id": 36
-    },
-    {
-        "name": "Notebook Samsung Galaxy Book Pro NP950XDB-KE6US 15.6\" Intel Core i5-1135G7 - Mystic Silver",
-        "price": "Gs. 6.188.886",
-        "details": {
-            "Pantalla": "AMOLED de 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i5-1135G7 Quad-Core 2.4 - 4.2 GHz",
-            "Memoria RAM": "8 GB LPDDR4x",
-            "Memoria de almacenamiento": "SSD de 512 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema Operativos": "Windows 11 Home"
-        },
-        "label": "Samsung",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/galaxy-book-pro_2_silver_-_001.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/galaxy-book-pro_2_silver_-_002.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/galaxy-book-pro_2_silver_-_003.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/g/a/galaxy-book-pro_2_silver_-_004.jpg"
-        ],
-        "id": 37
-    },
-    {
-        "name": "Notebook MSI GP66 Leopard 11UG-689 15.6\" Intel Core i7-11800H RTX 3070 8 GB - Negro",
-        "price": "Gs. 10.987.515",
-        "details": {
-            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p 144 Hz",
-            "Procesador": "Intel Core i7-11800H Octa-Core 2.4 - 4.6 GHz",
-            "Memoria RAM": "16 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 3070 8 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "MSI",
-        "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_gp66_11ug-689_-_5.jpg"
-        ],
-        "id": 38
-    },
-    {
-        "name": "Notebook Lenovo IdeaPad V15 G2 ITL 15.6\" Intel Core i5-1135G7 - Negro (82KB00C3US)",
-        "price": "Gs. 4.143.863",
-        "details": {
-            "Pantalla": "TN de 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i5-1135G7 Quad-Core 2.4 - 4.2 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema Operativos": "Windows 10 Pro"
-        },
-        "label": "Lenovo",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82kb00c3us_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82kb00c3us_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82kb00c3us_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82kb00c3us_-_4.jpg"
-        ],
-        "id": 39
-    },
-    {
-        "name": "Notebook Lenovo IdeaPad Gaming 3 15ARH7 15.6\" AMD Ryzen 7 6800H RTX 3050 4 GB - Onyx Grey (82SB0003US)",
-        "price": "Gs. 7.668.837",
-        "details": {
-            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p 120 Hz",
-            "Procesador": "AMD Ryzen 7 6800H Octa-Core 3.2 - 4.7 GHz",
-            "Memoria RAM": "8 GB DDR5",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
-            "Gráficos": "NVIDIA GeForce RTX 3050 4 GB GDDR6",
-            "Sistema Operativos": "Windows 11 Home"
-        },
-        "label": "Lenovo",
-        "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sb0003us_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sb0003us_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sb0003us_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sb0003us_-_4.jpg"
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_15-dy500_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_15-dy500_white_-_1.jpg"
         ],
         "id": 40
     }
