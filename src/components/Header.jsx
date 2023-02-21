@@ -3,46 +3,23 @@ import { MdLocalMall, MdSearch } from 'react-icons/md'
 import { CartContext } from '@context/CartContext'
 import { useContext, useEffect, useState } from 'react'
 import '@css/header.css'
+import { useMobileForm } from '@hooks/mobile/useHeader'
 
 export function Header() {
-  const [homeIconVisibility, setHomeIconVisibility] = useState(true)
+  const { displayFormMode, changeFormVisibility } = useMobileForm()
   const [mode, setMode] = useState(false)
   const { modifyCartVisibility, cartProducts } = useContext(CartContext)
-  const [activeClass, setActiveClass] = useState({
-    icon: !homeIconVisibility ? 'active-icon' : '',
-    form: !homeIconVisibility ? 'active-form' : 'deactive-form',
-    input: !homeIconVisibility ? 'search-container' : 'deactive-input'
-  })
 
   useEffect(() => {
     modifyCartVisibility(mode)
   }, [mode])
-
-  useEffect(() => {
-    const main = document.querySelector('main')
-    const resetHeader = () => setHomeIconVisibility(true)
-
-    main.addEventListener('click', resetHeader)
-
-    return () => {
-      main.removeEventListener('click', resetHeader)
-    }
-  }, [])
-
-  useEffect(() => {
-    setActiveClass({
-      icon: !homeIconVisibility ? 'active-icon' : '',
-      form: !homeIconVisibility ? 'active-form' : 'deactive-form',
-      input: !homeIconVisibility ? 'search-container' : 'deactive-input'
-    })
-  }, [homeIconVisibility])
 
   const handleCartIconClick = () => setMode(!mode)
 
   return (
     <header className="header-container">
       <nav>
-        <div style={{ display: homeIconVisibility ? 'block' : 'none' }}>
+        <div className={displayFormMode.homeIcon}>
           <PageIcon />
         </div>
         <form className="form-container">
@@ -57,16 +34,16 @@ export function Header() {
           </div>
         </form>
 
-        <form className={`form-mobile ${activeClass.form}`}>
+        <form className={`form-mobile ${displayFormMode.form}`}>
           <button
-            className={`search-icon-mobile ${activeClass.icon}`}
+            className={`search-icon-mobile ${displayFormMode.icon}`}
             type="button"
-            onClick={() => setHomeIconVisibility(false)}
+            onClick={() => changeFormVisibility({ mode: 'show' })}
           >
             <MdSearch />
           </button>
 
-          <div className={activeClass.input}>
+          <div className={displayFormMode.input}>
             <div className="search-input">
               <input type="text" placeholder="Busca aquí..." />
             </div>
