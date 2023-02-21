@@ -1,38 +1,19 @@
-import { useState, createContext } from 'react'
+import { createContext } from 'react'
+import { useCartReducer } from '@hooks/context/useCartReducer'
 
 export const CartContext = createContext()
 
 export function CartContextProvider({ children }) {
-  const [cartProducts, setCartProducts] = useState([])
-  const [cartVisibility, setCartVisbility] = useState(false)
-
-  const modifyCartVisibility = (mode = false) => setCartVisbility(mode)
-
-  const addProduct = (newProduct) => {
-    const newCartProducts = [...cartProducts]
-    newCartProducts.push(newProduct)
-
-    setCartProducts(newCartProducts)
-  }
-
-  const deleteProduct = (givenProduct) => {
-    const { id: givenId, name: givenName } = givenProduct
-    const existingProducts = [...cartProducts]
-
-    const newCartProducts = existingProducts.filter(
-      (product) => product.id !== givenId && product.name !== givenName
-    )
-
-    setCartProducts(newCartProducts)
-  }
+  const { cartStates, addProduct, deleteProduct, modifyCartVisibility } =
+    useCartReducer()
 
   return (
     <CartContext.Provider
       value={{
-        cartProducts,
+        cartProducts: cartStates.cart,
         addProduct,
         deleteProduct,
-        cartVisibility,
+        cartVisibility: cartStates.visibility,
         modifyCartVisibility
       }}
     >
