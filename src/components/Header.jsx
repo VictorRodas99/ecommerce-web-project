@@ -1,20 +1,12 @@
+import '@css/header.css'
 import { PageIcon } from './icons/PageIcon'
 import { MdLocalMall, MdSearch } from 'react-icons/md'
-import { CartContext } from '@context/CartContext'
-import { useContext, useEffect, useState } from 'react'
-import '@css/header.css'
 import { useMobileForm } from '@hooks/mobile/useHeader'
+import { useCart } from '@hooks/useCart'
 
 export function Header() {
   const { displayFormMode, changeFormVisibility } = useMobileForm()
-  const [mode, setMode] = useState(false)
-  const { modifyCartVisibility, cartProducts } = useContext(CartContext)
-
-  useEffect(() => {
-    modifyCartVisibility(mode)
-  }, [mode])
-
-  const handleCartIconClick = () => setMode(!mode)
+  const { modifyCartVisibility, cartProducts } = useCart()
 
   return (
     <header className="header-container">
@@ -53,7 +45,10 @@ export function Header() {
           </div>
         </form>
 
-        <div className="cart-logo-container" onClick={handleCartIconClick}>
+        <div
+          className="cart-logo-container"
+          onClick={() => modifyCartVisibility(true)}
+        >
           <div className="cart-icon" total-products={cartProducts.length}>
             <MdLocalMall />
           </div>

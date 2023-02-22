@@ -1,33 +1,21 @@
-import { MdClose, MdShoppingBag, MdRemoveShoppingCart } from 'react-icons/md'
-import { useContext, useState, useEffect } from 'react'
-import { CartContext } from '@context/CartContext'
 import '@css/cart.css'
+import { MdClose, MdShoppingBag, MdRemoveShoppingCart } from 'react-icons/md'
 import { CartItem } from '@components/cart/CartItem'
-import { getTotalPriceOf } from '@utils/tools'
+import { useCart, useTotalPrice } from '@hooks/useCart'
 
 export function Cart() {
-  const [totalPrice, setTotalPrice] = useState(0)
-  const { cartProducts, cartVisibility, modifyCartVisibility } =
-    useContext(CartContext)
+  const { cartProducts, cartIsVisible, modifyCartVisibility } = useCart()
+  const { totalPrice, totalProducts, amountDescription } = useTotalPrice({
+    cartProducts
+  })
 
-  const totalProducts = cartProducts.length
-  const displayMode = cartVisibility ? 'cart-visible' : 'cart-invisible'
-  const amountDescription = `${totalProducts} ${
-    totalProducts === 1 ? ' Item' : ' Items'
-  }`
-
-  useEffect(() => {
-    if (cartProducts.length > 0) {
-      const totalParsed = getTotalPriceOf(cartProducts)
-      setTotalPrice(totalParsed)
-    }
-  }, [cartProducts])
+  const displayMode = cartIsVisible ? 'cart-visible' : 'cart-invisible'
 
   return (
     <>
       <div
         className="shadow-block"
-        style={{ display: cartVisibility ? 'block' : 'none' }}
+        style={{ display: cartIsVisible ? 'block' : 'none' }}
       ></div>
       <aside className={`cart-container ${displayMode}`}>
         <div className="scroll-control">
