@@ -4,6 +4,7 @@ import { Header } from '@components/Header'
 import { Footer } from '@components/Footer'
 import { Products } from '@components/Products'
 import { MobileMenu } from '@components/MobileMenu'
+import { Categories } from '@components/Categories'
 import { useStopScroll } from '@hooks/useStopScroll'
 
 function App() {
