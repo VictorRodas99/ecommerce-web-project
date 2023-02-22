@@ -1,24 +1,14 @@
+import { Cart } from '@components/Cart'
+import { useCart } from '@hooks/useCart'
 import { Header } from '@components/Header'
 import { Footer } from '@components/Footer'
-import { Categories } from '@components/Categories'
 import { Products } from '@components/Products'
-import { Cart } from '@components/Cart'
 import { MobileMenu } from '@components/MobileMenu'
-import { CartContext } from '@context/CartContext'
-import { useContext, useEffect } from 'react'
+import { useStopScroll } from '@hooks/useStopScroll'
 
 function App() {
-  const { cartVisibility } = useContext(CartContext)
-
-  useEffect(() => {
-    if (cartVisibility) {
-      document.body.classList.add('stop-scroll')
-    }
-
-    return () => {
-      document.body.classList.remove('stop-scroll')
-    }
-  }, [cartVisibility])
+  const { cartIsVisible } = useCart()
+  useStopScroll({ selector: 'body', when: cartIsVisible })
 
   return (
     <>
