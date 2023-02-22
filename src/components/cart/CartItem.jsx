@@ -1,9 +1,8 @@
 import { MdClose } from 'react-icons/md'
-import { CartContext } from '@context/CartContext'
-import { useContext } from 'react'
+import { useCart } from '@hooks/useCart'
 
 export function CartItem({ data: product }) {
-  const { deleteProduct } = useContext(CartContext)
+  const { deleteProduct } = useCart()
   const { name, price, image } = product
 
   return (
