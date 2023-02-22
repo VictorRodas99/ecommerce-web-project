@@ -13,7 +13,7 @@ export function CartContextProvider({ children }) {
         cartProducts: cartStates.cart,
         addProduct,
         deleteProduct,
-        cartVisibility: cartStates.visibility,
+        cartIsVisible: cartStates.visibility,
         modifyCartVisibility
       }}
     >
