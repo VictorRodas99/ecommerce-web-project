@@ -1,12 +1,15 @@
 import '@css/header.css'
 import { PageIcon } from './icons/PageIcon'
-import { MdLocalMall, MdSearch } from 'react-icons/md'
+import { CartIcon } from './header/CartIcon'
 import { useMobileForm } from '@hooks/mobile/useHeader'
-import { useCart } from '@hooks/useCart'
+import { DesktopForm, MobileForm } from './header/Forms'
 
 export function Header() {
   const { displayFormMode, changeFormVisibility } = useMobileForm()
-  const { modifyCartVisibility, cartProducts } = useCart()
+
+  const handleSearchClick = () => {
+    changeFormVisibility({ mode: 'show' })
+  }
 
   return (
     <header className="header-container">
@@ -14,45 +17,14 @@ export function Header() {
         <div className={displayFormMode.homeIcon}>
           <PageIcon />
         </div>
-        <form className="form-container">
-          <div className="search-container">
-            <div className="search-input">
-              <MdSearch className="search-icon" />
-              <input placeholder="Busca aquí..." />
-            </div>
-            <button type="submit" className="btn-submit">
-              Buscar
-            </button>
-          </div>
-        </form>
 
-        <form className={`form-mobile ${displayFormMode.form}`}>
-          <button
-            className={`search-icon-mobile ${displayFormMode.icon}`}
-            type="button"
-            onClick={() => changeFormVisibility({ mode: 'show' })}
-          >
-            <MdSearch />
-          </button>
+        <DesktopForm />
+        <MobileForm
+          displayMode={displayFormMode}
+          handleSearchClick={handleSearchClick}
+        />
 
-          <div className={displayFormMode.input}>
-            <div className="search-input">
-              <input type="text" placeholder="Busca aquí..." />
-            </div>
-            <button type="submit" className="btn-submit">
-              Buscar
-            </button>
-          </div>
-        </form>
-
-        <div
-          className="cart-logo-container"
-          onClick={() => modifyCartVisibility(true)}
-        >
-          <div className="cart-icon" total-products={cartProducts.length}>
-            <MdLocalMall />
-          </div>
-        </div>
+        <CartIcon />
       </nav>
     </header>
   )
