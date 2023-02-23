@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import { MdAddShoppingCart, MdDone, MdClose } from 'react-icons/md'
 import { Ring } from '@uiball/loaders'
-import { useContext, useEffect } from 'react'
-import { CartContext } from '@context/CartContext'
+import { useEffect } from 'react'
+import { useCart } from '@hooks/useCart'
+import { Image } from '@components/Image'
 
 export function ProductCard({ data, notificationEvent }) {
-  const { cartProducts, addProduct } = useContext(CartContext)
+  const { cartProducts, addProduct } = useCart()
   const [productWasAdded, setProductWasAdded] = useState(false)
   const [loading, setLoading] = useState(true)
   const [clicked, setClicked] = useState(false)
@@ -68,7 +69,7 @@ export function ProductCard({ data, notificationEvent }) {
   return (
     <div className="product-card">
       <div className="card-header">
-        <img src={image} alt={name} onLoad={handleLoad} />
+        <Image src={image} alt={name} events={{ onLoad: handleLoad }} />
         <div className="loader" style={{ display: loading ? 'flex' : 'none' }}>
           <Ring size={70} lineWeight={3} speed={2} color="#7c828d2a" />
         </div>
