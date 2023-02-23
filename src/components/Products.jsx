@@ -5,14 +5,11 @@ import { Arrow } from './products/Arrow'
 import { useProducts } from '@hooks/useProducts'
 import { useNotification } from '@hooks/useNotification'
 import { NotificationCart } from '@components/Notification'
-
-const API_URL_HOME =
-  'https://ecommerce-products-api.vik-apps.workers.dev/products?page=1'
-const API_URL = 'https://ecommerce-products-api.vik-apps.workers.dev'
+import { API_URLS } from 'src/config'
 
 export function Products() {
   const { products, pages, refreshProducts } = useProducts({
-    apiUrl: API_URL_HOME
+    apiUrl: API_URLS.home
   })
 
   const { notifications, createNotification, deleteNotification } =
@@ -21,7 +18,7 @@ export function Products() {
   const changePage = (event) => {
     const { id } = event.currentTarget
     const numberPage = id === 'back' ? pages.previousPage : pages.nextPage
-    const newPageUrl = `${API_URL}/products?page=${numberPage}`
+    const newPageUrl = `${API_URLS.base}/products?page=${numberPage}`
 
     refreshProducts({
       apiUrl: newPageUrl
