@@ -10,7 +10,7 @@ const timeToDelete = 300
 const timeToClose = 1500
 
 export function NotificationCart({
-  icon,
+  icon: Icon,
   message,
   color,
   onDelete,
@@ -43,7 +43,8 @@ export function NotificationCart({
   return createPortal(
     <div className={`container ${shrinkClass}`}>
       <div className={`notification ${color} ${slideClass}`}>
-        {icon} {message}
+        <Icon />
+        {message}
         {autoClose && (
           <button onClick={() => setIsClosing(true)} className="close-button">
             <MdClose />
