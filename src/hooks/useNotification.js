@@ -1,20 +1,19 @@
-import { useState } from 'react'
+import { useContext } from 'react'
+import { NotificationContext } from '@context/NotificationContext'
 
+/**
+ * @returns {{
+ *    notifications: Array<any>,
+ *    createNotification: { ({ color, message, icon }: { color: string, message: string, icon: { () => JSX.Element } }) => void },
+ *    deleteNotification: { (id: string) => void }
+ * }}
+ */
 export function useNotification() {
-  const [notifications, setNotifications] = useState([])
+  const context = useContext(NotificationContext)
 
-  const createNotification = (color, message, icon) => {
-    setNotifications([
-      ...notifications,
-      { id: notifications.length, color, message, icon }
-    ])
+  if (context === undefined) {
+    throw new Error('useNotification must be used within a provider')
   }
 
-  const deleteNotification = (id) => {
-    setNotifications(
-      notifications.filter((notification) => notification.id !== id)
-    )
-  }
-
-  return { notifications, createNotification, deleteNotification }
+  return context
 }
