@@ -12,8 +12,7 @@ export function Products() {
     apiUrl: API_URLS.home
   })
 
-  const { notifications, createNotification, deleteNotification } =
-    useNotification()
+  const { notifications, deleteNotification } = useNotification()
 
   const changePage = (event) => {
     const { id } = event.currentTarget
@@ -25,10 +24,6 @@ export function Products() {
     })
   }
 
-  const launchNotification = ({ color, message, icon }) => {
-    createNotification(color, message, icon)
-  }
-
   return (
     <section className="products-container">
       <div className="products-container__title">
@@ -37,11 +32,7 @@ export function Products() {
 
       <div className="products-grid">
         {products.map((product) => (
-          <ProductCard
-            key={product.id}
-            data={product}
-            notificationEvent={launchNotification}
-          />
+          <ProductCard key={product.id} data={product} />
         ))}
       </div>
 
