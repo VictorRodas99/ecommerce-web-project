@@ -50,7 +50,7 @@ export function ProductCard({ data }) {
   useEffect(() => {
     const savedCart = getCartFromStorage()
     const wasSavedInStorage = savedCart?.some(
-      (product) => product.id === data.id && product.name === data.name
+      (product) => product.price === data.price && product.name === data.name
     )
 
     if (wasSavedInStorage) {
