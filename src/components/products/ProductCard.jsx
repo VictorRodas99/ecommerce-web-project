@@ -5,6 +5,7 @@ import { useCart } from '@hooks/useCart'
 import { notificationIcons } from '@components/icons/NotificationIcons'
 import { useEffect } from 'react'
 import { useNotification } from '@hooks/useNotification'
+import { getCartFromStorage } from '@utils/localStorage'
 
 export function ProductCard({ data }) {
   const {
@@ -45,6 +46,17 @@ export function ProductCard({ data }) {
       }
     }
   }, [cartProducts])
+
+  useEffect(() => {
+    const savedCart = getCartFromStorage()
+    const wasSavedInStorage = savedCart?.some(
+      (product) => product.id === data.id && product.name === data.name
+    )
+
+    if (wasSavedInStorage) {
+      changeIconInAdd()
+    }
+  }, [])
 
   const { name, price } = data
   const image = data.srcImages[0]

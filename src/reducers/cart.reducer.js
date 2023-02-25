@@ -1,5 +1,7 @@
+import { saveCartToStorage, getCartFromStorage } from '@utils/localStorage'
+
 export const initialCartState = {
-  cart: [],
+  cart: getCartFromStorage() ?? [],
   visibility: false
 }
 
@@ -17,6 +19,7 @@ export function cartReducer(state, action) {
     case CART_ACTIONS.add: {
       const newCartProducts = [...cart]
       newCartProducts.push(payload)
+      saveCartToStorage(newCartProducts)
 
       return {
         cart: newCartProducts,
@@ -31,6 +34,8 @@ export function cartReducer(state, action) {
       const newCartProducts = existingProducts.filter(
         (product) => product.id !== givenId && product.name !== givenName
       )
+
+      saveCartToStorage(newCartProducts)
 
       return {
         cart: newCartProducts,
