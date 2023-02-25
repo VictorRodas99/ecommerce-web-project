@@ -39,10 +39,11 @@
   height: 300px;
 }
 
-.card-header > img {
+.card-header>img {
   position: relative;
   max-width: 100%;
-  mix-blend-mode: multiply; /* remove the white background in image */
+  mix-blend-mode: multiply;
+  /* remove the white background in image */
 }
 
 .card-footer .price {
@@ -70,12 +71,7 @@
 }
 
 .product-card-icon {
-  display: none;
   transition: all 0.3s ease;
-}
-
-.visible-icon {
-  display: block;
 }
 
 .page-controller {
@@ -111,13 +107,13 @@
   background-color: #aeecec;
 }
 
-.arrow-container:hover > .page-message {
+.arrow-container:hover>.page-message {
   visibility: visible;
   opacity: 1;
   transition: all 0.2s ease-in;
 }
 
-.arrow-disabled:hover > .page-message {
+.arrow-disabled:hover>.page-message {
   visibility: visible;
   opacity: 1;
   transition: all 0.2s ease-in;
@@ -152,7 +148,7 @@
 }
 
 @media only screen and (max-width: 425px) {
-  .products-container__title > h2 {
+  .products-container__title>h2 {
     font-size: 2.5rem;
   }
 
