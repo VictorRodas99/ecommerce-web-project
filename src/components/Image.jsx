@@ -1,4 +1,4 @@
-export function Image({ src, alt, role, priority, events }) {
+export function Image({ src, alt, role, priority, events, ...props }) {
   const isBackground = role === 'presentation'
 
   return (
@@ -10,6 +10,7 @@ export function Image({ src, alt, role, priority, events }) {
       role={isBackground ? 'presentation' : undefined}
       fetchpriority={priority}
       {...events}
+      {...props}
     />
   )
 }
