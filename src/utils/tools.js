@@ -27,3 +27,7 @@ export const getTotalPriceOf = (products) => {
 
   return `Gs. ${totalPrice.toLocaleString('de-DE')}`
 }
+
+export const parseNameToURI = (givenName) => {
+  return encodeURIComponent(givenName).replaceAll('%20', '-').toLowerCase()
+}
