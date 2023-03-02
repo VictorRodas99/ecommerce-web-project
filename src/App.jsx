@@ -1,11 +1,13 @@
 import { Cart } from '@components/Cart'
 import { useCart } from '@hooks/useCart'
 import { Header } from '@components/Header'
+import { Home } from '@components/Home'
 import { Footer } from '@components/Footer'
-import { Products } from '@components/Products'
 import { MobileMenu } from '@components/MobileMenu'
-import { Categories } from '@components/Categories'
 import { useStopScroll } from '@hooks/useStopScroll'
+
+import { ProductDetails } from '@components/products/Details'
+import { Routes, Route } from 'react-router-dom'
 
 function App() {
   const { cartIsVisible } = useCart()
@@ -16,8 +18,10 @@ function App() {
       <Header />
       <Cart />
       <main>
-        <Categories />
-        <Products />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/product/:name" element={<ProductDetails />} />
+        </Routes>
       </main>
       <MobileMenu />
       <Footer />
