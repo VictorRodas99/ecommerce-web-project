@@ -65,23 +65,22 @@ export function ProductCard({ data }) {
   const image = data.srcImages[0]
 
   return (
-    <Link
-      className="product-card"
-      to={`/product/${parseNameToURI(name)}`}
-      state={data}
-    >
-      <div className="card-header">
-        <Image src={image} alt={name} events={{ onLoad: handleImageLoad }} />
-        <div
-          className="loader"
-          style={{ display: imageIsLoading ? 'flex' : 'none' }}
-        >
-          <Ring size={70} lineWeight={3} speed={2} color="#7c828d2a" />
+    <div className="product-card">
+      <Link to={`/product/${parseNameToURI(name)}`} state={data}>
+        <div className="card-header">
+          <Image src={image} alt={name} events={{ onLoad: handleImageLoad }} />
+          <div
+            className="loader"
+            style={{ display: imageIsLoading ? 'flex' : 'none' }}
+          >
+            <Ring size={70} lineWeight={3} speed={2} color="#7c828d2a" />
+          </div>
         </div>
-      </div>
-      <div className="card-body">
-        <h4>{name}</h4>
-      </div>
+        <div className="card-body">
+          <h4>{name}</h4>
+        </div>
+      </Link>
+
       <div className="card-footer">
         <p className="price">{price}</p>
         <div className="add-icon">
@@ -93,6 +92,6 @@ export function ProductCard({ data }) {
           </div>
         </div>
       </div>
-    </Link>
+    </div>
   )
 }
