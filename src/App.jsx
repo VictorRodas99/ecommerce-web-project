@@ -6,8 +6,10 @@ import { Footer } from '@components/Footer'
 import { MobileMenu } from '@components/MobileMenu'
 import { useStopScroll } from '@hooks/useStopScroll'
 
-import { ProductDetails } from '@components/products/Details'
 import { Routes, Route } from 'react-router-dom'
+import { Suspense, lazy } from 'react'
+
+const ProductDetails = lazy(() => import('@components/products/Details'))
 
 function App() {
   const { cartIsVisible } = useCart()
@@ -18,10 +20,12 @@ function App() {
       <Header />
       <Cart />
       <main>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/product/:name" element={<ProductDetails />} />
-        </Routes>
+        <Suspense>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/product/:name" element={<ProductDetails />} />
+          </Routes>
+        </Suspense>
       </main>
       <MobileMenu />
       <Footer />

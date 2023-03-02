@@ -3,7 +3,7 @@ import { Image } from '@components/Image'
 import { useId, useEffect } from 'react'
 import '@css/product-details.css'
 
-export function ProductDetails() {
+export default function ProductDetails() {
   const { state } = useLocation()
   const images =
     state.srcImages.length > 4 ? state.srcImages.slice(1, 4) : state.srcImages // Temporal
