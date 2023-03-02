@@ -46,6 +46,10 @@
   /* remove the white background in image */
 }
 
+.card-body {
+  padding-top: 1rem;
+}
+
 .card-footer .price {
   color: var(--c-primary);
   font-weight: bold;
