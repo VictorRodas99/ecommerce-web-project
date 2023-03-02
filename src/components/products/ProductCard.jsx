@@ -7,6 +7,9 @@ import { useEffect } from 'react'
 import { useNotification } from '@hooks/useNotification'
 import { getCartFromStorage } from '@utils/localStorage'
 
+import { Link } from 'react-router-dom'
+import { parseNameToURI } from '@utils/tools'
+
 export function ProductCard({ data }) {
   const {
     CardIcon,
@@ -62,7 +65,11 @@ export function ProductCard({ data }) {
   const image = data.srcImages[0]
 
   return (
-    <div className="product-card">
+    <Link
+      className="product-card"
+      to={`/product/${parseNameToURI(name)}`}
+      state={data}
+    >
       <div className="card-header">
         <Image src={image} alt={name} events={{ onLoad: handleImageLoad }} />
         <div
@@ -86,6 +93,6 @@ export function ProductCard({ data }) {
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   )
 }
