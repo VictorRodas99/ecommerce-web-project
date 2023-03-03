@@ -2,8 +2,13 @@ import { useLocation } from 'react-router-dom'
 import { Image } from '@components/Image'
 import { useId, useEffect } from 'react'
 import '@css/product-details.css'
+import { useCart } from '@hooks/useCart'
+import { useNotification } from '@hooks/useNotification'
+import { notificationIcons } from '@components/icons/NotificationIcons'
 
 export default function ProductDetails() {
+  const { addProduct } = useCart()
+  const { createNotification } = useNotification()
   const { state } = useLocation()
   const images =
     state.srcImages.length > 4 ? state.srcImages.slice(1, 4) : state.srcImages // Temporal
@@ -57,7 +62,23 @@ export default function ProductDetails() {
               <p>Stock disponible</p>
             </div>
 
-            <button className="add-to-cart-btn">Añadir a carrito</button>
+            <button
+              className="add-to-cart-btn"
+              onClick={() => {
+                addProduct({
+                  ...state,
+                  image: state.srcImages[1] ?? state.srcImages[0]
+                })
+
+                createNotification({
+                  color: 'success',
+                  message: 'Agregado a carrito!',
+                  icon: notificationIcons.done
+                })
+              }}
+            >
+              Añadir a carrito
+            </button>
           </div>
         </div>
       </section>
