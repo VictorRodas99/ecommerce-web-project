@@ -1,7 +1,6 @@
 import '@css/products.css'
 import { ProductCard } from './products/ProductCard'
 import { useProducts } from '@hooks/useProducts'
-import { Notifications } from '@components/NotificationsContainer'
 import { PageController } from '@components/PageController'
 import { API_URLS } from 'src/config'
 
@@ -46,7 +45,6 @@ export function Products() {
         ))}
       </div>
 
-      <Notifications />
       <PageController pages={pages} handleChangePage={changePage} />
     </section>
   )
