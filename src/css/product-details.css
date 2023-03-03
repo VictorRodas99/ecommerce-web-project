@@ -108,6 +108,11 @@
     transition: all .2s ease-in-out;
 }
 
+.added {
+    background-color: var(--c-green);
+    cursor: auto;
+}
+
 .add-to-cart-btn:hover {
     background-color: var(--c-primary-dark);
 }
