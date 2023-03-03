@@ -191,6 +191,16 @@ td.specification-data {
 
 /* ---- */
 
+/* Laptop */
+@media only screen and (max-width: 1024px) {
+    .details-presentation {
+        width: 100%;
+    }
+}
+
+/* ---- */
+
+
 /* Tablet */
 @media only screen and (max-width: 768px) {
     .details-presentation {
