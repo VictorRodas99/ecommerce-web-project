@@ -6,17 +6,45 @@ import { useCart } from '@hooks/useCart'
 import { useNotification } from '@hooks/useNotification'
 import { notificationIcons } from '@components/icons/NotificationIcons'
 
+import { useState } from 'react'
+
 export default function ProductDetails() {
-  const { addProduct } = useCart()
+  const [productWasAdded, setProductWasAdded] = useState(false)
+  const { cartProducts, addProduct } = useCart()
   const { createNotification } = useNotification()
   const { state } = useLocation()
   const images =
     state.srcImages.length > 4 ? state.srcImages.slice(1, 4) : state.srcImages // Temporal
 
+  const setProductExitence = () => {
+    const wasAdded =
+      cartProducts.filter(
+        (product) => product.price === state.price && product.name && state.name
+      ).length > 0
+
+    setProductWasAdded(wasAdded)
+  }
+
   useEffect(() => {
     document.title = 'Info-Shop | Producto'
     window.scrollTo(0, 0)
+    setProductExitence()
   }, [])
+
+  useEffect(setProductExitence, [cartProducts])
+
+  const handleClickOnAdd = () => {
+    addProduct({
+      ...state,
+      image: state.srcImages[1] ?? state.srcImages[0]
+    })
+
+    createNotification({
+      color: 'success',
+      message: 'Agregado a carrito!',
+      icon: notificationIcons.done
+    })
+  }
 
   return (
     <>
@@ -63,21 +91,10 @@ export default function ProductDetails() {
             </div>
 
             <button
-              className="add-to-cart-btn"
-              onClick={() => {
-                addProduct({
-                  ...state,
-                  image: state.srcImages[1] ?? state.srcImages[0]
-                })
-
-                createNotification({
-                  color: 'success',
-                  message: 'Agregado a carrito!',
-                  icon: notificationIcons.done
-                })
-              }}
+              className={`add-to-cart-btn ${productWasAdded && 'added'}`}
+              onClick={!productWasAdded ? handleClickOnAdd : null}
             >
-              Añadir a carrito
+              {!productWasAdded ? 'Añadir' : 'Añadido'} a carrito
             </button>
           </div>
         </div>
