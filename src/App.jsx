@@ -6,6 +6,7 @@ import { Footer } from '@components/Footer'
 import { MobileMenu } from '@components/MobileMenu'
 import { useStopScroll } from '@hooks/useStopScroll'
 import { PageProvider } from '@context/PageContext'
+import { Notifications } from '@components/NotificationsContainer'
 
 import { Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
@@ -30,6 +31,7 @@ function App() {
           </Suspense>
         </PageProvider>
       </main>
+      <Notifications />
       <MobileMenu />
       <Footer />
     </>
