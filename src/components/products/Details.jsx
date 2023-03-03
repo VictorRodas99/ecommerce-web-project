@@ -19,7 +19,7 @@ export default function ProductDetails() {
         <div className="product-images">
           <div className="product-gallery">
             {images.map((image) => (
-              <div className="gallery-image active">
+              <div className="gallery-image active" key={useId()}>
                 <Image src={image} /> {/* Solo mostrar tres */}
               </div>
             ))}
