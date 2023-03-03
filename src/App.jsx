@@ -5,6 +5,7 @@ import { Home } from '@components/Home'
 import { Footer } from '@components/Footer'
 import { MobileMenu } from '@components/MobileMenu'
 import { useStopScroll } from '@hooks/useStopScroll'
+import { PageProvider } from '@context/PageContext'
 
 import { Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
@@ -20,12 +21,14 @@ function App() {
       <Header />
       <Cart />
       <main>
-        <Suspense>
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/product/:name" element={<ProductDetails />} />
-          </Routes>
-        </Suspense>
+        <PageProvider>
+          <Suspense>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/product/:name" element={<ProductDetails />} />
+            </Routes>
+          </Suspense>
+        </PageProvider>
       </main>
       <MobileMenu />
       <Footer />
