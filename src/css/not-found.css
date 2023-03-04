@@ -58,10 +58,6 @@
 }
 
 @media only screen and (max-width: 1024px) {
-    main {
-        padding: 0;
-    }
-
     .not-found-container {
         height: 90vh;
     }
@@ -98,17 +94,31 @@
 
 @media only screen and (max-width: 425px) {
     .not-found-container {
-        height: 90vh;
+        padding: 1rem;
+        height: 80vh;
+    }
+
+    .not-found-container .buttons {
+        padding: 3rem;
+        padding-left: .5rem;
+        padding-right: .5rem;
+        width: 100%;
     }
 
     .not-found-messages {
-        width: 80%;
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .not-found-container {
+        padding: 0;
     }
 }
 
 @media only screen and (max-width: 320px) {
     .not-found-messages {
-        width: 90%;
+        width: 100%;
     }
 
     .not-found-messages h1 {
@@ -116,6 +126,7 @@
     }
 
     .not-found-button {
-        padding: .7rem;
+        font-size: .9rem;
+        padding: .5rem;
     }
 }
