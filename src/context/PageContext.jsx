@@ -3,7 +3,7 @@ import { createContext, useState } from 'react'
 export const PageContext = createContext()
 
 export function PageProvider({ children }) {
-  const [page, setPage] = useState(0)
+  const [page, setPage] = useState(null)
 
   const savePage = (page) => {
     if (typeof page !== 'number')
