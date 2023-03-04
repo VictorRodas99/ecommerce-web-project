@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+.not-found-container {
+    display: grid;
+    place-items: center;
+    height: 80vh;
+}
+
+.not-found-messages {
+    text-align: center;
+    width: 50%;
+}
+
+.not-found-messages h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 230px;
+}
+
+.not-found-messages h4 {
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.not-found-container .buttons {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    gap: 1rem;
+}
+
+.not-found-button {
+    font-weight: 800;
+    padding: 1rem;
+    border: 2px solid var(--c-primary);
+    border-radius: var(--b-radius);
+    transition: all .2s ease-in-out;
+}
+
+.not-found-button.home {
+    background-color: var(--c-primary);
+    color: var(--c-white);
+}
+
+.not-found-button.home:hover {
+    border-color: var(--c-primary-dark);
+    background-color: var(--c-primary-dark);
+    color: var(--c-white);
+}
+
+.not-found-button.back {
+    color: var(--c-primary);
+}
+
+.not-found-button.back:hover {
+    color: var(--c-white);
+    border-color: var(--c-gray);
+    background-color: var(--c-gray);
+}
+
+@media only screen and (max-width: 1024px) {
+    main {
+        padding: 0;
+    }
+
+    .not-found-container {
+        height: 90vh;
+    }
+
+    .not-found-messages {
+        width: 70%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .not-found-container {
+        height: 75vh;
+    }
+
+    .not-found-messages h1 {
+        font-size: 160px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .not-found-messages h1 {
+        font-size: 100px;
+    }
+
+    .not-found-messages h4 {
+        font-size: 1rem;
+    }
+
+    .not-found-container .buttons {
+        padding: .5rem;
+        padding-top: 2rem;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .not-found-container {
+        height: 90vh;
+    }
+
+    .not-found-messages {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .not-found-messages {
+        width: 90%;
+    }
+
+    .not-found-messages h1 {
+        font-size: 80px;
+    }
+
+    .not-found-button {
+        padding: .7rem;
+    }
+}

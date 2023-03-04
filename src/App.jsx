@@ -3,6 +3,7 @@ import { useCart } from '@hooks/useCart'
 import { Header } from '@components/Header'
 import { Home } from '@components/Home'
 import { Footer } from '@components/Footer'
+import { NotFound } from '@components/NotFound'
 import { MobileMenu } from '@components/MobileMenu'
 import { useStopScroll } from '@hooks/useStopScroll'
 import { PageProvider } from '@context/PageContext'
@@ -30,7 +31,7 @@ function App() {
                 path="/:category/:page/:name"
                 element={<ProductDetails />}
               />
-              <Route path="*" element={<h1>Ups... no encontrado!</h1>} />
+              <Route path="*" element={<NotFound />} />
             </Routes>
           </Suspense>
         </PageProvider>
