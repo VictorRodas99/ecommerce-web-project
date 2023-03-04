@@ -26,7 +26,11 @@ function App() {
           <Suspense>
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="/product/:name" element={<ProductDetails />} />
+              <Route
+                path="/:category/:page/:name"
+                element={<ProductDetails />}
+              />
+              <Route path="*" element={<h1>Ups... no encontrado!</h1>} />
             </Routes>
           </Suspense>
         </PageProvider>
