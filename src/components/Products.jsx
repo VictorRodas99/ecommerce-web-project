@@ -26,7 +26,7 @@ export function Products() {
   }
 
   useEffect(() => {
-    if (savedPage == 0) return // First render
+    if (!savedPage) return // First render
 
     refreshProducts({
       apiUrl: `${API_URLS.base}/products?page=${savedPage}`
