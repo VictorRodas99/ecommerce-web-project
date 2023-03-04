@@ -1,42 +1,25 @@
-import { useLocation } from 'react-router-dom'
 import { Image } from '@components/Image'
-import { useId, useEffect } from 'react'
 import '@css/product-details.css'
 import { useCart } from '@hooks/useCart'
 import { useNotification } from '@hooks/useNotification'
 import { notificationIcons } from '@components/icons/NotificationIcons'
-
-import { useState } from 'react'
+import { useEffect } from 'react'
+import { useProductDetails } from '@hooks/useProductDetails'
 
 export default function ProductDetails() {
-  const [productWasAdded, setProductWasAdded] = useState(false)
-  const { cartProducts, addProduct } = useCart()
+  const { product } = useProductDetails()
+  const { addProduct } = useCart()
   const { createNotification } = useNotification()
-  const { state } = useLocation()
-  const images =
-    state.srcImages.length > 4 ? state.srcImages.slice(1, 4) : state.srcImages // Temporal
-
-  const setProductExitence = () => {
-    const wasAdded =
-      cartProducts.filter(
-        (product) => product.price === state.price && product.name && state.name
-      ).length > 0
-
-    setProductWasAdded(wasAdded)
-  }
 
   useEffect(() => {
     document.title = 'Info-Shop | Producto'
     window.scrollTo(0, 0)
-    setProductExitence()
   }, [])
-
-  useEffect(setProductExitence, [cartProducts])
 
   const handleClickOnAdd = () => {
     addProduct({
-      ...state,
-      image: state.srcImages[1] ?? state.srcImages[0]
+      ...product,
+      image: product.images[1] ?? product.images[0]
     })
 
     createNotification({
@@ -51,29 +34,29 @@ export default function ProductDetails() {
       <section className="details-presentation">
         <div className="product-images">
           <div className="product-gallery">
-            {images.map((image) => (
-              <div className="gallery-image active" key={useId()}>
+            {product.images.map((image) => (
+              <div className="gallery-image active" key={image}>
                 <Image src={image} /> {/* Solo mostrar tres */}
               </div>
             ))}
           </div>
           <div className="main-image">
-            <Image src={state.srcImages[0]} alt="Imagen 1 del producto" />
+            <Image src={product.mainImage} alt="Imagen 1 del producto" />
           </div>
         </div>
 
         <div className="product-main-details">
-          <h2>{state.name}</h2>
+          <h2>{product.name}</h2>
           <p>
-            Marca: <strong>{state.label}</strong>
+            Marca: <strong>{product.label}</strong>
           </p>
 
           <div className="categories-container">
             <p>Categorías</p>
 
             <div className="categories-details">
-              {state.categories.map((category) => {
-                const categoryId = useId()
+              {product.categories.map((category) => {
+                const categoryId = category
 
                 return (
                   <div className="category" key={categoryId}>
@@ -86,15 +69,15 @@ export default function ProductDetails() {
 
           <div className="details-footer">
             <div className="product-price">
-              <h4>{state.price}</h4>
+              <h4>{product.price}</h4>
               <p>Stock disponible</p>
             </div>
 
             <button
-              className={`add-to-cart-btn ${productWasAdded && 'added'}`}
-              onClick={!productWasAdded ? handleClickOnAdd : null}
+              className={`add-to-cart-btn ${product.wasAdded && 'added'}`}
+              onClick={!product.wasAdded ? handleClickOnAdd : null}
             >
-              {!productWasAdded ? 'Añadir' : 'Añadido'} a carrito
+              {!product.wasAdded ? 'Añadir' : 'Añadido'} a carrito
             </button>
           </div>
         </div>
@@ -107,8 +90,8 @@ export default function ProductDetails() {
 
         <table className="specification-details">
           <tbody>
-            {Object.entries(state.details).map(([key, name]) => (
-              <tr key={useId()}>
+            {Object.entries(product.details).map(([key, name]) => (
+              <tr key={name}>
                 <th className="specification-label">{key}</th>
                 <td className="specification-data">{name}</td>
               </tr>
