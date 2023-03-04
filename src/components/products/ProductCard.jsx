@@ -9,6 +9,7 @@ import { getCartFromStorage } from '@utils/localStorage'
 
 import { Link } from 'react-router-dom'
 import { parseNameToURI } from '@utils/tools'
+import { usePage } from '@hooks/usePage'
 
 export function ProductCard({ data }) {
   const {
@@ -20,6 +21,7 @@ export function ProductCard({ data }) {
     handleImageLoad
   } = useProductCard()
 
+  const { page } = usePage()
   const { cartProducts, addProduct } = useCart()
   const { createNotification } = useNotification()
 
@@ -66,7 +68,7 @@ export function ProductCard({ data }) {
 
   return (
     <div className="product-card">
-      <Link to={`/product/${parseNameToURI(name)}`} state={data}>
+      <Link to={`/product/${page ?? 1}/${parseNameToURI(name)}`} state={data}>
         <div className="card-header">
           <Image src={image} alt={name} events={{ onLoad: handleImageLoad }} />
           <div
