@@ -3,7 +3,6 @@ import { useCart } from '@hooks/useCart'
 import { Header } from '@components/Header'
 import { Home } from '@components/Home'
 import { Footer } from '@components/Footer'
-import { NotFound } from '@components/NotFound'
 import { MobileMenu } from '@components/MobileMenu'
 import { useStopScroll } from '@hooks/useStopScroll'
 import { PageProvider } from '@context/PageContext'
@@ -13,6 +12,7 @@ import { Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
 
 const ProductDetails = lazy(() => import('@components/products/Details'))
+const NotFound = lazy(() => import('@components/NotFound'))
 
 function App() {
   const { cartIsVisible } = useCart()

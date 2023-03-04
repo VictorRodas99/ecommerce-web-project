@@ -1,7 +1,7 @@
 import '@css/not-found.css'
 import { Link, useNavigate } from 'react-router-dom'
 
-export function NotFound() {
+export default function NotFound() {
   const navigate = useNavigate()
 
   const goBack = () => {
