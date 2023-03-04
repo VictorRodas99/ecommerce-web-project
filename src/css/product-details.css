@@ -10,6 +10,7 @@
 
 .product-images {
     width: 50%;
+    max-height: 300px;
     display: flex;
     gap: 2rem;
 }
@@ -27,21 +28,29 @@
     flex-direction: column;
     align-items: center;
     gap: 2rem;
-    overflow: auto;
+    overflow: scroll;
+    scrollbar-width: none;
+}
+
+.product-gallery::-webkit-scrollbar {
+    display: none;
 }
 
 .gallery-image>img {
     width: 100%;
     height: auto;
     mix-blend-mode: multiply;
+    transition: all .2s ease-in-out;
 }
 
 .gallery-image {
+    cursor: pointer;
     padding: 1px;
     border-radius: var(--b-radius);
 }
 
 .gallery-image.active {
+    cursor: auto;
     border: 2px solid var(--c-primary);
 }
 

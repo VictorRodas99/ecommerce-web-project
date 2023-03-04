@@ -3,13 +3,16 @@ import '@css/product-details.css'
 import { useCart } from '@hooks/useCart'
 import { useNotification } from '@hooks/useNotification'
 import { notificationIcons } from '@components/icons/NotificationIcons'
-import { useEffect } from 'react'
+import { useEffect, useRef } from 'react'
 import { useProductDetails } from '@hooks/useProductDetails'
 
 export default function ProductDetails() {
   const { product } = useProductDetails()
   const { addProduct } = useCart()
   const { createNotification } = useNotification()
+  const lastClickedImage = useRef(null)
+  const lastImageInGallery = useRef(null)
+  const scrollController = useRef(80)
 
   useEffect(() => {
     document.title = 'Info-Shop | Producto'
@@ -29,14 +32,62 @@ export default function ProductDetails() {
     })
   }
 
+  const toggleClass = ({ element, classes }) => {
+    // bc classList.toggle doesn't work for some reason...
+    element.classList.add(classes.add)
+    element.classList.remove(classes.remove)
+  }
+
+  const handleClickImage = (event) => {
+    if (lastClickedImage.current) {
+      toggleClass({
+        element: lastClickedImage.current,
+        classes: { add: 'deactive', remove: 'active' }
+      })
+    }
+
+    const imageContainer = event.currentTarget
+    const gallery = imageContainer.parentElement
+
+    lastImageInGallery.current = gallery.lastChild.firstChild
+
+    const image = event.target
+    const source = image.src
+    const mainImageContainer = imageContainer.parentElement.nextElementSibling
+    const [mainImage] = mainImageContainer.children
+
+    mainImage.setAttribute('src', source)
+    lastClickedImage.current = imageContainer
+
+    if (lastImageInGallery.current === image) {
+      gallery.scrollTop = 0
+      scrollController.current = 80
+    } else {
+      gallery.scrollTop = scrollController.current
+      scrollController.current += 80 //TODO: scroll to the next element position, dont use this
+    }
+
+    toggleClass({
+      element: imageContainer,
+      classes: {
+        add: 'active',
+        remove: 'deactive'
+      }
+    })
+  }
+
   return (
     <>
       <section className="details-presentation">
         <div className="product-images">
           <div className="product-gallery">
             {product.images.map((image) => (
-              <div className="gallery-image active" key={image}>
-                <Image src={image} /> {/* Solo mostrar tres */}
+              <div
+                className="gallery-image deactive"
+                key={image}
+                onClick={handleClickImage}
+              >
+                <Image src={image} />
               </div>
             ))}
           </div>
