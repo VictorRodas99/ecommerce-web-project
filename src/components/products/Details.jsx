@@ -39,12 +39,16 @@ export default function ProductDetails() {
   }
 
   const handleClickImage = (event) => {
+    // TODO: refactor
+
     if (lastClickedImage.current) {
       toggleClass({
         element: lastClickedImage.current,
         classes: { add: 'deactive', remove: 'active' }
       })
     }
+
+    let scrollBevavior = window.innerWidth > 768 ? 'scrollTop' : 'scrollLeft'
 
     const imageContainer = event.currentTarget
     const gallery = imageContainer.parentElement
@@ -60,10 +64,10 @@ export default function ProductDetails() {
     lastClickedImage.current = imageContainer
 
     if (lastImageInGallery.current === image) {
-      gallery.scrollTop = 0
+      gallery[scrollBevavior] = 0
       scrollController.current = 80
     } else {
-      gallery.scrollTop = scrollController.current
+      gallery[scrollBevavior] = scrollController.current
       scrollController.current += 80 //TODO: scroll to the next element position, dont use this
     }
 
