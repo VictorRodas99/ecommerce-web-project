@@ -4,7 +4,7 @@ import { useProducts } from '@hooks/useProducts'
 import { PageController } from '@components/PageController'
 import { API_URLS } from 'src/config'
 
-import { useEffect } from 'react'
+import { useEffect, useRef } from 'react'
 import { usePage } from '@hooks/usePage'
 
 export function Products() {
@@ -13,6 +13,7 @@ export function Products() {
   })
 
   const { page: savedPage, savePage } = usePage()
+  const productsContainer = useRef(undefined)
 
   const changePage = (event) => {
     const { id } = event.currentTarget
@@ -23,6 +24,8 @@ export function Products() {
     refreshProducts({
       apiUrl: newPageUrl
     })
+
+    window.scroll(0, productsContainer.current.offsetTop)
   }
 
   useEffect(() => {
@@ -34,7 +37,7 @@ export function Products() {
   }, [])
 
   return (
-    <section className="products-container">
+    <section className="products-container" ref={productsContainer}>
       <div className="products-container__title">
         <h2>Productos</h2>
       </div>
