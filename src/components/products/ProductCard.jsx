@@ -70,7 +70,12 @@ export function ProductCard({ data }) {
     <div className="product-card">
       <Link to={`/product/${page ?? 1}/${parseNameToURI(name)}`} state={data}>
         <div className="card-header">
-          <Image src={image} alt={name} events={{ onLoad: handleImageLoad }} />
+          <Image
+            src={image}
+            alt={name}
+            style={{ display: 'none' }}
+            events={{ onLoad: handleImageLoad }}
+          />
           <div
             className="loader"
             style={{ display: imageIsLoading ? 'flex' : 'none' }}

@@ -31,9 +31,10 @@ export function useProductCard() {
       type: PRODUCT_CARD_ACTIONS.changeIconInDelete
     })
 
-  const handleImageLoad = () =>
+  const handleImageLoad = (event) =>
     dispatch({
-      type: PRODUCT_CARD_ACTIONS.imageLoaded
+      type: PRODUCT_CARD_ACTIONS.imageLoaded,
+      payload: event
     })
 
   return {

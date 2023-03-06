@@ -40,6 +40,11 @@ export function productCardReducer(state, action) {
     }
 
     case PRODUCT_CARD_ACTIONS.imageLoaded: {
+      const { payload: event } = action
+      const image = event.target
+
+      image.style.display = 'block' // set image as visible when is completely loaded
+
       return {
         ...state,
         imageIsLoading: false
