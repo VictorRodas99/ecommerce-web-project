@@ -5,14 +5,15 @@ import { useNotification } from '@hooks/useNotification'
 import { notificationIcons } from '@components/icons/NotificationIcons'
 import { useEffect, useRef } from 'react'
 import { useProductDetails } from '@hooks/useProductDetails'
+import { toggleClass, simulateScroll } from '@utils/tools'
+import { getGalleryElements, getImageNumber } from './utils/details.tools'
 
 export default function ProductDetails() {
   const { product } = useProductDetails()
   const { addProduct } = useCart()
   const { createNotification } = useNotification()
-  const lastClickedImage = useRef(null)
-  const lastImageInGallery = useRef(null)
-  const scrollController = useRef(80)
+  const lastClickedImageContainer = useRef(null)
+  const timesToScroll = useRef(0)
 
   useEffect(() => {
     document.title = 'Info-Shop | Producto'
@@ -32,47 +33,44 @@ export default function ProductDetails() {
     })
   }
 
-  const toggleClass = ({ element, classes }) => {
-    // bc classList.toggle doesn't work for some reason...
-    element.classList.add(classes.add)
-    element.classList.remove(classes.remove)
-  }
-
   const handleClickImage = (event) => {
-    // TODO: refactor
-
-    if (lastClickedImage.current) {
+    if (lastClickedImageContainer.current) {
       toggleClass({
-        element: lastClickedImage.current,
+        element: lastClickedImageContainer.current,
         classes: { add: 'deactive', remove: 'active' }
       })
     }
 
-    let scrollBevavior = window.innerWidth > 768 ? 'scrollTop' : 'scrollLeft'
+    const { containers, images } = getGalleryElements(event)
+    const { gallery, mainImage } = images
 
-    const imageContainer = event.currentTarget
-    const gallery = imageContainer.parentElement
+    mainImage.setAttribute('src', gallery.current.src)
+    lastClickedImageContainer.current = containers.currentImage
 
-    lastImageInGallery.current = gallery.lastChild.firstChild
+    const lastImageWasClicked = gallery.lastImage === gallery.current
 
-    const image = event.target
-    const source = image.src
-    const mainImageContainer = imageContainer.parentElement.nextElementSibling
-    const [mainImage] = mainImageContainer.children
+    timesToScroll.current = getImageNumber(
+      containers.gallery,
+      lastClickedImageContainer.current
+    )
 
-    mainImage.setAttribute('src', source)
-    lastClickedImage.current = imageContainer
+    simulateScroll({
+      container: containers.gallery,
+      condition: lastImageWasClicked,
+      relativeTo: lastClickedImageContainer.current,
+      timesToScroll: timesToScroll.current
+    })
 
-    if (lastImageInGallery.current === image) {
-      gallery[scrollBevavior] = 0
-      scrollController.current = 80
-    } else {
-      gallery[scrollBevavior] = scrollController.current
-      scrollController.current += 80 //TODO: scroll to the next element position, dont use this
+    if (
+      lastImageWasClicked ||
+      containers.gallery.offsetTop === 0 ||
+      containers.gallery.offsetLeft === 0
+    ) {
+      timesToScroll.current = 1
     }
 
     toggleClass({
-      element: imageContainer,
+      element: lastClickedImageContainer.current,
       classes: {
         add: 'active',
         remove: 'deactive'
