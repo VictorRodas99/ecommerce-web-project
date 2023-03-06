@@ -15,6 +15,10 @@ export const parseNumber = (number) => {
   return isNaN(parsedNumber) ? 0 : parsedNumber
 }
 
+export const normalizeString = (string) => {
+  return string.normalize('NFD').replace(/[\u0300-\u036f]/g, '') // Remove accents
+}
+
 export const pricesToNumber = (products) => {
   const prices = products.map((product) => {
     const parsedPrice = Number(product.price.replace(/\D/g, ''))
@@ -34,6 +38,7 @@ export const getTotalPriceOf = (products) => {
 }
 
 export const parseNameToURI = (givenName) => {
+  givenName = normalizeString(givenName)
   return encodeURIComponent(givenName).replaceAll('%20', '-').toLowerCase()
 }
 
