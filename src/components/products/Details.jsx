@@ -83,15 +83,19 @@ export default function ProductDetails() {
       <section className="details-presentation">
         <div className="product-images">
           <div className="product-gallery">
-            {product.images.map((image) => (
-              <div
-                className="gallery-image deactive"
-                key={image}
-                onClick={handleClickImage}
-              >
-                <Image src={image} />
-              </div>
-            ))}
+            {product.images.map((image, index) => {
+              const isFirst = index === 0
+
+              return (
+                <div
+                  className={`gallery-image ${isFirst ? 'active' : 'deactive'}`}
+                  key={image}
+                  onClick={handleClickImage}
+                >
+                  <Image src={image} />
+                </div>
+              )
+            })}
           </div>
           <div className="main-image">
             <Image src={product.mainImage} alt="Imagen 1 del producto" />
