@@ -33,13 +33,8 @@ export const fetchProductData = async ({ url, productName }) => {
   }
 }
 
-export const getGalleryImages = ({ srcImages }) => {
-  // return srcImages.length > 4 ? srcImages.slice(1, 4) : srcImages // Temporal
-  return srcImages
-}
-
 export const structureData = (rawData) => {
-  const images = getGalleryImages(rawData)
+  const images = rawData.srcImages
   const { srcImages, ...restOfData } = rawData
 
   return {
