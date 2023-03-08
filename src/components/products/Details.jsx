@@ -18,6 +18,10 @@ export default function ProductDetails() {
   useEffect(() => {
     document.title = 'Info-Shop | Producto'
     window.scrollTo(0, 0)
+
+    const [firstImageContainer] =
+      document.getElementsByClassName('gallery-image')
+    lastClickedImageContainer.current = firstImageContainer
   }, [])
 
   const handleClickOnAdd = () => {
