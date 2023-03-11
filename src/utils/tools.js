@@ -1,5 +1,20 @@
+import { API_URLS } from 'src/config'
+
 export const capitalize = (string) => {
-  return string[0].toUpperCase() + string.substring(1)
+  if (typeof string !== 'string') {
+    throw new TypeError('Given argument is not a string!')
+  }
+
+  if (!string.trim()) {
+    return ''
+  }
+
+  const words = string.split(' ')
+  const capitalizedWords = words.map(
+    (word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+  )
+
+  return capitalizedWords.join(' ')
 }
 
 export const randomNumber = () => {
@@ -42,6 +57,23 @@ export const parseNameToURI = (givenName) => {
   return encodeURIComponent(givenName).replaceAll('%20', '-').toLowerCase()
 }
 
+export const getAPIUrlFromCategory = (category) => {
+  const matches = {
+    notebooks: API_URLS.computing.notebooks,
+    smartphones: API_URLS.electronics.smartphones,
+    impresoras: API_URLS.computing.printers,
+    almacenamiento: API_URLS.computing.storage,
+    perifericos: API_URLS.computing.monitors
+  }
+
+  const url = matches[category]
+  if (!url) {
+    throw new Error('Invalid category name')
+  }
+
+  return url
+}
+
 /**
  * @param {{
  *  element: HTMLElement,
@@ -72,7 +104,7 @@ export const simulateScroll = ({
   timesToScroll = 0
 }) => {
   if (isNaN(pxToScroll)) {
-    throw new Error('pixels to scroll must be only a number')
+    throw new TypeError('pixels to scroll must be only a number')
   }
 
   if (!pxToScroll && !relativeTo) {
@@ -81,10 +113,10 @@ export const simulateScroll = ({
 
   const TABLET_SCREEN_WIDTH_PX = 768
   const isDesktopScreen = window.innerWidth > TABLET_SCREEN_WIDTH_PX
-  let scrollController
 
   const scrollBevavior = isDesktopScreen ? 'scrollTop' : 'scrollLeft'
   const offSetValue = isDesktopScreen ? 'offsetHeight' : 'offsetWidth'
+  let scrollController
 
   if (pxToScroll) {
     const containerGap = parseNumber(getComputedStyle(container).gap)
@@ -98,9 +130,5 @@ export const simulateScroll = ({
     scrollController *= timesToScroll
   }
 
-  if (condition) {
-    container[scrollBevavior] = 0
-  } else {
-    container[scrollBevavior] = scrollController
-  }
+  container[scrollBevavior] = condition ? 0 : scrollController
 }
