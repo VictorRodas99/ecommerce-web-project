@@ -12,6 +12,9 @@ import { Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
 
 const ProductDetails = lazy(() => import('@components/products/Details'))
+const CategoryProducts = lazy(() =>
+  import('@components/categories/CategoryProducts')
+)
 const NotFound = lazy(() => import('@components/NotFound'))
 
 function App() {
@@ -27,6 +30,7 @@ function App() {
           <Suspense>
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/:category" element={<CategoryProducts />} />
               <Route
                 path="/:category/:page/:name"
                 element={<ProductDetails />}
