@@ -1,8 +1,14 @@
+import { Link } from 'react-router-dom'
+import { parseNameToURI } from '@utils/tools'
+
 export function CategoryCard({ itemNumber, bgNumber, name }) {
   return (
-    <div className={`top-categories__card ${itemNumber}`}>
+    <Link
+      to={`/${parseNameToURI(name)}`}
+      className={`top-categories__card ${itemNumber}`}
+    >
       <div className={`category-image ${bgNumber}`}></div>
       <div className="category-name">{name}</div>
-    </div>
+    </Link>
   )
 }
