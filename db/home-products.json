@@ -75,70 +75,6 @@
         "id": 3
     },
     {
-        "name": "Soporte para Monitor Stalo Triple - Marrón",
-        "price": "Gs. 116.284",
-        "details": {
-            "Diseño": "Moderno y resistente",
-            "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
-            "Material": "MDF y acabado UV",
-            "Capacidad": "40kg",
-            "Dimensiones": "16 x 24 x 35 cm"
-        },
-        "label": "Stalo",
-        "categories": [
-            "Informática",
-            "Soporte para Monitores",
-            "Muebles",
-            "Soporte para TV's y Monitores"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rpm-1003128.jpg"
-        ],
-        "id": 4
-    },
-    {
-        "name": "Soporte P1-Pro para Notebook - Rosa",
-        "price": "Gs. 38.668",
-        "details": {
-            "Diseño": "Plegable y portátil",
-            "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
-            "Material": "ABS y aleación de aluminio",
-            "Compatible con": "Notebooks de hasta 17\""
-        },
-        "label": "Generico",
-        "categories": [
-            "Informática",
-            "Accesorios",
-            "Librería"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rpm-1003293-1_1.jpg"
-        ],
-        "id": 5
-    },
-    {
-        "name": "Soporte P1-Pro para Notebook",
-        "price": "Gs. 38.668",
-        "details": {
-            "Diseño": "Plegable y portátil",
-            "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
-            "Material": "ABS y aleación de aluminio",
-            "Compatible con": "Notebooks de hasta 17\""
-        },
-        "label": "Generico",
-        "categories": [
-            "Informática",
-            "Accesorios",
-            "Librería"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rpm-1003293-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rpm-1004365-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/r/p/rpm-1003948-1.jpg"
-        ],
-        "id": 6
-    },
-    {
         "name": "Desktop All In One HP 24-CB0029 24\" AMD Ryzen 5 5500U - Blanco",
         "price": "Gs. 7.301.745",
         "details": {
@@ -159,7 +95,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_24-cb0029_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/h/p/hp_24-cb0029_-_3.jpg"
         ],
-        "id": 7
+        "id": 4
     },
     {
         "name": "Mini PC Radxa Rock 4 SE",
@@ -179,7 +115,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/101967-2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/101967-1.jpg"
         ],
-        "id": 8
+        "id": 5
     },
     {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
@@ -202,7 +138,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/f/mfcl-6900dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/f/mfcl-6900dw_-_3.jpg"
         ],
-        "id": 9
+        "id": 6
     },
     {
         "name": "Proyector OnLed On7 720P",
@@ -225,7 +161,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/g/mg_02.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/g/mg_03.jpg"
         ],
-        "id": 10
+        "id": 7
     },
     {
         "name": "Desktop All In One HP 200 G4 Intel Pentium J5040 - Negro",
@@ -250,49 +186,11 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc_all_in_one_hp_200_g4_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/p/c/pc_all_in_one_hp_200_g4_-_4_1.jpg"
         ],
-        "id": 11
-    },
-    {
-        "name": "Placa Madre Asus TUF Gaming B550-PRO AM4 DDR4",
-        "price": "Gs. 1.637.361",
-        "details": {
-            "Factor de Forma": "ATX",
-            "Soporta procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
-            "Socket de procesador": "AM4",
-            "Memoria RAM": "4 x DIMM DDR4 admite hasta 128 GB",
-            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
-            "Chipset": "AMD B550"
-        },
-        "label": "Asus",
-        "categories": [
-            "Informática",
-            "Placas madres"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_5.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_6.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_am4_tuf_gaming_b550-pro_-_2.jpg"
-        ],
-        "specifications": {
-            "Factor de Forma": "ATX",
-            "Socket de procesador": "AM4",
-            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 5100(O.C), 5000(O.C), 4866(O.C), 4800(O.C.), 4600(O.C), 4500(O.C), 4400(O.C), 4333(O.C.), 4266(O.C.), 4200(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3733(O.C.), 3600(O.C.), 3466(O.C.), 3400(O.C.), 3333(O.C.), 3200, 3000, 2800, 2666, 2400, 2133 MHz",
-            "Procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
-            "Chipset": "AMD B550",
-            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
-            "Audio": "Códec de audio de alta definición con sonido envolvente Realtek ALC S1200A 7.1",
-            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16, 3 x PCI Express 3.0 x1",
-            "LAN": "Realtek RTL8125B 2.5Gb Ethernet",
-            "Interfaz": "1 x DisplayPort, 1 x HDMI, 1 x LAN (2.5G), 2 x USB 3.2 Gen 2, 2 x USB 3.2 Gen 1, 4 x USB 2.0, 1 x Optical S/PDIF, 5 x Audio Jack, 1 x Boton BIOS FlashBack"
-        },
-        "id": 12
+        "id": 8
     },
     {
         "name": "Apple Mac Studio with M1 Max Early (2022) MJMV3LL/A 512 GB - Plata",
-        "price": "Gs. 21.683.970",
+        "price": "Gs. 21.595.464",
         "details": {
             "Procesador": "Apple M1 Max",
             "Lector de tarjetas": "UHS-II SDXC",
@@ -311,7 +209,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/6/1646763354_img_1710019.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/6/1646763354_img_1710020.jpg"
         ],
-        "id": 13
+        "id": 9
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
@@ -330,7 +228,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/c/o/cooler_satellite.jpg"
         ],
-        "id": 14
+        "id": 10
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
@@ -349,7 +247,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/sate_19.jpg"
         ],
-        "id": 15
+        "id": 11
     },
     {
         "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
@@ -368,7 +266,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/sate_20.jpg"
         ],
-        "id": 16
+        "id": 12
     },
     {
         "name": "Speaker Para PC Logitech Z313 - Negro",
@@ -390,7 +288,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/z/3/z313-computer-speaker-system_2__1.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/z/3/z313-computer-speaker-system_3_.jpg"
         ],
-        "id": 17
+        "id": 13
     },
     {
         "name": "Mouse Inalámbrico Logitech M187 - Negro (910-005459)",
@@ -410,7 +308,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-negro_910-005459.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-negro-910-005459-1.jpg"
         ],
-        "id": 18
+        "id": 14
     },
     {
         "name": "Mouse Inalámbrico Logitech M187 - Blossom (910-005364)",
@@ -430,7 +328,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-blossom_910-005364_-001.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-blossom-910-005364_-002.jpg"
         ],
-        "id": 19
+        "id": 15
     },
     {
         "name": "Mouse Inalámbrico Logitech M187 - Coral (910-005362)",
@@ -450,7 +348,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-coral910-005362_-01.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-coral910-005362_-002.jpg"
         ],
-        "id": 20
+        "id": 16
     },
     {
         "name": "Mouse Inalámbrico Logitech M187",
@@ -473,7 +371,30 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-coral_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/1/m187-negro_2.jpg"
         ],
-        "id": 21
+        "id": 17
+    },
+    {
+        "name": "Kit Teclado + Mouse Inalámbrico Logitech MK320 - Negro (Inglés)",
+        "price": "Gs. 261.093",
+        "details": {
+            "Tipo de teclado": "Membrana",
+            "Distribución": "Inglés",
+            "Tipo de mouse": "Óptico",
+            "Conexión del teclado y mouse": "USB RF"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Informática",
+            "Teclados",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/1/61381-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/1/61381-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/1/61381.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/1/61381-3.jpg"
+        ],
+        "id": 18
     },
     {
         "name": "Cooler Liquido Gigabyte Aorus WaterForce 240 RGB Fusion 2.0",
@@ -501,7 +422,7 @@
             "Intel": "2066, 2011, 1366, 115x, 1200, 1700",
             "AMD": "TR4, AM5, AM4, sTRX4"
         },
-        "id": 22
+        "id": 19
     },
     {
         "name": "Tableta Grafica Wacom One Small 7\" - Negro",
@@ -525,7 +446,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/5/1563188915_1491563.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/5/1563189320_img_1217321.jpg"
         ],
-        "id": 23
+        "id": 20
     },
     {
         "name": "Cooler para Notebook Havit HV-F2081 4 Fan USB - Negro",
@@ -546,7 +467,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/o/notepad_1_.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/n/o/notepad_2_.jpg"
         ],
-        "id": 24
+        "id": 21
     },
     {
         "name": "Cooler Liquido Redragon CCW-3000 Effect X RGB para CPU - Negro",
@@ -587,7 +508,7 @@
             "Material del contacto": "Cobre",
             "Velocidad de rotación": "2200 RPM ± 10%"
         },
-        "id": 25
+        "id": 22
     },
     {
         "name": "Cooler Redragon GC-F008 RGB 120 mm - 3 unidades + Control",
@@ -606,28 +527,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/64033.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/4/64033_-_1.jpg"
         ],
-        "id": 26
-    },
-    {
-        "name": "Lector de Códigos de Barra Honeywell Voyager 1250g con Base",
-        "price": "Gs. 699.197",
-        "details": {
-            "Diseño": "Ergonómico y resistente",
-            "Códigos decodificables": "Códigos lineales",
-            "Distancia máxima de lectura": "58.4 cm",
-            "Conectividad": "USB"
-        },
-        "label": "Honeywell",
-        "categories": [
-            "Informática",
-            "Accesorios"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/e/lectoroorr-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/e/lectoroorr-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/l/e/lectoroorr-3.jpg"
-        ],
-        "id": 27
+        "id": 23
     },
     {
         "name": "Lector de Código de Barra Zkteco ZKB101 - Negro",
@@ -647,7 +547,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/6/8/68051_1.jpg"
         ],
-        "id": 28
+        "id": 24
     },
     {
         "name": "Hub Portátil USB-C Belkin F4U090BT 4 Puertos - Negro",
@@ -677,7 +577,7 @@
             "Diseño ultra portátil/inteligente.": "",
             "Carga periféricos con los 900 mAh (compartidos).": ""
         },
-        "id": 29
+        "id": 25
     },
     {
         "name": "Mini PC Intel NUC10I7FNHN Intel Core i7-10710U 1.1 GHz",
@@ -700,11 +600,11 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_nuc10i7fnhn_-2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/i/n/intel_nuc10i7fnhn_-3.jpg"
         ],
-        "id": 30
+        "id": 26
     },
     {
         "name": "Notebook Asus VivoBook 14 M415DA-R3128 14\" AMD Ryzen 3 3250U 8 GB DDR4 128 GB SSD - Gris",
-        "price": "Gs. 2.832.192",
+        "price": "Gs. 2.699.433",
         "details": {
             "Pantalla": "LED de 14\" Full HD 1920 x 1080p",
             "Procesador": "AMD Ryzen 3 3250U Dual-Core 2.6 - 3.5 GHz",
@@ -724,11 +624,11 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/108078_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/108078_-_3.jpg"
         ],
-        "id": 31
+        "id": 27
     },
     {
         "name": "Notebook Asus VivoBook Pro 15 OLED M3500QC-DS71 15.6\" AMD Ryzen 7 5800H RTX 3050 4 GB - Quiet Blue",
-        "price": "Gs. 8.762.094",
+        "price": "Gs. 8.629.335",
         "details": {
             "Pantalla": "OLED de 15.6\" Full HD 1920 x 1080p",
             "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
@@ -749,7 +649,30 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/3/m3500qc-ds71_-_2_1.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/3/m3500qc-ds71_-_3.jpg"
         ],
-        "id": 32
+        "id": 28
+    },
+    {
+        "name": "Notebook Asus BR1100CKA-QE1 11.6\" Intel Celeron N4500 4 GB DDR4 64 GB eMMC - Negro",
+        "price": "Gs. 1.460.349",
+        "details": {
+            "Pantalla": "LED de 11.6\" HD 1366 x 768p",
+            "Procesador": "Intel Celeron N4500 Dual-Core 1.1 - 2.8 GHz",
+            "Memoria RAM": "4 GB DDR4",
+            "Memoria de almacenamiento": "eMMC de 64 GB",
+            "Gráficos": "Intel UHD",
+            "Sistema operativo": "Windows 10 Pro"
+        },
+        "label": "Asus",
+        "categories": [
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_br1100cka-gj0447r_-_2_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_br1100cka-gj0447r_-_1_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_br1100cka-gj0447r_-_3_1_1.jpg"
+        ],
+        "id": 29
     },
     {
         "name": "Notebook Dell Latitude 5430 14\" Intel Core i7-1265U 16 GB DDR4 256 GB SSD - Gris",
@@ -774,11 +697,11 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/dell_latitude_5430_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/dell_latitude_5430_-_4.jpg"
         ],
-        "id": 33
+        "id": 30
     },
     {
         "name": "Notebook Asus E410MA-TB 14\" Intel Celeron N4020 4 GB DDR4 64 GB SSD",
-        "price": "Gs. 1.389.544",
+        "price": "Gs. 1.380.694",
         "details": {
             "Pantalla": "LED de 14\" HD 1366 x 768p",
             "Procesador": "Intel Celeron N4020 Dual-Core 1.1 - 2.6 GHz",
@@ -799,7 +722,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_e410ma-tb_peacock_blue_-_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/s/asus_e410ma-tb_rose_pink_-_1_1.jpg"
         ],
-        "id": 34
+        "id": 31
     },
     {
         "name": "Notebook/Tablet Dell Latitud 5320 13.3\" Intel Core i7-1185G7 16 GB DDR4 512 GB SSD - Gris",
@@ -825,11 +748,11 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/dell_latitude_5320_2-in-1_-_4.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/d/e/dell_latitude_5320_2-in-1_-_5.jpg"
         ],
-        "id": 35
+        "id": 32
     },
     {
         "name": "Notebook Asus E410MA-TB 14\" Intel Celeron N4020 4 GB DDR4 64 GB SSD - Peacock Blue",
-        "price": "Gs. 1.389.544",
+        "price": "Gs. 1.380.694",
         "details": {
             "Pantalla": "LED de 14\" HD 1366 x 768p",
             "Procesador": "Intel Celeron N4020 Dual-Core 1.1 - 2.6 GHz",
@@ -849,7 +772,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/108088_-_2_1.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/1/0/108088_-_3_1.jpg"
         ],
-        "id": 36
+        "id": 33
     },
     {
         "name": "Notebook Acer Aspire A515-54-354F 15.6\" Intel Core i3-10110U 4 GB DDR4 1 TB HDD - Negro",
@@ -873,7 +796,32 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/5/a515-54-354f_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/5/a515-54-354f_-_3.jpg"
         ],
-        "id": 37
+        "id": 34
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad 5 15IAL7 15.6\" Intel Core I7-1255U MX 550 2 GB - Storm Grey (82SF0007US)",
+        "price": "Gs. 7.788.528",
+        "details": {
+            "Pantalla": "IPS táctil de 15.6\" Full HD 1920 x 1080p",
+            "Procesador": "Intel Core i7-1255U Deca-Core 1.7 - 4.7 GHz",
+            "Memoria RAM": "16 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "NVIDIA GeForce MX 550 2 GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sf001pus_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sf001pus_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sf001pus_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82sf001pus_-_4_1.jpg"
+        ],
+        "id": 35
     },
     {
         "name": "Notebook Acer Aspire Vero AV14-51-73LM 14\" Intel Core i7-1255U 16 GB LPDDR4x 1 TB SSD - Gris",
@@ -898,7 +846,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/c/acer_vero_av14-51-73lm_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/a/c/acer_vero_av14-51-73lm_-_4.jpg"
         ],
-        "id": 38
+        "id": 36
     },
     {
         "name": "Notebook Lenovo Chromebook 100E 2nd Gen 11.6\" MediaTek MT8173c 4 GB LPDDR3 32 GB eMMC - Negro (81QB000MUS)",
@@ -922,7 +870,7 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/1/81qb000mus_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/1/81qb000mus_-_3.jpg"
         ],
-        "id": 39
+        "id": 37
     },
     {
         "name": "Notebook Lenovo V14 IIL 14\" Intel Core i5-1035G1 8 GB DDR4 256 GB SSD - Iron Grey (82C401J6US)",
@@ -945,6 +893,57 @@
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82c401j6us_-_1.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82c401j6us_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/8/2/82c401j6us_-_3.jpg"
+        ],
+        "id": 38
+    },
+    {
+        "name": "Notebook Samsung Book Go NP340XLA 14\" Snapdragon 7c Gen 2 4 GB LPDDR4 64 GB UFS - Plata",
+        "price": "Gs. 1.699.315",
+        "details": {
+            "Pantalla": "LED de 14” Full HD 1920 x 1080p",
+            "Procesador": "Snapdragon 7c Gen 2 Octa-Core 2.55 GHz",
+            "Memoria RAM": "4 GB LPDDR4x",
+            "Memoria de almacenamiento": "UFS de 64 GB",
+            "Gráficos": "Qualcomm Adreno",
+            "Sistema Operativos": "Windows 10 Home"
+        },
+        "label": "Samsung",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/samsung_galaxy_book_go_np340xla_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/samsung_galaxy_book_go_np340xla_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/samsung_galaxy_book_go_np340xla_-_3_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/s/a/samsung_galaxy_book_go_np340xla_-_4_1.jpg"
+        ],
+        "id": 39
+    },
+    {
+        "name": "Notebook MSI Vector GP66 12UHSO-673 15.6\" Intel Core i9-12900H RTX 3080 Ti 16 GB - Negro",
+        "price": "Gs. 23.409.837",
+        "details": {
+            "Pantalla": "IPS de 15.6\" QHD 2560 x 1440p 165 Hz",
+            "Procesador": "Intel Core i9-12900H Tetradeca-Core 2.5 - 5.0 GHz",
+            "Memoria RAM": "32 GB DDR5",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 1 TB",
+            "Gráficos": "NVIDIA GeForce RTX 3080 Ti 16 GB GDDR6",
+            "Sistema Operativos": "Windows 11 Home"
+        },
+        "label": "MSI",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_vector_gp66_12uhso-673-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_vector_gp66_12uhso-673-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_vector_gp66_12uhso-673-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/ef70040224a801a7e53890035f03a841/m/s/msi_vector_gp66_12uhso-673-_4.jpg"
         ],
         "id": 40
     }
