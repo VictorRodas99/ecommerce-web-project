@@ -44,7 +44,7 @@ export default function CategoryProducts() {
             />
           </form>
           <div className="category-section views">
-            <p>View: </p>
+            <p>Vista: </p>
             <MdGridView />
             <MdViewList />
           </div>
