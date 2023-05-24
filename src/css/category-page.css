@@ -37,10 +37,48 @@
 .sorters,
 .views {
     display: flex;
-    gap: .5rem;
+    gap: .7rem;
     align-items: center;
+}
+
+.views>svg {
+    font-size: 1.2rem;
+    color: var(--c-primary);
 }
 
 .category-section-container .products-container__title {
     padding-top: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .category-section__options {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 630px) {
+    .category-section-header {
+        padding: 1rem;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+
+    .category-section.options {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .sorters {
+        width: 100%;
+    }
+
+    .sorters .select-container {
+        width: 80%;
+    }
+
+    .views {
+        align-self: flex-start;
+    }
 }
