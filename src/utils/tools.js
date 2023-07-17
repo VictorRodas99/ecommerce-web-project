@@ -17,6 +17,15 @@ export const capitalize = (string) => {
   return capitalizedWords.join(' ')
 }
 
+export const isValidURL = (rawString) => {
+  try {
+    const url = new URL(rawString)
+    return url.protocol === 'http:' || url.protocol === 'https:'
+  } catch (error) {
+    return false
+  }
+}
+
 export const randomNumber = () => {
   return Math.floor(Math.random() * 255)
 }
