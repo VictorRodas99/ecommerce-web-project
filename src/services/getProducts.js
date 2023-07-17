@@ -1,3 +1,15 @@
+import { isValidURL } from "@utils/tools"
+
+/**
+ * @typedef {{
+ *  id: number, name: string, price: string,
+ *  srcImages: string[], label: string,
+ *  categories: string[], details: Object
+ * }} Product
+ * @typedef {{ previousPage?: number, nextPage?: number, data: Product[] }} APIMainResponse
+ * 
+ * @param {{ url: string, data: APIMainResponse }} param
+ */
 const saveProductsInStorage = ({ url, data }) => {
   const key = window.btoa(url) // Encondes in base64 the url to use it as a key
 
@@ -10,6 +22,10 @@ const saveProductsInStorage = ({ url, data }) => {
   }
 }
 
+/**
+ * @param {string} url 
+ * @returns {APIMainResponse | null}
+ */
 const getSavedProductInStorage = (url) => {
   const key = window.btoa(url)
   const data = window.sessionStorage.getItem(key)
@@ -17,7 +33,15 @@ const getSavedProductInStorage = (url) => {
   return JSON.parse(data)
 }
 
+/** 
+ * @param {string} url 
+ * @returns {Promise<APIMainResponse>}
+ */
 export const getProducts = async (url) => {
+  if (!isValidURL(url)) {
+    throw new Error('Expected argument to be a valid HTTP URL')
+  }
+
   const savedData = getSavedProductInStorage(url)
 
   if (savedData) return savedData

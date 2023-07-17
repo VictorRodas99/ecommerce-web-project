@@ -11,6 +11,9 @@ import { Link } from 'react-router-dom'
 import { parseNameToURI } from '@utils/tools'
 import { usePage } from '@hooks/usePage'
 
+/**
+ * @param {{ data: import('@services/getProducts').Product }} param
+ */
 export function ProductCard({ data }) {
   const {
     CardIcon,

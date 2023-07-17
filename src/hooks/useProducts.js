@@ -1,6 +1,11 @@
 import { useState, useEffect } from 'react'
 import { getProducts } from '@services/getProducts'
 
+/**
+ * @typedef {import('@services/getProducts').Product} Product
+ * @param {{ apiUrl: string }} param 
+ * @returns {{ products: Product[], pages: { previousPage: number, nextPage: number }, refreshProducts: ({ apiUrl }: { apiUrl: string }) => void }}
+ */
 export function useProducts({ apiUrl }) {
   const [products, setProducts] = useState([])
   const [previousPage, setPreviuosPage] = useState(undefined)
