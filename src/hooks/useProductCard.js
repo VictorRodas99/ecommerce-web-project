@@ -7,12 +7,16 @@ import {
 
 /**
  * @returns {{
- * productWasAdded: boolean,
- * imageIsLoading: boolean,
- * CardIcon: { () => JSX.Element },
- * changeIconInAdd: { () => void },
- * changeIconInDelete: { () => void },
- * handleImageLoad: { () => void }
+ *  cardStates: {
+ *    productWasAdded: boolean,
+ *    imageIsLoading: boolean,
+ *    CardIcon: () => JSX.Element
+ * },
+ *  cardMethods: {
+ *    changeIconInAdd: () => void,
+ *    changeIconInDelete: () => void
+ * }
+ * handleImageLoad: (event: Event) => void
  * }}
  */
 export function useProductCard() {
@@ -38,11 +42,11 @@ export function useProductCard() {
     })
 
   return {
-    productWasAdded: cardStates.productWasAdded,
-    imageIsLoading: cardStates.imageIsLoading,
-    CardIcon: cardStates.CardIcon,
-    changeIconInAdd,
-    changeIconInDelete,
+    cardStates,
+    cardMethods: {
+      changeIconInAdd,
+      changeIconInDelete
+    },
     handleImageLoad
   }
 }
