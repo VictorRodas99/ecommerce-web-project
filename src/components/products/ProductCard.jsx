@@ -15,18 +15,12 @@ import { usePage } from '@hooks/usePage'
  * @param {{ data: import('@services/getProducts').Product }} param
  */
 export function ProductCard({ data }) {
-  const {
-    CardIcon,
-    productWasAdded,
-    changeIconInAdd,
-    changeIconInDelete,
-    imageIsLoading,
-    handleImageLoad
-  } = useProductCard()
-
-  const { page } = usePage()
-  const { cartProducts, addProduct } = useCart()
+  const { cardStates, cardMethods, handleImageLoad } = useProductCard()
   const { createNotification } = useNotification()
+  const { cartProducts, addProduct } = useCart()
+  const { page } = usePage()
+
+  const { CardIcon } = cardStates
 
   const handleClickOnCart = () => {
     addProduct({
@@ -34,7 +28,7 @@ export function ProductCard({ data }) {
       image: data.srcImages[1] ?? data.srcImages[0]
     })
 
-    changeIconInAdd()
+    cardMethods.changeIconInAdd()
 
     createNotification({
       color: 'success',
@@ -44,13 +38,13 @@ export function ProductCard({ data }) {
   }
 
   useEffect(() => {
-    if (productWasAdded) {
+    if (cardStates.productWasAdded) {
       const existsCurrentProduct = cartProducts.some(
         (product) => product.id === data.id
       )
 
       if (!existsCurrentProduct) {
-        changeIconInDelete()
+        cardMethods.changeIconInDelete()
       }
     }
   }, [cartProducts])
@@ -62,7 +56,7 @@ export function ProductCard({ data }) {
     )
 
     if (wasSavedInStorage) {
-      changeIconInAdd()
+      cardMethods.changeIconInAdd()
     }
   }, [])
 
@@ -81,7 +75,7 @@ export function ProductCard({ data }) {
           />
           <div
             className="loader"
-            style={{ display: imageIsLoading ? 'flex' : 'none' }}
+            style={{ display: cardStates.imageIsLoading ? 'flex' : 'none' }}
           >
             <Ring size={70} lineWeight={3} speed={2} color="#7c828d2a" />
           </div>
@@ -96,7 +90,7 @@ export function ProductCard({ data }) {
         <div className="add-icon">
           <div
             className="product-card-icon"
-            onClick={!productWasAdded ? handleClickOnCart : null}
+            onClick={!cardStates.productWasAdded ? handleClickOnCart : null}
           >
             <CardIcon className="icon" />
           </div>
