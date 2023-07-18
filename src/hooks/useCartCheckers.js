@@ -1,5 +1,6 @@
 import { getCartFromStorage } from '@utils/localStorage'
 import { useEffect } from 'react'
+import { useCart } from './useCart'
 
 /**
  * @typedef {import('@services/getProducts').Product} Product
@@ -11,34 +12,35 @@ import { useEffect } from 'react'
  * Check if the product has been removed from the cart in order to determine whether or not to change the icon of the current card.
  * @param {{
  *  currentProduct: Product,
- *  cart: Product[],
  *  cardStates: ProductCardStates,
  *  cardMethods: ProductCardMethods
  * }} dependencies
  */
-export function useCartCheckers({ currentProduct, cart, cardStates, cardMethods }) {
-	useEffect(() => {
-		if (cardStates.productWasAdded) {
-			const existsCurrentProduct = cart.some(
-				(product) => product.id === currentProduct.id
-			)
+export function useCartCheckers({ currentProduct, cardStates, cardMethods }) {
+  const { cartProducts: cart } = useCart()
 
-			if (!existsCurrentProduct) {
-				cardMethods.changeIconInDelete()
-			}
-		}
-	}, [cart])
+  useEffect(() => {
+    if (cardStates.productWasAdded) {
+      const existsCurrentProduct = cart.some(
+        (product) => product.id === currentProduct.id
+      )
 
-	useEffect(() => {
-		const savedCart = getCartFromStorage()
-		const wasSavedInStorage = savedCart?.some(
-			(product) =>
-				product.price === currentProduct.price &&
-				product.name === currentProduct.name
-		)
+      if (!existsCurrentProduct) {
+        cardMethods.changeIconInDelete()
+      }
+    }
+  }, [cart])
 
-		if (wasSavedInStorage) {
-			cardMethods.changeIconInAdd()
-		}
-	}, [])
+  useEffect(() => {
+    const savedCart = getCartFromStorage()
+    const wasSavedInStorage = savedCart?.some(
+      (product) =>
+        product.price === currentProduct.price &&
+        product.name === currentProduct.name
+    )
+
+    if (wasSavedInStorage) {
+      cardMethods.changeIconInAdd()
+    }
+  }, [])
 }
