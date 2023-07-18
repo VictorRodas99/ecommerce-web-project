@@ -3,13 +3,12 @@ import { Image } from '@components/Image'
 import { useProductCard } from '@hooks/useProductCard'
 import { useCart } from '@hooks/useCart'
 import { notificationIcons } from '@components/icons/NotificationIcons'
-import { useEffect } from 'react'
 import { useNotification } from '@hooks/useNotification'
-import { getCartFromStorage } from '@utils/localStorage'
 
 import { Link } from 'react-router-dom'
 import { parseNameToURI } from '@utils/tools'
 import { usePage } from '@hooks/usePage'
+import { useCartCheckers } from '@hooks/useCartCheckers'
 
 /**
  * @param {{ data: import('@services/getProducts').Product }} param
@@ -19,6 +18,13 @@ export function ProductCard({ data }) {
   const { createNotification } = useNotification()
   const { cartProducts, addProduct } = useCart()
   const { page } = usePage()
+
+  useCartCheckers({
+    currentProduct: data,
+    cart: cartProducts,
+    cardMethods,
+    cardStates
+  })
 
   const { CardIcon } = cardStates
 
@@ -36,29 +42,6 @@ export function ProductCard({ data }) {
       icon: notificationIcons.done
     })
   }
-
-  useEffect(() => {
-    if (cardStates.productWasAdded) {
-      const existsCurrentProduct = cartProducts.some(
-        (product) => product.id === data.id
-      )
-
-      if (!existsCurrentProduct) {
-        cardMethods.changeIconInDelete()
-      }
-    }
-  }, [cartProducts])
-
-  useEffect(() => {
-    const savedCart = getCartFromStorage()
-    const wasSavedInStorage = savedCart?.some(
-      (product) => product.price === data.price && product.name === data.name
-    )
-
-    if (wasSavedInStorage) {
-      cardMethods.changeIconInAdd()
-    }
-  }, [])
 
   const { name, price } = data
   const image = data.srcImages[0]
