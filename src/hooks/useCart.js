@@ -3,12 +3,16 @@ import { CartContext } from '@context/CartContext'
 import { getTotalPriceOf } from '@utils/tools'
 
 /**
+ * @typedef {import('@services/getProducts').Product} Product
+ */
+
+/**
  * @returns {{
- *  cartProducts: Array<{}>,
- *  addProduct: { (newProduct: {}) => void },
- *  deleteProduct: { (givenProduct: {}) => void },
+ *  cartProducts: Product[],
+ *  addProduct: (newProduct: Product) => void,
+ *  deleteProduct: (givenProduct: Product) => void ,
  *  cartIsVisible: boolean,
- *  modifyCartVisibility: { (mode?:boolean) => void }
+ *  modifyCartVisibility: (mode?:boolean) => void
  * }}
  */
 export function useCart() {
@@ -21,6 +25,9 @@ export function useCart() {
   return context
 }
 
+/**
+ * @param {{ cartProducts: Product[] }} param 
+ */
 export function useTotalPrice({ cartProducts }) {
   const [totalPrice, setTotalPrice] = useState(0)
   const totalProducts = cartProducts.length
@@ -35,8 +42,6 @@ export function useTotalPrice({ cartProducts }) {
   return {
     totalPrice,
     totalProducts,
-    amountDescription: `${totalProducts} ${
-      totalProducts === 1 ? ' Item' : ' Items'
-    }`
+    amountDescription: `${totalProducts} ${totalProducts === 1 ? ' Item' : ' Items'}`
   }
 }

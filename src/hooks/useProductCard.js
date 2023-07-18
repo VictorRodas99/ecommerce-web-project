@@ -6,17 +6,13 @@ import {
 } from '@reducers/productCard.reducer'
 
 /**
+ * @typedef {{ productWasAdded: boolean, imageIsLoading: boolean, CardIcon: () => JSX.Element }} ProductCardStates
+ * @typedef {{ changeIconInAdd: () => void, changeIconInDelete: () => void }} ProductCardMethods
+ * 
  * @returns {{
- *  cardStates: {
- *    productWasAdded: boolean,
- *    imageIsLoading: boolean,
- *    CardIcon: () => JSX.Element
- * },
- *  cardMethods: {
- *    changeIconInAdd: () => void,
- *    changeIconInDelete: () => void
- * }
- * handleImageLoad: (event: Event) => void
+ *  cardStates: ProductCardStates,
+ *  cardMethods: ProductCardMethods
+ *  handleImageLoad: (event: Event) => void
  * }}
  */
 export function useProductCard() {

@@ -5,6 +5,16 @@ import {
   CART_ACTIONS
 } from '@reducers/cart.reducer'
 
+/**
+ * @typedef {import('@services/getProducts').Product} Product
+ * 
+ * @returns {{
+ *  cartStates: { cart: Product[], visibility: boolean }
+ *  addProduct: (newProduct: Product) => void,
+ *  deleteProduct: (givenProduct: Product) => void,
+ *  modifyCartVisibility: (mode?: boolean) => void
+ * }} 
+ */
 export function useCartReducer() {
   const [cartStates, dispatch] = useReducer(cartReducer, initialCartState)
 
