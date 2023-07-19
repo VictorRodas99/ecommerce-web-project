@@ -11,7 +11,7 @@ export function Image({ children, ...props }) {
       decoding={existsLoadPriority ? 'async' : 'auto'}
       alt={props.alt || 'Generic image'}
       role="presentation"
-      fetchPriority={props.fetchPriority}
+      fetchpriority={props.fetchPriority}
       {...props}
     >
       {children}
