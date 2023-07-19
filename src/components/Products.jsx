@@ -1,38 +1,21 @@
 import '@css/products.css'
+import { PageController } from '@components/PageController'
+import { usePageRederingHandler } from '@hooks/usePage'
 import { ProductCard } from './products/ProductCard'
 import { useProducts } from '@hooks/useProducts'
-import { PageController } from '@components/PageController'
-import { useEffect, useRef } from 'react'
-import { usePage } from '@hooks/usePage'
+import { useRef } from 'react'
 
 export function Products({ apiUrl, ...props }) {
-  const { products, pages, refreshProducts } = useProducts({
+  const { pages, products, refreshProducts } = useProducts({
     apiUrl: `${apiUrl}?page=1`
   })
 
-  const { page: savedPage, savePage } = usePage()
+  usePageRederingHandler({
+    urlBase: apiUrl,
+    refreshMethod: (url) => refreshProducts({ apiUrl: url })
+  })
+
   const productsContainer = useRef(undefined)
-
-  const changePage = (event) => {
-    const { id } = event.currentTarget
-    const numberPage = id === 'back' ? pages.previousPage : pages.nextPage
-    const newPageUrl = `${apiUrl}?page=${numberPage}`
-
-    savePage(numberPage)
-    refreshProducts({
-      apiUrl: newPageUrl
-    })
-
-    window.scroll(0, productsContainer.current.offsetTop)
-  }
-
-  useEffect(() => {
-    if (!savedPage) return // First render
-
-    refreshProducts({
-      apiUrl: `${apiUrl}?page=${savedPage}`
-    })
-  }, [])
 
   return (
     <section className="products-container" ref={productsContainer}>
@@ -48,7 +31,12 @@ export function Products({ apiUrl, ...props }) {
         ))}
       </div>
 
-      <PageController pages={pages} handleChangePage={changePage} />
+      <PageController
+        urlBase={apiUrl}
+        totalPages={pages}
+        refreshMethod={(url) => refreshProducts({ apiUrl: url })}
+        containerReference={productsContainer}
+      />
     </section>
   )
 }
