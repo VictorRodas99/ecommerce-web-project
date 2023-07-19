@@ -1,4 +1,4 @@
-import { useContext } from 'react'
+import { useContext, useEffect } from 'react'
 import { PageContext } from '@context/PageContext'
 
 /**
@@ -15,4 +15,19 @@ export function usePage() {
   }
 
   return context
+}
+
+/**
+ * @param {{ urlBase: string, refreshMethod: (url: string) => void }} param
+ */
+export function usePageRederingHandler({ urlBase, refreshMethod }) {
+  const { page: currentPage } = usePage()
+
+  useEffect(() => {
+    if (!currentPage) {
+      return // First render
+    }
+
+    refreshMethod(`${urlBase}?page=${currentPage}`)
+  }, [])
 }
