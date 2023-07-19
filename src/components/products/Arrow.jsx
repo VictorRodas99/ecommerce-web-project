@@ -1,11 +1,17 @@
+/**
+ * @param {{
+ *  id: 'back' | 'next',
+ *  icon: React.JSX.Element
+ *  page: number | undefined,
+ *  eventHandler: (event: Event) => void
+ * }} props
+ */
 export function Arrow({ id, page, icon, eventHandler }) {
-  const handleClick = (event) => eventHandler(event)
-
   return (
     <div
       id={id}
       className={page ? 'arrow-container' : `arrow-disabled`}
-      onClick={handleClick}
+      onClick={eventHandler}
     >
       <div className="page-message">{page ? `Pág. ${page}` : '🛇'}</div>
       {icon}
