@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import { useParams, useLocation } from 'react-router-dom'
 import { useCart } from '@hooks/useCart'
 import {
   productInitialState,
@@ -7,18 +6,22 @@ import {
   fetchProductData,
   structureData
 } from '@components/products/utils/details.tools'
+import { getNavigationData } from '@utils/pageBehaviors'
+
+/**
+ * @typedef {import('@services/getProducts').Product} Product
+ */
 
 export function useProductDetails() {
   const [product, setProduct] = useState(productInitialState)
-  const { category, page, name: productName } = useParams()
-  const { state } = useLocation()
+  const { state, params } = getNavigationData()
   const { cartProducts } = useCart()
 
   const setProductExitence = () => {
     const wasAdded =
-      cartProducts.filter(
+      cartProducts.some(
         (product) => product.price === state.price && product.name && state.name
-      ).length > 0
+      )
 
     setProduct((prevProduct) => ({
       ...prevProduct,
@@ -32,10 +35,14 @@ export function useProductDetails() {
       return setProduct(product)
     }
 
-    const url = getProductURLForAPI({ category, page })
+    const url = getProductURLForAPI({
+      category: params.category,
+      page: params.page
+    })
+
     const { currentProduct: rawData, found } = await fetchProductData({
       url,
-      productName
+      productName: params.productName
     })
 
     if (!found) {
