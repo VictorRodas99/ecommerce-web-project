@@ -26,6 +26,12 @@ export const isValidURL = (rawString) => {
   }
 }
 
+export const isLiteralObject = (value) => {
+  if (value === null || value === undefined) return false
+
+  return typeof value === 'object' && Object.getPrototypeOf(value) === Object.prototype
+}
+
 export const randomNumber = () => {
   return Math.floor(Math.random() * 255)
 }
