@@ -4,7 +4,7 @@ import { isValidURL } from "@utils/tools"
  * @typedef {{
  *  id: number, name: string, price: string,
  *  srcImages: string[], label: string,
- *  categories: string[], details: Object
+ *  categories: string[], details: { [x]: string }
  * }} Product
  * @typedef {{ previousPage?: number, nextPage?: number, data: Product[] }} APIMainResponse
  * 
