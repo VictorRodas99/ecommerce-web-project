@@ -4,12 +4,13 @@ import { getTotalPriceOf } from '@utils/tools'
 
 /**
  * @typedef {import('@services/getProducts').Product} Product
+ * @typedef {import('@components/products/utils/details.tools').ProductDetail} ProductDetail
  */
 
 /**
  * @returns {{
  *  cartProducts: Product[],
- *  addProduct: (newProduct: Product) => void,
+ *  addProduct: (newProduct: Product | ProductDetail) => void,
  *  deleteProduct: (givenProduct: Product) => void ,
  *  cartIsVisible: boolean,
  *  modifyCartVisibility: (mode?:boolean) => void
