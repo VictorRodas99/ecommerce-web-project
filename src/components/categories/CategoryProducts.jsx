@@ -1,31 +1,18 @@
-import { useParams } from 'react-router-dom'
-import { Products } from '@components/Products'
-import { getAPIUrlFromCategory, capitalize } from '@utils/tools'
-import { useEffect, useMemo } from 'react'
+import CategorySectionHeader from './category-page-components/CategorySectionHeader'
 import { CategoriesBox } from '@components/categories/CategoriesBox'
+import { getAPIUrlFromCategory } from '@utils/tools'
 import { CATEGORIES } from '@utils/categoriesIcons'
-
+import { Products } from '@components/Products'
+import { useParams } from 'react-router-dom'
 import '@css/category-page.css'
-import ProductSorter from './category-page-components/ProductSorter'
 
 export default function CategoryProducts() {
   const { category } = useParams()
   const apiUrl = getAPIUrlFromCategory(category)
-  const capitalizedCategory = useMemo(() => capitalize(category), [])
-
-  useEffect(() => {
-    document.title = `Info-Shop | ${capitalizedCategory}`
-  }, [])
 
   return (
     <section className="category-section-container">
-      <div className="category-section-header">
-        <h4>Resultados para... {capitalizedCategory}</h4>
-
-        <div className="category-section options">
-          <ProductSorter />
-        </div>
-      </div>
+      <CategorySectionHeader category={category} />
 
       <div className="category-section-body">
         <aside className="category-section__options">
