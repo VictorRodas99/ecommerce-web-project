@@ -147,3 +147,37 @@ export const simulateScroll = ({
 
   container[scrollBevavior] = condition ? 0 : scrollController
 }
+
+/**
+ * @returns {{
+ *  dropdownValues: HTMLLIElement[],
+ *  labelContainer: HTMLDivElement,
+ *  dropdown: HTMLUListElement
+ * }}
+ */
+export const getSelectElements = () => {
+  const selectors = {
+    dropdownValues: '.select-dropdown__value',
+    labelContainer: '.selector-label-container',
+    dropdown: '.select-dropdown'
+  }
+
+  const dropdownValues = document.querySelectorAll(selectors.dropdownValues)
+  const labelContainer = document.querySelector(selectors.labelContainer)
+  const dropdown = document.querySelector(selectors.dropdown)
+
+  const classes = Object.values(selectors)
+  const elements = [dropdownValues, labelContainer, dropdown]
+
+  elements.forEach((element, index) => {
+    if (!element) {
+      throw new Error(`Element with class "${classes[index]}" does not exists`)
+    }
+  })
+
+  return {
+    dropdownValues,
+    labelContainer,
+    dropdown
+  }
+}
