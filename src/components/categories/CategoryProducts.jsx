@@ -1,18 +1,15 @@
 import { useParams } from 'react-router-dom'
 import { Products } from '@components/Products'
 import { getAPIUrlFromCategory, capitalize } from '@utils/tools'
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo } from 'react'
 import { CategoriesBox } from '@components/categories/CategoriesBox'
 import { CATEGORIES } from '@utils/categoriesIcons'
 
-import { MdGridView, MdViewList } from 'react-icons/md'
-import { Select } from '@components/page-elements/Select'
-
 import '@css/category-page.css'
+import ProductSorter from './category-page-components/ProductSorter'
 
 export default function CategoryProducts() {
   const { category } = useParams()
-  const [sortBy, setSortBy] = useState('default')
   const apiUrl = getAPIUrlFromCategory(category)
   const capitalizedCategory = useMemo(() => capitalize(category), [])
 
@@ -20,34 +17,13 @@ export default function CategoryProducts() {
     document.title = `Info-Shop | ${capitalizedCategory}`
   }, [])
 
-  const getValueforSorting = (value) => setSortBy(value)
-
-  // useEffect(() => console.log(sortBy), [sortBy])
-
   return (
     <section className="category-section-container">
       <div className="category-section-header">
         <h4>Resultados para... {capitalizedCategory}</h4>
 
         <div className="category-section options">
-          <form className="category-section sorters">
-            <Select
-              label="Ordenar por: "
-              options={[
-                { value: 'default', text: 'Defecto' },
-                { value: 'name', text: 'Nombre' },
-                { value: 'brand', text: 'Marca' },
-                { value: 'majorPrice', text: 'Precio mayor' },
-                { value: 'minorPrice', text: 'Precio menor' }
-              ]}
-              valueSetter={getValueforSorting}
-            />
-          </form>
-          <div className="category-section views">
-            <p>Vista: </p>
-            <MdGridView />
-            <MdViewList />
-          </div>
+          <ProductSorter />
         </div>
       </div>
 
