@@ -12,6 +12,9 @@ export function SelectIcon({ mode }) {
   )
 }
 
+/**
+ * @param {{ options: { value: string, text: string }[] }} props
+ */
 export function Options({ options }) {
   return (
     <ul className="select-dropdown">
