@@ -1,62 +1,61 @@
-import { useState, useEffect } from 'react'
+import { selectReducer, SELECT_ACTIONS } from '../select/reducer/select.reducer'
+import { getSelectElements } from '@utils/tools'
+import { useEffect, useReducer } from 'react'
 
+/**
+ * @param {{ options: { value: string, text: string }[] }} options
+ */
 export function useSelect({ options }) {
-  const [optionsVisibility, setOptionsVisibility] = useState(false)
-  const [value, setValue] = useState(options[0].value)
-  const [currentOption, setCurrentOption] = useState(options[0])
+  const [selectStates, dispatch] = useReducer(selectReducer, {
+    optionsVisibility: false,
+    selectValue: options[0].value,
+    selectedOption: options[0]
+  })
+
+  const changeDropdownVisibility = () => {
+    dispatch({
+      type: SELECT_ACTIONS.dropdownVisibility
+    })
+  }
+
+  const changeSelectOption = (event) => {
+    dispatch({
+      type: SELECT_ACTIONS.changeOption,
+      payload: { event }
+    })
+  }
+
+  const handleClickOutsideSelect = (event) => {
+    const { dropdown, labelContainer } = getSelectElements()
+
+    if (event.target !== labelContainer && dropdown.classList.contains('show')) {
+      dropdown.classList.remove('show')
+    }
+  }
 
   useEffect(() => {
-    const optionValues = document.querySelectorAll('.select-dropdown__value')
-    const labelContainer = document.querySelector('.selector-label-container')
-    const dropdown = document.querySelector('.select-dropdown')
-
-    const dropdownHandler = () => {
-      dropdown.classList.toggle('show')
-      setOptionsVisibility((previous) => !previous)
-    }
-
-    const updateSelector = ({ selectedOption }) => {
-      optionValues.forEach((option) => option.classList.remove('option-active'))
-
-      selectedOption.classList.add('option-active')
-      dropdownHandler()
-      setCurrentOption({
-        value: selectedOption.getAttribute('data'),
-        text: selectedOption.textContent
-      })
-    }
-
-    const handleClickOption = ({ currentTarget }) => {
-      const currentValue = currentTarget.getAttribute('data')
-      setValue(currentValue)
-      updateSelector({ selectedOption: currentTarget })
-    }
-
-    const handleClickOutsideSelect = (event) => {
-      if (event.target !== labelContainer) {
-        dropdown.classList.remove('show')
-        setOptionsVisibility(false)
-      }
-    }
+    const { labelContainer, dropdownValues } = getSelectElements()
 
     window.addEventListener('click', handleClickOutsideSelect)
-    labelContainer.addEventListener('click', dropdownHandler)
-    optionValues.forEach((option) =>
-      option.addEventListener('click', handleClickOption)
-    )
+    labelContainer.addEventListener('click', changeDropdownVisibility)
+
+    dropdownValues.forEach((option) => {
+      option.addEventListener('click', changeSelectOption)
+    })
 
     return () => {
       window.removeEventListener('click', handleClickOutsideSelect)
-      labelContainer.removeEventListener('click', dropdownHandler)
-      optionValues.forEach((option) =>
-        option.removeEventListener('click', handleClickOption)
-      )
+      labelContainer.removeEventListener('click', changeDropdownVisibility)
+
+      dropdownValues.forEach((option) => {
+        option.removeEventListener('click', changeSelectOption)
+      })
     }
   }, [])
 
   return {
-    optionsVisibility,
-    currentOption,
-    value
+    optionsVisibility: selectStates.optionsVisibility,
+    currentOption: selectStates.selectedOption,
+    value: selectStates.selectValue
   }
 }
