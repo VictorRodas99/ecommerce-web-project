@@ -1,26 +1,30 @@
 import { MdGridView, MdViewList } from 'react-icons/md'
 import { Select } from '@components/page-elements/Select'
 
-import { useState, useEffect } from 'react'
+import { useSorters } from '@hooks/useSorters'
+import optionsForSort from '../config/sortingOptions'
 
 export default function ProductSorter() {
-  const [sortBy, setSortBy] = useState('default')
-  const getValueforSorting = (value) => setSortBy(value)
+  const { sortingOptions, saveSorterCallback } = useSorters()
 
-  // useEffect(() => console.log(sortBy), [sortBy])
+  const getValueforSorting = (value) => {
+    if (value !== 'default') {
+      const currentOption = sortingOptions.find(
+        (option) => option.value === value
+      )
+
+      return saveSorterCallback(currentOption.sortingCallback)
+    }
+
+    saveSorterCallback(null)
+  }
 
   return (
     <>
       <form className="category-section sorters">
         <Select
           label="Ordenar por: "
-          options={[
-            { value: 'default', text: 'Defecto' },
-            { value: 'name', text: 'Nombre' },
-            { value: 'brand', text: 'Marca' },
-            { value: 'majorPrice', text: 'Precio mayor' },
-            { value: 'minorPrice', text: 'Precio menor' }
-          ]}
+          options={optionsForSort}
           valueSetter={getValueforSorting}
         />
       </form>
