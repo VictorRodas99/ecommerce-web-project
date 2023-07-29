@@ -15,6 +15,7 @@ const ProductDetails = lazy(() => import('@components/products/Details'))
 const CategoryProducts = lazy(() =>
   import('@components/categories/CategoryProducts')
 )
+const SorterProvider = lazy(() => import('@context/CategoryContext'))
 const NotFound = lazy(() => import('@components/NotFound'))
 
 function App() {
@@ -30,7 +31,14 @@ function App() {
           <Suspense>
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="/:category" element={<CategoryProducts />} />
+              <Route
+                path="/:category"
+                element={
+                  <SorterProvider>
+                    <CategoryProducts />
+                  </SorterProvider>
+                }
+              />
               <Route
                 path="/:category/:page/:name"
                 element={<ProductDetails />}
