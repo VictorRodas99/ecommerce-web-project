@@ -3,12 +3,14 @@ import { CategoriesBox } from '@components/categories/CategoriesBox'
 import { getAPIUrlFromCategory } from '@utils/tools'
 import { CATEGORIES } from '@utils/categoriesIcons'
 import { Products } from '@components/Products'
+import { useSorters } from '@hooks/useSorters'
 import { useParams } from 'react-router-dom'
 import '@css/category-page.css'
 
 export default function CategoryProducts() {
   const { category } = useParams()
   const apiUrl = getAPIUrlFromCategory(category)
+  const { callback } = useSorters()
 
   return (
     <section className="category-section-container">
@@ -25,7 +27,7 @@ export default function CategoryProducts() {
             <div className="brands filters"></div>
           </div>
         </aside>
-        <Products apiUrl={apiUrl} />
+        <Products apiUrl={apiUrl} callback={callback} />
       </div>
     </section>
   )
