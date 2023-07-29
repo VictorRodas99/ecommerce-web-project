@@ -3,9 +3,10 @@ import { PageController } from '@components/PageController'
 import { usePageRederingHandler } from '@hooks/usePage'
 import { ProductCard } from './products/ProductCard'
 import { useProducts } from '@hooks/useProducts'
-import { useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 export function Products({ apiUrl, ...props }) {
+  const [finalProducts, setFinalProducts] = useState()
   const { pages, products, refreshProducts } = useProducts({
     apiUrl: `${apiUrl}?page=1`
   })
@@ -17,6 +18,15 @@ export function Products({ apiUrl, ...props }) {
 
   const productsContainer = useRef(undefined)
 
+  useEffect(() => {
+    const finalProductList =
+      typeof props.callback === 'function'
+        ? props.callback(products)
+        : undefined
+
+    setFinalProducts(finalProductList)
+  }, [products, props.callback])
+
   return (
     <section className="products-container" ref={productsContainer}>
       {props.category && (
@@ -26,9 +36,12 @@ export function Products({ apiUrl, ...props }) {
       )}
 
       <div className="products-grid">
-        {products.map((product) => (
+        {finalProducts?.map((product) => (
           <ProductCard key={product.id} data={product} />
-        ))}
+        )) ||
+          products.map((product) => (
+            <ProductCard key={product.id} data={product} />
+          ))}
       </div>
 
       <PageController
