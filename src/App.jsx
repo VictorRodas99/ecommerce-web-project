@@ -28,24 +28,19 @@ function App() {
       <Cart />
       <main>
         <PageProvider>
-          <Suspense>
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route
-                path="/:category"
-                element={
-                  <SorterProvider>
-                    <CategoryProducts />
-                  </SorterProvider>
-                }
-              />
-              <Route
-                path="/:category/:page/:name"
-                element={<ProductDetails />}
-              />
-              <Route path="*" element={<NotFound />} />
-            </Routes>
-          </Suspense>
+          <SorterProvider>
+            <Suspense>
+              <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/:category" element={<CategoryProducts />} />
+                <Route
+                  path="/:category/:page/:name"
+                  element={<ProductDetails />}
+                />
+                <Route path="*" element={<NotFound />} />
+              </Routes>
+            </Suspense>
+          </SorterProvider>
         </PageProvider>
       </main>
       <Notifications />
