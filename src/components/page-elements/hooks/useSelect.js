@@ -56,7 +56,10 @@ export function useSelect({ options, context }) {
     }
 
     return () => {
-      setContextData(selectStates)
+      setContextData({
+        data: selectStates,
+        value: selectStates.selectValue
+      })
     }
 
   }, [])
