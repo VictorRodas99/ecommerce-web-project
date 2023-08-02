@@ -3,14 +3,25 @@ import { getSelectElements } from '@utils/tools'
 import { useEffect, useReducer } from 'react'
 
 /**
- * @param {{ options: { value: string, text: string }[] }} options
+ * @typedef {import('@hooks/useSorters').Option} Option
  */
-export function useSelect({ options }) {
+
+/**
+ * @param {{ options: { value: string, text: string }[], context: { existsProvider: boolean, data: Option } }} options
+ */
+export function useSelect({ options, context }) {
   const [selectStates, dispatch] = useReducer(selectReducer, {
     optionsVisibility: false,
     selectValue: options[0].value,
     selectedOption: options[0]
   })
+
+  const setContextData = (data) => {
+    dispatch({
+      type: SELECT_ACTIONS.context,
+      payload: { data }
+    })
+  }
 
   const changeDropdownVisibility = () => {
     dispatch({
@@ -32,6 +43,23 @@ export function useSelect({ options }) {
       dropdown.classList.remove('show')
     }
   }
+
+  useEffect(() => {
+    const { existsProvider } = context
+    const existsSavedOption = existsProvider && Boolean(context.data)
+
+    if (existsSavedOption) {
+      setContextData({
+        data: context.data,
+        value: context.data.value
+      })
+    }
+
+    return () => {
+      setContextData(selectStates)
+    }
+
+  }, [])
 
   useEffect(() => {
     const { labelContainer, dropdownValues } = getSelectElements()
