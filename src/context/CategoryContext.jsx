@@ -1,5 +1,5 @@
 import { isLiteralObject } from '@utils/tools'
-import { createContext, useState } from 'react'
+import { createContext, useEffect, useState } from 'react'
 
 export const SorterContext = createContext()
 
@@ -9,6 +9,7 @@ export const SorterContext = createContext()
 export default function SorterProvider({ children }) {
   const [sortingOptions, setSortingOptions] = useState([])
   const [currentSorterCallback, setCurrentSorterCallback] = useState(null)
+  const [currentOption, setCurrentOption] = useState()
 
   const saveSortingOptions = (newOptions) => {
     // console.log('saving data')
@@ -41,11 +42,10 @@ export default function SorterProvider({ children }) {
     setCurrentSorterCallback(() => givenParam)
   }
 
-  const getOnlyOptions = () => {
-    return sortingOptions.map((option) => {
-      const { sortingCallback, ...onlyTextAndValue } = option
-      return onlyTextAndValue
-    })
+  const saveSelectedOption = (newOption) => {
+    // TODO: validate option
+
+    setCurrentOption(newOption)
   }
 
   return (
@@ -53,7 +53,8 @@ export default function SorterProvider({ children }) {
       value={{
         callback: currentSorterCallback,
         sortingOptions,
-        getOnlyOptions,
+        currentOption,
+        saveSelectedOption,
         saveSortingOptions,
         saveSorterCallback
       }}
