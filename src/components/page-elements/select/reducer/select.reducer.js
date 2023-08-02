@@ -3,6 +3,7 @@ import { getSelectElements } from '@utils/tools'
 export const SELECT_ACTIONS = {
   dropdownVisibility: 'change select\'s dropdown visibility',
   changeOption: 'select a current option, with its value and text',
+  context: 'set context data (saved options) if exists'
 }
 
 /**
@@ -55,13 +56,25 @@ export function selectReducer(state, action) {
       const currentHTMLLiData = selectedOption.getAttribute('data')
       const HTMLLiTextContent = selectedOption.textContent
 
+      const finalOption = {
+        value: currentHTMLLiData,
+        text: HTMLLiTextContent
+      }
+
       return {
         selectValue: currentHTMLLiData,
-        selectedOption: {
-          value: currentHTMLLiData,
-          text: HTMLLiTextContent
-        },
+        selectedOption: finalOption,
         optionsVisibility: !state.optionsVisibility
+      }
+    }
+    case SELECT_ACTIONS.context: {
+      const { payload } = action
+      const { data: context } = payload
+
+      return {
+        ...state,
+        selectValue: context.value,
+        selectedOption: context.data
       }
     }
   }
