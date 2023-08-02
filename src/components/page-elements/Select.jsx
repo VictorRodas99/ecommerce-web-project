@@ -7,7 +7,13 @@ import { useSorters } from '@hooks/useSorters'
 
 export function Select({ label, options, valueSetter }) {
   const sorterContext = useSorters() // returns undefined if is not wrapped on a Provider
-  const { optionsVisibility, currentOption, value } = useSelect({ options })
+  const { optionsVisibility, currentOption } = useSelect({
+    options,
+    context: {
+      existsProvider: Boolean(sorterContext),
+      data: sorterContext.currentOption
+    }
+  })
 
   useEffect(() => {
     if (sorterContext) {
@@ -17,12 +23,17 @@ export function Select({ label, options, valueSetter }) {
   }, [])
 
   useEffect(() => {
-    if (!value) {
+    if (!currentOption) {
       return
     }
 
-    valueSetter(value)
-  }, [value])
+    if (sorterContext) {
+      const { saveSelectedOption } = sorterContext
+      saveSelectedOption(currentOption)
+    }
+
+    valueSetter(currentOption)
+  }, [currentOption])
 
   return (
     <>
