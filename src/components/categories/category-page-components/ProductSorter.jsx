@@ -7,10 +7,10 @@ import optionsForSort from '../config/sortingOptions'
 export default function ProductSorter() {
   const { sortingOptions, saveSorterCallback } = useSorters()
 
-  const getValueforSorting = (value) => {
-    if (value !== 'default') {
+  const getValueforSorting = (selectedption) => {
+    if (selectedption.value !== 'default') {
       const currentOption = sortingOptions.find(
-        (option) => option.value === value
+        (option) => option.value === selectedption.value
       )
 
       return saveSorterCallback(currentOption.sortingCallback)
