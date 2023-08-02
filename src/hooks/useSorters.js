@@ -6,16 +6,19 @@ import { SorterContext } from '@context/CategoryContext'
  * @typedef {() => null | Product} SortCallback
  * @typedef {{ value: string, text: string, sortingCallback: SortCallback | null }} SortOption
  * @typedef {{ value: string, text: string }} Option
+ * 
+ * @typedef {{
+ *  callback: () => (products: Product[]) => Product[]
+ *  sortingOptions: SortOption[],
+ *  currentOption: Option,
+ *  saveSelectedOption: (newOption: Option) => void,
+ *  saveSortingOptions: (newOptions: SortOption[]) => void,
+ *  saveSorterCallback: (callback: (product: Product) => void) => void
+ * }} SorterContext
  */
 
 /**
- * @returns {{
- *  callback: () => (products: Product[]) => Product[]
- *  sortingOptions: SortOption[],
- *  getOnlyOptions: () => Option,
- *  saveSortingOptions: (newOptions: SortOption[]) => void,
- *  saveSorterCallback: (callback: (product: Product) => void) => void
- * }}
+ * @returns {SorterContext}
  */
 export function useSorters() {
   return useContext(SorterContext)
