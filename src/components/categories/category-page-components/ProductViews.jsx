@@ -2,7 +2,7 @@ import { MdGridView, MdViewList } from 'react-icons/md'
 import { useViewSettings } from '@hooks/useViewSettings'
 
 export default function ProductViewsOptions() {
-  const { changeViewOption } = useViewSettings()
+  const { viewOption, changeViewOption } = useViewSettings()
 
   const handleClick = (event, option) => {
     changeViewOption(option)
@@ -23,11 +23,11 @@ export default function ProductViewsOptions() {
     <div className="category-section views">
       <p>Vista: </p>
       <MdGridView
-        className="view-option view-active"
+        className={`view-option ${viewOption === 'grid' ? 'view-active' : ''}`}
         onClick={(e) => handleClick(e, 'grid')}
       />
       <MdViewList
-        className="view-option"
+        className={`view-option ${viewOption === 'col' ? 'view-active' : ''}`}
         onClick={(e) => handleClick(e, 'col')}
       />
     </div>

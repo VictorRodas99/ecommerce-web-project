@@ -30,24 +30,19 @@ function App() {
       <main>
         <PageProvider>
           <SorterProvider>
-            <Suspense>
-              <Routes>
-                <Route path="/" element={<Home />} />
-                <Route
-                  path="/:category"
-                  element={
-                    <ViewSettingsProvider>
-                      <CategoryProducts />
-                    </ViewSettingsProvider>
-                  }
-                />
-                <Route
-                  path="/:category/:page/:name"
-                  element={<ProductDetails />}
-                />
-                <Route path="*" element={<NotFound />} />
-              </Routes>
-            </Suspense>
+            <ViewSettingsProvider>
+              <Suspense>
+                <Routes>
+                  <Route path="/" element={<Home />} />
+                  <Route path="/:category" element={<CategoryProducts />} />
+                  <Route
+                    path="/:category/:page/:name"
+                    element={<ProductDetails />}
+                  />
+                  <Route path="*" element={<NotFound />} />
+                </Routes>
+              </Suspense>
+            </ViewSettingsProvider>
           </SorterProvider>
         </PageProvider>
       </main>
