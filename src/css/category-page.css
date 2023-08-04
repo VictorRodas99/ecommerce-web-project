@@ -43,6 +43,21 @@
 
 .views>svg {
     font-size: 1.2rem;
+}
+
+.view-option {
+    color: var(--c-dark);
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    transition: all .2s ease;
+}
+
+.view-option:hover {
+    color: var(--c-gray-ligth);
+}
+
+.view-active {
     color: var(--c-primary);
 }
 
