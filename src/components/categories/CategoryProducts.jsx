@@ -7,7 +7,10 @@ import { useSorters } from '@hooks/useSorters'
 import { useParams } from 'react-router-dom'
 import '@css/category-page.css'
 
+import { useViewSettings } from '@hooks/useViewSettings'
+
 export default function CategoryProducts() {
+  const { viewOption } = useViewSettings()
   const { category } = useParams()
   const apiUrl = getAPIUrlFromCategory(category)
   const { callback } = useSorters()
@@ -27,7 +30,7 @@ export default function CategoryProducts() {
             <div className="brands filters"></div>
           </div>
         </aside>
-        <Products apiUrl={apiUrl} callback={callback} />
+        <Products apiUrl={apiUrl} callback={callback} viewOption={viewOption} />
       </div>
     </section>
   )
