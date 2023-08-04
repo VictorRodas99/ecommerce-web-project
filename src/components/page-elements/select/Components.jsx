@@ -24,7 +24,9 @@ export function Options({ options }) {
         return (
           <li
             key={option.value}
-            className={`select-dropdown__value ${isFirst && 'option-active'}`}
+            className={`select-dropdown__value ${
+              isFirst ? 'option-active' : ''
+            }`}
             data={option.value}
           >
             {option.text}
