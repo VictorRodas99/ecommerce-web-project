@@ -44,7 +44,7 @@ export function selectReducer(state, action) {
         throw new Error('Expected payload for changeValue reducer to be Event type')
       }
 
-      const selectedOption = event.currentTarget
+      const selectedOption = event.currentTarget ?? event.target
       const { dropdownValues } = getSelectElements()
 
       dropdownValues.forEach((option) => {
