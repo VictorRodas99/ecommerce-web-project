@@ -1,11 +1,16 @@
 import '@css/products.css'
 import { PageController } from '@components/PageController'
 import { usePageRederingHandler } from '@hooks/usePage'
-import { ProductCard } from './products/ProductCard'
 import { useProducts } from '@hooks/useProducts'
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, lazy } from 'react'
+import ProductsGrid from './products/ProductsGrid'
 
-export function Products({ apiUrl, ...props }) {
+const ProductsCol = lazy(() => import('./products/ProductsCol'))
+
+/**
+ * @param {{ apiUrl: string, viewOption: 'grid' | 'col' }} props
+ */
+export function Products({ apiUrl, viewOption = 'grid', ...props }) {
   const [finalProducts, setFinalProducts] = useState()
   const { pages, products, refreshProducts } = useProducts({
     apiUrl: `${apiUrl}?page=1`
@@ -35,14 +40,14 @@ export function Products({ apiUrl, ...props }) {
         </div>
       )}
 
-      <div className="products-grid">
-        {finalProducts?.map((product) => (
-          <ProductCard key={product.id} data={product} />
-        )) ||
-          products.map((product) => (
-            <ProductCard key={product.id} data={product} />
-          ))}
-      </div>
+      {viewOption === 'grid' ? (
+        <ProductsGrid
+          sortedProducts={finalProducts}
+          defaultOrderProducts={products}
+        />
+      ) : (
+        <ProductsCol products={products} />
+      )}
 
       <PageController
         urlBase={apiUrl}
