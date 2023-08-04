@@ -3,8 +3,8 @@ import { ViewSettingsContext } from "@context/ViewSettingsContext";
 
 /**
  * @returns {{
- *  viewOption: 'grid' | 'row',
- *  changeViewOption: (newOption: 'grid' | 'row') => void
+ *  viewOption: 'grid' | 'col',
+ *  changeViewOption: (newOption: 'grid' | 'col') => void
  * }}
  */
 export function useViewSettings() {

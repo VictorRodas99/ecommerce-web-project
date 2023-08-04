@@ -10,8 +10,8 @@ export default function ViewSettingsProvider({ children }) {
       throw new TypeError('Expected newOption param to be string')
     }
 
-    if (newOption !== 'grid' && newOption !== 'row') {
-      throw new TypeError('Expected newOption to be "grid" or "row"')
+    if (newOption !== 'grid' && newOption !== 'col') {
+      throw new TypeError('Expected newOption to be "grid" or "col"')
     }
 
     setViewOption(newOption)
