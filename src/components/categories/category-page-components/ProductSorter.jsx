@@ -1,8 +1,8 @@
-import { MdGridView, MdViewList } from 'react-icons/md'
 import { Select } from '@components/page-elements/Select'
 
 import { useSorters } from '@hooks/useSorters'
 import optionsForSort from '../config/sortingOptions'
+import ProductViewsOptions from './ProductViews'
 
 export default function ProductSorter() {
   const { sortingOptions, saveSorterCallback } = useSorters()
@@ -28,11 +28,7 @@ export default function ProductSorter() {
           valueSetter={getValueforSorting}
         />
       </form>
-      <div className="category-section views">
-        <p>Vista: </p>
-        <MdGridView />
-        <MdViewList />
-      </div>
+      <ProductViewsOptions />
     </>
   )
 }
