@@ -1,0 +1,94 @@
+.product-card-image {
+  position: relative;
+  max-width: 100%;
+  mix-blend-mode: multiply;
+  /* remove the white background in image */
+}
+
+.products-col {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.card-col-container {
+  position: relative;
+}
+
+.card-col {
+  cursor: pointer;
+
+  background-color: var(--bg-primary);
+  border-radius: var(--b-radius);
+  flex-direction: row;
+  gap: 2rem;
+}
+
+.product-card-image-container {
+  max-width: 20%;
+}
+
+.card-col-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.card-col-data {
+  font-weight: 700;
+}
+
+.card-col-body__price {
+  color: var(--c-primary);
+}
+
+.card-col-body__name {
+  position: relative;
+}
+
+.card-col-body__name::before {
+  content: attr(data-hover);
+  font-weight: 400;
+  padding: .5rem;
+  visibility: hidden;
+  opacity: 0;
+  width: 500px;
+  background-color: var(--c-dark);
+  color: var(--bg-primary);
+  text-align: center;
+  border-radius: 5px;
+  padding: .2rem;
+  transition: opacity .5s ease-in-out;
+  position: absolute;
+  z-index: var(--top-index);
+  left: 50%;
+  top: 150%;
+}
+
+.card-col-body__name:hover::before {
+  opacity: 1;
+  visibility: visible;
+}
+
+.card-col-add-button {
+  z-index: var(--mid-index);
+  padding: 2rem;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.card-col-add-button>button {
+  padding: .5rem 1rem .5rem 1rem;
+  border: 2px solid var(--c-primary);
+  border-radius: var(--b-radius);
+
+  background-color: var(--c-primary);
+  color: var(--bg-primary);
+}
+
+.card-col-add-button>button:hover {
+  background-color: var(--bg-primary);
+  color: var(--c-primary);
+}
