@@ -1,6 +1,6 @@
-import { Ring } from '@uiball/loaders'
 import { Image } from '@components/Image'
 import { useProductCard } from '@hooks/useProductCard'
+import Loader from '@components/page-elements/Loader'
 
 /**
  * @typedef {import('@services/getProducts').Product} Product
@@ -21,12 +21,8 @@ export default function ProductCardHeader({ productData }) {
         style={{ display: 'none' }}
         onLoad={handleImageLoad}
       />
-      <div
-        className="loader"
-        style={{ display: cardStates.imageIsLoading ? 'flex' : 'none' }}
-      >
-        <Ring size={70} lineWeight={3} speed={2} color="#7c828d2a" />
-      </div>
+
+      <Loader trigger={cardStates.imageIsLoading} />
     </div>
   )
 }
