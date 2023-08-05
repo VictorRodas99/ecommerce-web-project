@@ -6,6 +6,7 @@
 }
 
 .products-col {
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   gap: 2rem;
@@ -91,4 +92,14 @@
 .card-col-add-button>button:hover {
   background-color: var(--bg-primary);
   color: var(--c-primary);
+}
+
+@media only screen and (max-width: 390px) {
+  .card-col-add-button {
+    padding: .5rem;
+  }
+
+  .card-col-add-button>button {
+    padding: .5rem;
+  }
 }
