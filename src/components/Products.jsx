@@ -46,7 +46,10 @@ export function Products({ apiUrl, viewOption = 'grid', ...props }) {
           defaultOrderProducts={products}
         />
       ) : (
-        <ProductsCol products={products} />
+        <ProductsCol 
+          sortedProducts={finalProducts}
+          defaultOrderProducts={products}
+        />
       )}
 
       <PageController

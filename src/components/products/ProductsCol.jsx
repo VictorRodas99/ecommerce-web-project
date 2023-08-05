@@ -6,14 +6,15 @@ import '@css/cards.css'
  */
 
 /**
- * @param {{ products: Product[] }} props
+ * @param {{ sortedProducts: Product[], defaultOrderProducts: Product[] }} props
  */
-export default function ProductsCol({ products }) {
+export default function ProductsCol({ sortedProducts, defaultOrderProducts }) {
   return (
     <div className="products-col">
-      {products.map((product) => (
-        <ProductCardCol key={product.id} data={product} />
-      ))}
+      {
+        sortedProducts?.map((product) => <ProductCardCol key={product.id} data={product}/>) ||
+        defaultOrderProducts.map((product) => <ProductCardCol key={product.id} data={product}/>)
+      }
     </div>
   )
 }
