@@ -6,6 +6,11 @@ import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { createProductUrl } from './utils/urls'
 
+import { useCart } from '@hooks/useCart'
+import { useNotification } from '@hooks/useNotification'
+import { notificationIcons } from '@components/icons/NotificationIcons'
+import { useCartCheckers } from '@hooks/useCartCheckers'
+
 /**
  * @typedef {import('@services/getProducts').Product} Product
  */
@@ -14,14 +19,24 @@ import { createProductUrl } from './utils/urls'
  * @param {{ data: Product }} param
  */
 export default function ProductCardCol({ data }) {
-  const { cardStates, handleImageLoad } = useProductCard()
+  const { cardStates, cardMethods, handleImageLoad } = useProductCard()
+  const { createNotification } = useNotification()
   const { page } = usePage()
+  const { addProduct } = useCart()
   const productUrl = useMemo(
     () => createProductUrl({ page, slugFrom: data.name }),
     []
   )
 
+  useCartCheckers({
+    cardStates,
+    cardMethods,
+    currentProduct: data
+  })
+
   const image = data.srcImages[0]
+
+  // TODO: refactor
 
   const parseProductName = (name) => {
     if (typeof name !== 'string') {
@@ -35,6 +50,21 @@ export default function ProductCardCol({ data }) {
     }
 
     return splittedName.slice(0, 3).join(' ')
+  }
+
+  const handleClickOnAdd = () => {
+    addProduct({
+      ...data,
+      image: data.srcImages[1] ?? data.srcImages[0]
+    })
+
+    cardMethods.changeIconInAdd()
+
+    createNotification({
+      color: 'success',
+      message: 'Agregado a carrito!',
+      icon: notificationIcons.done
+    })
   }
 
   return (
@@ -61,8 +91,16 @@ export default function ProductCardCol({ data }) {
           <p className="card-col-body__price card-col-data">{data.price}</p>
         </div>
       </Link>
-      <div className="card-col-add-button">
-        <button>Add to cart</button>
+      <div
+        className={`card-col-add-container card-col-add-btn ${
+          cardStates.productWasAdded
+            ? 'card-col-btn-after-add'
+            : 'card-col-btn-before-add'
+        }`}
+      >
+        <button onClick={!cardStates.productWasAdded ? handleClickOnAdd : null}>
+          {cardStates.productWasAdded ? 'Added' : 'Add to cart'}
+        </button>
       </div>
     </div>
   )
