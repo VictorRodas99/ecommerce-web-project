@@ -103,12 +103,12 @@
   color: var(--c-green);
 }
 
-@media only screen and (max-width: 390px) {
-  .card-col-add-button {
+@media only screen and (max-width: 425px) {
+  .card-col-add-container {
     padding: .5rem;
   }
 
-  .card-col-add-button>button {
+  .card-col-add-btn>button {
     padding: .5rem;
   }
 }
