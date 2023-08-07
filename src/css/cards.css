@@ -72,7 +72,7 @@
   visibility: visible;
 }
 
-.card-col-add-button {
+.card-col-add-container {
   z-index: var(--mid-index);
   padding: 2rem;
   position: absolute;
@@ -80,18 +80,27 @@
   bottom: 0;
 }
 
-.card-col-add-button>button {
+.card-col-add-btn>button {
   padding: .5rem 1rem .5rem 1rem;
-  border: 2px solid var(--c-primary);
   border-radius: var(--b-radius);
+}
 
+.card-col-btn-before-add>button {
+  border: 2px solid var(--c-primary);
   background-color: var(--c-primary);
   color: var(--bg-primary);
 }
 
-.card-col-add-button>button:hover {
+.card-col-btn-before-add>button:hover {
   background-color: var(--bg-primary);
   color: var(--c-primary);
+}
+
+.card-col-btn-after-add>button {
+  cursor: default;
+  border: 2px solid var(--c-green);
+  background-color: var(--bg-primary);
+  color: var(--c-green);
 }
 
 @media only screen and (max-width: 390px) {
