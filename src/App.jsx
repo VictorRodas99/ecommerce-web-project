@@ -29,9 +29,9 @@ function App() {
       <Cart />
       <main>
         <PageProvider>
-          <SorterProvider>
-            <ViewSettingsProvider>
-              <Suspense>
+          <Suspense>
+            <SorterProvider>
+              <ViewSettingsProvider>
                 <Routes>
                   <Route path="/" element={<Home />} />
                   <Route path="/:category" element={<CategoryProducts />} />
@@ -41,9 +41,9 @@ function App() {
                   />
                   <Route path="*" element={<NotFound />} />
                 </Routes>
-              </Suspense>
-            </ViewSettingsProvider>
-          </SorterProvider>
+              </ViewSettingsProvider>
+            </SorterProvider>
+          </Suspense>
         </PageProvider>
       </main>
       <Notifications />
