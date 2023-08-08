@@ -1,5 +1,5 @@
-import { isLiteralObject } from '@utils/tools'
-import { createContext, useEffect, useState } from 'react'
+import { validateObjectSchema, validateSortingOptions } from '@utils/validators'
+import { createContext, useState } from 'react'
 
 export const SorterContext = createContext()
 
@@ -12,25 +12,7 @@ export default function SorterProvider({ children }) {
   const [currentOption, setCurrentOption] = useState()
 
   const saveSortingOptions = (newOptions) => {
-    // console.log('saving data')
-
-    if (!Array.isArray(newOptions)) {
-      throw new Error('Expected new sorting options to be Array')
-    }
-
-    if (newOptions.length <= 0) {
-      throw new Error('Expected newOptions Array to be non empty')
-    }
-
-    const eachIsObject = newOptions.every(isLiteralObject)
-
-    if (!eachIsObject) {
-      throw new Error(
-        'Expected every item of newOptions array to be Literal Objects'
-      )
-    }
-
-    //TODO: validar que el formato sea Array<{ value: string, text: string, sortCallback: null | () => Product }>
+    validateSortingOptions(newOptions)
     setSortingOptions(newOptions)
   }
 
@@ -43,7 +25,14 @@ export default function SorterProvider({ children }) {
   }
 
   const saveSelectedOption = (newOption) => {
-    // TODO: validate option
+    validateObjectSchema({
+      data: newOption,
+      validFields: [
+        { key: 'value', type: 'string' },
+        { key: 'text', type: 'string' },
+        { key: 'sortingCallback', type: 'function', itCanBe: 'null' }
+      ]
+    })
 
     setCurrentOption(newOption)
   }

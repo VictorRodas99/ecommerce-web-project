@@ -1,6 +1,42 @@
 import { isLiteralObject } from '@utils/tools'
 
 /**
+ * 
+ * @param {{ data: { [x]: string }, validFields: { key: string, type: string, itCanBe?: 'null' | 'undefined' }[] }} params 
+ */
+export function validateObjectSchema({ data, validFields }) {
+    if (!isLiteralObject(data)) {
+        return false
+    }
+
+    const paramEntries = Object.entries(data)
+
+    for (const field of validFields) {
+        const existsField = paramEntries.find(
+            ([key, value]) => {
+                if (field.key !== key) {
+                    return false
+                }
+
+                const validType = field.type === typeof value
+
+                if (field.itCanBe) {
+                    return validType || JSON.stringify(value) === field.itCanBe
+                }
+
+                return validType
+            }
+        )
+
+        if (!existsField) {
+            return false
+        }
+    }
+
+    return true
+}
+
+/**
  * Returns true if given param has this schema:
  * 
  * ```ts
@@ -26,16 +62,10 @@ export function validateProductFields({ product }) {
         { key: 'details', type: 'object' }
     ]
 
-    const paramEntries = Object.entries(product)
+    const isValid = validateObjectSchema({ data: product, validFields })
 
-    for (const field of validFields) {
-        const existsField = paramEntries.find(
-            ([key, value]) => field.key === key && field.type === typeof value
-        )
-
-        if (!existsField) {
-            return false
-        }
+    if (!isValid) {
+        return false
     }
 
     const srcImages = product.srcImages
@@ -55,4 +85,38 @@ export function validateProductFields({ product }) {
     }
 
     return true
+}
+
+export function validateSortingOptions(newOptions) {
+    if (!Array.isArray(newOptions)) {
+        throw new Error('Expected new sorting options to be Array')
+    }
+
+    if (newOptions.length <= 0) {
+        throw new Error('Expected newOptions Array to be non empty')
+    }
+
+    const eachIsObject = newOptions.every(isLiteralObject)
+
+    if (!eachIsObject) {
+        throw new Error(
+            'Expected every item of newOptions array to be Literal Objects'
+        )
+    }
+
+    const expectedSchema = [
+        { key: 'value', type: 'string' },
+        { key: 'text', type: 'string' },
+        { key: 'sortingCallback', type: 'function', itCanBe: 'null' }
+    ]
+
+    const itHasValidSchema = newOptions.every((option) =>
+        validateObjectSchema({ data: option, validFields: expectedSchema })
+    )
+
+    if (!itHasValidSchema) {
+        throw new Error(
+            'Expected type { value: string, text: string, sortingCallback: () => Product | null } in newOption'
+        )
+    }
 }
