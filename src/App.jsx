@@ -1,27 +1,28 @@
 import { Cart } from '@components/Cart'
+import { Home } from '@components/Home'
 import { useCart } from '@hooks/useCart'
 import { Header } from '@components/Header'
-import { Home } from '@components/Home'
 import { Footer } from '@components/Footer'
 import { MobileMenu } from '@components/MobileMenu'
-import { useStopScroll } from '@hooks/useStopScroll'
 import { PageProvider } from '@context/PageContext'
+import { useStopScroll } from '@hooks/useStopScroll'
 import { Notifications } from '@components/NotificationsContainer'
 
+import { MAPPED_API_URLS, availableCategories } from './config'
 import { Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
-import { MAPPED_API_URLS, availableCategories } from './config'
+
+const SorterProvider = lazy(() => import('@context/CategoryContext'))
+const ViewSettingsProvider = lazy(() => import('@context/ViewSettingsContext'))
+const ProductDetails = lazy(() => import('@components/products/Details'))
+const NotFound = lazy(() => import('@components/NotFound'))
 
 const DynamicRouteManager = lazy(() =>
   import('@components/DynamicRouteManager')
 )
-const ProductDetails = lazy(() => import('@components/products/Details'))
 const CategoryProducts = lazy(() =>
   import('@components/categories/CategoryProducts')
 )
-const SorterProvider = lazy(() => import('@context/CategoryContext'))
-const ViewSettingsProvider = lazy(() => import('@context/ViewSettingsContext'))
-const NotFound = lazy(() => import('@components/NotFound'))
 
 function App() {
   const { cartIsVisible } = useCart()
