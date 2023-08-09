@@ -1,4 +1,4 @@
-import { API_URLS } from 'src/config'
+import { MAPPED_API_URLS } from 'src/config'
 
 export const capitalize = (string) => {
   if (typeof string !== 'string') {
@@ -73,31 +73,13 @@ export const parseNameToURI = (givenName) => {
 }
 
 export const getAPIUrlFromCategory = (category) => {
-  const matches = {
-    redes: API_URLS.computing.internet,
-    audio: API_URLS.electronics.audio,
-    'tarjetas-graficas': API_URLS.hardware.graphics,
-    teclados: API_URLS.hardware.keyboards,
-    monitores: API_URLS.computing.monitors,
-    'placas-madre': API_URLS.hardware.motherboards,
-    notebooks: API_URLS.computing.notebooks,
-    smartphones: API_URLS.electronics.smartphones,
-    impresoras: API_URLS.computing.printers,
-    procesadores: API_URLS.hardware.processors,
-    'memorias-ram': API_URLS.hardware.ram,
-    almacenamiento: API_URLS.computing.storage,
-    perifericos: API_URLS.computing.monitors,
-    televisiones: API_URLS.electronics.televisions
+  const url = MAPPED_API_URLS[category]
+
+  if (!url) {
+    throw new Error(`Invalid category name "${category}"`)
   }
 
-  // const url = matches[category]
-  // if (!url) {
-  //   throw new Error(`Invalid category name "${category}"`)
-  // }
-
-  // return url
-
-  return matches[category]
+  return url
 }
 
 /**
