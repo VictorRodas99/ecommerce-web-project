@@ -34,7 +34,10 @@ function App() {
               <ViewSettingsProvider>
                 <Routes>
                   <Route path="/" element={<Home />} />
-                  <Route path="/:category" element={<CategoryProducts />} />
+                  <Route
+                    path="category/:category"
+                    element={<CategoryProducts />}
+                  />
                   <Route
                     path="/:category/:page/:name"
                     element={<ProductDetails />}
