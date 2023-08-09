@@ -7,13 +7,22 @@ import { useSorters } from '@hooks/useSorters'
 import { useParams } from 'react-router-dom'
 import '@css/category-page.css'
 
+import { useEffect } from 'react'
+
 import { useViewSettings } from '@hooks/useViewSettings'
 
 export default function CategoryProducts() {
   const { viewOption } = useViewSettings()
   const { category } = useParams()
-  const apiUrl = getAPIUrlFromCategory(category)
   const { callback } = useSorters()
+
+  const apiUrl = getAPIUrlFromCategory(category)
+
+  useEffect(() => {
+    if (!apiUrl) {
+      window.location.replace('/not-found')
+    }
+  }, [apiUrl])
 
   return (
     <section className="category-section-container">
