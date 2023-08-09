@@ -10,7 +10,11 @@ import { Notifications } from '@components/NotificationsContainer'
 
 import { Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
+import { MAPPED_API_URLS, availableCategories } from './config'
 
+const DynamicRouteManager = lazy(() =>
+  import('@components/DynamicRouteManager')
+)
 const ProductDetails = lazy(() => import('@components/products/Details'))
 const CategoryProducts = lazy(() =>
   import('@components/categories/CategoryProducts')
@@ -36,11 +40,25 @@ function App() {
                   <Route path="/" element={<Home />} />
                   <Route
                     path="category/:category"
-                    element={<CategoryProducts />}
+                    element={
+                      <DynamicRouteManager
+                        paramKey="category"
+                        validParams={Object.keys(MAPPED_API_URLS)}
+                      >
+                        <CategoryProducts />
+                      </DynamicRouteManager>
+                    }
                   />
                   <Route
                     path="/:category/:page/:name"
-                    element={<ProductDetails />}
+                    element={
+                      <DynamicRouteManager
+                        paramKey="category"
+                        validParams={Object.keys(availableCategories)}
+                      >
+                        <ProductDetails />
+                      </DynamicRouteManager>
+                    }
                   />
                   <Route path="*" element={<NotFound />} />
                 </Routes>
