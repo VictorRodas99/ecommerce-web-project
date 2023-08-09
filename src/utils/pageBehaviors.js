@@ -25,5 +25,7 @@ export function getNavigationData() {
     }
   }
 
-  throw new Error('Expected useLocation().state to return a Product type or null')
+  throw new Error(
+    'Expected useLocation().state to return a Product type or null'
+  )
 }

@@ -1,4 +1,4 @@
-import { isValidURL } from "@utils/tools"
+import { isValidURL } from '@utils/tools'
 
 /**
  * @typedef {{
@@ -7,7 +7,7 @@ import { isValidURL } from "@utils/tools"
  *  categories: string[], details: { [x]: string }
  * }} Product
  * @typedef {{ previousPage?: number, nextPage?: number, data: Product[] }} APIMainResponse
- * 
+ *
  * @param {{ url: string, data: APIMainResponse }} param
  */
 const saveProductsInStorage = ({ url, data }) => {
@@ -23,7 +23,7 @@ const saveProductsInStorage = ({ url, data }) => {
 }
 
 /**
- * @param {string} url 
+ * @param {string} url
  * @returns {APIMainResponse | null}
  */
 const getSavedProductInStorage = (url) => {
@@ -33,8 +33,8 @@ const getSavedProductInStorage = (url) => {
   return JSON.parse(data)
 }
 
-/** 
- * @param {string} url 
+/**
+ * @param {string} url
  * @returns {Promise<APIMainResponse>}
  */
 export const getProducts = async (url) => {

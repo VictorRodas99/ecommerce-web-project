@@ -18,10 +18,9 @@ export function useProductDetails() {
   const { cartProducts } = useCart()
 
   const setProductExitence = () => {
-    const wasAdded =
-      cartProducts.some(
-        (product) => product.price === state.price && product.name === state.name
-      )
+    const wasAdded = cartProducts.some(
+      (product) => product.price === state.price && product.name === state.name
+    )
 
     setProduct((prevProduct) => ({
       ...prevProduct,

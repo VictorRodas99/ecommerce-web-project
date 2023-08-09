@@ -27,7 +27,7 @@ export function useCart() {
 }
 
 /**
- * @param {{ cartProducts: Product[] }} param 
+ * @param {{ cartProducts: Product[] }} param
  */
 export function useTotalPrice({ cartProducts }) {
   const [totalPrice, setTotalPrice] = useState(0)
@@ -43,6 +43,8 @@ export function useTotalPrice({ cartProducts }) {
   return {
     totalPrice,
     totalProducts,
-    amountDescription: `${totalProducts} ${totalProducts === 1 ? ' Item' : ' Items'}`
+    amountDescription: `${totalProducts} ${
+      totalProducts === 1 ? ' Item' : ' Items'
+    }`
   }
 }

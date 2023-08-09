@@ -1,11 +1,11 @@
-import { parseNumber } from "@utils/tools"
+import { parseNumber } from '@utils/tools'
 
 /**
  * @typedef {import("@services/getProducts").Product} Product
  */
 
 /**
- * @param {Product[]} products 
+ * @param {Product[]} products
  */
 const sortByName = (products) => {
   if (!products) {
@@ -29,7 +29,7 @@ const sortByName = (products) => {
 }
 
 /**
- * @param {Product[]} products 
+ * @param {Product[]} products
  */
 const sortByBrand = (products) => {
   if (!products) {
@@ -54,7 +54,7 @@ const sortByBrand = (products) => {
 
 /**
  * @param {Product[]} products
- * @param {'asc' | 'desc'} ascOrDesc 
+ * @param {'asc' | 'desc'} ascOrDesc
  */
 const sortByPrice = (products, ascOrDesc) => {
   if (!products) {
@@ -62,16 +62,19 @@ const sortByPrice = (products, ascOrDesc) => {
   }
 
   if (ascOrDesc === 'asc') {
-    return [...products].sort((a, b) => parseNumber(a.price) - parseNumber(b.price))
+    return [...products].sort(
+      (a, b) => parseNumber(a.price) - parseNumber(b.price)
+    )
   }
 
   if (ascOrDesc === 'desc') {
-    return [...products].sort((a, b) => parseNumber(b.price) - parseNumber(a.price))
+    return [...products].sort(
+      (a, b) => parseNumber(b.price) - parseNumber(a.price)
+    )
   }
 
   throw new Error('Expected second param to be "asc" | "desc" type')
 }
-
 
 const optionsForSort = [
   { value: 'default', text: 'Defecto', sortingCallback: null },

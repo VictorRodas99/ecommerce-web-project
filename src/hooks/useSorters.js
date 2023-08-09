@@ -6,7 +6,7 @@ import { SorterContext } from '@context/CategoryContext'
  * @typedef {() => null | Product} SortCallback
  * @typedef {{ value: string, text: string, sortingCallback: SortCallback | null }} SortOption
  * @typedef {{ value: string, text: string }} Option
- * 
+ *
  * @typedef {{
  *  callback: () => (products: Product[]) => Product[]
  *  sortingOptions: SortOption[],

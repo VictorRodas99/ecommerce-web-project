@@ -39,7 +39,7 @@
   height: 300px;
 }
 
-.card-header>img {
+.card-header > img {
   position: relative;
   max-width: 100%;
   mix-blend-mode: multiply;
@@ -111,13 +111,13 @@
   background-color: #aeecec;
 }
 
-.arrow-container:hover>.page-message {
+.arrow-container:hover > .page-message {
   visibility: visible;
   opacity: 1;
   transition: all 0.2s ease-in;
 }
 
-.arrow-disabled:hover>.page-message {
+.arrow-disabled:hover > .page-message {
   visibility: visible;
   opacity: 1;
   transition: all 0.2s ease-in;
@@ -152,7 +152,7 @@
 }
 
 @media only screen and (max-width: 425px) {
-  .products-container__title>h2 {
+  .products-container__title > h2 {
     font-size: 2.5rem;
   }
 

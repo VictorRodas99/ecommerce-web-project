@@ -11,10 +11,12 @@ import '@css/cards.css'
 export default function ProductsCol({ sortedProducts, defaultOrderProducts }) {
   return (
     <div className="products-col">
-      {
-        sortedProducts?.map((product) => <ProductCardCol key={product.id} data={product}/>) ||
-        defaultOrderProducts.map((product) => <ProductCardCol key={product.id} data={product}/>)
-      }
+      {sortedProducts?.map((product) => (
+        <ProductCardCol key={product.id} data={product} />
+      )) ||
+        defaultOrderProducts.map((product) => (
+          <ProductCardCol key={product.id} data={product} />
+        ))}
     </div>
   )
 }

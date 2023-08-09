@@ -5,9 +5,8 @@ const LOCAL_STORAGE_CART_KEY = 'cart'
  * @typedef {import('@services/getProducts').Product} Product
  */
 
-
 /**
- * @param {Product[]} cart 
+ * @param {Product[]} cart
  */
 export const saveCartToStorage = (cart) => {
   window.localStorage.setItem(LOCAL_STORAGE_CART_KEY, JSON.stringify(cart))

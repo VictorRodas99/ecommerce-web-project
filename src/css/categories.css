@@ -30,7 +30,7 @@
   gap: 0.5rem;
 }
 
-.box-body>.box-body__item {
+.box-body > .box-body__item {
   display: flex;
   gap: 0.5rem;
   align-items: center;

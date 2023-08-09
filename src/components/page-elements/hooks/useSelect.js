@@ -39,7 +39,10 @@ export function useSelect({ options, context }) {
   const handleClickOutsideSelect = (event) => {
     const { dropdown, labelContainer } = getSelectElements()
 
-    if (event.target !== labelContainer && dropdown.classList.contains('show')) {
+    if (
+      event.target !== labelContainer &&
+      dropdown.classList.contains('show')
+    ) {
       dropdown.classList.remove('show')
     }
   }
@@ -61,7 +64,6 @@ export function useSelect({ options, context }) {
         value: selectStates.selectValue
       })
     }
-
   }, [])
 
   useEffect(() => {

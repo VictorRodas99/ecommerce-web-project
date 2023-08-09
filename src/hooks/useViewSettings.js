@@ -1,5 +1,5 @@
-import { useContext } from "react";
-import { ViewSettingsContext } from "@context/ViewSettingsContext";
+import { useContext } from 'react'
+import { ViewSettingsContext } from '@context/ViewSettingsContext'
 
 /**
  * @returns {{

@@ -17,7 +17,7 @@ export const refreshPage = () => {
  *  mainImage: string,
  *  wasAdded: boolean
  * }} ProductDetail
- * 
+ *
  * @type {ProductDetail}
  */
 export const productInitialState = {

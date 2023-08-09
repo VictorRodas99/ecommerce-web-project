@@ -1,7 +1,7 @@
 import { getSelectElements } from '@utils/tools'
 
 export const SELECT_ACTIONS = {
-  dropdownVisibility: 'change select\'s dropdown visibility',
+  dropdownVisibility: "change select's dropdown visibility",
   changeOption: 'select a current option, with its value and text',
   context: 'set context data (saved options) if exists'
 }
@@ -15,10 +15,10 @@ export const SELECT_ACTIONS = {
  *       text: string
  *   }
  *  }} SelectState
- * 
- * @param {SelectState} state 
+ *
+ * @param {SelectState} state
  * @param {{ type: string, payload?: any }} action
- * 
+ *
  * @returns {SelectState}
  */
 export function selectReducer(state, action) {
@@ -41,7 +41,9 @@ export function selectReducer(state, action) {
       const { event } = payload
 
       if (!event instanceof Event) {
-        throw new Error('Expected payload for changeValue reducer to be Event type')
+        throw new Error(
+          'Expected payload for changeValue reducer to be Event type'
+        )
       }
 
       const selectedOption = event.currentTarget ?? event.target

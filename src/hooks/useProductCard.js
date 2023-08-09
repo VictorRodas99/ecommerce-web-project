@@ -8,7 +8,7 @@ import {
 /**
  * @typedef {{ productWasAdded: boolean, imageIsLoading: boolean, CardIcon: () => JSX.Element }} ProductCardStates
  * @typedef {{ changeIconInAdd: () => void, changeIconInDelete: () => void }} ProductCardMethods
- * 
+ *
  * @returns {{
  *  cardStates: ProductCardStates,
  *  cardMethods: ProductCardMethods

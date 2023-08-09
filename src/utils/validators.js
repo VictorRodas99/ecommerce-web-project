@@ -1,8 +1,8 @@
 import { isLiteralObject } from '@utils/tools'
 
 /**
- * 
- * @param {{ data: { [x]: string }, validFields: { key: string, type: string, itCanBe?: 'null' | 'undefined' }[] }} params 
+ *
+ * @param {{ data: { [x]: string }, validFields: { key: string, type: string, itCanBe?: 'null' | 'undefined' }[] }} params
  */
 export function validateObjectSchema({ data, validFields }) {
   if (!isLiteralObject(data)) {
@@ -12,21 +12,19 @@ export function validateObjectSchema({ data, validFields }) {
   const paramEntries = Object.entries(data)
 
   for (const field of validFields) {
-    const existsField = paramEntries.find(
-      ([key, value]) => {
-        if (field.key !== key) {
-          return false
-        }
-
-        const validType = field.type === typeof value
-
-        if (field.itCanBe) {
-          return validType || JSON.stringify(value) === field.itCanBe
-        }
-
-        return validType
+    const existsField = paramEntries.find(([key, value]) => {
+      if (field.key !== key) {
+        return false
       }
-    )
+
+      const validType = field.type === typeof value
+
+      if (field.itCanBe) {
+        return validType || JSON.stringify(value) === field.itCanBe
+      }
+
+      return validType
+    })
 
     if (!existsField) {
       return false
@@ -38,7 +36,7 @@ export function validateObjectSchema({ data, validFields }) {
 
 /**
  * Returns true if given param has this schema:
- * 
+ *
  * ```ts
  * type Product = {
  *  id: number,
