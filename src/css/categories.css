@@ -30,10 +30,14 @@
   gap: 0.5rem;
 }
 
-.box-body > div {
+.box-body>.box-body__item {
   display: flex;
   gap: 0.5rem;
   align-items: center;
+}
+
+a.box-body__item:hover {
+  color: var(--c-primary);
 }
 
 .top-categories {
