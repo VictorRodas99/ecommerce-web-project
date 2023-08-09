@@ -1,13 +1,6 @@
-import { API_URLS } from 'src/config'
+import { API_URLS, availableCategories } from 'src/config'
 import { getProducts } from '@services/getProducts'
 import { parseNameToURI } from '@utils/tools'
-
-export const categoryForAPI = {
-  product: 'products',
-  informatica: 'computing',
-  hardware: 'hardware',
-  electronica: 'electronics'
-}
 
 export const refreshPage = () => {
   document.title = 'Info-Shop | Producto'
@@ -63,5 +56,5 @@ export const structureData = (rawData) => {
 }
 
 export const getProductURLForAPI = ({ category, page }) => {
-  return `${API_URLS.base}/${categoryForAPI[category]}?page=${page}`
+  return `${API_URLS.base}/${availableCategories[category]}?page=${page}`
 }
