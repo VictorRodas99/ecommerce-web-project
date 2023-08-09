@@ -23,3 +23,30 @@ export const API_URLS = {
     audio: `${BASE_URL}/electronics/audio`
   }
 }
+
+export const MAPPED_API_URLS = {
+  redes: API_URLS.computing.internet,
+  audio: API_URLS.electronics.audio,
+  'tarjetas-graficas': API_URLS.hardware.graphics,
+  teclados: API_URLS.hardware.keyboards,
+  monitores: API_URLS.computing.monitors,
+  'placas-madre': API_URLS.hardware.motherboards,
+  notebooks: API_URLS.computing.notebooks,
+  smartphones: API_URLS.electronics.smartphones,
+  impresoras: API_URLS.computing.printers,
+  procesadores: API_URLS.hardware.processors,
+  'memorias-ram': API_URLS.hardware.ram,
+  almacenamiento: API_URLS.computing.storage,
+  perifericos: API_URLS.computing.monitors,
+  televisiones: API_URLS.electronics.televisions
+}
+
+/**
+ * ```{ [categorySpanish]: [categoryValidForAPI] }```
+ */
+export const availableCategories = {
+  product: 'products',
+  informatica: 'computing',
+  hardware: 'hardware',
+  electronica: 'electronics'
+}
