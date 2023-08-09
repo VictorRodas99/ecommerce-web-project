@@ -10,7 +10,16 @@ export const API_URLS = {
     storage: `${BASE_URL}/computing/storage`,
     internet: `${BASE_URL}/computing/internet-devices`
   },
+  hardware: {
+    graphics: `${BASE_URL}/hardware/graphics`,
+    keyboards: `${BASE_URL}/hardware/keyboards`,
+    processors: `${BASE_URL}/hardware/processors`,
+    motherboards: `${BASE_URL}/hardware/motherboards`,
+    ram: `${BASE_URL}/hardware/ram-devices`
+  },
   electronics: {
-    smartphones: `${BASE_URL}/electronics/smartphones`
+    smartphones: `${BASE_URL}/electronics/smartphones`,
+    televisions: `${BASE_URL}/electronics/televisions`,
+    audio: `${BASE_URL}/electronics/audio`
   }
 }
