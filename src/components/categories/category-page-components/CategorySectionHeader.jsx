@@ -3,11 +3,11 @@ import ProductSorter from './ProductSorter'
 import { capitalize } from '@utils/tools'
 
 export default function CategorySectionHeader({ category }) {
-  const capitalizedCategory = useMemo(() => capitalize(category), [])
+  const capitalizedCategory = useMemo(() => capitalize(category), [category])
 
   useEffect(() => {
     document.title = `Info-Shop | ${capitalizedCategory}`
-  }, [])
+  }, [category])
 
   return (
     <div className="category-section-header">

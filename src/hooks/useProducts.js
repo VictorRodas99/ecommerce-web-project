@@ -25,7 +25,7 @@ export function useProducts({ apiUrl }) {
 
   useEffect(() => {
     refreshProducts({ apiUrl })
-  }, [])
+  }, [apiUrl])
 
   return {
     products,
