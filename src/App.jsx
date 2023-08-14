@@ -3,7 +3,6 @@ import { Home } from '@components/Home'
 import { useCart } from '@hooks/useCart'
 import { Header } from '@components/Header'
 import { Footer } from '@components/Footer'
-import { MobileMenu } from '@components/MobileMenu'
 import { PageProvider } from '@context/PageContext'
 import { useStopScroll } from '@hooks/useStopScroll'
 import { Notifications } from '@components/NotificationsContainer'
@@ -11,11 +10,15 @@ import { Notifications } from '@components/NotificationsContainer'
 import { MAPPED_API_URLS, availableCategories } from './config'
 import { Routes, Route } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
+import { useMediaQuery } from 'react-responsive'
 
+const MobileComponents = lazy(() => import('@components/MobileComponents'))
 const SorterProvider = lazy(() => import('@context/CategoryContext'))
 const ViewSettingsProvider = lazy(() => import('@context/ViewSettingsContext'))
 const ProductDetails = lazy(() => import('@components/products/Details'))
 const NotFound = lazy(() => import('@components/NotFound'))
+const CartPage = lazy(() => import('@components/cart/CartPage'))
+const MobileMenuProvider = lazy(() => import('@context/MobileMenuContext'))
 
 const DynamicRouteManager = lazy(() =>
   import('@components/DynamicRouteManager')
@@ -25,6 +28,7 @@ const CategoryProducts = lazy(() =>
 )
 
 function App() {
+  const isTabletOrMobile = useMediaQuery({ maxWidth: 768 })
   const { cartIsVisible } = useCart()
   useStopScroll({ selector: 'body', when: cartIsVisible })
 
@@ -61,6 +65,7 @@ function App() {
                       </DynamicRouteManager>
                     }
                   />
+                  <Route path="/carrito" element={<CartPage />} />
                   <Route path="*" element={<NotFound />} />
                 </Routes>
               </ViewSettingsProvider>
@@ -69,7 +74,13 @@ function App() {
         </PageProvider>
       </main>
       <Notifications />
-      <MobileMenu />
+      <Suspense>
+        {isTabletOrMobile && (
+          <MobileMenuProvider>
+            <MobileComponents />
+          </MobileMenuProvider>
+        )}
+      </Suspense>
       <Footer />
     </>
   )
