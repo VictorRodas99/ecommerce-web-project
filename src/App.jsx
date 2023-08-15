@@ -65,7 +65,7 @@ function App() {
                       </DynamicRouteManager>
                     }
                   />
-                  <Route path="/carrito" element={<CartPage />} />
+                  <Route path="/cart" element={<CartPage />} />
                   <Route path="*" element={<NotFound />} />
                 </Routes>
               </ViewSettingsProvider>
