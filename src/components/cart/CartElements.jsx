@@ -1,5 +1,6 @@
 import { MdClose, MdShoppingBag, MdRemoveShoppingCart } from 'react-icons/md'
 import { useCart } from '@hooks/useCart'
+import { Link } from 'react-router-dom'
 
 export function CartHeader({ totalProducts, amountDescription }) {
   const { modifyCartVisibility } = useCart()
@@ -46,9 +47,9 @@ export function CartFooter({ totalPrice, totalProducts }) {
       className="cart-footer"
       style={{ display: totalProducts > 0 ? 'flex' : 'none' }}
     >
-      <button className="btn-cart-footer checkout">
+      <Link className="btn-cart-footer checkout" to="/cart">
         Ver Carrito ({totalPrice})
-      </button>
+      </Link>
       <button className="btn-cart-footer buy">Finalizar pedido</button>
     </div>
   )
