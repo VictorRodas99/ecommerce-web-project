@@ -35,7 +35,7 @@ export default function MobileMenu({ sectionController }) {
         <MdDashboard />
         Secciones
       </button>
-      <Link className="menu-mobile__item menu-mobile-watch-cart" to="/carrito">
+      <Link className="menu-mobile__item menu-mobile-watch-cart" to="/cart">
         <MdOutlineShoppingCart />
         Carrito
       </Link>
