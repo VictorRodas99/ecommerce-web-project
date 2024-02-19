@@ -20,25 +20,6 @@
         "id": 1
     },
     {
-        "name": "Mesa Gamer Satellite GT-400 RGB 140 x 60 cm - Negro",
-        "price": "Gs. 1.167.000",
-        "details": {
-            "Diseño": "Moderno y resistente",
-            "Material": "MDF y metal",
-            "Iluminación": "RGB",
-            "Tamaño": "140 x 60 x 72 cm"
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática",
-            "Gaming"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110637.jpg"
-        ],
-        "id": 2
-    },
-    {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
         "price": "Gs. 10.315.000",
         "details": {
@@ -60,30 +41,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_3.jpg"
         ],
-        "id": 3
-    },
-    {
-        "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
-        "price": "Gs. 2.862.000",
-        "details": {
-            "Funciones": "Impresión, copia y escáner",
-            "Tipo de suministro": "Tóner",
-            "Velocidad máxima de impresión": "30 ppm",
-            "Resolución de impresión": "Hasta 2400 x 600 ppp",
-            "Compatible con": "Windows y MacOS"
-        },
-        "label": "Brother",
-        "categories": [
-            "Informática",
-            "Impresoras",
-            "Impresoras Brother"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_3.jpg"
-        ],
-        "id": 4
+        "id": 2
     },
     {
         "name": "Proyector OnLed On7 720P",
@@ -106,7 +64,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/g/mg_02.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/g/mg_03.jpg"
         ],
-        "id": 5
+        "id": 3
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
@@ -125,7 +83,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
         ],
-        "id": 6
+        "id": 4
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
@@ -144,7 +102,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
         ],
-        "id": 7
+        "id": 5
     },
     {
         "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
@@ -163,11 +121,11 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
         ],
-        "id": 8
+        "id": 6
     },
     {
         "name": "Speaker Para PC Logitech Z313 - Negro",
-        "price": "Gs. 346.000",
+        "price": "Gs. 355.000",
         "details": {
             "Canales de salida de audio": "2.1",
             "Potencia estimada RMS": "25 W",
@@ -184,6 +142,49 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_1_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_2__1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_3_.jpg"
+        ],
+        "id": 7
+    },
+    {
+        "name": "Mouse Inalámbrico Logitech M187 - Blossom (910-005364)",
+        "price": "Gs. 99.000",
+        "details": {
+            "Diseño": "Compacto",
+            "Tipo de mouse": "Óptico",
+            "Resolución": "1000 DPI",
+            "Interfaz": "Receptor USB"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Informática",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-blossom_910-005364_-001.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-blossom-910-005364_-002.jpg"
+        ],
+        "id": 8
+    },
+    {
+        "name": "Mouse Inalámbrico Logitech M187",
+        "price": "Gs. 99.000",
+        "details": {
+            "Diseño": "Compacto",
+            "Tipo de mouse": "Óptico",
+            "Resolución": "1000 DPI",
+            "Conectividad": "Receptor USB"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Informática",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/o/logitech_m187_mini_light_blue_910-005363_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-azul_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-blossom_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-coral_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-negro_2.jpg"
         ],
         "id": 9
     },
@@ -284,14 +285,162 @@
         "id": 12
     },
     {
-        "name": "Notebook Asus Vivobook Go 15 E1504GA-NJ187W 15.6\" Intel Core i3 N305 8 GB DDR4 512 GB SSD - Cool Silver",
-        "price": "Gs. 2.916.000",
+        "name": "Notebook Lenovo IdeaPad 1 15ALC7 82R400DTUS 15.6\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD - Cloud Grey",
+        "price": "Gs. 4.620.000",
+        "details": {
+            "Pantalla": "LCD IPS Touch 15.6\" FHD 1920 x 1080p",
+            "Procesador": "AMD Ryzen 7 5700U Octa-Core 1.8 - 4.3 GHz",
+            "Memoria RAM": "16 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "AMD Radeon Graphics",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-9.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-8.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-7.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-10.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-11.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118728-6.jpg"
+        ],
+        "id": 13
+    },
+    {
+        "name": "Notebook Acer Aspire 5 15 A515-58P-74CZ 15.6\" Intel Core i7 1355U 8 GB DDR5 512 GB SSD - Steel Gray",
+        "price": "Gs. 5.373.000",
+        "details": {
+            "Pantalla": "LCD 15.6\" FHD 1920 x 1080p",
+            "Procesador": "Intel Core i7-1355U 10-Core 1.7 - 5.0 GHz",
+            "Memoria RAM": "8 GB DDR5",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "Intel Iris Xe Graphics",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Acer",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119318-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119318-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119318-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119318-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119318-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119318-5.jpg"
+        ],
+        "id": 14
+    },
+    {
+        "name": "Notebook Lenovo IdeaPad 1i 82QD00CJUS 15.6\" Intel Core i5 1235U 8 GB DDR4 512 GB SSD - Cloud Grey",
+        "price": "Gs. 3.938.000",
+        "details": {
+            "Pantalla": "LCD 15.6\" FHD 1920 x 1080p",
+            "Procesador": "Intel Core i5-1235U 10-Core 1.3 - 4.4 GHz",
+            "Memoria RAM": "8 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "Intel Iris Xe",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119583-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119583-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119583-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119583-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119583-8.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119583-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119583-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119583-7.jpg"
+        ],
+        "id": 15
+    },
+    {
+        "name": "Notebook/Tablet Lenovo Yoga 7i 82YN0002US 16\" Intel Core i7 1355U 16 GB DDR5 512 GB SSD Touch - Storm Grey",
+        "price": "Gs. 7.059.000",
+        "details": {
+            "Pantalla": "LCD IPS de 16\" WUXGA 1920 x 1200p",
+            "Procesador": "Intel Core i7-1355U 10-Core 1.7 - 5.0 GHz",
+            "Memoria RAM": "16 GB DDR5",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "Intel Iris Xe Graphics",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-8.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-9.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-11.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-10.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-12.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118786-7.jpg"
+        ],
+        "id": 16
+    },
+    {
+        "name": "Notebook HP Pavilion 15 15T-EG300 15.6\" Intel Core i7 1355U 16 GB DDR4 256 GB SSD - Natural Silver",
+        "price": "Gs. 5.732.000",
         "details": {
             "Pantalla": "LCD de 15.6\" FHD 1920 x 1080p",
-            "Procesador": "Intel Core i3 N305 Octa-Core 1.8 - 3.8 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
-            "Gráficos": "Intel UHD Graphics",
+            "Procesador": "Intel Core i7-1355U 10-Core 1.7 - 5.0 GHz",
+            "Memoria RAM": "16 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 256 GB",
+            "Gráficos": "Intel Iris Xe Graphics",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "HP",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119433-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119433-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119433-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119433-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119433-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119433-5.jpg"
+        ],
+        "id": 17
+    },
+    {
+        "name": "Notebook Asus Vivobook 16 F1605ZA-WS74 16\" Intel Core i7 1255U 16 GB DDR4 512 GB SSD - Indie Black",
+        "price": "Gs. 5.194.000",
+        "details": {
+            "Pantalla": "LCD IPS de 16\" WUXGA 1920 x 1200p",
+            "Procesador": "Intel Core i7-1255U 10-Core 1.7 - 4.7 GHz",
+            "Memoria RAM": "16 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "Intel Iris Xe Graphics",
             "Sistema operativo": "Windows 11 Home"
         },
         "label": "ASUS",
@@ -301,41 +450,128 @@
             "Notebooks Trabajo"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118439-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118439-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118439-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118439-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118439-5.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-7.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-8.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119592-9.jpg"
         ],
-        "id": 13
+        "id": 18
     },
     {
-        "name": "Notebook Dell Latitude 7430 14\" Intel Core i5 1235U 8 GB DDR4 256 GB SSD - Gris Oscuro",
-        "price": "Gs. 4.979.000",
+        "name": "Notebook HP 255 G8 15.6\" AMD Ryzen 5 5500U 8 GB DDR4 256 GB SSD - Negro (Cargador Europeo)",
+        "price": "Gs. 3.274.000",
         "details": {
-            "Pantalla": "LED de 14\" FHD 1920 x 1080p",
-            "Procesador": "Intel Core i5 1235U 10-Core 1.8 - 4.4 GHz",
+            "Pantalla": "LCD IPS de 15.6\" FHD 1920 x 1080p",
+            "Procesador": "AMD Ryzen 5 5500U Hexa-Core 2.1 - 4.0 GHz",
             "Memoria RAM": "8 GB DDR4",
             "Memoria de almacenamiento": "M.2 NVMe SSD de 256 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema operativo": "Windows 10 Pro"
+            "Gráficos": "AMD Radeon Graphics",
+            "Sistema operativo": "FreeDOS 1.2"
         },
-        "label": "Dell",
+        "label": "HP",
         "categories": [
             "Notebooks",
             "Notebooks Estudio",
             "Notebooks Trabajo"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119435-8.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119435-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119435-10.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119435-6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119435-9.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119435-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119435-3.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119434-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119434-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119434-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119434-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119434-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119434-4.jpg"
         ],
-        "id": 14
+        "id": 19
+    },
+    {
+        "name": "Notebook Asus Zenbook 14 UX3402VA-DS74 14\" Intel Core i7 1360P 16 GB DDR5 1 TB SSD - Ponder Blue",
+        "price": "Gs. 7.705.000",
+        "details": {
+            "Pantalla": "LCD de 14\" WQXGA 2560 x 1600p",
+            "Procesador": "Intel Core i7 1360P 12-Core 2.2 - 5.0 GHz",
+            "Memoria RAM": "16 GB DDR5",
+            "Memoria de almacenamiento": "M.2 NVMe SSD de 1 TB",
+            "Gráficos": "Intel Iris Xe Graphics",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "ASUS",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119431-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119431-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119431-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119431-7.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119431-8.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119431-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119431-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119431-4.jpg"
+        ],
+        "id": 20
+    },
+    {
+        "name": "Notebook Asus Zenbook 14X Q410VA-EVO 14.5\" Intel Core i5 13500H 8 GB DDR5 512 GB SSD Touch - Inkwell Gray",
+        "price": "Gs. 5.606.000",
+        "details": {
+            "Pantalla": "OLED Touch de 14.5\" 2.8K 2880 x 1800p",
+            "Procesador": "Intel Core i5 13500H 12-Core 2.6 - 4.7 GHz",
+            "Memoria RAM": "8 GB DDR5",
+            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
+            "Gráficos": "Intel Iris Xe Graphics",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "ASUS",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-116845-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-116845-8.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-116845-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-116845-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-116845-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-116845-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-116845-7.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-116845-3.jpg"
+        ],
+        "id": 21
+    },
+    {
+        "name": "Notebook Asus Vivobook 15 F515EA-WH52 15.6\" Intel Core i5 1135G7 8 GB DDR4 512 GB SSD Touch - Slate Gray",
+        "price": "Gs. 3.768.000",
+        "details": {
+            "Pantalla": "LCD Touch de 15.6\" FHD 1920 x 1080p",
+            "Procesador": "Intel Core i5 1135G7 Quad-Core 2.4 - 4.2 GHz",
+            "Memoria RAM": "8 GB DDR4",
+            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
+            "Gráficos": "Intel Iris Xe Graphics",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "ASUS",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119423-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119423-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119423-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119423-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119423-4.jpg"
+        ],
+        "id": 22
     },
     {
         "name": "Notebook Dell Latitude 7430 14\" Intel Core i7 1265U 16 GB DDR4 512 GB SSD - Gris Oscuro",
@@ -363,7 +599,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119325-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119325-6.jpg"
         ],
-        "id": 15
+        "id": 23
     },
     {
         "name": "Notebook Gamer Asus TUF F15 (2022) FX507ZC4-HN184W 15.6\" Intel Core i5 12500H RTX 3050 4 GB - Mecha Gray",
@@ -397,36 +633,7 @@
             "Almacenamiento": "",
             "Memoria RAM": ""
         },
-        "id": 16
-    },
-    {
-        "name": "Notebook Asus Vivobook Go 15 E1504GA-NJ187W 15.6\" Intel Core i3 N305 8 GB DDR4 512 GB SSD - Plata",
-        "price": "Gs. 2.916.000",
-        "details": {
-            "Pantalla": "LCD de 15.6\" FHD 1920 x 1080p",
-            "Procesador": "Intel Core i3 N305 Octa-Core 1.8 - 3.8 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
-            "Gráficos": "Intel UHD Graphics",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118441-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118441-6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118441-5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118441-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118441-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118441-8.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118441-7.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118441-3.jpg"
-        ],
-        "id": 17
+        "id": 24
     },
     {
         "name": "Notebook Dell XPS 15 9530-7718 15.6\" Intel Core i7 13700H Intel Arc A370M 4 GB - Plata/Negro",
@@ -456,7 +663,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119033-8.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119033-9.jpg"
         ],
-        "id": 18
+        "id": 25
     },
     {
         "name": "Notebook/Tablet Asus Vivobook S 14 Flip TN3402YA 14\" AMD Ryzen 7 7730U 16 GB DDR4 512 GB SSD - Plata",
@@ -490,7 +697,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118445-7_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118445-12_1.jpg"
         ],
-        "id": 19
+        "id": 26
     },
     {
         "name": "Notebook/Tablet Lenovo Flex 5 82XX0036US 14\" AMD Ryzen 5 7530U 8 GB DDR4 512 GB SSD Touch - Abyss Blue",
@@ -522,11 +729,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118208-11.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118208-1.jpg"
         ],
-        "id": 20
+        "id": 27
     },
     {
         "name": "Notebook Lenovo 82H701QNUS 14\" Intel Core i5-1155G7 8 GB DDR4 512 GB SSD - Gris",
-        "price": "Gs. 3.436.000",
+        "price": "Gs. 3.409.000",
         "details": {
             "Pantalla": "LCD de 14\" FHD 1920 x 1080p",
             "Procesador": "Intel Core i5-1155G7 Quad-Core 2.5 - 4.5 GHz",
@@ -555,7 +762,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118727-11.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118727-12.jpg"
         ],
-        "id": 21
+        "id": 28
     },
     {
         "name": "Notebook HP ZBook Power G9 15.6\" Intel Core i7-12800H Nvidia T600 4 GB - Gris Oscuro",
@@ -591,7 +798,7 @@
             "Arquitectos, ingenieros y gerentes de construcción": "",
             "Estudiantes de ciencias, tecnología, ingeniería y matemáticas (STEAM)": ""
         },
-        "id": 22
+        "id": 29
     },
     {
         "name": "Notebook HP ZBook Firefly G10 14\" Intel Core i7-1355U RTX A500 4 GB Touch - Plata",
@@ -620,7 +827,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119070-7_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119070-8_1.jpg"
         ],
-        "id": 23
+        "id": 30
     },
     {
         "name": "Notebook HP ZBook Firefly 14 G10 14\" Intel Core i7-1355U RTX A500 4 GB - Plata",
@@ -649,11 +856,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119070-7.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119070-8.jpg"
         ],
-        "id": 24
+        "id": 31
     },
     {
         "name": "Notebook/Tablet HP Envy x360 15-EY1077wm 15.6\" AMD Ryzen 5 7530U 12 GB DDR4 256 GB SSD - Gris",
-        "price": "Gs. 5.023.000",
+        "price": "Gs. 4.745.000",
         "details": {
             "Pantalla": "LED IPS Touch de 15.6\" FHD 1920 x 1080p",
             "Procesador": "AMD Ryzen 5 7530U Hexa-Core 2.0 - 4.5 GHz",
@@ -677,7 +884,32 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118859-7.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118859-5.jpg"
         ],
-        "id": 25
+        "id": 32
+    },
+    {
+        "name": "Notebook HP Stream 14-CF2723WM 14\" Intel Celeron N4120 4 GB DDR4 64 GB eMMC - Plata",
+        "price": "Gs. 1.660.000",
+        "details": {
+            "Pantalla": "LED de 14\" HD 1366 x 768p",
+            "Procesador": "Intel Celeron N4120 Quad-Core 1.1 - 2.6 GHz",
+            "Memoria RAM": "4 GB DDR4",
+            "Memoria de almacenamiento": "eMMC de 64 GB",
+            "Gráficos": "Intel UHD Graphics 600",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "HP",
+        "categories": [
+            "Notebooks",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118729-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118729-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118729-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118729-4.jpg"
+        ],
+        "id": 33
     },
     {
         "name": "Notebook HP 15-FD0083WM 15.6\" Intel Pentium N200 4 GB DDR4 128 GB UFS - Rojo/Plata",
@@ -694,7 +926,8 @@
         "categories": [
             "Notebooks",
             "Notebooks Estudio",
-            "Notebooks Trabajo"
+            "Notebooks Trabajo",
+            "Home School"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118350-1.jpg",
@@ -704,11 +937,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118350-6.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118350-4.jpg"
         ],
-        "id": 26
+        "id": 34
     },
     {
         "name": "Notebook HP 15-FC0011LA 15.6\" AMD Ryzen 7 7730U 8 GB DDR4 512 GB SSD - Azul/Plata",
-        "price": "Gs. 4.056.000Gs. 4.656.000",
+        "price": "Gs. 4.656.000",
         "details": {
             "Pantalla": "LED de 15.6\" FHD 1920 x 1080p",
             "Procesador": "AMD Ryzen 7 7730U Octa-Core 2.0 - 4.5 GHz",
@@ -721,8 +954,7 @@
         "categories": [
             "Notebooks",
             "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Notebooks"
+            "Notebooks Trabajo"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118706-1.jpg",
@@ -732,11 +964,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118706-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118706-6.jpg"
         ],
-        "id": 27
+        "id": 35
     },
     {
         "name": "Notebook HP 14-FQ1035CL 14\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD Touch - Negro",
-        "price": "Gs. 4.745.000",
+        "price": "Gs. 4.700.000",
         "details": {
             "Pantalla": "LED Touch de 14\" HD 1366 x 768p",
             "Procesador": "AMD Ryzen 7 5700U Octa-Core 1.8 - 4.3 GHz",
@@ -758,7 +990,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-4.jpg"
         ],
-        "id": 28
+        "id": 36
     },
     {
         "name": "Notebook/Tablet Asus Vivobook S 14 Flip TN3402YA 14\" AMD Ryzen 7 7730U 16 GB DDR4 512 GB SSD - Plata",
@@ -792,11 +1024,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118445-7.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118445-12.jpg"
         ],
-        "id": 29
+        "id": 37
     },
     {
         "name": "Notebook Asus Vivobook Go 15 L510MA-BB09 15.6\" Intel Celeron N4020 4 GB DDR4 128 GB eMMC - Star Black",
-        "price": "Gs. 1.499.000Gs. 1.776.000",
+        "price": "Gs. 1.776.000",
         "details": {
             "Pantalla": "LCD de 15.6\" HD 1366 x 768p",
             "Procesador": "Intel Celeron N4020 Dual-Core 1.1 - 2.8 GHz",
@@ -809,8 +1041,7 @@
         "categories": [
             "Notebooks",
             "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Notebooks"
+            "Notebooks Trabajo"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118402-2.jpg",
@@ -821,7 +1052,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118402-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118402-3.jpg"
         ],
-        "id": 30
+        "id": 38
     },
     {
         "name": "Notebook Asus Vivobook Go L510KA-WH21 15.6\" Intel Pentium Silver N6000 4 GB DDR4 128 GB eMMC - Rosa",
@@ -838,7 +1069,8 @@
         "categories": [
             "Notebooks",
             "Notebooks Estudio",
-            "Notebooks Trabajo"
+            "Notebooks Trabajo",
+            "Home School"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118392-1.jpg",
@@ -848,11 +1080,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118392-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118392-5.jpg"
         ],
-        "id": 31
+        "id": 39
     },
     {
         "name": "Notebook Lenovo V15 Gen 2 IJL 82QY00QRUS 15.6\" Intel Celeron N4500 8 GB DDR4 256 GB SSD - Negro",
-        "price": "Gs. 2.377.000",
+        "price": "Gs. 2.288.000",
         "details": {
             "Pantalla": "LCD de 15.6\" Full HD 1920 x 1080p",
             "Procesador": "Intel Celeron N4500 Dual-Core 1.1 GHz",
@@ -873,205 +1105,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118396-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118396-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118396-3.jpg"
-        ],
-        "id": 32
-    },
-    {
-        "name": "Notebook HP 15-DY5131WM 15.6\" Intel Core i3-1215U 8 GB DDR4 256 GB SSD - Plata",
-        "price": "Gs. 3.250.000",
-        "details": {
-            "Pantalla": "LED 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i3-1215U Hexa-Core 1.2 - 4.4 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe 256 GB",
-            "Gráficos": "‎Intel UHD",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "HP",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-dy5131wm_1__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-dy5131wm_3__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-dy5131wm_2__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-dy5131wm_4__1.jpg"
-        ],
-        "id": 33
-    },
-    {
-        "name": "Notebook Samsung Galaxy Book3 NP754XFG 15.6\" Intel Core i7-1355U 16 GB LPDDR4x 512 GB SSD - Plata",
-        "price": "Gs. 9.418.000",
-        "details": {
-            "Pantalla": "LED 15.6” Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i7-1355U Deca-Core 1.7 - 5.0 GHz",
-            "Memoria RAM": "16 GB LPDDR4x",
-            "Memoria de almacenamiento": "SSD 512 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Samsung",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_4_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_3_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_2_.jpg"
-        ],
-        "id": 34
-    },
-    {
-        "name": "Notebook Lenovo LOQ 15IRH8 15.6\" Intel Core i5-13420H RTX 2050 4 GB GDDR6 - Negro (82XV000VUS)",
-        "price": "Gs. 5.911.000",
-        "details": {
-            "Pantalla": "IPS 15.6” FHD 1920 x 1080p 144 Hz",
-            "Procesador": "Intel Core i5-13420H Octa-Core 2.1 - 4.6 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Memoria de almacenamiento": "SSD M.2 NVMe 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 2050 4 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Lenovo",
-        "categories": [
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115228_-_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115228_-_2_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115228_-_3_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115228_-_4_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115228_-_5_1.jpg"
-        ],
-        "id": 35
-    },
-    {
-        "name": "Notebook ASUS Zenbook 14 OLED UX3402VA-KN210X 14\" Intel Core i7-1360P 16 GB LPDDR5 1 TB SSD - Ponder Blue",
-        "price": "Gs. 9.643.000",
-        "details": {
-            "Pantalla": "OLED 14\" 2.8K 2880 x 1800p",
-            "Procesador": "Intel Core i7-1360P Dodeca-Core 2.2 - 5.0 GHz",
-            "Memoria RAM": "16 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe 1 TB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/u/x/ux3402va-kn210x-1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/u/x/ux3402va-kn210x-2_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/u/x/ux3402va-kn210x-3_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/u/x/ux3402va-kn210x-4_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/u/x/ux3402va-kn210x-5_1.jpg"
-        ],
-        "id": 36
-    },
-    {
-        "name": "Notebook ASUS Vivobook Go 15 OLED E1504FA-L1859WS 15.6\" AMD Ryzen 5 7520U 8 GB LPDDR5 512 GB SSD - Negro",
-        "price": "Gs. 4.010.000",
-        "details": {
-            "Pantalla": "OLED 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "AMD Ryzen 5 7520U Octa-Core 2.8 - 4.3 GHz",
-            "Memoria RAM": "8 GB LPDDR5",
-            "Memoria de almacenamiento": "SSD M.2 NVMe 512 GB",
-            "Gráficos": "AMD Radeon 610M",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-4_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-3_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-2_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-5_1.jpg"
-        ],
-        "id": 37
-    },
-    {
-        "name": "Notebook ASUS VivoBook Go 15 OLED E1504FA-L1859WS 15.6\" AMD Ryzen 5 7520U 8 GB LPDDR5 512 GB SSD - Negro",
-        "price": "Gs. 4.010.000",
-        "details": {
-            "Pantalla": "OLED 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "AMD Ryzen 5 7520U Octa-Core 2.8 - 4.3 GHz",
-            "Memoria RAM": "8 GB LPDDR5",
-            "Memoria de almacenamiento": "SSD M.2 NVMe 512 GB",
-            "Gráficos": "AMD Radeon 610M",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1504fa-l1253w-5.jpg"
-        ],
-        "id": 38
-    },
-    {
-        "name": "Notebook ASUS Vivobook 15X OLED K3504ZA-L1204W 15.6\" Intel Core i7-1255U 8 GB DDR4 512 GB SSD - Negro",
-        "price": "Gs. 5.517.000",
-        "details": {
-            "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i7-1255U Deca-Core 1.8 - 4.7 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD 512 GB",
-            "Gráficos": "‎Intel UHD",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/3/k3504za-l1204w_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/3/k3504za-l1204w_-_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/3/k3504za-l1204w_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/3/k3504za-l1204w_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/3/k3504za-l1204w_-_5.jpg"
-        ],
-        "id": 39
-    },
-    {
-        "name": "Notebook Gamer ROG Strix G17 G733PY-LL069X 17.3\" AMD Ryzen 9 7945HX RTX 4090 16 GB - Negro",
-        "price": "Gs. 28.030.000",
-        "details": {
-            "Pantalla": "IPS 17.3\" WQHD 2560 x 1440p 240 Hz",
-            "Procesador": "AMD Ryzen 9 7945HX Hexadeca-Core 2.5 - 5.4 GHz",
-            "Memoria RAM": "32 GB DDR5",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 2 TB",
-            "Gráficos": "NVIDIA GeForce RTX 4090 16 GB GDDR6",
-            "Sistema operativo": "Windows 10 Pro"
-        },
-        "label": "Republic",
-        "categories": [
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/7/g733py-ll069x_0000_h732_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/7/g733py-ll069x_0002_h732_3_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/7/g733py-ll069x_0001_h732_2_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/7/g733py-ll069x_0003_h732.jpg"
         ],
         "id": 40
     }
