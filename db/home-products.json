@@ -1,56 +1,91 @@
 [
     {
-        "name": "Cable de Extensión RGB Lian Li Strimer Plus V2 8PIN",
-        "price": "Gs. 452.000",
+        "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 500 GB SSD - Negro",
+        "price": "Gs. 3.071.000",
         "details": {
-            "Diseño": "Elegante",
-            "Conexiones": "VGA",
-            "Iluminación": "RGB",
-            "Compatible con": "L-Connect 3 para efectos de luz"
+            "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
+            "Tipo de memoria RAM": "16 GB DDR4",
+            "Ranura SSD": "M.2 PCIe 3.0 SSD",
+            "Gráficos": "AMD Radeon Graphics",
+            "Conectividad": "Wi-Fi 6 802.11ax y Bluetooth 5.2",
+            "Interfaz": "3 x USB 3.2, 1 x USB-C, USB 2.0, LAN RJ45, 1 x HDMI, 3.5mm audio Jack y 1 x DisplayPort"
         },
-        "label": "Lian",
+        "label": "Beelink",
         "categories": [
             "Informática"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/r/rrQDDb2k5WxKeXuaN2ylXlXDxtX7Qgvqmv3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/X/Q/XQEW37TOrOzHc9aaXEy9aC9ybI3rcbUYOdi.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/c/pc-122279-_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_1__2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_2__2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_3__2.jpg"
         ],
         "id": 1
     },
     {
-        "name": "Mini PC Intel NUC8I7BEH1 I7-8559U 2.7 GHZ",
-        "price": "Gs. 4.296.343",
+        "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 1 TB SSD - Negro",
+        "price": "Gs. 3.299.000",
         "details": {
-            "Procesador": "Intel Core i7-8559U de 2.7 GHz",
-            "Tipo de memoria RAM": "2 x DDR4-2400 SO-DIMM hasta 32 GB (No incluye)",
-            "Ranura SSD": "1 x M.2 2280 Ranura/1 x 2.5\" Drive Bay (no incluye)",
-            "Gráficos": "Intel Iris Plus 655",
-            "Conectividad": "Wi-Fi 5 (802.11ac) / Bluetooth 5.0",
-            "Interfaz": "USB 2.0/3.0, Thunderbolt 3, HDMI 2.0a, RJ45, Jack 3.5 mm y SD"
+            "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
+            "Tipo de memoria RAM": "16 GB DDR4",
+            "Ranura SSD": "M.2 PCIe 3.0 SSD",
+            "Gráficos": "AMD Radeon Graphics",
+            "Conectividad": "Wi-Fi 6 802.11ax y Bluetooth 5.2",
+            "Interfaz": "3 x USB 3.2, 1 x USB-C, USB 2.0, LAN RJ45, 1 x HDMI, 3.5mm audio Jack y 1 x DisplayPort"
         },
-        "label": "Intel",
+        "label": "Beelink",
         "categories": [
             "Informática"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/i/mini_pc_intel_nuc8i7beh1_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/i/mini_pc_intel_nuc8i7beh1_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/i/mini_pc_intel_nuc8i7beh1_1.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/c/pc-122279-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_1__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_2__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_3__1.jpg"
         ],
-        "specifications": {
-            "Intel Core i7-8559U de 2,7 GHz de cuatro núcleos": "",
-            "2 x DDR4-2400 ranuras SO-DIMM (hasta 32 GB)": "",
-            "1 x M.2 2280 Ranura / 1 x 2.5 \"Drive Bay": "",
-            "Memoria Intel Optane de hasta 32 GB": "",
-            "Gráficos Intel Iris Plus 655": "",
-            "HDMI 2.0a / DisplayPort / Thunderbolt 3": "",
-            "4 x USB 3.1 / 2 x USB interno 2.0": "",
-            "Wi-Fi 5 (802.11ac) / Bluetooth 5.0": "",
-            "Ranura MicroSDXC": "",
-            "Micrófonos de doble matriz y conector de audio": ""
-        },
         "id": 2
+    },
+    {
+        "name": "Mini PC Lenovo Thinkcentre M625 A4-9120C 1.60 Ghz",
+        "price": "Gs. 1.814.000",
+        "details": {
+            "Procesador": "A4-9120C 1.60 Ghz",
+            "Tipo de memoria RAM": "DDR4 8 GB",
+            "Ranura SSD": "128 GB",
+            "Gráficos": "Integrados",
+            "Conectividad": "Bluetooth 5.1, Wi-Fi 5 802.11 ac",
+            "Interfaz": "RJ-45, auriculares (3.5 mm), DisplayPort, M.2, Microfono 3.5mm, USB 2.0, USB 3.1, USB Tipo-C"
+        },
+        "label": "Lenovo",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/O/zOtv88i4oM5HL5BmHkEoMcDY77gPSGNIjKy.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/U/bUtjaSnnW2EmlUYwVoWjrM7ttkYitpBQoFP.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/3/m3VN94hHWNlbn8qyxrfFqufrmuntDJm8z5J.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/U/1/U1Zaqs6F6bWFeD6vVzqhBAROnJKMuFWMMJn.jpg"
+        ],
+        "id": 3
+    },
+    {
+        "name": "Mesa Gamer Satellite GT-400 RGB 140 x 60 cm - Negro",
+        "price": "Gs. 1.185.000",
+        "details": {
+            "Diseño": "Moderno y resistente",
+            "Material": "MDF y metal",
+            "Iluminación": "RGB",
+            "Tamaño": "140 x 60 x 72 cm"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Informática",
+            "Gaming"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110637_1.jpg"
+        ],
+        "id": 4
     },
     {
         "name": "Cooler para Notebook Satellite A-CP22",
@@ -70,30 +105,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807-1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807.jpg"
         ],
-        "id": 3
-    },
-    {
-        "name": "Mesa Gamer Satellite GT-400 RGB 140 x 60 cm - Negro",
-        "price": "Gs. 1.177.000",
-        "details": {
-            "Diseño": "Moderno y resistente",
-            "Material": "MDF y metal",
-            "Iluminación": "RGB",
-            "Tamaño": "140 x 60 x 72 cm"
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática",
-            "Gaming"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110637.jpg"
-        ],
-        "id": 4
+        "id": 5
     },
     {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
-        "price": "Gs. 10.411.000",
+        "price": "Gs. 10.288.000",
         "details": {
             "Funciones": "Impresión, copia, escáner y fax",
             "Tipo de suministro": "Tóner",
@@ -113,11 +129,34 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_3.jpg"
         ],
-        "id": 5
+        "id": 6
+    },
+    {
+        "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
+        "price": "Gs. 3.418.000",
+        "details": {
+            "Funciones": "Impresión, copia y escáner",
+            "Tipo de suministro": "Tóner",
+            "Velocidad máxima de impresión": "30 ppm",
+            "Resolución de impresión": "Hasta 2400 x 600 ppp",
+            "Compatible con": "Windows y MacOS"
+        },
+        "label": "Brother",
+        "categories": [
+            "Informática",
+            "Impresoras",
+            "Impresoras Brother"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_3.jpg"
+        ],
+        "id": 7
     },
     {
         "name": "Proyector OnLed On7 720P",
-        "price": "Gs. 1.042.000",
+        "price": "Gs. 1.048.000",
         "details": {
             "Sistema de imagen": "LCD",
             "Relación de aspecto": "16",
@@ -136,11 +175,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/g/mg_02.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/g/mg_03.jpg"
         ],
-        "id": 6
+        "id": 8
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 77.000",
+        "price": "Gs. 73.000",
         "details": {
             "Ventilador": "160 mm",
             "Interfaz": "USB",
@@ -155,11 +194,11 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
         ],
-        "id": 7
+        "id": 9
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
-        "price": "Gs. 82.000",
+        "price": "Gs. 83.000",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
@@ -173,47 +212,6 @@
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
-        ],
-        "id": 8
-    },
-    {
-        "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
-        "price": "Gs. 73.000",
-        "details": {
-            "Ventilador": "140 mm",
-            "Interfaz": "USB",
-            "Velocidad del ventilador": "1600 RPM",
-            "Material": "Metal, plástico",
-            "Compatibilidad": "9\" a 17\""
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
-        ],
-        "id": 9
-    },
-    {
-        "name": "Speaker Para PC Logitech Z313 - Negro",
-        "price": "Gs. 358.000",
-        "details": {
-            "Canales de salida de audio": "2.1",
-            "Potencia estimada RMS": "25 W",
-            "Control con cable": "Encendido, volumen, Jack 3.5 mm",
-            "Conectividad": "Jack 3.5 mm"
-        },
-        "label": "Logitech",
-        "categories": [
-            "Informática",
-            "Accesorios"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_2__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_3_.jpg"
         ],
         "id": 10
     }
