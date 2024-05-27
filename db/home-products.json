@@ -1,7 +1,7 @@
 [
     {
         "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 500 GB SSD - Negro",
-        "price": "Gs. 3.071.000",
+        "price": "Gs. 3.092.000",
         "details": {
             "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
             "Tipo de memoria RAM": "16 GB DDR4",
@@ -24,7 +24,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 1 TB SSD - Negro",
-        "price": "Gs. 3.299.000",
+        "price": "Gs. 3.321.000",
         "details": {
             "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
             "Tipo de memoria RAM": "16 GB DDR4",
@@ -47,7 +47,7 @@
     },
     {
         "name": "Mini PC Lenovo Thinkcentre M625 A4-9120C 1.60 Ghz",
-        "price": "Gs. 1.814.000",
+        "price": "Gs. 1.826.000",
         "details": {
             "Procesador": "A4-9120C 1.60 Ghz",
             "Tipo de memoria RAM": "DDR4 8 GB",
@@ -69,8 +69,27 @@
         "id": 3
     },
     {
+        "name": "Mesa Gamer Satellite GT-400 RGB 140 x 60 cm - Negro",
+        "price": "Gs. 1.193.000",
+        "details": {
+            "Diseño": "Moderno y resistente",
+            "Material": "MDF y metal",
+            "Iluminación": "RGB",
+            "Tamaño": "140 x 60 x 72 cm"
+        },
+        "label": "Satellite",
+        "categories": [
+            "Informática",
+            "Gaming"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110637_1.jpg"
+        ],
+        "id": 4
+    },
+    {
         "name": "Cooler para Notebook Satellite A-CP22",
-        "price": "Gs. 114.000",
+        "price": "Gs. 115.000",
         "details": {
             "Material": "Metal y plástico",
             "Ventilador": "120 mm",
@@ -86,11 +105,56 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807-1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807.jpg"
         ],
-        "id": 4
+        "id": 5
+    },
+    {
+        "name": "Soporte para Monitor Stalo Triple",
+        "price": "Gs. 157.000",
+        "details": {
+            "Diseño": "Moderno y resistente",
+            "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
+            "Material": "MDF y acabado UV",
+            "Capacidad": "40kg",
+            "Dimensiones": "16 x 24 x 35 cm"
+        },
+        "label": "Stalo",
+        "categories": [
+            "Informática",
+            "Soporte para Monitores",
+            "Muebles",
+            "Soporte para TV's y Monitores"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-1.jpg"
+        ],
+        "id": 6
+    },
+    {
+        "name": "Soporte para Monitor Stalo Doble - Marrón",
+        "price": "Gs. 119.000",
+        "details": {
+            "Diseño": "Moderno y resistente",
+            "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
+            "Material": "MDF y acabado UV",
+            "Capacidad": "20kg",
+            "Dimensiones": "12 x 24 x 35 cm"
+        },
+        "label": "Stalo",
+        "categories": [
+            "Informática",
+            "Soporte para Monitores",
+            "Muebles",
+            "Soporte para TV's y Monitores"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003729.jpg"
+        ],
+        "id": 7
     },
     {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
-        "price": "Gs. 10.288.000",
+        "price": "Gs. 10.356.000",
         "details": {
             "Funciones": "Impresión, copia, escáner y fax",
             "Tipo de suministro": "Tóner",
@@ -110,11 +174,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_3.jpg"
         ],
-        "id": 5
+        "id": 8
     },
     {
         "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
-        "price": "Gs. 3.418.000",
+        "price": "Gs. 3.090.000",
         "details": {
             "Funciones": "Impresión, copia y escáner",
             "Tipo de suministro": "Tóner",
@@ -133,11 +197,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_3.jpg"
         ],
-        "id": 6
+        "id": 9
     },
     {
         "name": "Proyector OnLed On7 720P",
-        "price": "Gs. 1.048.000",
+        "price": "Gs. 1.055.000",
         "details": {
             "Sistema de imagen": "LCD",
             "Relación de aspecto": "16",
@@ -155,63 +219,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/i/m/img_01.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/g/mg_02.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/g/mg_03.jpg"
-        ],
-        "id": 7
-    },
-    {
-        "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 73.000",
-        "details": {
-            "Ventilador": "160 mm",
-            "Interfaz": "USB",
-            "Velocidad del ventilador": "900 RPM",
-            "Material": "Metal, plástico",
-            "Compatibilidad": "9\" a 17\""
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
-        ],
-        "id": 8
-    },
-    {
-        "name": "Cooler Satellite A-CP19 para Notebook - Negro",
-        "price": "Gs. 83.000",
-        "details": {
-            "Ventilador": "140 mm",
-            "Interfaz": "USB",
-            "Velocidad del ventilador": "900 RPM",
-            "Material": "Plástico, metal",
-            "Compatibilidad": "9\" a 17\""
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
-        ],
-        "id": 9
-    },
-    {
-        "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
-        "price": "Gs. 73.000",
-        "details": {
-            "Ventilador": "140 mm",
-            "Interfaz": "USB",
-            "Velocidad del ventilador": "1600 RPM",
-            "Material": "Metal, plástico",
-            "Compatibilidad": "9\" a 17\""
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
         ],
         "id": 10
     }
