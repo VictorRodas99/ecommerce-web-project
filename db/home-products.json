@@ -47,7 +47,7 @@
     },
     {
         "name": "Mini PC Lenovo Thinkcentre M625 A4-9120C 1.60 Ghz",
-        "price": "Gs. 1.654.000Gs. 1.838.000",
+        "price": "Gs. 1.838.000",
         "details": {
             "Procesador": "A4-9120C 1.60 Ghz",
             "Tipo de memoria RAM": "DDR4 8 GB",
@@ -59,8 +59,7 @@
         "label": "Lenovo",
         "categories": [
             "Informática",
-            "Notebooks",
-            "Hasta agotar stock"
+            "Notebooks"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/O/zOtv88i4oM5HL5BmHkEoMcDY77gPSGNIjKy.jpg",
@@ -179,29 +178,6 @@
         "id": 8
     },
     {
-        "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
-        "price": "Gs. 3.090.000",
-        "details": {
-            "Funciones": "Impresión, copia y escáner",
-            "Tipo de suministro": "Tóner",
-            "Velocidad máxima de impresión": "30 ppm",
-            "Resolución de impresión": "Hasta 2400 x 600 ppp",
-            "Compatible con": "Windows y MacOS"
-        },
-        "label": "Brother",
-        "categories": [
-            "Informática",
-            "Impresoras",
-            "Impresoras Brother"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_3.jpg"
-        ],
-        "id": 9
-    },
-    {
         "name": "Proyector OnLed On7 720P",
         "price": "Gs. 914.000",
         "details": {
@@ -221,6 +197,25 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/i/m/img_01.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/g/mg_02.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/g/mg_03.jpg"
+        ],
+        "id": 9
+    },
+    {
+        "name": "Cooler Satellite A-CP03 para Notebook - Negro",
+        "price": "Gs. 74.000",
+        "details": {
+            "Ventilador": "160 mm",
+            "Interfaz": "USB",
+            "Velocidad del ventilador": "900 RPM",
+            "Material": "Metal, plástico",
+            "Compatibilidad": "9\" a 17\""
+        },
+        "label": "Satellite",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
         ],
         "id": 10
     }
