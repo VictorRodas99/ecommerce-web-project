@@ -1,5 +1,51 @@
 [
     {
+        "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 500 GB SSD - Negro",
+        "price": "Gs. 3.132.000",
+        "details": {
+            "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
+            "Tipo de memoria RAM": "16 GB DDR4",
+            "Ranura SSD": "M.2 PCIe 3.0 SSD",
+            "Gráficos": "AMD Radeon Graphics",
+            "Conectividad": "Wi-Fi 6 802.11ax y Bluetooth 5.2",
+            "Interfaz": "3 x USB 3.2, 1 x USB-C, USB 2.0, LAN RJ45, 1 x HDMI, 3.5mm audio Jack y 1 x DisplayPort"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/c/pc-122279-_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_1__2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_2__2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_3__2.jpg"
+        ],
+        "id": 1
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 1 TB SSD - Negro",
+        "price": "Gs. 3.336.000",
+        "details": {
+            "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
+            "Tipo de memoria RAM": "16 GB DDR4",
+            "Ranura SSD": "M.2 PCIe 3.0 SSD",
+            "Gráficos": "AMD Radeon Graphics",
+            "Conectividad": "Wi-Fi 6 802.11ax y Bluetooth 5.2",
+            "Interfaz": "3 x USB 3.2, 1 x USB-C, USB 2.0, LAN RJ45, 1 x HDMI, 3.5mm audio Jack y 1 x DisplayPort"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/c/pc-122279-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_1__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_2__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_3__1.jpg"
+        ],
+        "id": 2
+    },
+    {
         "name": "Cable de Extensión RGB Lian Li Strimer Plus V2 8PIN",
         "price": "Gs. 464.000",
         "details": {
@@ -16,7 +62,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/r/rrQDDb2k5WxKeXuaN2ylXlXDxtX7Qgvqmv3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/X/Q/XQEW37TOrOzHc9aaXEy9aC9ybI3rcbUYOdi.jpg"
         ],
-        "id": 1
+        "id": 3
     },
     {
         "name": "Mini PC Lenovo Thinkcentre M625 A4-9120C 1.60 Ghz",
@@ -40,7 +86,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/3/m3VN94hHWNlbn8qyxrfFqufrmuntDJm8z5J.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/U/1/U1Zaqs6F6bWFeD6vVzqhBAROnJKMuFWMMJn.jpg"
         ],
-        "id": 2
+        "id": 4
     },
     {
         "name": "Cooler para Notebook Satellite A-CP22",
@@ -60,7 +106,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807-1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807.jpg"
         ],
-        "id": 3
+        "id": 5
     },
     {
         "name": "Soporte para Monitor Stalo Triple",
@@ -83,7 +129,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-1.jpg"
         ],
-        "id": 4
+        "id": 6
     },
     {
         "name": "Soporte para Monitor Stalo Doble - Marrón",
@@ -105,11 +151,11 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003729.jpg"
         ],
-        "id": 5
+        "id": 7
     },
     {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
-        "price": "Gs. 10.491.000",
+        "price": "Gs. 10.990.000",
         "details": {
             "Funciones": "Impresión, copia, escáner y fax",
             "Tipo de suministro": "Tóner",
@@ -130,31 +176,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_3.jpg"
         ],
-        "id": 6
-    },
-    {
-        "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
-        "price": "Gs. 3.132.000",
-        "details": {
-            "Funciones": "Impresión, copia y escáner",
-            "Tipo de suministro": "Tóner",
-            "Velocidad máxima de impresión": "30 ppm",
-            "Resolución de impresión": "Hasta 2400 x 600 ppp",
-            "Compatible con": "Windows y MacOS"
-        },
-        "label": "Brother",
-        "categories": [
-            "Informática",
-            "Impresoras",
-            "Impresoras Brother",
-            "Dia dos Pais"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_3.jpg"
-        ],
-        "id": 7
+        "id": 8
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
@@ -173,7 +195,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
         ],
-        "id": 8
+        "id": 9
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
@@ -191,25 +213,6 @@
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
-        ],
-        "id": 9
-    },
-    {
-        "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
-        "price": "Gs. 75.000",
-        "details": {
-            "Ventilador": "140 mm",
-            "Interfaz": "USB",
-            "Velocidad del ventilador": "1600 RPM",
-            "Material": "Metal, plástico",
-            "Compatibilidad": "9\" a 17\""
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
         ],
         "id": 10
     }
