@@ -1,7 +1,7 @@
 [
     {
         "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 500 GB SSD - Negro",
-        "price": "Gs. 3.132.000",
+        "price": "Gs. 3.153.168",
         "details": {
             "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
             "Tipo de memoria RAM": "16 GB DDR4",
@@ -24,7 +24,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 1 TB SSD - Negro",
-        "price": "Gs. 3.336.000",
+        "price": "Gs. 3.379.045",
         "details": {
             "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
             "Tipo de memoria RAM": "16 GB DDR4",
@@ -47,7 +47,7 @@
     },
     {
         "name": "Cable de Extensión RGB Lian Li Strimer Plus V2 8PIN",
-        "price": "Gs. 464.000",
+        "price": "Gs. 469.987",
         "details": {
             "Diseño": "Elegante",
             "Conexiones": "VGA",
@@ -66,7 +66,7 @@
     },
     {
         "name": "Mini PC Lenovo Thinkcentre M625 A4-9120C 1.60 Ghz",
-        "price": "Gs. 1.720.000",
+        "price": "Gs. 1.742.194",
         "details": {
             "Procesador": "A4-9120C 1.60 Ghz",
             "Tipo de memoria RAM": "DDR4 8 GB",
@@ -90,7 +90,7 @@
     },
     {
         "name": "Cooler para Notebook Satellite A-CP22",
-        "price": "Gs. 117.000",
+        "price": "Gs. 118.510",
         "details": {
             "Material": "Metal y plástico",
             "Ventilador": "120 mm",
@@ -110,7 +110,7 @@
     },
     {
         "name": "Soporte para Monitor Stalo Triple",
-        "price": "Gs. 159.052",
+        "price": "Gs. 133.703",
         "details": {
             "Diseño": "Moderno y resistente",
             "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
@@ -132,30 +132,8 @@
         "id": 6
     },
     {
-        "name": "Soporte para Monitor Stalo Doble - Marrón",
-        "price": "Gs. 120.556",
-        "details": {
-            "Diseño": "Moderno y resistente",
-            "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
-            "Material": "MDF y acabado UV",
-            "Capacidad": "20kg",
-            "Dimensiones": "12 x 24 x 35 cm"
-        },
-        "label": "Stalo",
-        "categories": [
-            "Informática",
-            "Soporte para Monitores",
-            "Muebles",
-            "Soporte para TV's y Monitores"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003729.jpg"
-        ],
-        "id": 7
-    },
-    {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
-        "price": "Gs. 10.990.000",
+        "price": "Gs. 11.131.806",
         "details": {
             "Funciones": "Impresión, copia, escáner y fax",
             "Tipo de suministro": "Tóner",
@@ -176,11 +154,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_3.jpg"
         ],
-        "id": 8
+        "id": 7
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 75.000",
+        "price": "Gs. 75.968",
         "details": {
             "Ventilador": "160 mm",
             "Interfaz": "USB",
@@ -195,11 +173,11 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
         ],
-        "id": 9
+        "id": 8
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
-        "price": "Gs. 84.000",
+        "price": "Gs. 85.084",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
@@ -213,6 +191,25 @@
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
+        ],
+        "id": 9
+    },
+    {
+        "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
+        "price": "Gs. 75.968",
+        "details": {
+            "Ventilador": "140 mm",
+            "Interfaz": "USB",
+            "Velocidad del ventilador": "1600 RPM",
+            "Material": "Metal, plástico",
+            "Compatibilidad": "9\" a 17\""
+        },
+        "label": "Satellite",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
         ],
         "id": 10
     }
