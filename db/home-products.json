@@ -1,7 +1,7 @@
 [
     {
         "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 500 GB SSD - Negro",
-        "price": "Gs. 3.153.168",
+        "price": "Gs. 3.174.089",
         "details": {
             "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
             "Tipo de memoria RAM": "16 GB DDR4",
@@ -23,31 +23,8 @@
         "id": 1
     },
     {
-        "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 1 TB SSD - Negro",
-        "price": "Gs. 3.379.045",
-        "details": {
-            "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
-            "Tipo de memoria RAM": "16 GB DDR4",
-            "Ranura SSD": "M.2 PCIe 3.0 SSD",
-            "Gráficos": "AMD Radeon Graphics",
-            "Conectividad": "Wi-Fi 6 802.11ax y Bluetooth 5.2",
-            "Interfaz": "3 x USB 3.2, 1 x USB-C, USB 2.0, LAN RJ45, 1 x HDMI, 3.5mm audio Jack y 1 x DisplayPort"
-        },
-        "label": "Beelink",
-        "categories": [
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/c/pc-122279-_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_1__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_2__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_3__1.jpg"
-        ],
-        "id": 2
-    },
-    {
         "name": "Cable de Extensión RGB Lian Li Strimer Plus V2 8PIN",
-        "price": "Gs. 469.987",
+        "price": "Gs. 472.994",
         "details": {
             "Diseño": "Elegante",
             "Conexiones": "VGA",
@@ -62,11 +39,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/r/rrQDDb2k5WxKeXuaN2ylXlXDxtX7Qgvqmv3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/X/Q/XQEW37TOrOzHc9aaXEy9aC9ybI3rcbUYOdi.jpg"
         ],
-        "id": 3
+        "id": 2
     },
     {
         "name": "Mini PC Lenovo Thinkcentre M625 A4-9120C 1.60 Ghz",
-        "price": "Gs. 1.403.000",
+        "price": "Gs. 1.411.936",
         "details": {
             "Procesador": "A4-9120C 1.60 Ghz",
             "Tipo de memoria RAM": "DDR4 8 GB",
@@ -86,11 +63,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/3/m3VN94hHWNlbn8qyxrfFqufrmuntDJm8z5J.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/U/1/U1Zaqs6F6bWFeD6vVzqhBAROnJKMuFWMMJn.jpg"
         ],
-        "id": 4
+        "id": 3
     },
     {
         "name": "Cooler para Notebook Satellite A-CP22",
-        "price": "Gs. 118.510",
+        "price": "Gs. 118.752",
         "details": {
             "Material": "Metal y plástico",
             "Ventilador": "120 mm",
@@ -106,11 +83,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807-1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807.jpg"
         ],
-        "id": 5
+        "id": 4
     },
     {
         "name": "Soporte para Monitor Stalo Triple",
-        "price": "Gs. 133.703",
+        "price": "Gs. 134.555",
         "details": {
             "Diseño": "Moderno y resistente",
             "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
@@ -129,11 +106,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-1.jpg"
         ],
-        "id": 6
+        "id": 5
     },
     {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
-        "price": "Gs. 11.131.806",
+        "price": "Gs. 11.202.904",
         "details": {
             "Funciones": "Impresión, copia, escáner y fax",
             "Tipo de suministro": "Tóner",
@@ -154,11 +131,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_3.jpg"
         ],
-        "id": 7
+        "id": 6
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 75.968",
+        "price": "Gs. 76.484",
         "details": {
             "Ventilador": "160 mm",
             "Interfaz": "USB",
@@ -173,11 +150,11 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
         ],
-        "id": 8
+        "id": 7
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
-        "price": "Gs. 85.084",
+        "price": "Gs. 85.626",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
@@ -192,11 +169,11 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
         ],
-        "id": 9
+        "id": 8
     },
     {
         "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
-        "price": "Gs. 75.968",
+        "price": "Gs. 76.452",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
@@ -210,6 +187,26 @@
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
+        ],
+        "id": 9
+    },
+    {
+        "name": "Mouse Inalámbrico Logitech M187 - Negro (910-005459)",
+        "price": "Gs. 125.796",
+        "details": {
+            "Diseño": "Compacto",
+            "Tipo de mouse": "Óptico",
+            "Resolución": "1000 DPI",
+            "Interfaz": "Receptor USB"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Informática",
+            "Mouses & Pads"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-negro_910-005459.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-negro-910-005459-1.jpg"
         ],
         "id": 10
     }
