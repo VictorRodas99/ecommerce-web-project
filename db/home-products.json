@@ -1,7 +1,7 @@
 [
     {
         "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 500 GB SSD - Negro",
-        "price": "Gs. 3.194.178",
+        "price": "Gs. 3.194.000",
         "details": {
             "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
             "Tipo de memoria RAM": "16 GB DDR4",
@@ -87,7 +87,7 @@
     },
     {
         "name": "Soporte para Monitor Stalo Triple",
-        "price": "Gs. 135.406",
+        "price": "Gs. 132.000",
         "details": {
             "Diseño": "Moderno y resistente",
             "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
@@ -110,7 +110,7 @@
     },
     {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
-        "price": "Gs. 11.274.000",
+        "price": "Gs. 10.990.000",
         "details": {
             "Funciones": "Impresión, copia, escáner y fax",
             "Tipo de suministro": "Tóner",
@@ -124,7 +124,8 @@
             "Informática",
             "Impresoras",
             "Impresoras Brother",
-            "Dia dos Pais"
+            "Dia dos Pais",
+            "Día del Cliente"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_1.jpg",
@@ -134,8 +135,70 @@
         "id": 6
     },
     {
+        "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
+        "price": "Gs. 3.478.000",
+        "details": {
+            "Funciones": "Impresión, copia y escáner",
+            "Tipo de suministro": "Tóner",
+            "Velocidad máxima de impresión": "30 ppm",
+            "Resolución de impresión": "Hasta 2400 x 600 ppp",
+            "Compatible con": "Windows y MacOS"
+        },
+        "label": "Brother",
+        "categories": [
+            "Informática",
+            "Impresoras",
+            "Impresoras Brother",
+            "Dia dos Pais"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_3.jpg"
+        ],
+        "id": 7
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B550-PRO AM4 DDR4",
+        "price": "Gs. 1.621.000",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM DDR4 admite hasta 128 GB",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Chipset": "AMD B550"
+        },
+        "label": "ASUS",
+        "categories": [
+            "Informática",
+            "Placas madres"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_2.jpg"
+        ],
+        "specifications": {
+            "Factor de Forma": "ATX",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 5100(O.C), 5000(O.C), 4866(O.C), 4800(O.C.), 4600(O.C), 4500(O.C), 4400(O.C), 4333(O.C.), 4266(O.C.), 4200(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3733(O.C.), 3600(O.C.), 3466(O.C.), 3400(O.C.), 3333(O.C.), 3200, 3000, 2800, 2666, 2400, 2133 MHz",
+            "Procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
+            "Chipset": "AMD B550",
+            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
+            "Audio": "Códec de audio de alta definición con sonido envolvente Realtek ALC S1200A 7.1",
+            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16, 3 x PCI Express 3.0 x1",
+            "LAN": "Realtek RTL8125B 2.5Gb Ethernet",
+            "Interfaz": "1 x DisplayPort, 1 x HDMI, 1 x LAN (2.5G), 2 x USB 3.2 Gen 2, 2 x USB 3.2 Gen 1, 4 x USB 2.0, 1 x Optical S/PDIF, 5 x Audio Jack, 1 x Boton BIOS FlashBack"
+        },
+        "id": 8
+    },
+    {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 76.968",
+        "price": "Gs. 77.000",
         "details": {
             "Ventilador": "160 mm",
             "Interfaz": "USB",
@@ -150,11 +213,11 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
         ],
-        "id": 7
+        "id": 9
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
-        "price": "Gs. 86.168",
+        "price": "Gs. 86.000",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
@@ -168,45 +231,6 @@
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
-        ],
-        "id": 8
-    },
-    {
-        "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
-        "price": "Gs. 76.935",
-        "details": {
-            "Ventilador": "140 mm",
-            "Interfaz": "USB",
-            "Velocidad del ventilador": "1600 RPM",
-            "Material": "Metal, plástico",
-            "Compatibilidad": "9\" a 17\""
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
-        ],
-        "id": 9
-    },
-    {
-        "name": "Mouse Inalámbrico Logitech M187 - Negro (910-005459)",
-        "price": "Gs. 126.592",
-        "details": {
-            "Diseño": "Compacto",
-            "Tipo de mouse": "Óptico",
-            "Resolución": "1000 DPI",
-            "Interfaz": "Receptor USB"
-        },
-        "label": "Logitech",
-        "categories": [
-            "Informática",
-            "Mouses & Pads"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-negro_910-005459.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/1/m187-negro-910-005459-1.jpg"
         ],
         "id": 10
     }
