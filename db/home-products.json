@@ -1,7 +1,53 @@
 [
     {
+        "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 500 GB SSD - Negro",
+        "price": "Gs. 3.235.000",
+        "details": {
+            "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
+            "Tipo de memoria RAM": "16 GB DDR4",
+            "Ranura SSD": "M.2 PCIe 3.0 SSD",
+            "Gráficos": "AMD Radeon Graphics",
+            "Conectividad": "Wi-Fi 6 802.11ax y Bluetooth 5.2",
+            "Interfaz": "3 x USB 3.2, 1 x USB-C, USB 2.0, LAN RJ45, 1 x HDMI, 3.5mm audio Jack y 1 x DisplayPort"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/c/pc-122279-_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_1__2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_2__2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_3__2.jpg"
+        ],
+        "id": 1
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 1 TB SSD - Negro",
+        "price": "Gs. 3.432.000",
+        "details": {
+            "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
+            "Tipo de memoria RAM": "16 GB DDR4",
+            "Ranura SSD": "M.2 PCIe 3.0 SSD",
+            "Gráficos": "AMD Radeon Graphics",
+            "Conectividad": "Wi-Fi 6 802.11ax y Bluetooth 5.2",
+            "Interfaz": "3 x USB 3.2, 1 x USB-C, USB 2.0, LAN RJ45, 1 x HDMI, 3.5mm audio Jack y 1 x DisplayPort"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/c/pc-122279-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_1__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_2__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_3__1.jpg"
+        ],
+        "id": 2
+    },
+    {
         "name": "Cable de Extensión RGB Lian Li Strimer Plus V2 8PIN",
-        "price": "Gs. 479.000",
+        "price": "Gs. 491.000",
         "details": {
             "Diseño": "Elegante",
             "Conexiones": "VGA",
@@ -16,54 +62,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/r/rrQDDb2k5WxKeXuaN2ylXlXDxtX7Qgvqmv3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/X/Q/XQEW37TOrOzHc9aaXEy9aC9ybI3rcbUYOdi.jpg"
         ],
-        "id": 1
-    },
-    {
-        "name": "Mini PC Lenovo Thinkcentre M625 A4-9120C 1.60 Ghz",
-        "price": "Gs. 1.430.000",
-        "details": {
-            "Procesador": "A4-9120C 1.60 Ghz",
-            "Tipo de memoria RAM": "DDR4 8 GB",
-            "Ranura SSD": "128 GB",
-            "Gráficos": "Integrados",
-            "Conectividad": "Bluetooth 5.1, Wi-Fi 5 802.11 ac",
-            "Interfaz": "RJ-45, auriculares (3.5 mm), DisplayPort, M.2, Microfono 3.5mm, USB 2.0, USB 3.1, USB Tipo-C"
-        },
-        "label": "Lenovo",
-        "categories": [
-            "Informática",
-            "Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/O/zOtv88i4oM5HL5BmHkEoMcDY77gPSGNIjKy.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/U/bUtjaSnnW2EmlUYwVoWjrM7ttkYitpBQoFP.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/3/m3VN94hHWNlbn8qyxrfFqufrmuntDJm8z5J.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/U/1/U1Zaqs6F6bWFeD6vVzqhBAROnJKMuFWMMJn.jpg"
-        ],
-        "id": 2
-    },
-    {
-        "name": "Mesa Gamer Satellite GT-400 RGB 140 x 60 cm - Negro",
-        "price": "Gs. 1.022.000",
-        "details": {
-            "Diseño": "Moderno y resistente",
-            "Material": "MDF y metal",
-            "Iluminación": "RGB",
-            "Tamaño": "140 x 60 x 72 cm"
-        },
-        "label": "Satellite",
-        "categories": [
-            "Informática",
-            "Gaming"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110637_1.jpg"
-        ],
         "id": 3
     },
     {
         "name": "Cooler para Notebook Satellite A-CP22",
-        "price": "Gs. 120.000",
+        "price": "Gs. 123.000",
         "details": {
             "Material": "Metal y plástico",
             "Ventilador": "120 mm",
@@ -83,7 +86,7 @@
     },
     {
         "name": "Soporte para Monitor Stalo Triple",
-        "price": "Gs. 132.830",
+        "price": "Gs. 136.151",
         "details": {
             "Diseño": "Moderno y resistente",
             "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
@@ -106,7 +109,7 @@
     },
     {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
-        "price": "Gs. 11.060.000",
+        "price": "Gs. 11.090.000",
         "details": {
             "Funciones": "Impresión, copia, escáner y fax",
             "Tipo de suministro": "Tóner",
@@ -132,7 +135,7 @@
     },
     {
         "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
-        "price": "Gs. 3.412.000",
+        "price": "Gs. 3.390.000",
         "details": {
             "Funciones": "Impresión, copia y escáner",
             "Tipo de suministro": "Tóner",
@@ -156,7 +159,7 @@
     },
     {
         "name": "Placa Madre Asus TUF Gaming B550-PRO AM4 DDR4",
-        "price": "Gs. 1.612.000",
+        "price": "Gs. 1.652.000",
         "details": {
             "Factor de Forma": "ATX",
             "Soporta procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
@@ -194,7 +197,7 @@
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 77.000",
+        "price": "Gs. 79.000",
         "details": {
             "Ventilador": "160 mm",
             "Interfaz": "USB",
@@ -213,7 +216,7 @@
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
-        "price": "Gs. 87.000",
+        "price": "Gs. 89.000",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
