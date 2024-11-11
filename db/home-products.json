@@ -1,28 +1,5 @@
 [
     {
-        "name": "Mini Computadora de Escritorio Beelink SER5 MAX AMD Ryzen 7 5800H 16 GB DDR4 1 TB SSD - Negro",
-        "price": "Gs. 3.432.000",
-        "details": {
-            "Procesador": "AMD Ryzen 7 5800H Octa-Core 3.2 - 4.4 GHz",
-            "Tipo de memoria RAM": "16 GB DDR4",
-            "Ranura SSD": "M.2 PCIe 3.0 SSD",
-            "Gráficos": "AMD Radeon Graphics",
-            "Conectividad": "Wi-Fi 6 802.11ax y Bluetooth 5.2",
-            "Interfaz": "3 x USB 3.2, 1 x USB-C, USB 2.0, LAN RJ45, 1 x HDMI, 3.5mm audio Jack y 1 x DisplayPort"
-        },
-        "label": "Beelink",
-        "categories": [
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/c/pc-122279-_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_1__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_2__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279_3__1.jpg"
-        ],
-        "id": 1
-    },
-    {
         "name": "Cable de Extensión RGB Lian Li Strimer Plus V2 8PIN",
         "price": "Gs. 491.000",
         "details": {
@@ -39,7 +16,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/r/rrQDDb2k5WxKeXuaN2ylXlXDxtX7Qgvqmv3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/X/Q/XQEW37TOrOzHc9aaXEy9aC9ybI3rcbUYOdi.jpg"
         ],
-        "id": 2
+        "id": 1
     },
     {
         "name": "Cooler para Notebook Satellite A-CP22",
@@ -59,7 +36,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807-1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807.jpg"
         ],
-        "id": 3
+        "id": 2
     },
     {
         "name": "Soporte para Monitor Stalo Triple",
@@ -81,6 +58,32 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-1.jpg"
+        ],
+        "id": 3
+    },
+    {
+        "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
+        "price": "Gs. 11.090.000",
+        "details": {
+            "Funciones": "Impresión, copia, escáner y fax",
+            "Tipo de suministro": "Tóner",
+            "Pantalla": "Táctil a color de 4.85”",
+            "Velocidad máxima de impresión": "50 ppm",
+            "Resolución máxima de impresión": "1200 x 1200 ppp",
+            "Compatible con": "Windows, Linux y MacOS"
+        },
+        "label": "Brother",
+        "categories": [
+            "Informática",
+            "Impresoras",
+            "Impresoras Brother",
+            "Dia dos Pais",
+            "Día del Cliente"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/f/mfcl-6900dw_-_3.jpg"
         ],
         "id": 4
     },
@@ -202,5 +205,27 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
         ],
         "id": 9
+    },
+    {
+        "name": "Speaker Para PC Logitech Z313 - Negro",
+        "price": "Gs. 448.000",
+        "details": {
+            "Canales de salida de audio": "2.1",
+            "Potencia estimada RMS": "25 W",
+            "Control con cable": "Encendido, volumen, Jack 3.5 mm",
+            "Conectividad": "Jack 3.5 mm"
+        },
+        "label": "Logitech",
+        "categories": [
+            "Informática",
+            "Accesorios"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_1_.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_2__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_3_.jpg"
+        ],
+        "id": 10
     }
 ]
