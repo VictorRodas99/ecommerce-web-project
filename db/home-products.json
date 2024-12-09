@@ -1,7 +1,7 @@
 [
     {
         "name": "Cable de Extensión RGB Lian Li Strimer Plus V2 8PIN",
-        "price": "Gs. 491.000",
+        "price": "Gs. 485.000",
         "details": {
             "Diseño": "Elegante",
             "Conexiones": "VGA",
@@ -20,7 +20,7 @@
     },
     {
         "name": "Cooler para Notebook Satellite A-CP22",
-        "price": "Gs. 123.000",
+        "price": "Gs. 122.000",
         "details": {
             "Material": "Metal y plástico",
             "Ventilador": "120 mm",
@@ -40,7 +40,7 @@
     },
     {
         "name": "Soporte para Monitor Stalo Triple",
-        "price": "Gs. 136.151",
+        "price": "Gs. 134.491",
         "details": {
             "Diseño": "Moderno y resistente",
             "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
@@ -63,7 +63,7 @@
     },
     {
         "name": "Impresora Multifuncional Laser Brother MFCL-6900DW 220v",
-        "price": "Gs. 11.090.000",
+        "price": "Gs. 10.955.000",
         "details": {
             "Funciones": "Impresión, copia, escáner y fax",
             "Tipo de suministro": "Tóner",
@@ -89,7 +89,7 @@
     },
     {
         "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
-        "price": "Gs. 3.390.000",
+        "price": "Gs. 3.349.000",
         "details": {
             "Funciones": "Impresión, copia y escáner",
             "Tipo de suministro": "Tóner",
@@ -113,7 +113,7 @@
     },
     {
         "name": "Placa Madre Asus TUF Gaming B550-PRO AM4 DDR4",
-        "price": "Gs. 1.652.000",
+        "price": "Gs. 1.613.000",
         "details": {
             "Factor de Forma": "ATX",
             "Soporta procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
@@ -151,7 +151,7 @@
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 79.000",
+        "price": "Gs. 78.000",
         "details": {
             "Ventilador": "160 mm",
             "Interfaz": "USB",
@@ -170,7 +170,7 @@
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
-        "price": "Gs. 89.000",
+        "price": "Gs. 88.000",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
@@ -189,7 +189,7 @@
     },
     {
         "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
-        "price": "Gs. 79.000",
+        "price": "Gs. 78.000",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
@@ -208,7 +208,7 @@
     },
     {
         "name": "Speaker Para PC Logitech Z313 - Negro",
-        "price": "Gs. 448.000",
+        "price": "Gs. 442.000",
         "details": {
             "Canales de salida de audio": "2.1",
             "Potencia estimada RMS": "25 W",
@@ -230,7 +230,7 @@
     },
     {
         "name": "Cooler Liquido Gigabyte Aorus WaterForce 240 RGB Fusion 2.0",
-        "price": "Gs. 974.000",
+        "price": "Gs. 671.000Gs. 962.000",
         "details": {
             "Material del bloque": "Cobre",
             "Tamaño del radiador": "277 x 119 x 27 mm",
@@ -262,7 +262,7 @@
     },
     {
         "name": "Tableta Grafica Wacom CTL-472 One Small 7\" - Negro/Rojo",
-        "price": "Gs. 201.000Gs. 251.000",
+        "price": "Gs. 199.000Gs. 248.000",
         "details": {
             "Tamaño de la Tableta": "5,5 x 4,5 \"/ 138,8 x 115,0 mm",
             "Tamaño de Area Activa": "152,40 x 93,98 mm / 6,0 x 3,7\"",
@@ -288,7 +288,7 @@
     },
     {
         "name": "Cooler para Notebook Havit HV-F2081 4 Fan USB - Negro",
-        "price": "Gs. 153.000",
+        "price": "Gs. 151.000",
         "details": {
             "Diseño": "Ergonómico",
             "Material": "Malla de hierro, plástico",
@@ -310,7 +310,7 @@
     },
     {
         "name": "Lector de Código de Barra Zkteco ZKB101 - Negro",
-        "price": "Gs. 266.000",
+        "price": "Gs. 263.000",
         "details": {
             "Tipo": "Escáner láser rojo de 32 bits",
             "Ángulo de lectura": "70°, 70° (vertical, horizontal)",
@@ -330,7 +330,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink Mini S12 Intel N95 16 GB DDR4 500 GB SSD",
-        "price": "Gs. 1.721.000",
+        "price": "Gs. 1.700.000",
         "details": {
             "Procesador": "Intel N95 (4M Cache, up to 3.40 GHz)",
             "Tipo de memoria RAM": "DDR4",
@@ -351,7 +351,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink Mini S12 Intel N95 8 GB DDR4 256 GB SSD",
-        "price": "Gs. 1.495.000",
+        "price": "Gs. 1.477.000",
         "details": {
             "Procesador": "Intel N95 (4M Cache, up to 3.40 GHz)",
             "Tipo de memoria RAM": "DDR4",
@@ -372,7 +372,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink Mini S Intel Celeron N5095 8 GB DDR4 256 GB SSD - Azul",
-        "price": "Gs. 1.367.000",
+        "price": "Gs. 1.350.000",
         "details": {
             "Procesador Intel Celeron N5095 Quad-Core 2.0 - 2.9 GHz": "",
             "Tipo de memoria RAM": "DDR4",
@@ -399,7 +399,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink MINI S12 Pro Intel-N100 16 GB DDR4 500 GB SSD - Azul",
-        "price": "Gs. 1.819.000",
+        "price": "Gs. 1.797.000",
         "details": {
             "Procesador": "Intel-N100 Quad-Core 0.8 - 3.4 GHz",
             "Tipo de memoria RAM": "16 GB DDR4",
@@ -423,7 +423,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink GTI14 Intel Ultra 7 155H 32 GB DDR5 1 TB SSD - Frost Silver",
-        "price": "Gs. 7.620.000",
+        "price": "Gs. 7.527.000",
         "details": {
             "Procesador": "Intel Core Ultra 7 155H",
             "Tipo de memoria RAM": "DDR5",
@@ -443,7 +443,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink GTI14 Intel Ultra 9 185H 32 GB DDR5 1 TB SSD - Frost Silver",
-        "price": "Gs. 8.249.000",
+        "price": "Gs. 8.149.000",
         "details": {
             "Procesador": "Intel Core Ultra 9 185H",
             "Tipo de memoria RAM": "DDR5",
@@ -463,7 +463,7 @@
     },
     {
         "name": "Apple Mac mini M2 Pro (2023) MNH73LL/A 512 GB - Silver",
-        "price": "Gs. 12.684.000",
+        "price": "Gs. 12.529.000",
         "details": {
             "Procesador": "M2 Pro de 10 núcleos",
             "Memoria RAM": "16 GB",
@@ -484,7 +484,7 @@
     },
     {
         "name": "Placa de Video Gigabyte GeForce RTX 4070 Ti Super Eagle OC Ice 16 GB GDDR6x (GV-N407TSEAGLEOC) - Blanco",
-        "price": "Gs. 8.800.000",
+        "price": "Gs. 8.693.000",
         "details": {
             "Gráfico": "NVIDIA GeForce RTX 4070 Ti Super",
             "Memoria de video": "GDDR6x de 16 GB",
@@ -526,7 +526,7 @@
     },
     {
         "name": "Placa de Video Gigabyte GeForce RTX 4060 Ti Windforce OC V2 8 GB GDDR6 (GV-N406TWF2OCV2-8GD)",
-        "price": "Gs. 4.061.000",
+        "price": "Gs. 4.012.000",
         "details": {
             "Gráfico": "NVIDIA GeForce RTX 4060 Ti",
             "Memoria de video": "GDDR6 de 8 GB",
@@ -567,7 +567,7 @@
     },
     {
         "name": "Placa de Video Gigabyte GeForce RTX 3050 OC Low Profile 6 GB GDDR6 (GV-N3050OC-6GL)",
-        "price": "Gs. 1.839.000",
+        "price": "Gs. 1.817.000",
         "details": {
             "Gráfico": "NVIDIA GeForce RTX 3050",
             "Memoria de video": "GDDR6 de 6 GB",
@@ -606,7 +606,7 @@
     },
     {
         "name": "Placa de Video Gigabyte Radeon RX 6400 Eagle 4 GB GDDR6 (GV-R64EAGLE-4GD)",
-        "price": "Gs. 1.229.000",
+        "price": "Gs. 1.214.000",
         "details": {
             "Gráfico": "AMD Radeon RX 6400",
             "Memoria de video": "GDDR6 de 4 GB",
@@ -647,7 +647,7 @@
     },
     {
         "name": "Placa de Video Gigabyte Radeon RX 6500 XT Eagle 4 GB GDDR6 (GV-R65XTEAGLE-4GD)",
-        "price": "Gs. 1.544.000",
+        "price": "Gs. 1.525.000",
         "details": {
             "Gráfico": "AMD Radeon RX 6500 XT",
             "Memoria de video": "GDDR6 de 4 GB",
@@ -688,7 +688,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink GTI12 Intel Core i9 12900HK 32 GB DDR5 1 TB SSD - Frost Silver",
-        "price": "Gs. 5.988.000",
+        "price": "Gs. 5.915.000",
         "details": {
             "Procesador": "Intel Core i9-12900HK",
             "Tipo de memoria RAM": "DDR5",
@@ -712,7 +712,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen 7 5825U 32 GB DDR4 500 GB SSD - Gray",
-        "price": "Gs. 3.333.000",
+        "price": "Gs. 3.293.000",
         "details": {
             "Procesador": "AMD Ryzen™ 7 5825U",
             "Tipo de memoria RAM": "DDR4",
@@ -736,7 +736,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen 7 5825U 16 GB DDR4 500 GB SSD - Gray",
-        "price": "Gs. 3.039.000",
+        "price": "Gs. 3.001.000",
         "details": {
             "Procesador": "AMD Ryzen™ 7 5825U",
             "Tipo de memoria RAM": "DDR4",
@@ -760,7 +760,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen 7 5825U 500 GB SSD - Gray",
-        "price": "Gs. 3.039.000",
+        "price": "Gs. 3.001.000",
         "details": {
             "Procesador": "AMD Ryzen™ 7 5825U",
             "Tipo de memoria RAM": "DDR4",
@@ -781,7 +781,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 8 GB DDR4 500 GB SSD - Gray",
-        "price": "Gs. 2.508.000",
+        "price": "Gs. 2.477.000",
         "details": {
             "Procesador": "AMD Ryzen™ 5 Pro 5650U",
             "Tipo de memoria RAM": "DDR4",
@@ -804,7 +804,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 16 GB DDR4 500 GB SSD - Gray",
-        "price": "Gs. 2.704.000",
+        "price": "Gs. 2.671.000",
         "details": {
             "Procesador": "AMD Ryzen™ 5 Pro 5650U",
             "Tipo de memoria RAM": "DDR4",
@@ -827,7 +827,7 @@
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 500 GB SSD - Gray",
-        "price": "Gs. 2.508.000",
+        "price": "Gs. 2.477.000",
         "details": {
             "Procesador": "AMD Ryzen™ 5 Pro 5650U",
             "Tipo de memoria RAM": "DDR4",
@@ -944,7 +944,7 @@
     },
     {
         "name": "Notebook HP ZBook Firefly G10 14\" Intel Core i7-1355U RTX A500 4 GB Touch - Plata",
-        "price": "Gs. 9.822.000Gs. 11.900.000",
+        "price": "Gs. 9.703.000Gs. 11.750.000",
         "details": {
             "Pantalla": "LCD IPS Touch de 14\" WUXGA 1920 x 1200p",
             "Procesador": "Intel Core i7-1355U 10-Core 1.7 - 5.0 GHz",
@@ -973,34 +973,8 @@
         "id": 37
     },
     {
-        "name": "Notebook HP 14-FQ1035CL 14\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD Touch - Negro",
-        "price": "Gs. 5.090.000",
-        "details": {
-            "Pantalla": "LED Touch de 14\" HD 1366 x 768p",
-            "Procesador": "AMD Ryzen 7 5700U Octa-Core 1.8 - 4.3 GHz",
-            "Memoria RAM": "16 GB DDR4",
-            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
-            "Gráficos": "AMD Radeon Graphics",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "HP",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-4.jpg"
-        ],
-        "id": 38
-    },
-    {
         "name": "Notebook Samsung Galaxy Book3 NP754XFG 15.6\" Intel Core i7-1355U 16 GB LPDDR4x 512 GB SSD - Plata",
-        "price": "Gs. 7.685.000",
+        "price": "Gs. 7.591.000",
         "details": {
             "Pantalla": "LED 15.6” Full HD 1920 x 1080p",
             "Procesador": "Intel Core i7-1355U Deca-Core 1.7 - 5.0 GHz",
@@ -1020,7 +994,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_3_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_2_.jpg"
         ],
-        "id": 39
+        "id": 38
     },
     {
         "name": "Notebook MSI Thin GF63 12UCX-898 15.6\" Intel Core i5-12450H RTX 2050 4 GB - Negro",
@@ -1044,6 +1018,30 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_2_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_4_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_3_1.jpg"
+        ],
+        "id": 39
+    },
+    {
+        "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i3-1215U 8 GB DDR4 512 GB SSD - Negro",
+        "price": "Gs. 3.705.000",
+        "details": {
+            "Pantalla": "LED 15.6\" Full HD 1920 x 1080p",
+            "Procesador": "Intel Core i3-1215U Hexa-Core 1.2 - 4.4 GHz",
+            "Memoria RAM": "8 GB DDR4",
+            "Memoria de almacenamiento": "SSD 512 GB",
+            "Gráficos": "Intel UHD",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "Dell",
+        "categories": [
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_1_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_2_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_3_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_4_4.jpg"
         ],
         "id": 40
     }
