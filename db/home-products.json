@@ -68,7 +68,7 @@
     },
     {
         "name": "Placa Madre Asus TUF Gaming B550-PRO AM4 DDR4",
-        "price": "Gs. 1.593.000",
+        "price": "Gs. 1.584.000",
         "details": {
             "Factor de Forma": "ATX",
             "Soporta procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
@@ -363,7 +363,7 @@
     },
     {
         "name": "Placa de Video Gigabyte GeForce RTX 4060 Ti Windforce OC V2 8 GB GDDR6 (GV-N406TWF2OCV2-8GD)",
-        "price": "Gs. 4.031.000",
+        "price": "Gs. 4.128.000",
         "details": {
             "Gráfico": "NVIDIA GeForce RTX 4060 Ti",
             "Memoria de video": "GDDR6 de 8 GB",
@@ -701,7 +701,7 @@
             "Notebooks",
             "Notebooks Estudio",
             "Notebooks Trabajo",
-            "Notebooks"
+            "Tecnología en casa"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/j/1jIG6NtfJB8MdxHbpFGYQEQb1frFgzL7oXr_1.jpg",
@@ -713,72 +713,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/w/nwoOUMEkdipFCKDlu5zPwtZNM8Imn0uc4jz_1.jpg"
         ],
         "id": 28
-    },
-    {
-        "name": "Notebook ASUS TUF Gaming F15 (2022) FX507ZC4-HN184W 15.6\" Intel Core I5 12500H RTX 3050 4 GB - Mecha Gray",
-        "price": "Gs. 6.900.000",
-        "details": {
-            "Pantalla": "LCD IPS de 15.6\" FHD 1920 x 1080p 144 Hz",
-            "Procesador": "Intel Core i5 12500H 12-Core 2.5 - 4.5 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
-            "Gráficos": "Nvidia GeForce RTX 3050 de 4 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118442_celer_image_8_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118442-1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118442_celer_image_7_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118442-3_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118442_celer_image_6_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118442-4_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118442-5_1.jpg"
-        ],
-        "specifications": {
-            "Procesador": "",
-            "Almacenamiento": "",
-            "Memoria RAM": ""
-        },
-        "id": 29
-    },
-    {
-        "name": "Notebook ASUS TUF Gaming F15 (2022) FX507ZC4-HN184W 15.6\" Intel Core I5 12500H RTX 3050 4 GB - Mecha Gray",
-        "price": "Gs. 6.950.000",
-        "details": {
-            "Pantalla": "LCD IPS de 15.6\" FHD 1920 x 1080p 144 Hz",
-            "Procesador": "Intel Core i5 12500H 12-Core 2.5 - 4.5 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
-            "Gráficos": "Nvidia GeForce RTX 3050 de 4 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118442_celer_image_8.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118442-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118442_celer_image_7.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118442-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118442_celer_image_6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118442-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118442-5.jpg"
-        ],
-        "specifications": {
-            "Procesador": "",
-            "Almacenamiento": "",
-            "Memoria RAM": ""
-        },
-        "id": 30
     },
     {
         "name": "Notebook HP ZBook Firefly G10 14\" Intel Core i7-1355U RTX A500 4 GB Touch - Plata",
@@ -808,7 +742,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119070-7_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119070-8_1.jpg"
         ],
-        "id": 31
+        "id": 29
     },
     {
         "name": "Notebook HP 14-FQ1035CL 14\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD Touch - Negro",
@@ -834,7 +768,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-4.jpg"
         ],
-        "id": 32
+        "id": 30
     },
     {
         "name": "Notebook Samsung Galaxy Book3 NP754XFG 15.6\" Intel Core i7-1355U 16 GB LPDDR4x 512 GB SSD - Plata",
@@ -858,7 +792,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_3_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_2_.jpg"
         ],
-        "id": 33
+        "id": 31
     },
     {
         "name": "Notebook MSI Thin GF63 12UCX-898 15.6\" Intel Core i5-12450H RTX 2050 4 GB - Negro",
@@ -883,7 +817,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_4_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_3_1.jpg"
         ],
-        "id": 34
+        "id": 32
     },
     {
         "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i7-1255U 16 GB DDR4 1 TB SSD - Negro",
@@ -907,7 +841,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_3_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_4_2.jpg"
         ],
-        "id": 35
+        "id": 33
     },
     {
         "name": "Notebook Lenovo IdeaPad 1 14IGL7 14\" Intel Celeron N4020 4 GB DDR4 128 GB eMMC - Cloud Grey (82V60065US)",
@@ -932,7 +866,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82v6s0000_-_4_1_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82v6s0000_-_5_1_2.jpg"
         ],
-        "id": 36
+        "id": 34
     },
     {
         "name": "Notebook ASUS Vivobook S K5504VN-DS96 15.6\" Intel Core i9-13900H 16 GB DDR5 1 TB SSD - Negro",
@@ -957,7 +891,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-3.jpg"
         ],
-        "id": 37
+        "id": 35
     },
     {
         "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i3-1215U 8 GB DDR4 256 GB SSD - Negro",
@@ -982,7 +916,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_3_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_4_1.jpg"
         ],
-        "id": 38
+        "id": 36
     },
     {
         "name": "Notebook Dell Inspiron 15 3525 15.6\" AMD Ryzen 5 5500U 8 GB DDR4 512 GB SSD - Negro",
@@ -1006,7 +940,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110290_-_3_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3525-2_1.jpg"
         ],
-        "id": 39
+        "id": 37
     },
     {
         "name": "Notebook Lenovo V14 G4 AMN 14\" AMD Ryzen 5 7520U 8 GB LPDDR5 256 GB SSD - Negro (82YT00Q3US)",
@@ -1031,6 +965,31 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_4.jpg"
         ],
-        "id": 40
+        "id": 38
+    },
+    {
+        "name": "Notebook Dell G15 G5530-7527 15.6\" Intel Core i7-13650HX RTX 4050 6 GB - Negro",
+        "price": "Gs. 10.509.000",
+        "details": {
+            "Pantalla": "LED 15.6\" Full HD 1920 x 1080p 120 Hz",
+            "Procesador": "Intel Core i7-13650HX Tetradeca-Core 2.6 - 4.9 GHz",
+            "Memoria RAM": "8 GB DDR5",
+            "Memoria de almacenamiento": "SSD M.2 NVMe 1 TB",
+            "Gráficos": "NVIDIA GeForce RTX 4050 6 GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "Dell",
+        "categories": [
+            "Notebooks Gamer",
+            "Notebooks Estudio",
+            "Notebooks Trabajo"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115040_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115040_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115040_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115040_-_4.jpg"
+        ],
+        "id": 39
     }
 ]
