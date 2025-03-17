@@ -85,44 +85,6 @@
         "id": 4
     },
     {
-        "name": "Placa Madre Asus TUF Gaming B550-PRO AM4 DDR4",
-        "price": "Gs. 1.428.000",
-        "details": {
-            "Factor de Forma": "ATX",
-            "Soporta procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
-            "Socket de procesador": "AM4",
-            "Memoria RAM": "4 x DIMM DDR4 admite hasta 128 GB",
-            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
-            "Chipset": "AMD B550"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Informática",
-            "Placas madres"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/s/asus_am4_tuf_gaming_b550-pro_-_2.jpg"
-        ],
-        "specifications": {
-            "Factor de Forma": "ATX",
-            "Socket de procesador": "AM4",
-            "Memoria RAM": "4 x DIMM DDR4, máx. 128 GB, 5100(O.C), 5000(O.C), 4866(O.C), 4800(O.C.), 4600(O.C), 4500(O.C), 4400(O.C), 4333(O.C.), 4266(O.C.), 4200(O.C.), 4133(O.C.), 4000(O.C.), 3866(O.C.), 3733(O.C.), 3600(O.C.), 3466(O.C.), 3400(O.C.), 3333(O.C.), 3200, 3000, 2800, 2666, 2400, 2133 MHz",
-            "Procesadores": "AMD Ryzen Series 3000, 4000 y 5000",
-            "Chipset": "AMD B550",
-            "Almacenamiento": "2 x M.2, 6 x SATA 6Gb/s",
-            "Audio": "Códec de audio de alta definición con sonido envolvente Realtek ALC S1200A 7.1",
-            "Slot de expansión": "1 x PCI Express 4.0 x16, 1 x PCI Express 3.0 x16, 3 x PCI Express 3.0 x1",
-            "LAN": "Realtek RTL8125B 2.5Gb Ethernet",
-            "Interfaz": "1 x DisplayPort, 1 x HDMI, 1 x LAN (2.5G), 2 x USB 3.2 Gen 2, 2 x USB 3.2 Gen 1, 4 x USB 2.0, 1 x Optical S/PDIF, 5 x Audio Jack, 1 x Boton BIOS FlashBack"
-        },
-        "id": 5
-    },
-    {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
         "price": "Gs. 78.000",
         "details": {
@@ -139,7 +101,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
         ],
-        "id": 6
+        "id": 5
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
@@ -158,7 +120,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
         ],
-        "id": 7
+        "id": 6
     },
     {
         "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
@@ -177,7 +139,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
         ],
-        "id": 8
+        "id": 7
     },
     {
         "name": "Lector de Código de Barra Zkteco ZKB101 - Negro",
@@ -197,34 +159,114 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/8/68051_1.jpg"
         ],
+        "id": 8
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink Mini S12 Intel N95 16 GB DDR4 500 GB SSD",
+        "price": "Gs. 1.603.000",
+        "details": {
+            "Procesador": "Intel N95 (4M Cache, up to 3.40 GHz)",
+            "Tipo de memoria RAM": "DDR4",
+            "Gráficos": "Intel UHD Graphics",
+            "Conectividad": "Wi-Fi 802.11ac, Bluetooth 4.2",
+            "Interfaz": "2 x HDMI 2.0 4K@60Hz Output, 3.5mm audio jack"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/j/H/jH8fAfUMhtBF2RQZvNMH6k8dOfqFzj1jAgT.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/v/fvinonc85k2lb5p1677063622re.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/r/4rOcaIjsIxtVO2viWPRfhH0btwz8MVKUn0z.jpg"
+        ],
         "id": 9
     },
     {
-        "name": "Mini Computadora de Escritorio Beelink Mini S Intel Celeron N5095 8 GB DDR4 256 GB SSD - Azul",
-        "price": "Gs. 1.300.000",
+        "name": "Mini Computadora de Escritorio Beelink Mini S12 Intel N95 8 GB DDR4 256 GB SSD",
+        "price": "Gs. 1.477.000",
         "details": {
-            "Procesador Intel Celeron N5095 Quad-Core 2.0 - 2.9 GHz": "",
+            "Procesador": "Intel N95 (4M Cache, up to 3.40 GHz)",
             "Tipo de memoria RAM": "DDR4",
-            "Ranura SSD": "M.2 SATA3 SSD",
             "Gráficos": "Intel UHD Graphics",
-            "Conectividad": "Wi-Fi 802.11ac, Wi-Fi 5 y Bluetooth 4.0",
-            "Interfaz": "4 x USB 3.0, RJ-45 LAN, 2 x HDMI y conector de áudio 3.5 mm"
+            "Conectividad": "Wi-Fi 802.11ac, Bluetooth 4.2",
+            "Interfaz": "2 x HDMI 2.0 4K@60Hz Output, 3.5mm audio jack"
         },
         "label": "Beelink",
         "categories": [
             "Informática",
-            "Oficinas"
+            "Vuelta a Clases",
+            "Accesorios de informática "
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_3_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/S/M/SMFiGxqZ3Xgq6S6coWBH9hCVvQTzPWwedEg.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_2_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/o/1/o1i727skTz7Vp2JezFYhNVpoVjMG9iEiaKa.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_4_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/Z/fZJiYagEbuR4oeu8UfNb83LoiyO2KXay38x.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/r/4rocaijsixtvo2viwprfhh0btwz8mvkun0z.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/j/h/jh8fafumhtbf2rqzvnmh6k8dofqfzj1jagt.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/v/fvinonc85k2lb5p1677063622re_1.jpg"
         ],
         "id": 10
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink MINI S12 Pro Intel-N100 16 GB DDR4 500 GB SSD - Azul",
+        "price": "Gs. 1.700.000",
+        "details": {
+            "Procesador": "Intel-N100 Quad-Core 0.8 - 3.4 GHz",
+            "Tipo de memoria RAM": "16 GB DDR4",
+            "Ranura SSD": "M.2 PCIe X1 SSD",
+            "Gráficos": "Intel UHD Graphics",
+            "Conectividad": "Wi-Fi 6 (802.11ax) y Bluetooth 5.2",
+            "Interfaz": "4 x USB 3.2, USB 2.0, LAN RJ45, 2 x HDMI y 3.5mm audio Jack"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/H/9/H9SELplCr1kTH0z9EOdoyusUqcPGqZvxTbb.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/S/K/SKgNzpm3QHkF69yawzKfeLZ4DnJv8hiG52h.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/5/k/5kFBA8PgrlPIpxEKJuLev5kPZnr381qWpwY.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/Q/gQOU4WRzE4pkoRuK4Yi6OTC8FEFG7HKAfF8.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/3/S/3STv7Nl1Wkbh2n9s5ZOjq8JFYrrnCfJJDDj.jpg"
+        ],
+        "id": 11
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink GK Mini Intel-J4125 8 GB DDR4 256 GB SSD - Negro",
+        "price": "Gs. 1.253.000",
+        "details": {
+            "Procesador": "Intel Gemini Lake J4125",
+            "Memoria RAM": "8 GB",
+            "Almacenamiento": "256 GB SSD",
+            "Interfaz": "Bluetooth 4.0, HDMI, USB 3.0",
+            "Sistema operativo": "Windows 11 Pro"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/C/9/C9xRP7XxoMEUFRMahHNDGRfblLu39mKTBCV.jpg"
+        ],
+        "id": 12
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink GTI14 Intel Ultra 9 185H 32 GB DDR5 1 TB SSD - Frost Silver",
+        "price": "Gs. 8.149.000",
+        "details": {
+            "Procesador": "Intel Core Ultra 9 185H",
+            "Tipo de memoria RAM": "DDR5",
+            "Ranura SSD": "Dual M.2 2880 PCle4.0",
+            "Gráficos": "Intel Arc Graphics",
+            "Conectividad": "Bluetooth, Wi-Fi",
+            "Interfaz": "DisplayPort, HDMI"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/M/M/MMmoPN8d5VLACmuS8VrPSy3aXk0KZD2B2Jd.jpg"
+        ],
+        "id": 13
     },
     {
         "name": "Apple Mac mini M2 Pro (2023) MNH73LL/A 512 GB - Silver",
@@ -245,7 +287,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/G/6/G6rbgTbtF6Npvkxs7G0Ts3gCekGDQoRJdpx.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1673967007_img_1920052_1_.jpg"
         ],
-        "id": 11
+        "id": 14
     },
     {
         "name": "Placa de Video Gigabyte GeForce RTX 4060 Ti Windforce OC V2 8 GB GDDR6 (GV-N406TWF2OCV2-8GD)",
@@ -286,7 +328,7 @@
             "Conectores de alimentación": "8 pines x1",
             "Puertos de salida de vídeo": "DisplayPort - HDMI"
         },
-        "id": 12
+        "id": 15
     },
     {
         "name": "Placa de Video Gigabyte GeForce RTX 3050 OC Low Profile 6 GB GDDR6 (GV-N3050OC-6GL)",
@@ -325,7 +367,7 @@
             "Fuente de alimentación recomendada": "300 W",
             "Puertos de salida de vídeo": "DisplayPort - HDMI"
         },
-        "id": 13
+        "id": 16
     },
     {
         "name": "Placa de Video Gigabyte Radeon RX 6400 Eagle 4 GB GDDR6 (GV-R64EAGLE-4GD)",
@@ -339,8 +381,7 @@
         },
         "label": "Gigabyte",
         "categories": [
-            "Informática",
-            "Promo Electronica"
+            "Informática"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/R/1RhXNNKKLZawSFC3xy8xcgnjFvG04EsCUu0.jpg",
@@ -367,7 +408,148 @@
             "Fuente de alimentación recomendada": "350 W",
             "Puertos de salida de vídeo": "DisplayPort - HDMI"
         },
-        "id": 14
+        "id": 17
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink GTI12 Intel Core i9 12900HK 32 GB DDR5 1 TB SSD - Frost Silver",
+        "price": "Gs. 5.721.000",
+        "details": {
+            "Procesador": "Intel Core i9-12900HK",
+            "Tipo de memoria RAM": "DDR5",
+            "Ranura SSD": "M.2 2880 PCIe 4.0 SSD",
+            "Gráficos": "Intel Iris Xe Graphics",
+            "Conectividad": "2 x LAN 2.5G,",
+            "Interfaz": "3 x USB3 10Gbps, 1 x USB-C 10Gbps, 1 x DP1, 1 x HDMI 4K"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática",
+            "Oficinas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/3/03b8cb31-63d7-4e5e-ad39-5cccbe882dfb.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/3/03b8cb31-63d7-4e5e-ad39-5cccbe882dfb-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/3/03b8cb31-63d7-4e5e-ad39-5cccbe882dfb-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/3/03b8cb31-63d7-4e5e-ad39-5cccbe882dfb-4.jpg"
+        ],
+        "id": 18
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen 7 5825U 32 GB DDR4 500 GB SSD - Gray",
+        "price": "Gs. 3.196.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 7 5825U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Gráficos": "Integrada",
+            "Conectividad": "Dual LAN 1000M, USB 3.0, USB-C 10Gbps, HDMI",
+            "Interfaz": "USB3 10GBPS, USB 2.0 480Mpps, 3.5MM Audio jack, CLR CMOS"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática",
+            "Oficinas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/O/W/OW6YTnpBbuwf2CzH3Rnsu9s3MwAOgfaZSae.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_2.jpg"
+        ],
+        "id": 19
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen 7 5825U 16 GB DDR4 500 GB SSD - Gray",
+        "price": "Gs. 3.001.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 7 5825U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Gráficos": "Integrada",
+            "Conectividad": "Dual LAN 1000M, USB 3.0, USB-C 10Gbps, HDMI",
+            "Interfaz": "USB3 10GBPS, USB 2.0 480Mpps, 3.5MM Audio jack, CLR CMOS"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática",
+            "Oficinas",
+            "Vuelta a Clases",
+            "Accesorios de informática "
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/H/t/Ht8Ryw17xmbQyoT8aCOMqOm3P0GHLGxSdlg.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_1.jpg"
+        ],
+        "id": 20
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen 7 5825U 500 GB SSD - Gray",
+        "price": "Gs. 3.001.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 7 5825U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Gráficos": "Integrada",
+            "Conectividad": "Dual LAN 1000M, USB 3.0, USB-C 10Gbps, HDMI",
+            "Interfaz": "USB3 10GBPS, USB 2.0 480Mpps, 3.5MM Audio jack, CLR CMOS"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática",
+            "Oficinas"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/V/h/Vhnt8z2IyLo8oDIkp3o7dUDjHxjhcqpyotx.jpg"
+        ],
+        "id": 21
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 16 GB DDR4 500 GB SSD - Gray",
+        "price": "Gs. 2.671.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 5 Pro 5650U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Conectividad": "Dual LAN 1000M, USB-C 10Gbps, USB3 10Gbps, HDMI",
+            "Interfaz": "USB 2.0, 3.5mm audio jack, CLR CMOS",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/M/lMHUtmppzYPb2a2nw2zg1kzrm1LMSC2mXDe.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_1_2.jpg"
+        ],
+        "id": 22
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 500 GB SSD - Gray",
+        "price": "Gs. 2.671.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 5 Pro 5650U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Conectividad": "Dual LAN 1000M, USB-C 10Gbps, USB3 10Gbps, HDMI",
+            "Interfaz": "USB 2.0, 3.5mm audio jack, CLR CMOS",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/1/r13rZvQo5tmeUEEPgejuhaGpYvOWRFU7beo.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_2_1.jpg"
+        ],
+        "id": 23
     },
     {
         "name": "Desktop All In One MSI AM242TP 23.8\" Intel Core i5-120U 16 GB DDR5 1 TB SSD Touch - Negro",
@@ -400,7 +582,7 @@
             "Teclado inalámbrico (Inglés)": "",
             "Mouse inalámbrico": ""
         },
-        "id": 15
+        "id": 24
     },
     {
         "name": "Teclado Mecánico WLmouse Ying63 Ying 60% RGB Switch Magnetic Jade Pro - Black (Inglês)",
@@ -434,7 +616,7 @@
             "Placa de identificación personalizada": "incluye una placa de vidrio AG con número de serie único.",
             "Interruptores magnéticos Jade Pro": "suaves, lineales y con hasta 100 millones de pulsaciones, prelubricados para mayor precisión."
         },
-        "id": 16
+        "id": 25
     },
     {
         "name": "Teclado Mecánico WLmouse Ying63 60% RGB Switch Magnetic Jade Pro - (Inglês)",
@@ -467,7 +649,7 @@
             "Placa de identificación personalizada": "incluye una placa de vidrio AG con número de serie único.",
             "Interruptores magnéticos Jade Pro": "suaves, lineales y con hasta 100 millones de pulsaciones, prelubricados para mayor precisión."
         },
-        "id": 17
+        "id": 26
     },
     {
         "name": "Proyector Wanbo X5 Air 1100 Lúmenes Full HD - Blanco",
@@ -488,7 +670,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/Z/z/ZzNVCotrztlcrQcjlPP1LHFwOxxgLUw5Tqt.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/3/Q/3Q6CbHK8rCAF3DK3poRjGb55ldVNcxpXmrK.jpg"
         ],
-        "id": 18
+        "id": 27
     },
     {
         "name": "Desktop All In One MSI AM242TP 1M-1097US 23.8\" Intel Core i5-120U 16 GB DDR5 1 TB SSD Touch - Blanco",
@@ -519,7 +701,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/K/i/KijRAc5Gzmj74u1lDsHhIBiSRTXQ3hwDGDj.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/H/zHt33YUCOtfPvtR1XRSaS25XDOdISik074T.jpg"
         ],
-        "id": 19
+        "id": 28
     },
     {
         "name": "Notebook HP 14-FQ1035CL 14\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD Touch - Negro",
@@ -546,7 +728,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-4.jpg"
         ],
-        "id": 20
+        "id": 29
     },
     {
         "name": "Notebook Samsung Galaxy Book3 NP754XFG 15.6\" Intel Core i7-1355U 16 GB LPDDR4x 512 GB SSD - Plata",
@@ -570,7 +752,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_3_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/p/np754xfg_2_.jpg"
         ],
-        "id": 21
+        "id": 30
     },
     {
         "name": "Notebook MSI Thin GF63 12UCX-898 15.6\" Intel Core i5-12450H RTX 2050 4 GB - Negro",
@@ -596,7 +778,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_4_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_3_1.jpg"
         ],
-        "id": 22
+        "id": 31
     },
     {
         "name": "Notebook HP 250 G10 15.6\" Intel Core i7-1355U 8 GB DDR4 512 GB SSD - Negro",
@@ -620,32 +802,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-4.jpg"
         ],
-        "id": 23
-    },
-    {
-        "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i3-1215U 8 GB DDR4 512 GB SSD - Negro",
-        "price": "Gs. 3.705.000",
-        "details": {
-            "Pantalla": "LED 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i3-1215U Hexa-Core 1.2 - 4.4 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD 512 GB",
-            "Gráficos": "Intel UHD",
-            "Sistema operativo": "Windows 11"
-        },
-        "label": "Dell",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Volta às aulas"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_1_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_2_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_3_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_4_4.jpg"
-        ],
-        "id": 24
+        "id": 32
     },
     {
         "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i7-1255U 16 GB DDR4 1 TB SSD - Negro",
@@ -669,7 +826,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_3_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_4_2.jpg"
         ],
-        "id": 25
+        "id": 33
     },
     {
         "name": "Notebook ASUS Vivobook S K5504VN-DS96 15.6\" Intel Core i9-13900H 16 GB DDR5 1 TB SSD - Negro",
@@ -694,32 +851,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-3.jpg"
         ],
-        "id": 26
-    },
-    {
-        "name": "Notebook HP 15-FD0002LA 15.6\" Intel Core i3-N305 8 GB DDR4 256 GB SSD - Dorado + Mochila Travel HP 18L",
-        "price": "Gs. 3.380.000",
-        "details": {
-            "Pantalla": "LED 15.6” Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i3-N305 Octa-Core 3.8 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe 256 GB",
-            "Gráficos": "Intel UHD",
-            "Sistema Operativos": "Windows 11 Home"
-        },
-        "label": "HP",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-fc0006la_1__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-fc0006la_2__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-fc0006la_4__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-fc0006la_3__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/5/15-fc0006la_5__1.jpg"
-        ],
-        "id": 27
+        "id": 34
     },
     {
         "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i3-1215U 8 GB DDR4 256 GB SSD - Negro",
@@ -746,7 +878,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_3_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_4_1.jpg"
         ],
-        "id": 28
+        "id": 35
     },
     {
         "name": "Notebook Lenovo V14 G4 AMN 14\" AMD Ryzen 5 7520U 8 GB LPDDR5 256 GB SSD - Negro (82YT00Q3US)",
@@ -771,34 +903,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_4.jpg"
         ],
-        "id": 29
-    },
-    {
-        "name": "Notebook Dell Inspiron 15 I3530-7050BLK 15.6\" Intel Core i7-1355U 16 GB DDR4 512 SSD Touch - Negro",
-        "price": "Gs. 7.150.000",
-        "details": {
-            "Pantalla": "LED de 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i7-1355U Deca-Core 1.7 - 5.0 GHz",
-            "Memoria RAM": "16 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Dell",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Vuelta a Clases",
-            "Notebooks y Monitores"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112036-i3530-7050blk-pus-5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112036-i3530-7050blk-pus-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112036-i3530-7050blk-pus-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112036-i3530-7050blk-pus-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112036-i3530-7050blk-pus-1.jpg"
-        ],
-        "id": 30
+        "id": 36
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 Pro 1 TB MX2J3LL/A - Space Black",
@@ -820,7 +925,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1_1.jpg"
         ],
-        "id": 31
+        "id": 37
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2V3LL/A - Space Black",
@@ -842,7 +947,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1.jpg"
         ],
-        "id": 32
+        "id": 38
     },
     {
         "name": "Notebook MSI Cyborg 15 A13VE-218 15.6\" Intel Core i7-13620H RTX 4050 6 GB - Negro",
@@ -867,7 +972,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_4.jpg"
         ],
-        "id": 33
+        "id": 39
     },
     {
         "name": "Notebook HP 15-DY5009LA 15.6\" Intel Core i7-1255U 8 GB DDR4 512 GB SSD - Plata",
@@ -890,154 +995,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_4.jpg"
-        ],
-        "id": 34
-    },
-    {
-        "name": "Notebook Gamer Asus TUF Gaming A16 Advantage Edition (2023) FA617NT 16\" AMD Ryzen 7 7735HS RX 7700S 8 GB - Off Black",
-        "price": "Gs. 9.090.000",
-        "details": {
-            "Pantalla": "LCD IPS de 16\" WUXGA 1920 x 1200p 165 Hz",
-            "Procesador": "AMD Ryzen 7 7735HS Octa-Core 3.2 - 4.75 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
-            "Gráficos": "AMD Radeon RX 7700S 8GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Creator",
-            "Promo Gamers",
-            "Gamer",
-            "Día del Cliente",
-            "Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-7.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-2.jpg"
-        ],
-        "id": 35
-    },
-    {
-        "name": "Notebook Gamer Asus ROG Strix G17 G713PV-WS94 17.3\" AMD Ryzen 9 7845HX RTX 4060 8 GB - Eclipse Gray",
-        "price": "Gs. 14.900.000",
-        "details": {
-            "Pantalla": "LCD IPS de 17.3\" WQHD 2560 x 1440p 240 Hz",
-            "Procesador": "AMD Ryzen 9 7845HX 12-Core 3.0 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Memoria de almacenamiento": "M.2 NVMe SSD de 1 TB",
-            "Gráficos": "Nvidia GeForce RTX 4060 8 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "ASUS",
-        "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Creator",
-            "Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-7.jpg"
-        ],
-        "id": 36
-    },
-    {
-        "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY03LL/A - Plata",
-        "price": "Gs. 10.900.000",
-        "details": {
-            "Pantalla": "Retina 13.6\" 2560 x 1664",
-            "Procesador": "M2",
-            "Memoria RAM": "8 GB",
-            "Sensor": "Touch ID"
-        },
-        "label": "Apple",
-        "categories": [
-            "Notebooks",
-            "Macbooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/l/plataaaauikuikuikuiui_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/l/plataaa1_1_2.jpg"
-        ],
-        "specifications": {
-            "Medianoche": "",
-            "Blanco estelar": "",
-            "Gris espacial": "",
-            "Plata": ""
-        },
-        "id": 37
-    },
-    {
-        "name": "Set de Switches Akko V3 Piano Pro - 45 piezas",
-        "price": "Gs. 105.000",
-        "details": {
-            "Tipo": "Lineal",
-            "Fuerza operativa": "45 ± 5 gf",
-            "Switch de": "5 pines (se puede modificar a 3 pines)",
-            "Tecnología": "Estilo MX",
-            "Compatibilidad": "Compatible con cualquier PCB de interruptores estilo Cherry"
-        },
-        "label": "Akko",
-        "categories": [
-            "Teclados",
-            "Accesorios"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/V/C/VCGpa3miiLmi1WNgVpmoo9yDNWb3hkAXFhh.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/1/41ca1e7a-41ce-42bb-8f7f-a22abbe44e18.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/14787941-2aea-42b8-86c6-8fa5c36c3b8d.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/1/d1bd56ac-930a-41d2-9a67-b46a55af145b.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1175129-6c46-404b-88aa-2aa4295af731.jpg"
-        ],
-        "id": 38
-    },
-    {
-        "name": "Pasta Térmica Thermalright TF8EX 14 W - Azul 2.9gr",
-        "price": "Gs. 86.000",
-        "details": {
-            "Conductividad térmica": "14 W / mk",
-            "Impedancia térmica": "<0,01 °C-cm2/W",
-            "Rango de temperatura utilizable": "-220°C / + 380°C",
-            "Ideal para": "La refrigeración de equipos"
-        },
-        "label": "Thermalright",
-        "categories": [
-            "Accesorios"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/S/B/SBg2a7xBZ5V4cZ4iMUzMoUjyrhrzebg3dDL.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/a/pasta_termica.jpg"
-        ],
-        "id": 39
-    },
-    {
-        "name": "Base de Corte Silhouette CUT-MAT-12-3T-C Cameo 30 x 30 cm",
-        "price": "Gs. 145.000",
-        "details": {
-            "Diseño": "Cuadrado",
-            "Ideal uso para": "Base de corte",
-            "Material": "Cartulina",
-            "Dimensiones": "30 cm x 30 cm"
-        },
-        "label": "Silhouette",
-        "categories": [
-            "Accesorios"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/R/4/R4LwBk1I26bBjeiZEUzH5kByRqVqMChkG2N.jpg"
         ],
         "id": 40
     }
