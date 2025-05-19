@@ -274,7 +274,7 @@
     },
     {
         "name": "Apple Mac mini M2 Pro (2023) MNH73LL/A 512 GB - Silver",
-        "price": "Gs. 9.095.000",
+        "price": "Gs. 8.997.000",
         "details": {
             "Procesador": "M2 Pro de 10 núcleos",
             "Memoria RAM": "16 GB",
@@ -294,25 +294,75 @@
         "id": 14
     },
     {
-        "name": "Proyector Wanbo X5 Air 1100 Lúmenes Full HD - Blanco",
-        "price": "Gs. 1.662.000",
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 8 GB DDR4 500 GB SSD - Gray",
+        "price": "Gs. 2.409.000",
         "details": {
-            "Brillo máximo": "1100 lúmenes",
-            "Resolución": "Full HD (1920 x 1080p)",
-            "Conectividad": "Wi-Fi, Bluetooth 5.0",
-            "Entradas": "USB, HDMI y Jack de 3.5mm",
-            "Sistema": "Android"
+            "Procesador": "AMD Ryzen™ 5 Pro 5650U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Conectividad": "Dual LAN 1000M, USB-C 10Gbps, USB3 10Gbps, HDMI",
+            "Interfaz": "USB 2.0, 3.5mm audio jack, CLR CMOS",
+            "Sistema operativo": "Windows 11"
         },
-        "label": "Wanbo",
+        "label": "Beelink",
         "categories": [
-            "Proyectores y Pantallas",
+            "Informática",
+            "Vuelta a Clases",
+            "Accesorios de informática "
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/w/Q/wQLVzXND7PUIX2SZlFcsyIIiUt05mTdOzB6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_1_1.jpg"
+        ],
+        "id": 15
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 16 GB DDR4 500 GB SSD - Gray",
+        "price": "Gs. 2.704.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 5 Pro 5650U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Conectividad": "Dual LAN 1000M, USB-C 10Gbps, USB3 10Gbps, HDMI",
+            "Interfaz": "USB 2.0, 3.5mm audio jack, CLR CMOS",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "Beelink",
+        "categories": [
             "Informática"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/Z/z/ZzNVCotrztlcrQcjlPP1LHFwOxxgLUw5Tqt.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/3/Q/3Q6CbHK8rCAF3DK3poRjGb55ldVNcxpXmrK.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/M/lMHUtmppzYPb2a2nw2zg1kzrm1LMSC2mXDe.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_1_2.jpg"
         ],
-        "id": 15
+        "id": 16
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 500 GB SSD - Gray",
+        "price": "Gs. 2.409.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 5 Pro 5650U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Conectividad": "Dual LAN 1000M, USB-C 10Gbps, USB3 10Gbps, HDMI",
+            "Interfaz": "USB 2.0, 3.5mm audio jack, CLR CMOS",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/1/r13rZvQo5tmeUEEPgejuhaGpYvOWRFU7beo.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_2_1.jpg"
+        ],
+        "id": 17
     },
     {
         "name": "Notebook HP 14-FQ1035CL 14\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD Touch - Negro",
@@ -339,7 +389,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-4.jpg"
         ],
-        "id": 16
+        "id": 18
     },
     {
         "name": "Notebook HP 250 G10 15.6\" Intel Core i7-1355U 8 GB DDR4 512 GB SSD - Negro",
@@ -362,34 +412,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-4.jpg"
         ],
-        "id": 17
-    },
-    {
-        "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i3-1215U 8 GB DDR4 512 GB SSD - Negro",
-        "price": "Gs. 3.059.000Gs. 3.590.000",
-        "details": {
-            "Pantalla": "LED 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i3-1215U Hexa-Core 1.2 - 4.4 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD 512 GB",
-            "Gráficos": "Intel UHD",
-            "Sistema operativo": "Windows 11"
-        },
-        "label": "Dell",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Volta às aulas",
-            "Dia de la madre",
-            "Informática"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_1_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_2_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_3_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_4_4.jpg"
-        ],
-        "id": 18
+        "id": 19
     },
     {
         "name": "Notebook Lenovo IdeaPad 1 15AMN7 15.6\" AMD Ryzen 3 7320U 8 GB LPDDR5 256 GB SSD - Abyss Blue (82VG00BJUS)",
@@ -413,7 +436,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_4_.png",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_1_.png"
         ],
-        "id": 19
+        "id": 20
     },
     {
         "name": "Notebook ASUS Vivobook S K5504VN-DS96 15.6\" Intel Core i9-13900H 16 GB DDR5 1 TB SSD - Negro",
@@ -438,7 +461,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-3.jpg"
         ],
-        "id": 20
+        "id": 21
     },
     {
         "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i3-1215U 8 GB DDR4 256 GB SSD - Negro",
@@ -464,32 +487,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_2_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_3_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_4_1.jpg"
-        ],
-        "id": 21
-    },
-    {
-        "name": "Notebook HP Pavilion X360 14-DY2050 14\" Intel Core i5-1235U 8 GB DDR4 256 GB SSD Touch - Plata",
-        "price": "Gs. 4.950.000",
-        "details": {
-            "Pantalla": "LED táctil 14\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i5-1235U Deca-Core 1.8 - 4.4 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD M.2 NVMe 256 GB",
-            "Gráficos": "Intel Iris Xe",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "HP",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Notebooks Premium"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/14-dy2050_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/14-dy2050_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/14-dy2050_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/14-dy2050_-_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/14-dy2050_-_5.jpg"
         ],
         "id": 22
     },
@@ -519,6 +516,71 @@
         "id": 23
     },
     {
+        "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MCX14LL/A - Silver",
+        "price": "Gs. 21.139.000",
+        "details": {
+            "Pantalla": "Liquid Retina XDR de 14\" con resolución 3024 x 1964",
+            "Procesador": "M4",
+            "GPU": "10 núcleos",
+            "Memoria RAM": "24 GB",
+            "Sistema operativo": "macOS"
+        },
+        "label": "Apple",
+        "categories": [
+            "Notebooks",
+            "Macbooks"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/B/0B8BcIDz6CjUlqqR5Iv5xNByd02mLtqGZ31_1_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/H/4HJW1oJ0xzkIZmhdgQoHMzniPAoeMiARNXA_1_4.jpg"
+        ],
+        "id": 24
+    },
+    {
+        "name": "Apple MacBook Pro (2024) 14\" M4 Pro 1 TB MX2J3LL/A - Space Black",
+        "price": "Gs. 24.482.000",
+        "details": {
+            "Pantalla": "Liquid Retina XDR de 14\" con resolución 3024 x 1964",
+            "Procesador": "M4 Pro",
+            "GPU": "20 núcleos",
+            "Memoria RAM": "24 GB",
+            "Sistema operativo": "macOS"
+        },
+        "label": "Apple",
+        "categories": [
+            "Notebooks",
+            "Macbooks"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/t/ftnazjsjhmrcss307vpr8mejrdfzueufmcg_1_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1_1.jpg"
+        ],
+        "id": 25
+    },
+    {
+        "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2V3LL/A - Space Black",
+        "price": "Gs. 17.059.000",
+        "details": {
+            "Pantalla": "Liquid Retina XDR de 14\" con resolución 3024 x 1964",
+            "Procesador": "M4",
+            "GPU": "10 núcleos",
+            "Memoria RAM": "16 GB",
+            "Sistema operativo": "macOS"
+        },
+        "label": "Apple",
+        "categories": [
+            "Notebooks",
+            "Macbooks"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/t/ftnazjsjhmrcss307vpr8mejrdfzueufmcg_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1.jpg"
+        ],
+        "id": 26
+    },
+    {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2X3LL/A - Silver",
         "price": "Gs. 17.059.000",
         "details": {
@@ -537,7 +599,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/B/0B8BcIDz6CjUlqqR5Iv5xNByd02mLtqGZ31_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/H/4HJW1oJ0xzkIZmhdgQoHMzniPAoeMiARNXA_1.jpg"
         ],
-        "id": 24
+        "id": 27
     },
     {
         "name": "Notebook Asus VivoBook 15 F515EA-RS34 15.6\" Intel Core i3-1115G4 8 GB DDR4 256 GB SSD - Slate Grey",
@@ -560,7 +622,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110075_-_2_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110075_-_3.jpg"
         ],
-        "id": 25
+        "id": 28
     },
     {
         "name": "Notebook HP 15-DY5009LA 15.6\" Intel Core i7-1255U 8 GB DDR4 512 GB SSD - Plata",
@@ -584,7 +646,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_4.jpg"
         ],
-        "id": 26
+        "id": 29
     },
     {
         "name": "Notebook Gamer Asus ROG Strix G17 G713PV-WS94 17.3\" AMD Ryzen 9 7845HX RTX 4060 8 GB - Eclipse Gray",
@@ -612,7 +674,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-6.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-7.jpg"
         ],
-        "id": 27
+        "id": 30
     },
     {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY03LL/A - Plata",
@@ -638,7 +700,7 @@
             "Gris espacial": "",
             "Plata": ""
         },
-        "id": 28
+        "id": 31
     },
     {
         "name": "Set de Switches Akko V3 Piano Pro - 45 piezas",
@@ -663,7 +725,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/1/d1bd56ac-930a-41d2-9a67-b46a55af145b.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1175129-6c46-404b-88aa-2aa4295af731.jpg"
         ],
-        "id": 29
+        "id": 32
     },
     {
         "name": "Base de Corte Silhouette CUT-MAT-12-3T-C Cameo 30 x 30 cm",
@@ -681,7 +743,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/R/4/R4LwBk1I26bBjeiZEUzH5kByRqVqMChkG2N.jpg"
         ],
-        "id": 30
+        "id": 33
     },
     {
         "name": "Soporte de Escritorio Vijim LS-01 Extensible - Negro",
@@ -714,7 +776,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.8.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184..jpg"
         ],
-        "id": 31
+        "id": 34
     },
     {
         "name": "Speaker Gamer para PC Redragon Toccata GS700 RGB - Negro",
@@ -736,7 +798,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-117974-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-117974-3.jpg"
         ],
-        "id": 32
+        "id": 35
     },
     {
         "name": "Soporte para Proyector Klip Xtreme KPM-610B - Negro",
@@ -765,7 +827,7 @@
             "Las patas de montaje se extienden": "330mm diagonalmente",
             "Material": "Acero"
         },
-        "id": 33
+        "id": 36
     },
     {
         "name": "Soporte para Proyector Havit PA304 - Negro",
@@ -785,7 +847,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_para_proyectores_techo_havit_pa304_108821.jpg"
         ],
-        "id": 34
+        "id": 37
     },
     {
         "name": "Micrófono Steelseries Alias Pro",
@@ -808,7 +870,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/t/steelseries_alias_pro_1_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/t/steelseries_alias_pro_2_.jpg"
         ],
-        "id": 35
+        "id": 38
     },
     {
         "name": "Monitor Portátil Mobile Pixels DUEX Plus para Notebook Full HD IPS",
@@ -831,7 +893,7 @@
             "https://nissei.com/media/webps/jpg/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115359-portatil-2.webp",
             "https://nissei.com/media/webps/jpg/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115359-portatil-1.webp"
         ],
-        "id": 36
+        "id": 39
     },
     {
         "name": "Conversor de Medios Planet GT-802 10/100/1000M - Negro",
@@ -851,88 +913,6 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110893.jpg"
         ],
-        "id": 37
-    },
-    {
-        "name": "Lápiz Óptico Targus AMM174AMGL para iPad - Blanco",
-        "price": "Gs. 384.000",
-        "details": {
-            "Punta de": "POM de 1.2mm de grosor",
-            "Protección": "Antimicrobiana Targus DefenseGuard",
-            "Proporciona": "Una experiencia de escritura suave para tus tabletas",
-            "Adecuada para": "iOS 12.2 o superior",
-            "Compatibilidad": "Apple iPad"
-        },
-        "label": "Targus",
-        "categories": [
-            "Accesorios",
-            "Home School",
-            "Otras promociones"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/_/l_piz_ptico_targus_amm174amgl_para_ipad_114966.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/_/l_piz_ptico_targus_amm174amgl_para_ipad_11496-8.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/_/l_piz_ptico_targus_amm174amgl_para_ipad_-_blanco_1155.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/_/l_piz_ptico_targus_amm174amgl_para_ipad_-_blanco_114966.jpg"
-        ],
-        "id": 38
-    },
-    {
-        "name": "Soporte Plegable Targus AWE810GL para Notebook - Plata",
-        "price": "Gs. 266.000",
-        "details": {
-            "Diseño": "Ergonómico y ajustable",
-            "Material": "Aluminio",
-            "Niveles": "6 alturas ajustables proporcionan una experiencia de visualización personalizada",
-            "Alfombrilla de": "Silicona antideslizante",
-            "Compatible con": "Admite la mayoría de dispositivos de 10 a 15,6 pulgadas"
-        },
-        "label": "Targus",
-        "categories": [
-            "Accesorios",
-            "Otras promociones"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-10.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-8.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-11.jpg"
-        ],
-        "id": 39
-    },
-    {
-        "name": "Soporte Articulado para Micrófono Boya BY-BA30 - Negro",
-        "price": "Gs. 1.033.000",
-        "details": {
-            "Material": "Metal",
-            "Posición": "Ajustable",
-            "Ideal para": "Grabar, hacer pódcast",
-            "Soporte para": "Micrófono de mesa",
-            "No incluye": "Micrófono"
-        },
-        "label": "Boya",
-        "categories": [
-            "Accesorios",
-            "Accesorios"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_articulado_para_micr_fono_boya_by-ba30_-_negro_115610.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_articulado_para_micr_fono_boya_by-ba30_115610.jpg"
-        ],
-        "specifications": {
-            "Incorpora sistema de sujeción de cable a través del brazo articulado.": "",
-            "Soporte de abrazadera en C duradero para la fijación a la mesa.": "",
-            "Controles de bisagra ajustables.": "",
-            "Soporta micrófonos de hasta un kilogramo.": "",
-            "Diseñado para micrófonos profesionales de radiodifusión.": "",
-            "Incluye adaptador de hilo de 5/8″ a 3/8″.": "",
-            "El brazo del micrófono se puede conectar a un escritorio a través de su montaje de abrazadera C, que puede ofrecer una colocación estable en la operación de escritorio.": "",
-            "Con su gestión de cable de canal oculto, este brazo es ideal para aplicaciones de difusión como Podcasting, Radio, Locución, etc.": "",
-            "Ofrece una montura 5/8″ y adaptador de hilo a 3/8″. Puede operar correctamente con micrófonos de hasta un kilogramo.": ""
-        },
         "id": 40
     }
 ]
