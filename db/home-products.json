@@ -42,21 +42,25 @@
         "id": 2
     },
     {
-        "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 79.000",
+        "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
+        "price": "Gs. 3.027.000",
         "details": {
-            "Ventilador": "160 mm",
-            "Interfaz": "USB",
-            "Velocidad del ventilador": "900 RPM",
-            "Material": "Metal, plástico",
-            "Compatibilidad": "9\" a 17\""
+            "Funciones": "Impresión, copia y escáner",
+            "Tipo de suministro": "Tóner",
+            "Velocidad máxima de impresión": "30 ppm",
+            "Resolución de impresión": "Hasta 2400 x 600 ppp",
+            "Compatible con": "Windows y MacOS"
         },
-        "label": "Satellite",
+        "label": "Brother",
         "categories": [
-            "Informática"
+            "Informática",
+            "Impresoras",
+            "Impresoras Brother"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_3.jpg"
         ],
         "id": 3
     },
@@ -80,21 +84,24 @@
         "id": 4
     },
     {
-        "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
-        "price": "Gs. 79.000",
+        "name": "Lector de Códigos de Barra Honeywell Voyager 1250g con Base",
+        "price": "Gs. 679.000",
         "details": {
-            "Ventilador": "140 mm",
-            "Interfaz": "USB",
-            "Velocidad del ventilador": "1600 RPM",
-            "Material": "Metal, plástico",
-            "Compatibilidad": "9\" a 17\""
+            "Diseño": "Ergonómico y resistente",
+            "Códigos decodificables": "Códigos lineales",
+            "Distancia máxima de lectura": "58.4 cm",
+            "Conectividad": "USB"
         },
-        "label": "Satellite",
+        "label": "Honeywell",
         "categories": [
-            "Informática"
+            "Informática",
+            "Accesorios",
+            "Lector de memorias"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/e/lectoroorr-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/e/lectoroorr-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/e/lectoroorr-3.jpg"
         ],
         "id": 5
     },
@@ -180,6 +187,47 @@
         "id": 9
     },
     {
+        "name": "Placa de Video Gigabyte Radeon RX 6400 Eagle 4 GB GDDR6 (GV-R64EAGLE-4GD)",
+        "price": "Gs. 1.229.000",
+        "details": {
+            "Gráfico": "AMD Radeon RX 6400",
+            "Memoria de video": "GDDR6 de 4 GB",
+            "Salida de video": "HDMI 2.1, DisplayPort 1.4",
+            "Estándar de bus": "PCI Express 4.0",
+            "Interfaz de memoria": "64 bit"
+        },
+        "label": "Gigabyte",
+        "categories": [
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/R/1RhXNNKKLZawSFC3xy8xcgnjFvG04EsCUu0.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/x/vxPj2VVDoZ1uKLkYc9Dhp3asAnkF97MdrAB.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/L/t/LtMo6QppmBzArPebCOo7KrN0QX2evHuN9Uf.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/a/paHfOxfcrVAaGBAwVvwrR2yJ0zig1zl0X9J.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/2/9/29fdkcNAXypq4nKFbLrCQBPfrvudAerAuiJ.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/N/bNVtok7qUvCMb4qD9q5VO8eyyDAwgjF2B8v.jpg"
+        ],
+        "specifications": {
+            "Procesamiento de gráficos": "Radeon RX 6400",
+            "Reloj": "2321 MHz",
+            "Procesadores de flujo": "768",
+            "Tecnología de procesos": "6 nm",
+            "Reloj de memoria": "16000 MHz",
+            "Tamaño de la memoria": "4 GB",
+            "Tipo de memoria": "GDDR6",
+            "Bus de memoria": "64 bits",
+            "Tarjeta de bus": "PCIe 4.0",
+            "Resolución máxima digital": "7680 x 4320",
+            "Vista múltiple": "2",
+            "DirectX": "12",
+            "OpenGL": "4.6",
+            "Fuente de alimentación recomendada": "350 W",
+            "Puertos de salida de vídeo": "DisplayPort - HDMI"
+        },
+        "id": 10
+    },
+    {
         "name": "Mini Computadora de Escritorio Beelink GTI12 Intel Core i9 12900HK 32 GB DDR5 1 TB SSD - Frost Silver",
         "price": "Gs. 5.791.000",
         "details": {
@@ -201,7 +249,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/3/03b8cb31-63d7-4e5e-ad39-5cccbe882dfb-3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/3/03b8cb31-63d7-4e5e-ad39-5cccbe882dfb-4.jpg"
         ],
-        "id": 10
+        "id": 11
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 8 GB DDR4 500 GB SSD - Gray",
@@ -226,7 +274,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_1_1.jpg"
         ],
-        "id": 11
+        "id": 12
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 16 GB DDR4 500 GB SSD - Gray",
@@ -249,7 +297,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_1_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_1_2.jpg"
         ],
-        "id": 12
+        "id": 13
     },
     {
         "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 500 GB SSD - Gray",
@@ -272,7 +320,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_2_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_2_1.jpg"
         ],
-        "id": 13
+        "id": 14
     },
     {
         "name": "Notebook HP 14-FQ1035CL 14\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD Touch - Negro",
@@ -299,7 +347,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-4.jpg"
         ],
-        "id": 14
+        "id": 15
     },
     {
         "name": "Notebook HP 250 G10 15.6\" Intel Core i7-1355U 8 GB DDR4 512 GB SSD - Negro",
@@ -314,8 +362,7 @@
         "label": "HP",
         "categories": [
             "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Notebooks"
+            "Notebooks Trabajo"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-1.jpg",
@@ -323,35 +370,31 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-4.jpg"
         ],
-        "id": 15
+        "id": 16
     },
     {
-        "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i3-1215U 8 GB DDR4 512 GB SSD - Negro",
-        "price": "Gs. 3.049.000Gs. 3.590.000",
+        "name": "Notebook Lenovo IdeaPad 1 15AMN7 15.6\" AMD Ryzen 3 7320U 8 GB LPDDR5 256 GB SSD - Abyss Blue (82VG00BJUS)",
+        "price": "Gs. 3.190.000",
         "details": {
-            "Pantalla": "LED 15.6\" Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i3-1215U Hexa-Core 1.2 - 4.4 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Memoria de almacenamiento": "SSD 512 GB",
-            "Gráficos": "Intel UHD",
-            "Sistema operativo": "Windows 11"
+            "Pantalla": "TN 15.6” Full HD 1920 x 1080p",
+            "Procesador": "AMD Ryzen 3 7320U Quad-Core 2.4 - 4.1 GHz",
+            "Memoria RAM": "8 GB LPDDR5",
+            "Memoria de almacenamiento": "SSD M.2 NVMe 256 GB",
+            "Gráficos": "AMD Radeon 610M",
+            "Sistema operativo": "Windows 11 Home"
         },
-        "label": "Dell",
+        "label": "Lenovo",
         "categories": [
             "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Volta às aulas",
-            "Dia de la madre",
-            "Informática",
-            "Notebooks"
+            "Notebooks Trabajo"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_1_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_2_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_3_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/dell_inspiron_15_3520_-_4_4.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_2_.png",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_3_.png",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_4_.png",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_1_.png"
         ],
-        "id": 16
+        "id": 17
     },
     {
         "name": "Notebook ASUS Vivobook S K5504VN-DS96 15.6\" Intel Core i9-13900H 16 GB DDR5 1 TB SSD - Negro",
@@ -375,34 +418,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-3.jpg"
-        ],
-        "id": 17
-    },
-    {
-        "name": "Notebook Dell Inspiron 15 3520 15.6\" Intel Core i3-1215U 8 GB DDR4 256 GB SSD - Negro",
-        "price": "Gs. 3.029.000Gs. 3.190.000",
-        "details": {
-            "Pantalla": "LED 15.6” Full HD 1920 x 1080p",
-            "Procesador": "Intel Core i3-1215U Hexa-Core 1.2 - 4.4 GHz",
-            "Memoria RAM": "DDR4 de 8 GB",
-            "Memoria de almacenamiento": "SSD de 256 GB",
-            "Gráficos": "Intel UHD",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Dell",
-        "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Home School",
-            "Vuelta a Clases",
-            "Notebooks y Monitores",
-            "Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_1_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_2_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_3_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/105552_-_4_1.jpg"
         ],
         "id": 18
     },
@@ -432,6 +447,27 @@
         "id": 19
     },
     {
+        "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MCX14LL/A - Silver",
+        "price": "Gs. 20.352.000",
+        "details": {
+            "Pantalla": "Liquid Retina XDR de 14\" con resolución 3024 x 1964",
+            "Procesador": "M4",
+            "GPU": "10 núcleos",
+            "Memoria RAM": "24 GB",
+            "Sistema operativo": "macOS"
+        },
+        "label": "Apple",
+        "categories": [
+            "Notebooks",
+            "Macbooks"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/B/0B8BcIDz6CjUlqqR5Iv5xNByd02mLtqGZ31_1_4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/H/4HJW1oJ0xzkIZmhdgQoHMzniPAoeMiARNXA_1_4.jpg"
+        ],
+        "id": 20
+    },
+    {
         "name": "Apple MacBook Pro (2024) 14\" M4 Pro 1 TB MX2J3LL/A - Space Black",
         "price": "Gs. 24.088.000",
         "details": {
@@ -451,7 +487,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1_1.jpg"
         ],
-        "id": 20
+        "id": 21
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2V3LL/A - Space Black",
@@ -473,11 +509,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1.jpg"
         ],
-        "id": 21
+        "id": 22
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2X3LL/A - Silver",
-        "price": "Gs. 16.590.000Gs. 17.059.000",
+        "price": "Gs. 17.059.000",
         "details": {
             "Pantalla": "Liquid Retina XDR de 14\" con resolución 3024 x 1964",
             "Procesador": "M4",
@@ -489,14 +525,41 @@
         "categories": [
             "Notebooks",
             "Macbooks",
-            "Dia del Padre",
-            "Informatica"
+            "Informatica",
+            "Dia del Padre"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/B/0B8BcIDz6CjUlqqR5Iv5xNByd02mLtqGZ31_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/H/4HJW1oJ0xzkIZmhdgQoHMzniPAoeMiARNXA_1.jpg"
         ],
-        "id": 22
+        "id": 23
+    },
+    {
+        "name": "Notebook Gamer HP Omen 16-WD0073DX 16.1\" Intel Core i7-13620H RTX 4060 8 GB - Negro",
+        "price": "Gs. 12.341.000",
+        "details": {
+            "Pantalla": "16.1\" IPS (1920 x 1080p)",
+            "Procesador": "Intel Core i7-13620H",
+            "Memoria RAM": "16 GB (2 x 8GB)",
+            "Memoria de almacenamiento": "1 TB PCIe Gen4 NVMe M.2 SSD",
+            "Gráficos": "NVIDIA GeForce RTX 4060 8 GB GDDR6",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "HP",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Creator"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057_sd.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057ld.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057_rd.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv1d.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv4d.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv7d.jpg"
+        ],
+        "id": 24
     },
     {
         "name": "Notebook HP 15-DY5009LA 15.6\" Intel Core i7-1255U 8 GB DDR4 512 GB SSD - Plata",
@@ -520,7 +583,38 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_4.jpg"
         ],
-        "id": 23
+        "id": 25
+    },
+    {
+        "name": "Notebook Gamer Asus TUF Gaming A16 Advantage Edition (2023) FA617NT 16\" AMD Ryzen 7 7735HS RX 7700S 8 GB - Off Black",
+        "price": "Gs. 8.990.000",
+        "details": {
+            "Pantalla": "LCD IPS de 16\" WUXGA 1920 x 1200p 165 Hz",
+            "Procesador": "AMD Ryzen 7 7735HS Octa-Core 3.2 - 4.75 GHz",
+            "Memoria RAM": "16 GB DDR5",
+            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
+            "Gráficos": "AMD Radeon RX 7700S 8GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "ASUS",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Creator",
+            "Promo Gamers",
+            "Gamer",
+            "Día del Cliente"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-7.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-2.jpg"
+        ],
+        "id": 26
     },
     {
         "name": "Notebook Gamer Asus ROG Strix G17 G713PV-WS94 17.3\" AMD Ryzen 9 7845HX RTX 4060 8 GB - Eclipse Gray",
@@ -548,7 +642,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-6.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118882-7.jpg"
         ],
-        "id": 24
+        "id": 27
     },
     {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY03LL/A - Plata",
@@ -574,7 +668,7 @@
             "Gris espacial": "",
             "Plata": ""
         },
-        "id": 25
+        "id": 28
     },
     {
         "name": "Set de Switches Akko V3 Piano Pro - 45 piezas",
@@ -599,7 +693,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/1/d1bd56ac-930a-41d2-9a67-b46a55af145b.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1175129-6c46-404b-88aa-2aa4295af731.jpg"
         ],
-        "id": 26
+        "id": 29
     },
     {
         "name": "Base de Corte Silhouette CUT-MAT-12-3T-C Cameo 30 x 30 cm",
@@ -617,7 +711,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/R/4/R4LwBk1I26bBjeiZEUzH5kByRqVqMChkG2N.jpg"
         ],
-        "id": 27
+        "id": 30
     },
     {
         "name": "Soporte de Escritorio Vijim LS-01 Extensible - Negro",
@@ -650,7 +744,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.8.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184..jpg"
         ],
-        "id": 28
+        "id": 31
     },
     {
         "name": "Soporte para Proyector Klip Xtreme KPM-610B - Negro",
@@ -679,7 +773,7 @@
             "Las patas de montaje se extienden": "330mm diagonalmente",
             "Material": "Acero"
         },
-        "id": 29
+        "id": 32
     },
     {
         "name": "Soporte para Proyector Havit PA304 - Negro",
@@ -699,7 +793,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_para_proyectores_techo_havit_pa304_108821.jpg"
         ],
-        "id": 30
+        "id": 33
     },
     {
         "name": "Micrófono Steelseries Alias Pro",
@@ -722,7 +816,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/t/steelseries_alias_pro_1_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/t/steelseries_alias_pro_2_.jpg"
         ],
-        "id": 31
+        "id": 34
     },
     {
         "name": "Monitor Portátil Mobile Pixels DUEX Plus para Notebook Full HD IPS",
@@ -744,7 +838,7 @@
             "https://nissei.com/media/webps/jpg/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115359-portatil-2.webp",
             "https://nissei.com/media/webps/jpg/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115359-portatil-1.webp"
         ],
-        "id": 32
+        "id": 35
     },
     {
         "name": "Fuente PoE Ubiquiti Inyector 24VDC 24 W 1.0AMP - Negro",
@@ -766,7 +860,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/2/62637.2_1_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/2/62637.3_1_.jpg"
         ],
-        "id": 33
+        "id": 36
     },
     {
         "name": "Conversor de Medios Planet GT-802 10/100/1000M - Negro",
@@ -786,7 +880,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110893.jpg"
         ],
-        "id": 34
+        "id": 37
     },
     {
         "name": "Soporte Plegable Targus AWE810GL para Notebook - Plata",
@@ -812,7 +906,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-8.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-11.jpg"
         ],
-        "id": 35
+        "id": 38
     },
     {
         "name": "Soporte Articulado para Micrófono Boya BY-BA30 - Negro",
@@ -844,7 +938,7 @@
             "Con su gestión de cable de canal oculto, este brazo es ideal para aplicaciones de difusión como Podcasting, Radio, Locución, etc.": "",
             "Ofrece una montura 5/8″ y adaptador de hilo a 3/8″. Puede operar correctamente con micrófonos de hasta un kilogramo.": ""
         },
-        "id": 36
+        "id": 39
     },
     {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY43LL/A - Midnight",
@@ -870,70 +964,6 @@
             "Gris espacial": "",
             "Plata": ""
         },
-        "id": 37
-    },
-    {
-        "name": "Maletín Case Logic PROPA-114 para Notebook 14\" - Negro",
-        "price": "Gs. 350.000",
-        "details": {
-            "Diseño": "Convencional y ergonómico",
-            "Proporciona": "Almacenamiento seguro",
-            "Material": "Poliéster y Goma PE",
-            "Medidas": "37 x 7 x 33 cm"
-        },
-        "label": "Case",
-        "categories": [
-            "Mochilas y estuches"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_8_-_2025-02-05t165013.010.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_6_-_2025-02-05t165012.618.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_5_-_2025-02-05t165011.712.jpg"
-        ],
-        "id": 38
-    },
-    {
-        "name": "Estuche K&F Beta Messenger V2 12L para Cámara - Azul/Marrón (KF13.062V1)",
-        "price": "Gs. 353.000Gs. 443.000",
-        "details": {
-            "Almacenamiento": "Acolchonado",
-            "Volumen": "12 litros",
-            "Material": "Cuero PU de alta calidad, tela impermeable",
-            "Ideal para": "Cámara y equipo fotográfico",
-            "Tamaño": "27 x 13 x 35 cm"
-        },
-        "label": "K&F",
-        "categories": [
-            "Mochilas y estuches",
-            "Dia del Padre",
-            "Hogar"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_ss.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_sasas.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_s.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_sasasadsasas.jpg"
-        ],
-        "id": 39
-    },
-    {
-        "name": "Estuche Case Logic REFPC-116 para Notebook de 15.6'' - Boulder Beige",
-        "price": "Gs. 325.000",
-        "details": {
-            "Diseño": "Elegante y delgado",
-            "Almacenamiento": "Acolchado",
-            "Material": "Poliéster",
-            "Tamaño": "30 x 41 x 3 cm"
-        },
-        "label": "Case",
-        "categories": [
-            "Mochilas y estuches"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_4_6__1_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_5_5__2.jpg"
-        ],
         "id": 40
     }
 ]
