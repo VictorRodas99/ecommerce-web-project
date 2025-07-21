@@ -19,6 +19,26 @@
         "id": 1
     },
     {
+        "name": "Cooler para Notebook Satellite A-CP22",
+        "price": "Gs. 122.000",
+        "details": {
+            "Material": "Metal y plástico",
+            "Ventilador": "120 mm",
+            "Interfaz": "USB",
+            "Velocidad del ventilador": "1200 RPM",
+            "Compatibilidad": "15\""
+        },
+        "label": "Satellite",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110807.jpg"
+        ],
+        "id": 2
+    },
+    {
         "name": "Soporte para Monitor Stalo Triple",
         "price": "Gs. 134.000",
         "details": {
@@ -36,7 +56,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/p/rpm-1003128-100-corregido-1.jpg"
         ],
-        "id": 2
+        "id": 3
     },
     {
         "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
@@ -57,7 +77,26 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_3.jpg"
         ],
-        "id": 3
+        "id": 4
+    },
+    {
+        "name": "Cooler Satellite A-CP03 para Notebook - Negro",
+        "price": "Gs. 88.000",
+        "details": {
+            "Ventilador": "160 mm",
+            "Interfaz": "USB",
+            "Velocidad del ventilador": "900 RPM",
+            "Material": "Metal, plástico",
+            "Compatibilidad": "9\" a 17\""
+        },
+        "label": "Satellite",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
+        ],
+        "id": 5
     },
     {
         "name": "Cooler Satellite A-CP19 para Notebook - Negro",
@@ -76,7 +115,47 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
         ],
-        "id": 4
+        "id": 6
+    },
+    {
+        "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
+        "price": "Gs. 78.000",
+        "details": {
+            "Ventilador": "140 mm",
+            "Interfaz": "USB",
+            "Velocidad del ventilador": "1600 RPM",
+            "Material": "Metal, plástico",
+            "Compatibilidad": "9\" a 17\""
+        },
+        "label": "Satellite",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
+        ],
+        "id": 7
+    },
+    {
+        "name": "Speaker Para PC Logitech Z313 - Negro",
+        "price": "Gs. 442.000",
+        "details": {
+            "Canales de salida de audio": "2.1",
+            "Potencia estimada RMS": "25 W",
+            "Control con cable": "Encendido, volumen, Jack 3.5 mm",
+            "Conectividad": "Jack 3.5 mm"
+        },
+        "label": "Logitech",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_1_.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_2__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_3_.jpg"
+        ],
+        "id": 8
     },
     {
         "name": "Lector de Códigos de Barra Honeywell Voyager 1250g con Base",
@@ -96,7 +175,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/e/lectoroorr-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/e/lectoroorr-3.jpg"
         ],
-        "id": 5
+        "id": 9
     },
     {
         "name": "Lector de Código de Barra Zkteco ZKB101 - Negro",
@@ -115,28 +194,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/8/68051_1.jpg"
         ],
-        "id": 6
-    },
-    {
-        "name": "Mini Computadora de Escritorio Beelink Mini S12 Intel N95 16 GB DDR4 500 GB SSD",
-        "price": "Gs. 1.729.000",
-        "details": {
-            "Procesador": "Intel N95 (4M Cache, up to 3.40 GHz)",
-            "Tipo de memoria RAM": "DDR4",
-            "Gráficos": "Intel UHD Graphics",
-            "Conectividad": "Wi-Fi 802.11ac, Bluetooth 4.2",
-            "Interfaz": "2 x HDMI 2.0 4K@60Hz Output, 3.5mm audio jack"
-        },
-        "label": "Beelink",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/j/H/jH8fAfUMhtBF2RQZvNMH6k8dOfqFzj1jAgT.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/v/fvinonc85k2lb5p1677063622re.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/r/4rOcaIjsIxtVO2viWPRfhH0btwz8MVKUn0z.jpg"
-        ],
-        "id": 7
+        "id": 10
     },
     {
         "name": "Mini Computadora de Escritorio Beelink Mini S Intel Celeron N5095 8 GB DDR4 256 GB SSD - Azul",
@@ -162,7 +220,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_4_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/Z/fZJiYagEbuR4oeu8UfNb83LoiyO2KXay38x.jpg"
         ],
-        "id": 8
+        "id": 11
     },
     {
         "name": "Mini Computadora de Escritorio Beelink GTI14 Intel Ultra 7 155H 32 GB DDR5 1 TB SSD - Frost Silver",
@@ -182,7 +240,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/t/K/tK5l9eMfVxKACpbp3uNwmg1XGdmiw8O6rNg.jpg"
         ],
-        "id": 9
+        "id": 12
     },
     {
         "name": "Mini Computadora de Escritorio Beelink GTI14 Intel Ultra 9 185H 32 GB DDR5 1 TB SSD - Frost Silver",
@@ -202,7 +260,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/M/M/MMmoPN8d5VLACmuS8VrPSy3aXk0KZD2B2Jd.jpg"
         ],
-        "id": 10
+        "id": 13
     },
     {
         "name": "Apple Mac mini M2 Pro (2023) MNH73LL/A 512 GB - Silver",
@@ -222,57 +280,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/G/6/G6rbgTbtF6Npvkxs7G0Ts3gCekGDQoRJdpx.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1673967007_img_1920052_1_.jpg"
         ],
-        "id": 11
-    },
-    {
-        "name": "Placa de Video Gigabyte Radeon RX 6400 Eagle 4 GB GDDR6 (GV-R64EAGLE-4GD)",
-        "price": "Gs. 1.214.000",
-        "details": {
-            "Gráfico": "AMD Radeon RX 6400",
-            "Memoria de video": "GDDR6 de 4 GB",
-            "Salida de video": "HDMI 2.1, DisplayPort 1.4",
-            "Estándar de bus": "PCI Express 4.0",
-            "Interfaz de memoria": "64 bit"
-        },
-        "label": "Gigabyte",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/R/1RhXNNKKLZawSFC3xy8xcgnjFvG04EsCUu0.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/x/vxPj2VVDoZ1uKLkYc9Dhp3asAnkF97MdrAB.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/L/t/LtMo6QppmBzArPebCOo7KrN0QX2evHuN9Uf.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/a/paHfOxfcrVAaGBAwVvwrR2yJ0zig1zl0X9J.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/2/9/29fdkcNAXypq4nKFbLrCQBPfrvudAerAuiJ.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/N/bNVtok7qUvCMb4qD9q5VO8eyyDAwgjF2B8v.jpg"
-        ],
-        "specifications": {
-            "Desarrollado por AMD RDNA 2 Radeon RX 6400.": "",
-            "Integrado con interfaz de memoria GDDR6 de 64 bits de 4 GB.": "",
-            "Sistema de enfriamiento WINDFORCE 2X con ventiladores de giro alternativo.": "",
-            "Lubricante nano de grafeno.": ""
-        },
-        "id": 12
-    },
-    {
-        "name": "Proyector Wanbo X5 Air 1100 Lúmenes Full HD - Blanco",
-        "price": "Gs. 1.642.000",
-        "details": {
-            "Brillo máximo": "1100 lúmenes",
-            "Resolución": "Full HD (1920 x 1080p)",
-            "Conectividad": "Wi-Fi, Bluetooth 5.0",
-            "Entradas": "USB, HDMI y Jack de 3.5mm",
-            "Sistema": "Android"
-        },
-        "label": "Wanbo",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/Z/z/ZzNVCotrztlcrQcjlPP1LHFwOxxgLUw5Tqt.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/3/Q/3Q6CbHK8rCAF3DK3poRjGb55ldVNcxpXmrK.jpg"
-        ],
-        "id": 13
+        "id": 14
     },
     {
         "name": "Proyector Wanbo Vali 1 900 Lúmenes Full HD - Blanco",
@@ -307,7 +315,7 @@
             "Microlente de 3 piezas de vidrio asférico puro para mayor precisión óptica.": "",
             "Diseño artístico para proyección de imágenes ambientales y decorativas.": ""
         },
-        "id": 14
+        "id": 15
     },
     {
         "name": "Notebook ASUS VivoBook Go E1504GA-NJ535W 15.6\" Intel Core i3-N305 8 GB 512 GB SSD - Negro",
@@ -333,7 +341,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/I/E/IEix5eX2mBdUL8l0ZVRz8hxGHgqCLC58Wxs_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/w/nwoOUMEkdipFCKDlu5zPwtZNM8Imn0uc4jz_1.jpg"
         ],
-        "id": 15
+        "id": 16
     },
     {
         "name": "Notebook HP 14-FQ1035CL 14\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD Touch - Negro",
@@ -357,11 +365,34 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-4.jpg"
         ],
-        "id": 16
+        "id": 17
+    },
+    {
+        "name": "Notebook MSI Thin GF63 12UCX-898 15.6\" Intel Core i5-12450H RTX 2050 4 GB - Negro",
+        "price": "Gs. 6.290.000",
+        "details": {
+            "Pantalla": "IPS 15.6\" Full HD 1920 x 1080p 144 Hz",
+            "Procesador": "Intel Core i5-12420H Octa-Core 2.3 - 4.4 GHz",
+            "Memoria RAM": "8 GB DDR4",
+            "Memoria de almacenamiento": "SSD M.2 NVMe 1 TB",
+            "Gráficos": "NVIDIA GeForce RTX 2050 4 GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "MSI",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_4_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_3_1.jpg"
+        ],
+        "id": 18
     },
     {
         "name": "Notebook Lenovo IdeaPad 1 15AMN7 15.6\" AMD Ryzen 3 7320U 8 GB LPDDR5 256 GB SSD - Abyss Blue (82VG00BJUS)",
-        "price": "Gs. 2.963.000Gs. 3.487.000",
+        "price": "Gs. 3.487.000",
         "details": {
             "Pantalla": "TN 15.6” Full HD 1920 x 1080p",
             "Procesador": "AMD Ryzen 3 7320U Quad-Core 2.4 - 4.1 GHz",
@@ -380,7 +411,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_4_.png",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_1_.png"
         ],
-        "id": 17
+        "id": 19
     },
     {
         "name": "Notebook ASUS Vivobook S K5504VN-DS96 15.6\" Intel Core i9-13900H 16 GB DDR5 1 TB SSD - Negro",
@@ -402,7 +433,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-3.jpg"
         ],
-        "id": 18
+        "id": 20
     },
     {
         "name": "Notebook Lenovo V14 G4 AMN 14\" AMD Ryzen 5 7520U 8 GB LPDDR5 256 GB SSD - Negro (82YT00Q3US)",
@@ -425,7 +456,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_4.jpg"
         ],
-        "id": 19
+        "id": 21
     },
     {
         "name": "Notebook Acer Aspire 3 A315-24PT-R90Z 15.6\" AMD Ryzen 5 7520U 8 GB LPDDR5 512 GB SSD - Azul",
@@ -451,7 +482,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112908-a315-24pt-r90z-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112908-a315-24pt-r90z-1.jpg"
         ],
-        "id": 20
+        "id": 22
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MCX14LL/A - Silver",
@@ -471,7 +502,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/B/0B8BcIDz6CjUlqqR5Iv5xNByd02mLtqGZ31_1_4.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/H/4HJW1oJ0xzkIZmhdgQoHMzniPAoeMiARNXA_1_4.jpg"
         ],
-        "id": 21
+        "id": 23
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2V3LL/A - Space Black",
@@ -491,54 +522,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/t/ftnazjsjhmrcss307vpr8mejrdfzueufmcg_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1.jpg"
-        ],
-        "id": 22
-    },
-    {
-        "name": "Notebook Gamer HP Omen 16-WD0073DX 16.1\" Intel Core i7-13620H RTX 4060 8 GB - Negro",
-        "price": "Gs. 12.190.000",
-        "details": {
-            "Pantalla": "16.1\" IPS (1920 x 1080p)",
-            "Procesador": "Intel Core i7-13620H",
-            "Memoria RAM": "16 GB (2 x 8GB)",
-            "Memoria de almacenamiento": "1 TB PCIe Gen4 NVMe M.2 SSD",
-            "Gráficos": "NVIDIA GeForce RTX 4060 8 GB GDDR6",
-            "Sistema operativo": "Windows 11"
-        },
-        "label": "HP",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057_sd.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057ld.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057_rd.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv1d.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv4d.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv7d.jpg"
-        ],
-        "id": 23
-    },
-    {
-        "name": "Notebook MSI Cyborg 15 A13VE-218 15.6\" Intel Core i7-13620H RTX 4050 6 GB - Negro",
-        "price": "Gs. 9.950.000",
-        "details": {
-            "Pantalla": "IPS 15.6\" Full HD 1920 x 1080p 144 Hz",
-            "Procesador": "Intel Core i7-13620H Deca-Core 1.8 - 4.9 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 4050 6 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "MSI",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_4.jpg"
         ],
         "id": 24
     },
@@ -566,6 +549,32 @@
         "id": 25
     },
     {
+        "name": "Notebook Gamer Asus TUF Gaming A16 Advantage Edition (2023) FA617NT 16\" AMD Ryzen 7 7735HS RX 7700S 8 GB - Off Black",
+        "price": "Gs. 8.881.000",
+        "details": {
+            "Pantalla": "LCD IPS de 16\" WUXGA 1920 x 1200p 165 Hz",
+            "Procesador": "AMD Ryzen 7 7735HS Octa-Core 3.2 - 4.75 GHz",
+            "Memoria RAM": "16 GB DDR5",
+            "Memoria de almacenamiento": "M.2 NVMe SSD de 512 GB",
+            "Gráficos": "AMD Radeon RX 7700S 8GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "ASUS",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-5.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-7.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118773-2.jpg"
+        ],
+        "id": 26
+    },
+    {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY03LL/A - Plata",
         "price": "Gs. 10.900.000",
         "details": {
@@ -588,7 +597,7 @@
             "Gris espacial": "",
             "Plata": ""
         },
-        "id": 26
+        "id": 27
     },
     {
         "name": "Set de Switches Akko V3 Piano Pro - 45 piezas",
@@ -611,7 +620,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/1/d1bd56ac-930a-41d2-9a67-b46a55af145b.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/1/e1175129-6c46-404b-88aa-2aa4295af731.jpg"
         ],
-        "id": 27
+        "id": 28
     },
     {
         "name": "Pasta Térmica Thermalright TF8EX 14 W - Azul 2.9gr",
@@ -630,7 +639,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/S/B/SBg2a7xBZ5V4cZ4iMUzMoUjyrhrzebg3dDL.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/a/pasta_termica.jpg"
         ],
-        "id": 28
+        "id": 29
     },
     {
         "name": "Soporte de Escritorio Vijim LS-01 Extensible - Negro",
@@ -660,7 +669,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.8.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184..jpg"
         ],
-        "id": 29
+        "id": 30
     },
     {
         "name": "Speaker Gamer para PC Redragon Toccata GS700 RGB - Negro",
@@ -682,7 +691,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-117974-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-117974-3.jpg"
         ],
-        "id": 30
+        "id": 31
     },
     {
         "name": "Soporte para Proyector Klip Xtreme KPM-610B - Negro",
@@ -710,7 +719,7 @@
             "Las patas de montaje se extienden": "330mm diagonalmente",
             "Material": "Acero"
         },
-        "id": 31
+        "id": 32
     },
     {
         "name": "Micrófono Steelseries Alias Pro",
@@ -730,7 +739,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/t/steelseries_alias_pro_1_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/t/steelseries_alias_pro_2_.jpg"
         ],
-        "id": 32
+        "id": 33
     },
     {
         "name": "Monitor Portátil Mobile Pixels DUEX Plus para Notebook Full HD IPS",
@@ -749,7 +758,7 @@
             "https://nissei.com/media/webps/jpg/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115359-portatil-2.webp",
             "https://nissei.com/media/webps/jpg/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115359-portatil-1.webp"
         ],
-        "id": 33
+        "id": 34
     },
     {
         "name": "Fuente PoE Ubiquiti Inyector 24VDC 24 W 1.0AMP - Negro",
@@ -770,7 +779,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/2/62637.2_1_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/2/62637.3_1_.jpg"
         ],
-        "id": 34
+        "id": 35
     },
     {
         "name": "Conversor de Medios Planet GT-802 10/100/1000M - Negro",
@@ -788,7 +797,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110893.jpg"
         ],
-        "id": 35
+        "id": 36
     },
     {
         "name": "Soporte Plegable Targus AWE810GL para Notebook - Plata",
@@ -813,7 +822,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-8.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_targus_awe810gl_para_laptop_115013-11.jpg"
         ],
-        "id": 36
+        "id": 37
     },
     {
         "name": "Soporte Articulado para Micrófono Boya BY-BA30 - Negro",
@@ -844,7 +853,7 @@
             "Con su gestión de cable de canal oculto, este brazo es ideal para aplicaciones de difusión como Podcasting, Radio, Locución, etc.": "",
             "Ofrece una montura 5/8″ y adaptador de hilo a 3/8″. Puede operar correctamente con micrófonos de hasta un kilogramo.": ""
         },
-        "id": 37
+        "id": 38
     },
     {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY43LL/A - Midnight",
@@ -869,7 +878,7 @@
             "Gris espacial": "",
             "Plata": ""
         },
-        "id": 38
+        "id": 39
     },
     {
         "name": "Maletín Case Logic PROPA-114 para Notebook 14\" - Negro",
@@ -888,29 +897,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_8_-_2025-02-05t165013.010.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_6_-_2025-02-05t165012.618.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_5_-_2025-02-05t165011.712.jpg"
-        ],
-        "id": 39
-    },
-    {
-        "name": "Estuche K&F Beta Messenger V2 12L para Cámara - Azul/Marrón (KF13.062V1)",
-        "price": "Gs. 438.000",
-        "details": {
-            "Almacenamiento": "Acolchonado",
-            "Volumen": "12 litros",
-            "Material": "Cuero PU de alta calidad, tela impermeable",
-            "Ideal para": "Cámara y equipo fotográfico",
-            "Tamaño": "27 x 13 x 35 cm"
-        },
-        "label": "K&F",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_ss.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_sasas.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_s.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_sasasadsasas.jpg"
         ],
         "id": 40
     }
