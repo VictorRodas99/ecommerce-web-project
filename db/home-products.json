@@ -1,7 +1,7 @@
 [
     {
         "name": "Cable de Extensión RGB Lian Li Strimer Plus V2 8PIN",
-        "price": "Gs. 485.000",
+        "price": "Gs. 473.000",
         "details": {
             "Diseño": "Elegante",
             "Conexiones": "VGA",
@@ -20,7 +20,7 @@
     },
     {
         "name": "Cooler para Notebook Satellite A-CP22",
-        "price": "Gs. 122.000",
+        "price": "Gs. 119.000",
         "details": {
             "Material": "Metal y plástico",
             "Ventilador": "120 mm",
@@ -40,7 +40,7 @@
     },
     {
         "name": "Soporte para Monitor Stalo Triple",
-        "price": "Gs. 134.000",
+        "price": "Gs. 130.691",
         "details": {
             "Diseño": "Moderno y resistente",
             "Ofrece": "Comodidad y estabilidad al estudiar o trabajar",
@@ -60,7 +60,7 @@
     },
     {
         "name": "Impresora Multifuncional Laser Brother DCP-L2540DW 220v",
-        "price": "Gs. 2.990.000",
+        "price": "Gs. 2.750.000",
         "details": {
             "Funciones": "Impresión, copia y escáner",
             "Tipo de suministro": "Tóner",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Cooler Satellite A-CP03 para Notebook - Negro",
-        "price": "Gs. 88.000",
+        "price": "Gs. 86.000",
         "details": {
             "Ventilador": "160 mm",
             "Interfaz": "USB",
@@ -119,7 +119,7 @@
     },
     {
         "name": "Cooler Satellite A-CP20 Para Notebook - Negro",
-        "price": "Gs. 78.000",
+        "price": "Gs. 76.000",
         "details": {
             "Ventilador": "140 mm",
             "Interfaz": "USB",
@@ -137,29 +137,8 @@
         "id": 7
     },
     {
-        "name": "Speaker Para PC Logitech Z313 - Negro",
-        "price": "Gs. 442.000",
-        "details": {
-            "Canales de salida de audio": "2.1",
-            "Potencia estimada RMS": "25 W",
-            "Control con cable": "Encendido, volumen, Jack 3.5 mm",
-            "Conectividad": "Jack 3.5 mm"
-        },
-        "label": "Logitech",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_2__1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/z/3/z313-computer-speaker-system_3_.jpg"
-        ],
-        "id": 8
-    },
-    {
         "name": "Lector de Códigos de Barra Honeywell Voyager 1250g con Base",
-        "price": "Gs. 671.000",
+        "price": "Gs. 654.000",
         "details": {
             "Diseño": "Ergonómico y resistente",
             "Códigos decodificables": "Códigos lineales",
@@ -175,11 +154,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/e/lectoroorr-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/e/lectoroorr-3.jpg"
         ],
-        "id": 9
+        "id": 8
     },
     {
         "name": "Lector de Código de Barra Zkteco ZKB101 - Negro",
-        "price": "Gs. 263.000",
+        "price": "Gs. 256.000",
         "details": {
             "Tipo": "Escáner láser rojo de 32 bits",
             "Ángulo de lectura": "70°, 70° (vertical, horizontal)",
@@ -194,57 +173,32 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/8/68051_1.jpg"
         ],
+        "id": 9
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink Mini S12 Intel N95 8 GB DDR4 256 GB SSD",
+        "price": "Gs. 1.440.000",
+        "details": {
+            "Procesador": "Intel N95 (4M Cache, up to 3.40 GHz)",
+            "Tipo de memoria RAM": "DDR4",
+            "Gráficos": "Intel UHD Graphics",
+            "Conectividad": "Wi-Fi 802.11ac, Bluetooth 4.2",
+            "Interfaz": "2 x HDMI 2.0 4K@60Hz Output, 3.5mm audio jack"
+        },
+        "label": "Beelink",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/r/4rocaijsixtvo2viwprfhh0btwz8mvkun0z.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/j/h/jh8fafumhtbf2rqzvnmh6k8dofqfzj1jagt.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/v/fvinonc85k2lb5p1677063622re_1.jpg"
+        ],
         "id": 10
     },
     {
-        "name": "Mini Computadora de Escritorio Beelink Mini S Intel Celeron N5095 8 GB DDR4 256 GB SSD - Azul",
-        "price": "Gs. 1.300.000",
-        "details": {
-            "Procesador Intel Celeron N5095 Quad-Core 2.0 - 2.9 GHz": "",
-            "Tipo de memoria RAM": "DDR4",
-            "Ranura SSD": "M.2 SATA3 SSD",
-            "Gráficos": "Intel UHD Graphics",
-            "Conectividad": "Wi-Fi 802.11ac, Wi-Fi 5 y Bluetooth 4.0",
-            "Interfaz": "4 x USB 3.0, RJ-45 LAN, 2 x HDMI y conector de áudio 3.5 mm"
-        },
-        "label": "Beelink",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_1_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_3_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/S/M/SMFiGxqZ3Xgq6S6coWBH9hCVvQTzPWwedEg.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_2_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/o/1/o1i727skTz7Vp2JezFYhNVpoVjMG9iEiaKa.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/2/122279-_4_.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/Z/fZJiYagEbuR4oeu8UfNb83LoiyO2KXay38x.jpg"
-        ],
-        "id": 11
-    },
-    {
-        "name": "Mini Computadora de Escritorio Beelink GTI14 Intel Ultra 7 155H 32 GB DDR5 1 TB SSD - Frost Silver",
-        "price": "Gs. 7.527.000",
-        "details": {
-            "Procesador": "Intel Core Ultra 7 155H",
-            "Tipo de memoria RAM": "DDR5",
-            "Ranura SSD": "Dual M.2 2880 PCle4.0",
-            "Gráficos": "Intel Arc Graphics",
-            "Conectividad": "Bluetooth 5.4, Wi-fi 7",
-            "Interfaz": "HDMI, DisplayPort"
-        },
-        "label": "Beelink",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/t/K/tK5l9eMfVxKACpbp3uNwmg1XGdmiw8O6rNg.jpg"
-        ],
-        "id": 12
-    },
-    {
         "name": "Mini Computadora de Escritorio Beelink GTI14 Intel Ultra 9 185H 32 GB DDR5 1 TB SSD - Frost Silver",
-        "price": "Gs. 8.149.000",
+        "price": "Gs. 7.948.000",
         "details": {
             "Procesador": "Intel Core Ultra 9 185H",
             "Tipo de memoria RAM": "DDR5",
@@ -260,11 +214,11 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/M/M/MMmoPN8d5VLACmuS8VrPSy3aXk0KZD2B2Jd.jpg"
         ],
-        "id": 13
+        "id": 11
     },
     {
         "name": "Apple Mac mini M2 Pro (2023) MNH73LL/A 512 GB - Silver",
-        "price": "Gs. 8.887.000",
+        "price": "Gs. 8.667.000",
         "details": {
             "Procesador": "M2 Pro de 10 núcleos",
             "Memoria RAM": "16 GB",
@@ -280,72 +234,80 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/G/6/G6rbgTbtF6Npvkxs7G0Ts3gCekGDQoRJdpx.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1673967007_img_1920052_1_.jpg"
         ],
+        "id": 12
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 8 GB DDR4 500 GB SSD - Gray",
+        "price": "Gs. 2.416.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 5 Pro 5650U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Conectividad": "Dual LAN 1000M, USB-C 10Gbps, USB3 10Gbps, HDMI",
+            "Interfaz": "USB 2.0, 3.5mm audio jack, CLR CMOS",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "Beelink",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/w/Q/wQLVzXND7PUIX2SZlFcsyIIiUt05mTdOzB6.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_1_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_1_1.jpg"
+        ],
+        "id": 13
+    },
+    {
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 16 GB DDR4 500 GB SSD - Gray",
+        "price": "Gs. 2.605.000",
+        "details": {
+            "Procesador": "AMD Ryzen™ 5 Pro 5650U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Conectividad": "Dual LAN 1000M, USB-C 10Gbps, USB3 10Gbps, HDMI",
+            "Interfaz": "USB 2.0, 3.5mm audio jack, CLR CMOS",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "Beelink",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/M/lMHUtmppzYPb2a2nw2zg1kzrm1LMSC2mXDe.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_1_2.jpg"
+        ],
         "id": 14
     },
     {
-        "name": "Proyector Wanbo Vali 1 900 Lúmenes Full HD - Blanco",
-        "price": "Gs. 2.127.000",
+        "name": "Mini Computadora de Escritorio Beelink EQR5 Mini AMD Ryzen PRO 5 5650U 500 GB SSD - Gray",
+        "price": "Gs. 2.416.000",
         "details": {
-            "Pantalla": "LCD",
-            "Brillo máximo": "900 lúmenes ANSI",
-            "Resolución": "Full HD (1920 x 1080)",
-            "Conectividad": "Wi-Fi 2.4G/5G, Bluetooth 5.0",
-            "Interfaz": "1x HDMI, 1x USB, 1x 3.5 mm",
-            "Sistema operativo": "Android 11",
-            "Tamaño de proyección": "101.6 cm a 330.2 cm (40\" – 130\")"
+            "Procesador": "AMD Ryzen™ 5 Pro 5650U",
+            "Tipo de memoria RAM": "DDR4",
+            "Almacenamiento": "500 GB SSD",
+            "Conectividad": "Dual LAN 1000M, USB-C 10Gbps, USB3 10Gbps, HDMI",
+            "Interfaz": "USB 2.0, 3.5mm audio jack, CLR CMOS",
+            "Sistema operativo": "Windows 11"
         },
-        "label": "Wanbo",
+        "label": "Beelink",
         "categories": [
             ""
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/h/vhrzKCHovXowB6IcuRPxWA3zNt8lE22teWd.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/L/s/LsvOR5FOsv4yxJDL3VT5UFgTh77sUfHh4xl.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/6/a6a9gV8JRGt17yVZmPDDUFSQjxYS4j5hGhD.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/6/86lYH2Yx3QkfUFpMDmCSZFRn6BwA4km3WjA.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/X/q/Xq9AGorwpcF4Cype7MuztpeEcgfV52eJZxZ.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/o/f/ofQzNWQO7WoWfAP49fwz4ZRHZSqR8fe4IWf.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/r/1/r13rZvQo5tmeUEEPgejuhaGpYvOWRFU7beo.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-2_2_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/e/deb800a7-cb2f-4c53-b037-453eb0a8dc51-3_2_1.jpg"
         ],
-        "specifications": {
-            "Ventilador de refrigeración de gran tamaño (10 cm de diámetro) que mejora la disipación y reduce el ruido.": "",
-            "El soporte incluye ranura para el control remoto y diseño de alimentación integrado que mantiene el espacio ordenado.": "",
-            "Cuenta con modo de juego para reducir latencia y optimizar el rendimiento en videojuegos.": "",
-            "Compatible con montajes en techo, pared y soporte de piso para una experiencia más versátil.": "",
-            "Permite zoom digital de imagen del 50% al 100% para ajustar el tamaño de proyección sin mover el proyector.": "",
-            "Microlente de 3 piezas de vidrio asférico puro para mayor precisión óptica.": "",
-            "Diseño artístico para proyección de imágenes ambientales y decorativas.": ""
-        },
         "id": 15
     },
     {
-        "name": "Notebook ASUS VivoBook Go E1504GA-NJ535W 15.6\" Intel Core i3-N305 8 GB 512 GB SSD - Negro",
-        "price": "Gs. 3.990.000",
-        "details": {
-            "Pantalla": "Full HD de 15.6\" (1920 x 1080p)",
-            "Procesador": "Intel Core i3-N305 Octa Core, 1.8 hasta 3.8 GHz",
-            "Memoria RAM": "8 GB",
-            "Memoria de almacenamiento": "SSD de 512 GB",
-            "Gráficos": "Intel Ultra HD",
-            "Sistema operativo": "Windows 11"
-        },
-        "label": "ASUS",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/j/1jIG6NtfJB8MdxHbpFGYQEQb1frFgzL7oXr_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/M/pMbrjbt68ultUQVVr5ixe1nCINPcVhrVF8v_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/W/mWovbYsOez0GyviFoqegBH0osSzse91nzJ5_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/I/hID2ktrdPl1OFVdPAMfIgIC4FiRfhu7FdyK_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/S/l/Slbo4ESnq8GPeqNwZ8ncgnExVW0zt8GbR9y_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/I/E/IEix5eX2mBdUL8l0ZVRz8hxGHgqCLC58Wxs_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/n/w/nwoOUMEkdipFCKDlu5zPwtZNM8Imn0uc4jz_1.jpg"
-        ],
-        "id": 16
-    },
-    {
         "name": "Notebook HP 14-FQ1035CL 14\" AMD Ryzen 7 5700U 16 GB DDR4 512 GB SSD Touch - Negro",
-        "price": "Gs. 5.226.000",
+        "price": "Gs. 5.250.000",
         "details": {
             "Pantalla": "LED Touch de 14\" HD 1366 x 768p",
             "Procesador": "AMD Ryzen 7 5700U Octa-Core 1.8 - 4.3 GHz",
@@ -365,11 +327,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-5.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-118725-4.jpg"
         ],
-        "id": 17
+        "id": 16
     },
     {
         "name": "Notebook MSI Thin GF63 12UCX-898 15.6\" Intel Core i5-12450H RTX 2050 4 GB - Negro",
-        "price": "Gs. 6.290.000",
+        "price": "Gs. 6.590.000",
         "details": {
             "Pantalla": "IPS 15.6\" Full HD 1920 x 1080p 144 Hz",
             "Procesador": "Intel Core i5-12420H Octa-Core 2.3 - 4.4 GHz",
@@ -388,11 +350,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_4_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_3_1.jpg"
         ],
-        "id": 18
+        "id": 17
     },
     {
         "name": "Notebook Lenovo IdeaPad 1 15AMN7 15.6\" AMD Ryzen 3 7320U 8 GB LPDDR5 256 GB SSD - Abyss Blue (82VG00BJUS)",
-        "price": "Gs. 3.487.000",
+        "price": "Gs. 3.500.000",
         "details": {
             "Pantalla": "TN 15.6” Full HD 1920 x 1080p",
             "Procesador": "AMD Ryzen 3 7320U Quad-Core 2.4 - 4.1 GHz",
@@ -411,7 +373,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_4_.png",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82vg00bjus_1_.png"
         ],
-        "id": 19
+        "id": 18
     },
     {
         "name": "Notebook ASUS Vivobook S K5504VN-DS96 15.6\" Intel Core i9-13900H 16 GB DDR5 1 TB SSD - Negro",
@@ -433,7 +395,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-3.jpg"
         ],
-        "id": 20
+        "id": 19
     },
     {
         "name": "Notebook Lenovo V14 G4 AMN 14\" AMD Ryzen 5 7520U 8 GB LPDDR5 256 GB SSD - Negro (82YT00Q3US)",
@@ -456,11 +418,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_4.jpg"
         ],
-        "id": 21
+        "id": 20
     },
     {
         "name": "Notebook Acer Aspire 3 A315-24PT-R90Z 15.6\" AMD Ryzen 5 7520U 8 GB LPDDR5 512 GB SSD - Azul",
-        "price": "Gs. 4.500.000",
+        "price": "Gs. 3.990.000",
         "details": {
             "Pantalla": "IPS de 15.6\" Full HD 1920 x 1080p",
             "Procesador": "AMD Ryzen 5 7520U Quad-Core 2.8 - 4.3 GHz",
@@ -482,27 +444,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112908-a315-24pt-r90z-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/112908-a315-24pt-r90z-1.jpg"
         ],
-        "id": 22
-    },
-    {
-        "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MCX14LL/A - Silver",
-        "price": "Gs. 19.803.000",
-        "details": {
-            "Pantalla": "Liquid Retina XDR de 14\" con resolución 3024 x 1964",
-            "Procesador": "M4",
-            "GPU": "10 núcleos",
-            "Memoria RAM": "24 GB",
-            "Sistema operativo": "macOS"
-        },
-        "label": "Apple",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/B/0B8BcIDz6CjUlqqR5Iv5xNByd02mLtqGZ31_1_4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/H/4HJW1oJ0xzkIZmhdgQoHMzniPAoeMiARNXA_1_4.jpg"
-        ],
-        "id": 23
+        "id": 21
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2V3LL/A - Space Black",
@@ -523,11 +465,59 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1.jpg"
         ],
+        "id": 22
+    },
+    {
+        "name": "Notebook Gamer HP Omen 16-WD0073DX 16.1\" Intel Core i7-13620H RTX 4060 8 GB - Negro",
+        "price": "Gs. 10.500.000",
+        "details": {
+            "Pantalla": "16.1\" IPS (1920 x 1080p)",
+            "Procesador": "Intel Core i7-13620H",
+            "Memoria RAM": "16 GB (2 x 8GB)",
+            "Memoria de almacenamiento": "1 TB PCIe Gen4 NVMe M.2 SSD",
+            "Gráficos": "NVIDIA GeForce RTX 4060 8 GB GDDR6",
+            "Sistema operativo": "Windows 11"
+        },
+        "label": "HP",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057_sd.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057ld.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057_rd.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv1d.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv4d.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/5/6571057cv7d.jpg"
+        ],
+        "id": 23
+    },
+    {
+        "name": "Notebook MSI Cyborg 15 A13VE-218 15.6\" Intel Core i7-13620H RTX 4050 6 GB - Negro",
+        "price": "Gs. 8.950.000",
+        "details": {
+            "Pantalla": "IPS 15.6\" Full HD 1920 x 1080p 144 Hz",
+            "Procesador": "Intel Core i7-13620H Deca-Core 1.8 - 4.9 GHz",
+            "Memoria RAM": "16 GB DDR5",
+            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
+            "Gráficos": "NVIDIA GeForce RTX 4050 6 GB GDDR6",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "MSI",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_4.jpg"
+        ],
         "id": 24
     },
     {
         "name": "Notebook HP 15-DY5009LA 15.6\" Intel Core i7-1255U 8 GB DDR4 512 GB SSD - Plata",
-        "price": "Gs. 6.372.000",
+        "price": "Gs. 5.900.000",
         "details": {
             "Pantalla": "LED 15.6\" HD 1366 x 768p",
             "Procesador": "Intel Core i7-1255U Deca-Core 1.8 - 4.7 GHz",
@@ -550,7 +540,7 @@
     },
     {
         "name": "Notebook Gamer Asus TUF Gaming A16 Advantage Edition (2023) FA617NT 16\" AMD Ryzen 7 7735HS RX 7700S 8 GB - Off Black",
-        "price": "Gs. 8.881.000",
+        "price": "Gs. 8.500.000",
         "details": {
             "Pantalla": "LCD IPS de 16\" WUXGA 1920 x 1200p 165 Hz",
             "Procesador": "AMD Ryzen 7 7735HS Octa-Core 3.2 - 4.75 GHz",
@@ -601,7 +591,7 @@
     },
     {
         "name": "Set de Switches Akko V3 Piano Pro - 45 piezas",
-        "price": "Gs. 105.000",
+        "price": "Gs. 103.000",
         "details": {
             "Tipo": "Lineal",
             "Fuerza operativa": "45 ± 5 gf",
@@ -624,7 +614,7 @@
     },
     {
         "name": "Pasta Térmica Thermalright TF8EX 14 W - Azul 2.9gr",
-        "price": "Gs. 86.000",
+        "price": "Gs. 71.000Gs. 84.000",
         "details": {
             "Conductividad térmica": "14 W / mk",
             "Impedancia térmica": "<0,01 °C-cm2/W",
@@ -642,38 +632,8 @@
         "id": 29
     },
     {
-        "name": "Soporte de Escritorio Vijim LS-01 Extensible - Negro",
-        "price": "Gs. 506.000",
-        "details": {
-            "Diseño": "Resistente y compacto",
-            "Material": "Aluminio",
-            "Angulo de rotación": "360°",
-            "Altura mínima": "37.9 cm (sin cabeza)",
-            "Altura máxima": "102.2 cm (con cabeza)",
-            "Capacidad máxima de carga": "1.5kg"
-        },
-        "label": "Vijim",
-        "categories": [
-            ""
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.10.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.7.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.9.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184.8.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119184..jpg"
-        ],
-        "id": 30
-    },
-    {
         "name": "Speaker Gamer para PC Redragon Toccata GS700 RGB - Negro",
-        "price": "Gs. 388.000",
+        "price": "Gs. 378.000",
         "details": {
             "Diseño": "Compacto y resistente",
             "Potencia": "15 W",
@@ -691,11 +651,11 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-117974-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-117974-3.jpg"
         ],
-        "id": 31
+        "id": 30
     },
     {
         "name": "Soporte para Proyector Klip Xtreme KPM-610B - Negro",
-        "price": "Gs. 340.000",
+        "price": "Gs. 331.000",
         "details": {
             "Tipo de soporte": "Inclinable/giratorio",
             "Rango de inclinación": "-15° y +15º",
@@ -719,11 +679,30 @@
             "Las patas de montaje se extienden": "330mm diagonalmente",
             "Material": "Acero"
         },
+        "id": 31
+    },
+    {
+        "name": "Soporte para Proyector Havit PA304 - Negro",
+        "price": "Gs. 123.317",
+        "details": {
+            "Diseño": "Resistente y compacto",
+            "Material": "Aluminio y metal",
+            "Fácil de": "Instalar",
+            "Medidas extendido": "27cm a 39cm",
+            "Capacidad máxima de carga": "3 kilos"
+        },
+        "label": "Havit",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/o/soporte_para_proyectores_techo_havit_pa304_108821.jpg"
+        ],
         "id": 32
     },
     {
         "name": "Micrófono Steelseries Alias Pro",
-        "price": "Gs. 2.590.000",
+        "price": "Gs. 1.986.000Gs. 2.590.000",
         "details": {
             "Tipo": "Condensador",
             "Cápsula": "Transparente de 1\"/25 mm",
@@ -762,7 +741,7 @@
     },
     {
         "name": "Fuente PoE Ubiquiti Inyector 24VDC 24 W 1.0AMP - Negro",
-        "price": "Gs. 115.000",
+        "price": "Gs. 112.000",
         "details": {
             "Voltaje de salida": "24 VDC a 1.0A",
             "Voltaje de entrada": "90-260v CA a 47/63 Hz",
@@ -783,7 +762,7 @@
     },
     {
         "name": "Conversor de Medios Planet GT-802 10/100/1000M - Negro",
-        "price": "Gs. 457.000",
+        "price": "Gs. 446.000",
         "details": {
             "Distancia de transmisión": "22 - 55 km",
             "Longitud de onda de trabajo": "850 nm",
@@ -801,7 +780,7 @@
     },
     {
         "name": "Soporte Plegable Targus AWE810GL para Notebook - Plata",
-        "price": "Gs. 263.000",
+        "price": "Gs. 256.000",
         "details": {
             "Diseño": "Ergonómico y ajustable",
             "Material": "Aluminio",
@@ -882,7 +861,7 @@
     },
     {
         "name": "Maletín Case Logic PROPA-114 para Notebook 14\" - Negro",
-        "price": "Gs. 345.000",
+        "price": "Gs. 337.000",
         "details": {
             "Diseño": "Convencional y ergonómico",
             "Proporciona": "Almacenamiento seguro",
