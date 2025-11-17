@@ -183,8 +183,31 @@
         "id": 8
     },
     {
+        "name": "Mini Computadora de Escritorio Beelink Mini S12 Intel N95 8 GB DDR4 256 GB SSD",
+        "price": "Gs. 1.610.000",
+        "details": {
+            "Procesador": "Intel N95 (4M Cache, up to 3.40 GHz)",
+            "Tipo de memoria RAM": "DDR4",
+            "Gráficos": "Intel UHD Graphics",
+            "Conectividad": "Wi-Fi 802.11ac, Bluetooth 4.2",
+            "Interfaz": "2 x HDMI 2.0 4K@60Hz Output, 3.5mm audio jack"
+        },
+        "label": "Beelink",
+        "categories": [
+            "Informática",
+            "Vuelta a Clases",
+            "Accesorios de informática "
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/r/4rocaijsixtvo2viwprfhh0btwz8mvkun0z.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/j/h/jh8fafumhtbf2rqzvnmh6k8dofqfzj1jagt.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/v/fvinonc85k2lb5p1677063622re_1.jpg"
+        ],
+        "id": 9
+    },
+    {
         "name": "Mini Computadora de Escritorio Beelink GTI14 Intel Ultra 9 185H 32 GB DDR5 1 TB SSD - Frost Silver",
-        "price": "Gs. 7.545.000",
+        "price": "Gs. 8.489.000",
         "details": {
             "Procesador": "Intel Core Ultra 9 185H",
             "Tipo de memoria RAM": "DDR5",
@@ -200,7 +223,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/M/M/MMmoPN8d5VLACmuS8VrPSy3aXk0KZD2B2Jd.jpg"
         ],
-        "id": 9
+        "id": 10
     },
     {
         "name": "Apple Mac mini M2 Pro (2023) MNH73LL/A 512 GB - Silver",
@@ -221,7 +244,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/G/6/G6rbgTbtF6Npvkxs7G0Ts3gCekGDQoRJdpx.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1673967007_img_1920052_1_.jpg"
         ],
-        "id": 10
+        "id": 11
     },
     {
         "name": "Proyector ViewSonic LS560WH 3000 Lúmenes Full HD - White",
@@ -244,7 +267,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/L/W/LW7Z3K1mWzs5lKpMtt7kCT8UGcGi6ZbzERj.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/m/T/mTm7ezR7iK6FkRhX2a2HhUry0kA83zyRW7x.jpg"
         ],
-        "id": 11
+        "id": 12
     },
     {
         "name": "Proyector ViewSonic PA503X 4000 Lúmenes - White",
@@ -266,7 +289,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/146049_2_.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/146049.jpg"
         ],
-        "id": 12
+        "id": 13
     },
     {
         "name": "Proyector G-Tide PJ50 240 ANSI Lúmenes Full HD Wi-Fi",
@@ -297,7 +320,7 @@
             "Hisopo de limpieza largo": "",
             "Destornillador": ""
         },
-        "id": 13
+        "id": 14
     },
     {
         "name": "Apple Mac mini CTO (2023) M2 Pro Z170001AL 1 TB - Silver",
@@ -318,7 +341,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1673967007_img_1920052_1__1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/6/g6rbgtbtf6npvkxs7g0ts3gcekgdqorjdpx.jpg"
         ],
-        "id": 14
+        "id": 15
     },
     {
         "name": "Apple Mac mini (2023) M2 Pro MNH73LZ/A 512 GB - Silver",
@@ -339,7 +362,79 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1673967007_img_1920052_1__2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/6/g6rbgtbtf6npvkxs7g0ts3gcekgdqorjdpx_1.jpg"
         ],
-        "id": 15
+        "id": 16
+    },
+    {
+        "name": "Proyector XGIMI Horizon Pro XK03H 1500 Lúmenes 4K - Negro",
+        "price": "Gs. 14.164.000",
+        "details": {
+            "Brillo máximo": "1500 lúmenes",
+            "Resolución": "4K UHD (3840 x 2160)",
+            "Conectividad": "Bluetooth 5.0, Wi-Fi dual 2.4/5GHz",
+            "Interfaz": "HDMI, USB, audio óptico, RJ-45, jack 3.5mm",
+            "Sistema operativo": "Android TV",
+            "Tamaño de proyección": "101.6 cm a 508 cm (40\" - 200\")"
+        },
+        "label": "XGIMI",
+        "categories": [
+            "Proyectores y Pantallas",
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/148652_4_.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/148652_2__1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/148652_3_.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/148652_1_.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/148652_2_.jpg"
+        ],
+        "id": 17
+    },
+    {
+        "name": "Proyector XGIMI Elfin Mini XL03A 800 Lúmenes Full HD - Blanco",
+        "price": "Gs. 4.362.000",
+        "details": {
+            "Brillo máximo": "800 lúmenes",
+            "Resolución": "Full HD (1920 x 1080)",
+            "Conectividad": "Bluetooth 5.0, Wi-Fi dual 2.4/5GHz",
+            "Interfaz": "HDMI, USB, Jack 3.5 mm",
+            "Sistema operativo": "Android TV",
+            "Tamaño de proyección": "101.6 cm a 508 cm (40\" - 200\")"
+        },
+        "label": "XGIMI",
+        "categories": [
+            "Proyectores y Pantallas",
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/B/V/BVqSzETabH5Ayz8Gq5IERdQfg8nYNaL3t6v.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/p/cp4Gf20F6KJsHLVdojRPRm1RY9wqog.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/o/9/o9NmMe205MKQ3hTvcYEqLFf6wD2axZgo9uJ.jpg"
+        ],
+        "id": 18
+    },
+    {
+        "name": "Proyector XGMI Aura XM03A 2400 Lúmenes 4K Ultra HD - Gris",
+        "price": "Gs. 17.761.000",
+        "details": {
+            "Brillo máximo": "2400 lúmenes",
+            "Resolución": "Ultra HD 4K (3840 x 2160)",
+            "Conectividad": "Bluetooth 5.0, Wi-Fi dual 2.4/5GHz",
+            "Interfaz": "HDMI, USB, RJ-45, salida óptica y audio 3.5mm",
+            "Sistema operativo": "Android TV",
+            "Tamaño de proyección": "203 cm a 381 cm (80\" - 150\")"
+        },
+        "label": "XGIMI",
+        "categories": [
+            "Proyectores y Pantallas",
+            "Informática"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/W/dWGJUVeR7XU0Q7Cb5yo3GspK9Ph9RGbJYoy.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/T/m/TmLpRBETqekRFA4rqvQHHsuFDtUVZ0rYwjh.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/i/A/iAPSdCmKJEnZQUOgeqnuAgny8sG3bQzywdS.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/t/7/t757IqPNs7jPd9RPJj5S4sAKyTUvSV7kj6L.jpg"
+        ],
+        "id": 19
     },
     {
         "name": "Notebook HP 15-FD0250WM 15.6\" Intel Core i5 1334U 8 GB DDR4 512 GB SSD - Silver",
@@ -367,7 +462,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/h/ehMbyGgTOi7Jl33EIiWZaomI0IdBhl.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/N/g/NgIuNzAt9Is07cQuhAsP386UthyvjlXGrCq.jpg"
         ],
-        "id": 16
+        "id": 20
     },
     {
         "name": "Notebook Lenovo Yoga Book 9i Duo 83FF001PLM OLED 13.3\" Intel Core Ultra 7 155U 16 GB LPDDR5x 1 TB SSD Touch - Tidal Teal",
@@ -418,11 +513,11 @@
             "Seguridad avanzada con cámara IR para reconocimiento facial y obturador electrónico.": "",
             "Diseño liviano y compacto, con apenas 1.34 kg y 15,95 mm de grosor.": ""
         },
-        "id": 17
+        "id": 21
     },
     {
         "name": "Notebook Asus Vivobook Go 15 E1504FA-OS54 15.6\" AMD Ryzen 5 7520U 16 GB DDR5 512 GB SSD - Mixed Black",
-        "price": "Gs. 3.912.000",
+        "price": "Gs. 3.822.000",
         "details": {
             "Pantalla": "LCD de 15.6\" FHD 1920 x 1080p",
             "Procesador": "AMD Ryzen 5 7520U Quad-Core 2.8 - 4.3 GHz",
@@ -450,7 +545,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119324-3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119324-2.jpg"
         ],
-        "id": 18
+        "id": 22
     },
     {
         "name": "Notebook MSI Thin GF63 12UCX-898 15.6\" Intel Core i5-12450H RTX 2050 4 GB - Negro",
@@ -475,7 +570,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_4_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_3_1.jpg"
         ],
-        "id": 19
+        "id": 23
     },
     {
         "name": "Notebook HP 250 G10 15.6\" Intel Core i7-1355U 8 GB DDR4 512 GB SSD - Negro",
@@ -498,7 +593,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-4.jpg"
         ],
-        "id": 20
+        "id": 24
     },
     {
         "name": "Notebook ASUS Vivobook S K5504VN-DS96 15.6\" Intel Core i9-13900H 16 GB DDR5 1 TB SSD - Negro",
@@ -523,7 +618,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-2.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-3.jpg"
         ],
-        "id": 21
+        "id": 25
     },
     {
         "name": "Notebook Lenovo V14 G4 AMN 14\" AMD Ryzen 5 7520U 8 GB LPDDR5 256 GB SSD - Negro (82YT00Q3US)",
@@ -547,7 +642,32 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_4.jpg"
         ],
-        "id": 22
+        "id": 26
+    },
+    {
+        "name": "Notebook Gamer ASUS TUF Gaming F16 FX608JMR-RV010W 16\" Intel Core i7 14650HX RTX 5060 8 GB - Jaeger Gray",
+        "price": "Gs. 12.815.000",
+        "details": {
+            "Pantalla": "IPS-Level de 16\", WUXGA (1920 x 1200), 165 Hz",
+            "Procesador": "Intel Core i7 14650HX Hexadeca-core, 2.2 hasta 5.2 GHz",
+            "Memoria RAM": "16 GB DDR5",
+            "Almacenamiento": "SSD M.2 PCIe 4.0 NVMe de 1 TB",
+            "Gráficos": "NVIDIA GeForce RTX 5060 con 8 GB GDDR7",
+            "Sistema Operativo": "Windows 11 Home"
+        },
+        "label": "ASUS",
+        "categories": [
+            "Notebooks",
+            "Notebooks Gamer",
+            "Notebooks Creator"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/147809_5.5_.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/147809_1.1_.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/147809_3_.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/147809_.2_.jpg"
+        ],
+        "id": 27
     },
     {
         "name": "Notebook ASUS VivoBook 14 F1404VAP-QB5 14\" Intel Core 5 120U 512 GB SSD 8 GB DDR4 - Verde",
@@ -571,7 +691,32 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/x/lxkuZWVGpUMH2PAcOa8YENu9WYpyrNMPXFI.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/W/V/WVvklvp2KjzQQcAUW6SKynJlHLbPnieIq8N.jpg"
         ],
-        "id": 23
+        "id": 28
+    },
+    {
+        "name": "Notebook Acer Aspire 14 A14-52MT-94H5 14\" Intel Core Ultra 9 288V 32 GB LPDDR5X 1 TB SSD Touch - Steel Gray",
+        "price": "Gs. 9.900.000",
+        "details": {
+            "Pantalla": "LCD IPS Touch de 14\", WUXGA (1920 x 1200), 60 Hz",
+            "Procesador": "Intel Core Ultra 9 288V Octa-Core, 3.3 hasta 5.1 GHz",
+            "Memoria RAM": "32 GB LPDDR5X",
+            "Almacenamiento": "SSD M.2 NVMe PCIe Express 4.0 de 1 TB",
+            "Gráficos": "Intel ARC 140V",
+            "Sistema Operativo": "Windows 11 Home"
+        },
+        "label": "Acer",
+        "categories": [
+            "Notebooks"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/U/lUrxWXmlJ7ZsE0QSffSO3GLQDWJmEvK48GR.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/F/m/FmdTRG3D7vizDgV6dBkTCkpAtO0v8toUHzr.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/7/G/7GDqTVUlhjEyssF1UzQgU2W3pC1qJ6lzlrE.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/C/gC8Oj22pB7PXa5fkIBU7Aw8M8PR7IPNpEVq.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/N/8Nmt6TcqHR1Zr3CtdgrrUPoDCF56Xf9OCfi.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/d/bdaET4qMwy09yVUXlGiDdN5rX7xqtLIZdFQ.jpg"
+        ],
+        "id": 29
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2V3LL/A - Space Black",
@@ -593,7 +738,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/v/a/vakurwb1crjk1rjess1n4njwgpptwxiucys_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/a/p/apple-macbook-pro-mw2u3lla_4_1.jpg"
         ],
-        "id": 24
+        "id": 30
     },
     {
         "name": "Apple MacBook Pro (2024) 14\" M4 1 TB MW2X3LL/A - Silver",
@@ -616,32 +761,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/B/0B8BcIDz6CjUlqqR5Iv5xNByd02mLtqGZ31_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/H/4HJW1oJ0xzkIZmhdgQoHMzniPAoeMiARNXA_1.jpg"
         ],
-        "id": 25
-    },
-    {
-        "name": "Notebook MSI Cyborg 15 A13VE-218 15.6\" Intel Core i7-13620H RTX 4050 6 GB - Negro",
-        "price": "Gs. 9.190.000",
-        "details": {
-            "Pantalla": "IPS 15.6\" Full HD 1920 x 1080p 144 Hz",
-            "Procesador": "Intel Core i7-13620H Deca-Core 1.8 - 4.9 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Memoria de almacenamiento": "SSD M.2 NVMe de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 4050 6 GB GDDR6",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "MSI",
-        "categories": [
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/110410_-_4.jpg"
-        ],
-        "id": 26
+        "id": 31
     },
     {
         "name": "Notebook HP 15-DY5009LA 15.6\" Intel Core i7-1255U 8 GB DDR4 512 GB SSD - Plata",
@@ -669,7 +789,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_3.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_4.jpg"
         ],
-        "id": 27
+        "id": 32
     },
     {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY03LL/A - Plata",
@@ -695,7 +815,7 @@
             "Gris espacial": "",
             "Plata": ""
         },
-        "id": 28
+        "id": 33
     },
     {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY43LL/A - Midnight",
@@ -721,7 +841,7 @@
             "Gris espacial": "",
             "Plata": ""
         },
-        "id": 29
+        "id": 34
     },
     {
         "name": "Maletín Case Logic PROPA-114 para Notebook 14\" - Negro",
@@ -741,7 +861,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_6_-_2025-02-05t165012.618.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_5_-_2025-02-05t165011.712.jpg"
         ],
-        "id": 30
+        "id": 35
     },
     {
         "name": "Estuche K&F Beta Messenger V2 12L para Cámara - Azul/Marrón (KF13.062V1)",
@@ -766,7 +886,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_s.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_sasasadsasas.jpg"
         ],
-        "id": 31
+        "id": 36
     },
     {
         "name": "Maletín Havit HVG-GT-B101 para Notebook 15.6\" - Gris",
@@ -786,16 +906,17 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119313_1.jpg"
         ],
-        "id": 32
+        "id": 37
     },
     {
-        "name": "Estuche Impermeable EcoFlow para DELTA Max - Negro",
-        "price": "Gs. 225.000",
+        "name": "Mochila Impermeable EcoFlow para RIVER 2 Series - Negro",
+        "price": "Gs. 113.000Gs. 225.000",
         "details": {
             "Diseño": "Elegante y ligero",
             "Protección": "Contra golpes, arañazos, agua y polvo",
+            "Capacidad": "38 L",
             "Compartimiento para": "Accesorios",
-            "Compatible con": "EcoFlow DELTA 2 Max / DELTA Max"
+            "Compatible con": "EcoFlow RIVER 2 Series"
         },
         "label": "EcoFlow",
         "categories": [
@@ -804,12 +925,12 @@
             "Ecoflow"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118766-bolso-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118766-bolso-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118766-bolso-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118766-bolso-1.jpg"
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118763-river-1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118763-river-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118763-river-3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118763-river-4.jpg"
         ],
-        "id": 33
+        "id": 38
     },
     {
         "name": "Apple Macbook Air Late (2020) 13.3\" M1 256 GB MGN63BZ/A - Space Gray",
@@ -831,7 +952,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/u/kuuu_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/g/gggggg_1_3_1_1.jpg"
         ],
-        "id": 34
+        "id": 39
     },
     {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY23LL/A - Blanco Estelar",
@@ -856,154 +977,6 @@
             "Blanco estelar": "",
             "Gris espacial": "",
             "Plata": ""
-        },
-        "id": 35
-    },
-    {
-        "name": "Apple Macbook Air Mid (2022) 13.6\" M2",
-        "price": "Gs. 10.834.177",
-        "details": {
-            "Pantalla": "Retina 13.6\" 2560 x 1664",
-            "Procesador": "M2 8-Core",
-            "Memoria RAM": "8 GB",
-            "Sensor": "Touch ID"
-        },
-        "label": "Apple",
-        "categories": [
-            "Notebooks",
-            "Macbooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/r/grisss_1_3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/r/grisss1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/o/doradoooo_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/o/doraaadoo1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/l/plataaaa_1_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/l/plataaa1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1654598161_1710306.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1654598160_img_1768101.jpg"
-        ],
-        "specifications": {
-            "Medianoche": "",
-            "Blanco estelar": "",
-            "Gris espacial": "",
-            "Plata": ""
-        },
-        "id": 36
-    },
-    {
-        "name": "Maletín Targus TSS932LP para Notebook 14\" - Negro",
-        "price": "Gs. 140.000",
-        "details": {
-            "Diseño": "Delgado y liviano",
-            "Proporciona": "Almacenamiento seguro y acolchado",
-            "Material": "Poliéster",
-            "Medidas": "38 x 28 x 3.5 cm",
-            "Compatible con": "Notebook de 14\""
-        },
-        "label": "Targus",
-        "categories": [
-            "Mochilas y estuches",
-            "Home School",
-            "Día del consumidor",
-            "Cyberday",
-            "Cyber Hasta Agotar Stock"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115163.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115163.4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115163.2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115163.3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115163.5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115163.6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/115163.1.jpg"
-        ],
-        "id": 37
-    },
-    {
-        "name": "Estuche Targus TBS93004 para Notebook 14\" - Gris/Marrón",
-        "price": "Gs. 161.000Gs. 189.000",
-        "details": {
-            "Diseño": "Elegante y delgado",
-            "Almacenamiento": "Acolchado",
-            "Material": "Liviano y detalles en cuero sintético",
-            "Tamaño": "26 x 36 x 2 cm"
-        },
-        "label": "Targus",
-        "categories": [
-            "Mochilas y estuches",
-            "Mochilas porta Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/u/funda_targus_tbs93004_para_asass.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/u/funda_targus_tbs93004_para_11456.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/u/funda_targus_tbs93004_para_11456-8.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_targus_tbs93004_114652.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/u/funda_targus_tbs93004_para_aas.jpg"
-        ],
-        "id": 38
-    },
-    {
-        "name": "Maletin Targus TCT027 para Notebook 16\" - Negro",
-        "price": "Gs. 239.000",
-        "details": {
-            "Diseño": "Elegante y delgado para portátiles de hasta 16\"",
-            "Almacenamiento": "Acolchonado",
-            "Material": "Poliéster",
-            "Tamaño": "10 x 43 x 33 cm"
-        },
-        "label": "Targus",
-        "categories": [
-            "Mochilas y estuches"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114913-tct027-8.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114913-tct027-7.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114913-tct027-6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114913-tct027-5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114913-tct027-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114913-tct027-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114913-tct027-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114913-tct027-1.jpg"
-        ],
-        "specifications": {
-            "Material de poliéster duradero y resistente al agua": "",
-            "Diseño cruzado para un transporte cómodo y seguro": "",
-            "Interior acolchado para proteger el portátil de golpes y arañazos": "",
-            "Bolsillo exterior para accesorios": "",
-            "Compatible con portátiles de hasta 16 pulgadas": ""
-        },
-        "id": 39
-    },
-    {
-        "name": "Mochila Targus TBR003 para Notebook 16\" con Ruedas - Negro",
-        "price": "Gs. 801.000",
-        "details": {
-            "Almacenamiento": "Acolchonado",
-            "Volumen": "28 litros",
-            "Material": "Poliéster 1200D",
-            "Tamaño": "23 x 40 x 45 cm"
-        },
-        "label": "Targus",
-        "categories": [
-            "Mochilas y estuches",
-            "Mochilas porta Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114915-tsb750-6.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114915-tsb750-5.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114915-tsb750-4.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114915-tsb750-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114915-tsb750-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114915-tsb750-1.jpg"
-        ],
-        "specifications": {
-            "Material duradero y resistente al agua": "",
-            "Compartimento principal grande para un portátil de hasta 16 pulgadas": "",
-            "Compartimento secundario para documentos": "",
-            "Bolsillo frontal para artículos pequeños": "",
-            "Sistema de ruedas": "",
-            "Asa telescópica ajustable": ""
         },
         "id": 40
     }
