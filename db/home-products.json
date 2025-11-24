@@ -94,9 +94,7 @@
         },
         "label": "Brother",
         "categories": [
-            "Informática",
-            "Impresoras",
-            "Impresoras Brother"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/brother_dcpl-2540dw_-_1.jpg",
@@ -117,7 +115,7 @@
         },
         "label": "Satellite",
         "categories": [
-            "Informática"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/o/cooler_satellite.jpg"
@@ -136,7 +134,7 @@
         },
         "label": "Satellite",
         "categories": [
-            "Informática"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_19.jpg"
@@ -155,7 +153,7 @@
         },
         "label": "Satellite",
         "categories": [
-            "Informática"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/s/a/sate_20.jpg"
@@ -174,8 +172,7 @@
         },
         "label": "ZKTECO",
         "categories": [
-            "Accesorios",
-            "Informática"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/6/8/68051_1.jpg"
@@ -194,9 +191,7 @@
         },
         "label": "Beelink",
         "categories": [
-            "Informática",
-            "Vuelta a Clases",
-            "Accesorios de informática "
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/4/r/4rocaijsixtvo2viwprfhh0btwz8mvkun0z.jpg",
@@ -218,7 +213,7 @@
         },
         "label": "Beelink",
         "categories": [
-            "Informática"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/M/M/MMmoPN8d5VLACmuS8VrPSy3aXk0KZD2B2Jd.jpg"
@@ -236,8 +231,7 @@
         },
         "label": "Apple",
         "categories": [
-            "Informática",
-            "Desktops"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/Y/8Yoiwh5qFB9jo8N9OwrDIwzlbOjzmOLpw57.jpg",
@@ -333,8 +327,7 @@
         },
         "label": "Apple",
         "categories": [
-            "Informática",
-            "Desktops"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/y/8yoiwh5qfb9jo8n9owrdiwzlbojzmolpw57.jpg",
@@ -354,8 +347,7 @@
         },
         "label": "Apple",
         "categories": [
-            "Informática",
-            "Desktops"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/y/8yoiwh5qfb9jo8n9owrdiwzlbojzmolpw57_1.jpg",
@@ -449,13 +441,7 @@
         },
         "label": "HP",
         "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Informática",
-            "Recomendados",
-            "Cyberday",
-            "Recomendados"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/G/Q/GQgNXiSe622zpiFyrmQlp6NgGPeOSE.jpg",
@@ -478,15 +464,7 @@
         },
         "label": "Lenovo",
         "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Notebooks Creator",
-            "Notebooks Premium",
-            "Informática",
-            "Recomendados",
-            "Cyberday",
-            "Recomendados"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/y/o/yoga-book-9i-duo-oled-83ff0000us-2_1_1.jpg",
@@ -528,9 +506,7 @@
         },
         "label": "ASUS",
         "categories": [
-            "Notebooks",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/b/r/br-119324-1.jpg",
@@ -560,9 +536,7 @@
         },
         "label": "MSI",
         "categories": [
-            "Notebooks Gamer",
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/114129_-_1_1.jpg",
@@ -584,8 +558,7 @@
         },
         "label": "HP",
         "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/h/p/hp_250_g10-1.jpg",
@@ -608,10 +581,7 @@
         },
         "label": "ASUS",
         "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Notebooks Creator",
-            "Notebooks Premium"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/5/k5504vn-ds96-1.jpg",
@@ -633,8 +603,7 @@
         },
         "label": "Lenovo",
         "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/8/2/82yt00q3us_-_1.jpg",
@@ -646,7 +615,7 @@
     },
     {
         "name": "Notebook Gamer ASUS TUF Gaming F16 FX608JMR-RV010W 16\" Intel Core i7 14650HX RTX 5060 8 GB - Jaeger Gray",
-        "price": "Gs. 12.815.000",
+        "price": "Gs. 12.311.000",
         "details": {
             "Pantalla": "IPS-Level de 16\", WUXGA (1920 x 1200), 165 Hz",
             "Procesador": "Intel Core i7 14650HX Hexadeca-core, 2.2 hasta 5.2 GHz",
@@ -657,9 +626,7 @@
         },
         "label": "ASUS",
         "categories": [
-            "Notebooks",
-            "Notebooks Gamer",
-            "Notebooks Creator"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/4/147809_5.5_.jpg",
@@ -682,7 +649,7 @@
         },
         "label": "ASUS",
         "categories": [
-            "Notebooks"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/1/g1eBkPMw3NdycRHfvT6JQLpHKnpUKjwGrAy.jpg",
@@ -706,7 +673,7 @@
         },
         "label": "Acer",
         "categories": [
-            "Notebooks"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/l/U/lUrxWXmlJ7ZsE0QSffSO3GLQDWJmEvK48GR.jpg",
@@ -730,8 +697,7 @@
         },
         "label": "Apple",
         "categories": [
-            "Notebooks",
-            "Macbooks"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/f/t/ftnazjsjhmrcss307vpr8mejrdfzueufmcg_1_1.jpg",
@@ -752,10 +718,7 @@
         },
         "label": "Apple",
         "categories": [
-            "Notebooks",
-            "Macbooks",
-            "Informatica",
-            "Dia del Padre"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/0/B/0B8BcIDz6CjUlqqR5Iv5xNByd02mLtqGZ31_1.jpg",
@@ -776,12 +739,7 @@
         },
         "label": "HP",
         "categories": [
-            "Notebooks Estudio",
-            "Notebooks Trabajo",
-            "Informática",
-            "Recomendados",
-            "Cyberday",
-            "Recomendados"
+            ""
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/0/109979_-_1.jpg",
@@ -802,7 +760,6 @@
         },
         "label": "Apple",
         "categories": [
-            "Notebooks",
             "Macbooks"
         ],
         "srcImages": [
@@ -828,7 +785,6 @@
         },
         "label": "Apple",
         "categories": [
-            "Notebooks",
             "Macbooks"
         ],
         "srcImages": [
@@ -854,7 +810,7 @@
         },
         "label": "Case",
         "categories": [
-            "Mochilas y estuches"
+            "Mochilas y Estuches para Notebooks"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/c/e/celer_image_8_-_2025-02-05t165013.010.jpg",
@@ -875,9 +831,11 @@
         },
         "label": "K&F",
         "categories": [
-            "Mochilas y estuches",
+            "Mesitas,Soportes y Coolers para Notebooks",
             "Hogar",
-            "Dia del Padre"
+            "Dia del Padre",
+            "Black Friday",
+            "Fotografía & accesorios"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_.jpg",
@@ -887,50 +845,6 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/e/s/estuche_k_f_beta_messenger_v2_12l_para_c_mara_sasasadsasas.jpg"
         ],
         "id": 36
-    },
-    {
-        "name": "Maletín Havit HVG-GT-B101 para Notebook 15.6\" - Gris",
-        "price": "Gs. 113.000",
-        "details": {
-            "Diseño": "Delgado y liviano",
-            "Proporciona": "Almacenamiento seguro y acolchado",
-            "Material": "Sintético suave",
-            "Medidas": "42 x 30 x 2.5 cm",
-            "Compatible con": "Notebook de 15.6\""
-        },
-        "label": "Havit",
-        "categories": [
-            "Mochilas y estuches",
-            "Mochilas porta Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/119313_1.jpg"
-        ],
-        "id": 37
-    },
-    {
-        "name": "Mochila Impermeable EcoFlow para RIVER 2 Series - Negro",
-        "price": "Gs. 113.000Gs. 225.000",
-        "details": {
-            "Diseño": "Elegante y ligero",
-            "Protección": "Contra golpes, arañazos, agua y polvo",
-            "Capacidad": "38 L",
-            "Compartimiento para": "Accesorios",
-            "Compatible con": "EcoFlow RIVER 2 Series"
-        },
-        "label": "EcoFlow",
-        "categories": [
-            "Mochilas y estuches",
-            "Generadores de Energia",
-            "Ecoflow"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118763-river-1.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118763-river-2.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118763-river-3.jpg",
-            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/1/118763-river-4.jpg"
-        ],
-        "id": 38
     },
     {
         "name": "Apple Macbook Air Late (2020) 13.3\" M1 256 GB MGN63BZ/A - Space Gray",
@@ -943,7 +857,6 @@
         },
         "label": "Apple",
         "categories": [
-            "Notebooks",
             "Macbooks"
         ],
         "srcImages": [
@@ -952,7 +865,7 @@
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/k/u/kuuu_1_1.jpg",
             "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/g/gggggg_1_3_1_1.jpg"
         ],
-        "id": 39
+        "id": 37
     },
     {
         "name": "Apple Macbook Air Mid (2022) 13.6\" M2 512 GB MLY23LL/A - Blanco Estelar",
@@ -965,7 +878,6 @@
         },
         "label": "Apple",
         "categories": [
-            "Notebooks",
             "Macbooks"
         ],
         "srcImages": [
@@ -978,6 +890,37 @@
             "Gris espacial": "",
             "Plata": ""
         },
-        "id": 40
+        "id": 38
+    },
+    {
+        "name": "Apple Macbook Air Mid (2022) 13.6\" M2",
+        "price": "Gs. 10.834.177",
+        "details": {
+            "Pantalla": "Retina 13.6\" 2560 x 1664",
+            "Procesador": "M2 8-Core",
+            "Memoria RAM": "8 GB",
+            "Sensor": "Touch ID"
+        },
+        "label": "Apple",
+        "categories": [
+            ""
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/r/grisss_1_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/g/r/grisss1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/o/doradoooo_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/d/o/doraaadoo1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/l/plataaaa_1_2.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/p/l/plataaa1.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1654598161_1710306.jpg",
+            "https://nissei.com/media/catalog/product/cache/b911b00b001dd445be642a5bd71957ac/1/6/1654598160_img_1768101.jpg"
+        ],
+        "specifications": {
+            "Medianoche": "",
+            "Blanco estelar": "",
+            "Gris espacial": "",
+            "Plata": ""
+        },
+        "id": 39
     }
 ]
