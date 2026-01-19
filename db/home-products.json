@@ -42,26 +42,6 @@
         "id": 2
     },
     {
-        "name": "Teclado Gamer Mecánico Attack Shark X98 100% RGB Inalámbrico Switch Blueberry - Star Black (Inglés)",
-        "price": "Gs. 363.000",
-        "details": {
-            "Tipo de teclado": "Mecánico, formato 100%",
-            "Switch": "Blueberry (Lineal)",
-            "Material de las teclas": "PBT",
-            "Retroiluminación": "RGB",
-            "Idioma": "Inglés",
-            "Conectividad": "Tri mode (Cable USB-C, Bluetooth 5.0 y 2.4 GHz)"
-        },
-        "label": "3",
-        "categories": [
-            "Teclados,Mouses y Kits"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/4/145012.1.jpg"
-        ],
-        "id": 3
-    },
-    {
         "name": "Mouse Klip Xtreme Ebony KMO-104 USB - Negro",
         "price": "Gs. 48.000",
         "details": {
@@ -77,7 +57,7 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/mouse_klip_xtreme_ebony_kmo_104_usb_negro_FX-635_0000.jpg"
         ],
-        "id": 4
+        "id": 3
     },
     {
         "name": "Mouse Klip Xtreme Shadow KMO-111 - Gris",
@@ -94,6 +74,32 @@
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/mouse_klip_xtreme_shadow_kmo_111_gris_FX-3629_0000.jpg"
+        ],
+        "id": 4
+    },
+    {
+        "name": "Teclado Mecánico Onikuma Gaming G67 60% RGB Inalámbrico Magnetic Switch - Black (Inglés)",
+        "price": "Gs. 329.000",
+        "details": {
+            "Tipo de teclado": "Mecánico, formato 60% (67 teclas)",
+            "Switch": "Magnético (Hall Effect)",
+            "Material": "Teclas PBT",
+            "Retroiluminación": "RGB dinámica de 16.8 millones de colores",
+            "Idioma": "Inglés",
+            "Conectividad": "Cableado USB-C desmontable"
+        },
+        "label": "6972470564129",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/x/axRHHuarEIJRq1QEiVpFNbzF3SrG0x04NcZ.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/X/n/XnpwM6fV15J6h7k4nCpY87LfjeDDhnubSBU.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/m/tmqdHznpO3o7YuHqQS5X2ful3ZUcCMP40SH.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/j/q/jqVKSv354GTXdqxbYw6QJlR2KXPMceh5mFD.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/Q/q/QqlCpBEbZomf2m6BpKtjmIN1N79zBji7FS6.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/X/e/XewZICLuBQKgFPW40PRUVRwAKd3Oj9Xjhp0.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/teclado_gamer_black.jpg"
         ],
         "id": 5
     },
@@ -122,35 +128,38 @@
         "id": 6
     },
     {
-        "name": "Teclado Logitech Pebble Keys 2 K380s Bluetooth - Rose (Español) (920-011785)",
-        "price": "Gs. 288.000",
+        "name": "Kit Teclado + Mouse + Auricular Quanta Inalámbrico - Negro (Portugués)",
+        "price": "Gs. 225.000",
         "details": {
-            "Tipo de teclado": "Membrana, formato compacto (75%)",
-            "Material de las teclas": "ABS",
-            "Idioma": "Español",
-            "Digitación": "Silenciosa",
-            "Conectividad": "Bluetooth 5.1",
-            "Emparejamiento": "Hasta 3 dispositivos",
-            "Duración de batería": "Hasta 36 meses"
+            "Diseño": "Ergonómico y ligero",
+            "Tipo de teclado": "Membrana, tamaño completo",
+            "Idioma": "Portugués",
+            "Tipo de mouse": "Óptico 5D",
+            "Resolución": "Hasta 1600 DPI (Ajustable)",
+            "Conectividad": "Inalámbrico 2.4 GHz",
+            "Alimentación": "Teclado",
+            "Contiene": "Teclado, mouse y auricular inalámbricos"
         },
-        "label": "097855186379",
+        "label": "Number",
         "categories": [
             "Teclados,Mouses y Kits"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/R/s/RsxdKc4eKJsZPnqTManCsmqUHRNRRYcFz4Z.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/D/j/DjLtNFbh9eeb66BVux2XJg9P9DlHuNJhZHy.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/I/i/IiO64Ft7Vvmk1Md3gO6gQvQMfpRX88sSnBC.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/O/g/Og0GJP5F8FVNSTC3MwNWN1EeZJPB6WXBa31.jpg"
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/k/i/kit_teclado_quanta_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/I/G/IGltZ9t4ripCx9eNi4MXryWcNP6qQYQfU7B.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/e/B/eBFxMRDCBQGYIzELKVB7KJ5NYihePHjNgpO.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/H/M/HM5LL5DtzV1EVzW4AHsNW8mu0Qx3wTHsG09.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/5/b/5b2vGJhSpR949VLewufcRfzI78dKHks2UVm.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/o/6/o6PwvnFF7NfQ2wX99yddmuzuXzLBUqgklH3.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/J/tJ5XIJkucwtU9jACcfgN7EknEYHkbzHHKtS.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/f/o/fone_de_ouvido_quanta.jpg"
         ],
         "specifications": {
-            "Fabricado con más de un 45% de plástico reciclado.": "",
-            "Diseño compacto, liviano y fácil de transportar.": "",
-            "Teclas redondas y silenciosas con sensación similar a la de un portátil.": "",
-            "Acceso directo a funciones como captura de pantalla, emojis y dictado por voz.": "",
-            "Personalización de teclas Fn mediante Logi Options+ (Windows y macOS).": "",
-            "Emparejamiento Easy-Switch con hasta 3 dispositivos distintos.": "",
-            "Batería de larga duración de hasta 36 meses.": ""
+            "Tipo": "Teclado Inalámbrico",
+            "Diseño": "Ultra delgado, superficie tipo piano, con reposamanos.",
+            "Receptor": "USB Nano de 2.4 GHz.",
+            "Teclas adicionales": "21 teclas de función.",
+            "Alimentación": "2 pilas AAA (incluidas)."
         },
         "id": 7
     },
@@ -241,7 +250,7 @@
             "Posee": "Costuras reforzadas en los bordes que resisten el desgaste",
             "Material": "Goma en la base y superficie de tela texturizada"
         },
-        "label": "Negro",
+        "label": "en",
         "categories": [
             "Teclados,Mouses y Kits"
         ],
@@ -251,26 +260,6 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/D/7/D78HJQVpkxtrTD8cuaiQZKADP8NS60CYI09.jpg"
         ],
         "id": 11
-    },
-    {
-        "name": "Teclado Gamer Sony (2023) KBD-G900 75% RGB USB-C - Black (Inglés)",
-        "price": "Gs. 2.473.000",
-        "details": {
-            "Tipo de teclado": "Formato 75%",
-            "Tasa de sondeo": "8000 Hz",
-            "Material de las teclas": "PBT",
-            "Retroiluminación": "RGB",
-            "Idioma": "Inglés",
-            "Conectividad": "Cableado, USB Tipo-C a Tipo-A"
-        },
-        "label": "3",
-        "categories": [
-            "Teclados,Mouses y Kits"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/M/1/M1amDRGWaJ7VsKeZJWkeh29tZinnaxQMHoa.jpg"
-        ],
-        "id": 12
     },
     {
         "name": "Mouse Gamer Sony Inzone MSE-G500 - Negro",
@@ -293,7 +282,51 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_3_-_2025-09-25t102645.683.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_14_-_2025-09-25t102943.691.jpg"
         ],
+        "id": 12
+    },
+    {
+        "name": "Teclado Gamer SteelSeries 64940 Apex 3 TKL RGB - Lavender (Inglés)",
+        "price": "Gs. 405.000",
+        "details": {
+            "Tipo de teclado": "Membrana, formato TKL",
+            "Switch": "Whisper-Quiet",
+            "Retroiluminación": "RGB",
+            "Idioma": "Inglés",
+            "Resistencia": "IP32",
+            "Conectividad": "USB"
+        },
+        "label": "810164142382",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/v/mvlg9Wl0c2pGkkYjr8Nnqw3iQ6cf4Rq7bm8.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/3/q/3qJ3CgugV6DiaKprj9pYUJriRlWIEri9UaT.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/k/5/k5XCNKg50lymQQC6Ee3qEHDwMGlI1EfsJJe.jpg"
+        ],
         "id": 13
+    },
+    {
+        "name": "Teclado Gamer SteelSeries 64940 Apex 3 TKL RGB - Aqua (Inglés)",
+        "price": "Gs. 405.000",
+        "details": {
+            "Tipo de teclado": "Membrana, formato TKL",
+            "Switch": "Whisper-Quiet",
+            "Retroiluminación": "RGB",
+            "Idioma": "Inglés",
+            "Resistencia": "IP32",
+            "Conectividad": "USB"
+        },
+        "label": "810164142313",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/N/H/NHZcvex2jLUXcAqP0hAJa7rfKUDOWqQEAhO.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/v/mv4WsWQSsNJHsNw4JMB1qg0PACu1LzqZe8R.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/w/lwZHIIaKaqDCXpgVG8poadod9LCk6LzxbJT.jpg"
+        ],
+        "id": 14
     },
     {
         "name": "Mouse Pad Sony Inzone MAT-F MPD-D900 - Negro 48 x 40 cm",
@@ -306,7 +339,7 @@
             "Posee": "Base SlimFlex de poliuretano de 6 mm",
             "Material": "Superficie de poliéster, base de poliuretano"
         },
-        "label": "Negro",
+        "label": "en",
         "categories": [
             "Teclados,Mouses y Kits"
         ],
@@ -315,7 +348,76 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/L/5/L5gRui9pfzW16D7fgMCgnJpMZGf04uPdY02.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/J/H/JHitz1KU7ple8yOgCXbKVdnXwuZ4hz4fwH7.jpg"
         ],
-        "id": 14
+        "id": 15
+    },
+    {
+        "name": "Kit Teclado + Mouse Inalámbrico Logitech MK250 - Grafito (920-013513)",
+        "price": "Gs. 207.000",
+        "details": {
+            "Diseño": "Compacto",
+            "Resolución": "1000 DPI (mouse)",
+            "Alcance inalámbrico": "10 m",
+            "Conectividad": "Bluetooth"
+        },
+        "label": "Number",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/y/8ymv9PhoLtoFrQ4566mgPpv21a7btmpj8qF.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/i/o/iocrQsge72nknycu3CVaHkJc0CLWwk3jVd4.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/u/6uwtMsdmSNRaaEVWgxZGaNYl8zUYhhAKxzG.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/z/s/zsW7IGO40420XevAQrcI5SE7WslMaFtzQvB.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/V/l/VlRhkLlfjHOPu5EIe37mDKgHSeQBaO82hQo.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/teclado_grafito_sdddf.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/k/i/kit_teclado_mouse_inal_mbrico_logitech_mk250.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/o/logitech_grafito_05.jpg"
+        ],
+        "specifications": {
+            "Tecnología de sensor": "Seguimiento óptico fluido (1000 DPI)",
+            "Botones": "Botón de encendido/apagado",
+            "Desplazamiento": "Desplazamiento línea a línea",
+            "Botón scroll": "2D, mecánico",
+            "Conexión/alimentación": "Pulsación prolongada de los botones de encendido/apagado para el emparejamiento",
+            "Tipo de batería": "Batería alcalina",
+            "Duración de baterías": "12 meses",
+            "Tecnología inalámbrica": "Tecnología Bluetooth® Low Energy",
+            "Distancia de funcionamiento inalámbrico": "10 m",
+            "Número de baterías": "1 AA (incluido)",
+            "Indicadores luminosos": "Conectividad LED",
+            "Número de botones": "3 (click izquierdo/derecho, botón rueda con click de botón central)"
+        },
+        "id": 16
+    },
+    {
+        "name": "Teclado Inalámbrico Logitech K250 - Rosa (920-013447)",
+        "price": "Gs. 135.000",
+        "details": {
+            "Tipo de teclado": "Membrana",
+            "Material": "Plástico reciclado",
+            "Idioma": "Inglés",
+            "Conectividad": "Bluetooth",
+            "Alcance inalámbrico": "10 m"
+        },
+        "label": "Number",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/e/I/eIEUICpcv0Rsp0uiysTx46PxGWu7ClMgEre.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/4/o/4oSJrR32O8fK67toXUS4WtSAs39DTmNSd9h.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/F/c/Fcmc4vnq87cYnHTWPx6NdQhNj8K8FakyrHD.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/A/mAeCSstNZboOleXQNGObsSfQ0PTOvps4JMy.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/D/N/DNbPwxptpHdURqr2V9kwMruQQ91PMOw0nSd.jpg"
+        ],
+        "specifications": {
+            "Indicador luminoso": "Conectividad LED",
+            "Botones/Teclas especiales": "Botón de encendido/apagado",
+            "Características adicionales": "Patas inclinables (para un ángulo de escritura de 7 grados)",
+            "Distribución": "Diseño compacto con sección numérica",
+            "Diseño impreso multisistema operativo": "Sí"
+        },
+        "id": 17
     },
     {
         "name": "Teclado Inalámbrico Logitech K250 - Blanco (920-013446)",
@@ -345,7 +447,7 @@
             "Distribución": "Diseño compacto con sección numérica",
             "Diseño impreso multisistema operativo": "Sí"
         },
-        "id": 15
+        "id": 18
     },
     {
         "name": "Teclado Inalámbrico Logitech K250 - Grafito (920-013445)",
@@ -378,7 +480,7 @@
             "Distribución": "Diseño compacto con sección numérica",
             "Diseño impreso multisistema operativo": "Sí"
         },
-        "id": 16
+        "id": 19
     },
     {
         "name": "Mouse Gamer Inalámbrico BenQ Zowie S2-DW 4K - Negro",
@@ -402,7 +504,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/U/aULKcOEsLUnAcPCVrCEygy8jBdARQwluGp9.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/Q/tQM3UlJ20sE5EmDUNysnXbmrqnBVHTxGUBN.jpg"
         ],
-        "id": 17
+        "id": 20
     },
     {
         "name": "Mouse Gamer BenQ Zowie ZA13-DW Inalámbrico con Receptor 4K - Negro",
@@ -428,7 +530,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/f/0fIPgqBg9ZGDa00UyGi8IYuyYdnansvONz3.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/U/mUPLI8FxS5zgepjkU7bAGRP5GGyNDhqJ9sC.jpg"
         ],
-        "id": 18
+        "id": 21
     },
     {
         "name": "Mouse Gamer BenQ Zowie U2-DW Inalámbrico con Receptor 4K - Negro",
@@ -453,7 +555,31 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/3/c3dj5o0F0UyfORlLFw0Csv0ZMgzgdPLTgjK.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/V/I/VITMn6p9pwQA7K41N2W4cEOCeWOHKE5izs3.jpg"
         ],
-        "id": 19
+        "id": 22
+    },
+    {
+        "name": "Mouse Gamer Razer DeathAdder V4 Pro RZ01-05330100-R3U1 8K Inalámbrico - Blanco",
+        "price": "Gs. 1.529.000",
+        "details": {
+            "Shape": "Ergonómico diestro",
+            "Sensor": "Óptico Focus Pro 45K Gen-2",
+            "Resolución": "Hasta 45.000 DPI",
+            "Peso": "56 gr aprox.",
+            "Tasa de sondeo": "Hasta 8000 Hz",
+            "Autonomía": "120 horas aprox.",
+            "Conectividad": "Dos modos (Con cable e inalámbrica 2.4 GHz)"
+        },
+        "label": "Number",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/c/pc-145054-23_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/c/pc-145054-4.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/c/pc-145054-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/c/pc-145054-46.jpg"
+        ],
+        "id": 23
     },
     {
         "name": "Mouse Inalámbrico Pulsar XLite CrazyLight 8K - Negro (PXLCL101)",
@@ -475,7 +601,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/J/l/JlkKQ2G8N0aCfp2FwRN5gz0E2FVjgmX7Ovs.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/z/T/zTpc02sEFNPlivuLgLJkdueNb5K6kpzbY60.jpg"
         ],
-        "id": 20
+        "id": 24
     },
     {
         "name": "Teclado Gamer Inalámbrico Razer BlackWidow V3 Mini Switch Yellow RGB 65% - Negro",
@@ -495,7 +621,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/T/1/T1XKveqjgqekCHEzX1Cz1Q3DaEVwxXzCXUR.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/e/W/eW6tqcmimLL2BCI2ElAqdB5FACRhnH7LifD.jpg"
         ],
-        "id": 21
+        "id": 25
     },
     {
         "name": "Teclado Gamer Mecánico Redragon Nova K709 65% RGB USB-C Switch Dragon Chant Lineal - Black (Inglés)",
@@ -530,7 +656,7 @@
             "Conectividad cableada USB-C": "Con cable desmontable para facilidad de transporte y conexión",
             "Altura ajustable": "Para adaptarse a diferentes preferencias ergonómicas"
         },
-        "id": 22
+        "id": 26
     },
     {
         "name": "Kit Teclado Mecánico + Mouse Redragon 8772GC 75% Inalámbrico Switch Low Profile Mechanical - Verde (Inglés)",
@@ -562,7 +688,7 @@
             "Keycaps": "ABS",
             "Peso": "500 gramos (neto)"
         },
-        "id": 23
+        "id": 27
     },
     {
         "name": "Mouse Gamer Redragon St4r Pro M917GB - Grey",
@@ -586,31 +712,56 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/g/w/gwdkP4VqMcWpVW1Hofoy4ZdSUNNTwxdjttN.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/B/X/BX8Jd7wNjtvUuOGO2ZFobN7rwI6VUtt9rvw.jpg"
         ],
-        "id": 24
+        "id": 28
     },
     {
-        "name": "Mouse Gamer Redragon King 1K M916-Pro - Negro",
-        "price": "Gs. 341.000",
+        "name": "Mouse Gamer Redragon Deicide Pro M816-Pro - Negro",
+        "price": "Gs. 260.000",
         "details": {
-            "Shape": "Ergonómico",
-            "Sensor": "Láser PixArt PAW3395",
-            "Tipo de switch": "Mecánico",
+            "Shape": "Ergonómico y compacto",
+            "Sensor": "Óptico",
+            "Tipo de switch": "Huano Blue",
             "Resolución": "Hasta 26.000 DPI",
-            "Peso": "49 gramos",
+            "Peso": "62 gramos",
             "Tasa de sondeo": "1000 Hz",
-            "Conectividad": "Bluetooth/USB/Adaptador de radio (Wi-Fi)"
+            "Conectividad": "Inalámbrico (Bluetooth)/USB Tipo-C"
         },
         "label": "3",
         "categories": [
             "Teclados,Mouses y Kits"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/e/6ep5xzIbOZUyWakyV0kWNxta8Y2r3WWJrf9.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/D/S/DSkDJjoq8mczmkAO3rd1Xq5F0s9BpHdcnmh.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/Q/2/Q2nzWiZQlKwV3OS4tuMqBBeCp6FBgjPa5jU.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/A/b/Ab24P9bu5aTSqTue74evWWZKzOcXqiVeGUg.jpg"
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/Z/l/Zl7V3yi7Ktp6uvKVOinFId02sux3epEqhuh.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/o/H/oHkkMKP6axv89i5j9c43BmYNy1bHYp7TmKW.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/E/E/EE68gWUvSrmxl7kgKQYjaQQzC0WDZz7DLE7.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/k/3/k3B7YVlGk4nVJl0piG8mmmi8TQpyzKQWdaw.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/j/u/juhQqVRKQ0yA6nrgTTLIfp4WICspyYsnwEG.jpg"
         ],
-        "id": 25
+        "id": 29
+    },
+    {
+        "name": "Mouse Gamer Redragon Rind RGB M813 - Negro",
+        "price": "Gs. 215.000",
+        "details": {
+            "Shape": "Ergonómico, con curvas y apoyos dedicados para los dedos",
+            "Sensor": "Pixart PAW3395",
+            "Resolución": "Hasta 26.000 DPI",
+            "Peso": "100 gramos",
+            "Tasa de sondeo": "1000 Hz",
+            "Autonomía": "Batería interna 400 mAh",
+            "Conectividad": "USB Tipo-C"
+        },
+        "label": "3",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/E/8/E8eEHbc7mshtcS3i71ZEQNoktdHtBUsdrBQ.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/v/G/vGGSvmPZ8mWznP7uNcMy5eipWWUOYh1onfX.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/z/X/zXuGI0sOoQzdBR1QVkO2Se8PJE9OIo6MunV.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/t/1tjeEES0i6EcoWWCSLkkG8WUaA4lhLuBYN5.jpg"
+        ],
+        "id": 30
     },
     {
         "name": "Mouse Gamer Redragon King M724 1K - Negro",
@@ -633,27 +784,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/l/cl9DIT5jqZ0e3LrZIBqUcYDFJ5c5SsQDkrg.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/A/bAGnglWxmHldaS16SsLzHmnhnzRWbEUNI3R.jpg"
         ],
-        "id": 26
-    },
-    {
-        "name": "Mouse Gamer Inalámbrico Redragon King Max M918 Pro - Negro",
-        "price": "Gs. 323.000",
-        "details": {
-            "Diseño": "Ligero y ergonómico",
-            "Tipo de agarre": "Gamer",
-            "Frecuencia de respuesta": "1 K Hz",
-            "Resolución": "1000, 2000, 4000, 8000, 26000 DPI",
-            "Conectividad": "2.4 Ghz"
-        },
-        "label": "6950376725677",
-        "categories": [
-            "Teclados,Mouses y Kits"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/K/i/KiUkBjIb49LtDV1WLbd1LkplmdHaTkcGR3r.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/d/V/dVxWiZFVtsZAajkuYkNKXeKHn21EwpzVcsh.jpg"
-        ],
-        "id": 27
+        "id": 31
     },
     {
         "name": "Mouse Gamer Lamzu Paro Aurora Inalámbrico + Dongle 8K 30000 DPI - White",
@@ -678,7 +809,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/M/mMCxfme6MmKWj5rwtIeniDph8yR7c6IoaMx.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/mouse_gamer_lamzu_paro_aurora_inal_mbrico.jpg"
         ],
-        "id": 28
+        "id": 32
     },
     {
         "name": "Teclado Gamer Mecánico Redragon Frizz Rainbow K617-R 60% RGB USB-C Switch Blue - White /Gray (Inglés)",
@@ -706,32 +837,7 @@
             "Retroiluminación Rainbow": "",
             "Conexión mediante cable USB Tipo C extraíble": ""
         },
-        "id": 29
-    },
-    {
-        "name": "Mouse Gamer Steelseries 62690 Rival 3 Gen 2 Wireless - White",
-        "price": "Gs. 386.000",
-        "details": {
-            "Shape": "Simétrico",
-            "Sensor": "Óptico TrueMove Core",
-            "Tipo de switch": "Mecánico de precisión, (60M de clics)",
-            "Resolución": "8.500 DPI",
-            "Peso": "77 gramos",
-            "Tasa de sondeo": "1000 Hz",
-            "Autonomía": "Cableado (sin batería)",
-            "Conectividad": "Cable USB 1.8 metros / 6 pies"
-        },
-        "label": "3",
-        "categories": [
-            "Teclados,Mouses y Kits"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/0/b09c1cb3-1604-4a8c-a74c-ab92671b2bd2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/r/E/rE789RF3WnRaeJeXWh4rVjUtYT0pq3w18kz.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/a/caYtyH2wRiSZeAQcpSRDlbE0EADPMUuixBA.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/e/neVuUuLlzWoRa2UHFKJEvwOhVRTYpnqbKgx.jpg"
-        ],
-        "id": 30
+        "id": 33
     },
     {
         "name": "Mouse Gamer Steelseries 62690 Rival 3 Gen 2 Wireless - Black",
@@ -756,7 +862,32 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/P/xPx7PIP5AGAKd73M8FnSWHfgSrzTGBm6WQb.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/4/l4v9OjXjeIgjUMotm5wqsYzQrGHiimAegqR.jpg"
         ],
-        "id": 31
+        "id": 34
+    },
+    {
+        "name": "Mouse Gamer Razer DeathAdder V4 Pro RZ01-05330100-R3U1 8K Inalámbrico - Negro",
+        "price": "Gs. 1.529.000",
+        "details": {
+            "Shape": "Ergonómico diestro",
+            "Sensor": "Óptico Focus Pro 45K Gen-2",
+            "Resolución": "Hasta 45.000 DPI",
+            "Peso": "56 gr aprox.",
+            "Tasa de sondeo": "Hasta 8000 Hz",
+            "Autonomía": "120 horas aprox.",
+            "Conectividad": "Dos modos (Con cable e inalámbrica 2.4 GHz)"
+        },
+        "label": "840272920718",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/D/q/DqXwJLyAdU5n5maSdpMdEDnYukhXy5xTpn8.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/4/143886-ma-ph-2.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/D/K/DK2KldCh1GC3e214YfSfSov61GTjGbxkWkk.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/q/i/qi4J6dqCSwXJ4JgxvgIIezFzFFqrPIt51vY.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/4/143886-ma-ph-1.jpg"
+        ],
+        "id": 35
     },
     {
         "name": "Mouse Gamer Razer Basilisk V3 Pro RGB Inalámbrico - Negro (RZ01-04620100-R3U1)",
@@ -795,7 +926,7 @@
             "Razer HyperSpeed Wireless": "Conexión hasta un 25% más rápida que otras tecnologías inalámbricas, compatible con velocidad de sonda de hasta 4 KHz (con accesorios).",
             "Interruptores ópticos Razer Gen 3": "Hasta 90 millones de clics, actuación de 0.2 ms sin retraso de rebote."
         },
-        "id": 32
+        "id": 36
     },
     {
         "name": "Teclado Apple Magic Keyboard Touch ID MXCK3LL/A - Plata (Inglés)",
@@ -817,7 +948,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_8_-_2025-08-19t074654.227.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_5_-_2025-08-19t074658.598.jpg"
         ],
-        "id": 33
+        "id": 37
     },
     {
         "name": "Mouse Gamer Razer Basilisk V3 Pro RGB Inalámbrico - Negro",
@@ -839,6 +970,65 @@
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/w/Q/wQ98bemE25kuJm17xslvDyr7UYybsndELA3.jpg"
         ],
-        "id": 34
+        "id": 38
+    },
+    {
+        "name": "Teclado Gamer Mecánico Pulsar PCMK 2 HE TKL 80% RGB USB-C Switch Magnético - Black (Inglés)",
+        "price": "Gs. 1.125.000",
+        "details": {
+            "Tipo de teclado": "Mecánico, formato 80%",
+            "Switch": "Magnético (Lineal)",
+            "Tasa de sondeo": "8000 Hz (8K)",
+            "Material de las teclas": "PBT de doble inyección",
+            "Retroiluminación": "RGB",
+            "Idioma": "Inglés",
+            "Conectividad": "Cableado USB Tipo-C a Tipo-A"
+        },
+        "label": "3",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1sxsaxasxxsaxsax.jpg"
+        ],
+        "specifications": {
+            "Tipo de teclado": "Tenkeyless ANSI de 87 teclas",
+            "Switch": "Magnético NS Pole, tipo lineal, intercambiable en caliente",
+            "Tasa de sondeo": "8000 Hz (8K)",
+            "Material de las teclas": "PBT de doble inyección",
+            "Retroiluminación": "RGB con 44 efectos preestablecidos",
+            "Idioma": "ANSI (Inglés)",
+            "Conectividad": "Cable USB-C a USB-A desmontable, con recubrimiento paracord flexible",
+            "Compatibilidad": "Windows 7 o superior / macOS 10.11 o superior",
+            "Software": "Bibimbap (basado en navegador, requiere soporte Web HID)",
+            "Funciones adicionales": "Rapid Trigger, actuación ajustable de 0,1 mm a 4 mm, estructura de triple absorción, soporte para 3 perfiles, anti-ghosting",
+            "Material del cuerpo": "Aleación de aluminio con carcasa transparente",
+            "Vida útil": "Hasta 150 millones de pulsaciones."
+        },
+        "id": 39
+    },
+    {
+        "name": "Teclado Gamer Mecánico Pulsar eS HE 70 RGB 70% 8K Magnetic SW (Linear) - Negro",
+        "price": "Gs. 1.754.000",
+        "details": {
+            "Diseño": "Compacto y Resistente",
+            "Tipo de teclado": "Mecánico",
+            "Interruptores": "Magnetic Switch (Lineal)",
+            "Iluminación": "RGB",
+            "Conectividad": "USB Type-A, USB Type-C"
+        },
+        "label": "3",
+        "categories": [
+            "Teclados,Mouses y Kits"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/U/P/UPtLNdZDWYb6KZtigA350EcYHAOA9CjROjK.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/K/nKcZU9GHaMYQZ31CFktWXxWYEHyJjy6eyjU.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/O/bOIg3Ga2W1Gf7v2N2cGm081zgiFZSiikLIO.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/i/2/i21u5MSKx42Mwawqj7syMJ00fSZrSr6IkXs.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/D/5/D5gYmtCNoAWUylgaI6RHJ7M9ojkbZkKAcvw.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/T/x/TxjXG4QZJ3RAgcLDMSEDnZxTtJmvjYhC2Nn.jpg"
+        ],
+        "id": 40
     }
 ]
