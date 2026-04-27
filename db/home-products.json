@@ -67,29 +67,31 @@
         "id": 2
     },
     {
-        "name": "Notebook ASUS Vivobook 15 X1502VA-BQ583W 15.6\" Intel Core i7-13620H 16 GB DDR4 512 SSD M.2 - Quiet Blue",
-        "price": "Gs. 5.297.000",
+        "name": "Notebook ASUS Vivobook 15 X1504VA-BQ078W 15.6\" FHD Intel Core i3-1315U 8 GB DDR4 512 GB SSD M.2 - Blue",
+        "price": "Gs. 3.990.000",
         "details": {
-            "Pantalla": "15.6\" 1920x1080p",
-            "Procesador": "Intel Core i7-13620H",
-            "Memoria RAM": "16 GB DDR4",
-            "Memoria de almacenamiento": "512 GB SSD",
+            "Pantalla": "15.6\" (1920x1080p)",
+            "Procesador": "Intel Core i3-1315U hasta 4.50 GHz",
+            "Memoria RAM": "8 GB DDR4",
+            "Memoria de almacenamiento": "512 GB SSD M.2",
             "Gráficos": "Intel UHD Graphics",
             "Sistema operativo": "Windows 11 Home"
         },
-        "label": "Notebook",
+        "label": "Number",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
             "Asus Oficial"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_2rferfref_1_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1t45t54_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_1p_oop__2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_3ujyuj_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_4_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_8rfref_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_9rfrefref_2.jpg"
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/g/e/gemini_generated_image_d297pod297pod297.png",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_26_33__3.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_20_95__1_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_19_-_2026-02-21t135822.593_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_25_32__3.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_15_-_2026-02-21t135821.488_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_24_40__3.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_14_-_2026-02-21t135820.880_3.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_22_60__2.jpg"
         ],
         "id": 3
     },
@@ -106,8 +108,7 @@
         },
         "label": "199271336601",
         "categories": [
-            "Notebooks de Uso Diario y Profesionales",
-            "Notebooks"
+            "Notebooks de Uso Diario y Profesionales"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_1_82vg00wxus_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_256_ssd_abyss_blue_149943_0000.jpg",
@@ -117,33 +118,34 @@
         "id": 4
     },
     {
-        "name": "Notebook Lenovo V15 G4 83A100ELLM 15.6\" Intel Core I3-1315U 8 GB DDR4 256 SSD - Grey",
-        "price": "Gs. 3.290.000",
+        "name": "Notebook/Tablet Lenovo IdeaPad 2 en 1 83KT001YUS 14\" AMD Ryzen AI 7-350 16 GB LPDDR5x 1TB SSD Touch - Blue",
+        "price": "Gs. 6.900.000",
         "details": {
-            "Pantalla": "TN de 15.6 Full HD (1920 x 1080), 60 Hz",
-            "Procesador": "Intel Core i3-1315U Hexa-core, hasta 4.5 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Almacenamiento": "SSD M.2 PCIe de 256 GB",
-            "Gráficos": "Intel UHD Graphics",
-            "Sistema operativo": "No incluido (Boot-up Linux)"
+            "Pantalla": "IPS táctil de 14\" WUXGA (1920 x 1200), 60 Hz",
+            "Procesador": "AMD Ryzen AI 7-350 Hexadeca-core, hasta GHz",
+            "Memoria RAM": "16 GB LPDDR5x",
+            "Almacenamiento": "SSD M.2 PCIe de 1 TB",
+            "Gráficos": "AMD Radeon 860M",
+            "Sistema operativo": "Windows 11 Home",
+            "Incluye": "Lápiz digital"
         },
-        "label": "Notebook",
+        "label": "198156715722",
         "categories": [
-            "Notebooks y PCs de Escritorio",
             "Notebooks de Uso Diario y Profesionales"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_83a100ellm_15_6_intel_core_i3_1315u_8_gb_ddr4_256_ssd_grey_149142_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_83a100ellm_15_6_intel_core_i3_1315u_8_gb_ddr4_256_ssd_grey_149142_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_83a100ellm_15_6_intel_core_i3_1315u_8_gb_ddr4_256_ssd_grey_149142_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_83a100ellm_15_6_intel_core_i3_1315u_8_gb_ddr4_256_ssd_grey_149142_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_83a100ellm_15_6_intel_core_i3_1315u_8_gb_ddr4_256_ssd_grey_149142_0004.jpg"
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_2_en_1_83kt001yus_14_amd_ryzen_ai_7_350_16_gb_lpddr5x_1tb_ssd_touch_blue_149202_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_2_en_1_83kt001yus_14_amd_ryzen_ai_7_350_16_gb_lpddr5x_1tb_ssd_touch_blue_149202_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_2_en_1_83kt001yus_14_amd_ryzen_ai_7_350_16_gb_lpddr5x_1tb_ssd_touch_blue_149202_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_2_en_1_83kt001yus_14_amd_ryzen_ai_7_350_16_gb_lpddr5x_1tb_ssd_touch_blue_149202_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_2_en_1_83kt001yus_14_amd_ryzen_ai_7_350_16_gb_lpddr5x_1tb_ssd_touch_blue_149202_0004.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_2_en_1_83kt001yus_14_amd_ryzen_ai_7_350_16_gb_lpddr5x_1tb_ssd_touch_blue_149202_0005.jpg"
         ],
         "id": 5
     },
     {
         "name": "Notebook/Tablet Dell Plus 2 en 1 LDC16255-A087 16\" AMD Ryzen 7 250 16 GB DDR5 1 TB SSD Touch - Negro",
-        "price": "Gs. 6.466.000",
+        "price": "Gs. 6.736.000",
         "details": {
             "Pantalla": "FHD+ de 16\" (1920 x 1200p), táctil",
             "Procesador": "AMD Ryzen 7 250, 8 núcleos, 3.3 GHz base, 5.1 GHz turbo",
@@ -164,29 +166,6 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_dell_plus_2_en_1_ldc16255_a087_16_amd_ryzen_7_250_16_gb_ddr5_1_tb_ssd_touch_negro_148920_0003.jpg"
         ],
         "id": 6
-    },
-    {
-        "name": "Notebook HP 15-FD0001DX 15.6\" Intel N100 4 GB DDR4 128 GB - Silver",
-        "price": "Gs. 2.090.000",
-        "details": {
-            "Pantalla": "LED de 15.6\" HD (1366 x 768), 60 Hz",
-            "Procesador": "Intel N100, Quad-core hasta 3.4 GHz",
-            "Memoria RAM": "4 GB DDR4",
-            "Almacenamiento": "128 GB UFS",
-            "Gráficos": "Intel UHD Graphics",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Notebook",
-        "categories": [
-            "Notebooks y PCs de Escritorio",
-            "Notebooks de Uso Diario y Profesionales"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0001dx_15_6_intel_n100_4_gb_ddr4_128_gb_silver_148564_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0001dx_15_6_intel_n100_4_gb_ddr4_128_gb_silver_148564_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0001dx_15_6_intel_n100_4_gb_ddr4_128_gb_silver_148564_0002.jpg"
-        ],
-        "id": 7
     },
     {
         "name": "Notebook ASUS ROG Strix G16 G614PM-RV010W 16\" AMD Ryzen 9 8940HX 16 GB DDR5 GeForce RTX 5060 8 GB GDDR6 1 TB SSD M.2 - Gray",
@@ -212,7 +191,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/g/6/g614_5_2.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1dcsdcsd_1_1.jpg"
         ],
-        "id": 8
+        "id": 7
     },
     {
         "name": "Notebook Gamer Acer Predator Helios Neo 16 AI PHN16-73-92X1 16\" Intel Core Ultra 9 275HX RTX 5070 Ti 12 GB 1 TB SSD - Abyssal Black",
@@ -239,7 +218,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/nob_acer.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/b/nb_acer_black.jpg"
         ],
-        "id": 9
+        "id": 8
     },
     {
         "name": "Notebook Gamer HP OMEN 16 Slim 16-AN0075CL 16\" Intel Core Ultra 9-285H RTX 5070 8 GB - Black",
@@ -265,7 +244,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_16_slim_16_an0075cl_16_intel_core_ultra_9_285h_rtx_5070_8_gb_black_149168_0002.png",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_16_slim_16_an0075cl_16_intel_core_ultra_9_285h_rtx_5070_8_gb_black_149168_0003.jpg"
         ],
-        "id": 10
+        "id": 9
     },
     {
         "name": "Notebook Gamer MSI Crosshair A2XWGKG-012US 18\" Intel Core Ultra Ultra 9- 275HX RTX 5070 8 GB - Gray",
@@ -290,7 +269,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_crosshair_a2xwgkg_012us_18_intel_core_ultra_ultra_9_275hx_rtx_5070_8_gb_gray_146303_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_crosshair_a2xwgkg_012us_18_intel_core_ultra_ultra_9_275hx_rtx_5070_8_gb_gray_146303_0004.png"
         ],
-        "id": 11
+        "id": 10
     },
     {
         "name": "Notebook Gamer Lenovo Legion 5 16IAX10 83NX0000US 16\" Intel Core Ultra 9 275HX RTX 5060 8 GB - Storm Grey",
@@ -315,7 +294,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_16iax10_83nx0000us_16_intel_core_ultra_9_275hx_rtx_5060_8_gb_storm_grey_145902_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_16iax10_83nx0000us_16_intel_core_ultra_9_275hx_rtx_5060_8_gb_storm_grey_145902_0004.png"
         ],
-        "id": 12
+        "id": 11
     },
     {
         "name": "Notebook Gamer Acer Predator Helios Neo 16S PHN16S-71-91AW OLED 16\" Intel Core Ultra 9 9 275HX RTX 5060 8 GB - Obsidian Black",
@@ -332,8 +311,7 @@
         "categories": [
             "Notebooks Gaming y Alto Rendimiento",
             "Ofertas",
-            "NVIDIA Notebooks ",
-            "Notebooks"
+            "NVIDIA Notebooks "
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0000.jpg",
@@ -344,11 +322,11 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0005.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0006.jpg"
         ],
-        "id": 13
+        "id": 12
     },
     {
         "name": "Notebook Gamer Alienware 16 Aurora LAC16250 16\" Intel Core 7 240H RTX 5050 8 GB - Blue",
-        "price": "Gs. 10.117.000",
+        "price": "Gs. 10.243.000",
         "details": {
             "Pantalla": "16\", WQXGA (2560 x 1600) 300 nits, 100% sRGB, 120 Hz",
             "Procesador": "Intel Core 7 240H Deca Core, 1.8 hasta 5.2 GHz",
@@ -369,31 +347,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16_aurora_lac16250_16_intel_core_7_240h_rtx_5050_8_gb_blue_145494_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16_aurora_lac16250_16_intel_core_7_240h_rtx_5050_8_gb_blue_145494_0004.jpg"
         ],
-        "id": 14
-    },
-    {
-        "name": "Notebook Gamer MSI Thin 15 B13VE-2678US 15.6\" Intel Core i7-13620H RTX 4050 6 GB - Cosmos Gray",
-        "price": "Gs. 8.990.000",
-        "details": {
-            "Pantalla": "IPS-Level de 15.6\" FHD (1920 x 1080), 144Hz",
-            "Procesador": "Intel Core i7-13620H Deca-core, hasta 4.9 GHz",
-            "Memoria RAM": "16 GB (8 GB*2) DDR4",
-            "Almacenamiento": "SSD PCIe de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 4050 de 6 GB",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "824142388815",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_thin_15_b13ve_2678us_15_6_intel_core_i7_13620h_rtx_4050_6_gb_cosmos_gray_145410_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_thin_15_b13ve_2678us_15_6_intel_core_i7_13620h_rtx_4050_6_gb_cosmos_gray_145410_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_thin_15_b13ve_2678us_15_6_intel_core_i7_13620h_rtx_4050_6_gb_cosmos_gray_145410_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_thin_15_b13ve_2678us_15_6_intel_core_i7_13620h_rtx_4050_6_gb_cosmos_gray_145410_0003.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_thin_15_b13ve_2678us_15_6_intel_core_i7_13620h_rtx_4050_6_gb_cosmos_gray_145410_0004.jpg"
-        ],
-        "id": 15
+        "id": 13
     },
     {
         "name": "Notebook Gamer MSI GF63 Thin A15 B7VE-466US 15.6\" AMD Ryzen 5 7535HS RTX 4050 6 GB - Negro",
@@ -419,7 +373,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_gf63_thin_a15_b7ve_466us_15_6_amd_ryzen_5_7535hs_rtx_4050_6_gb_negro_144520_0004_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_gf63_thin_a15_b7ve_466us_15_6_amd_ryzen_5_7535hs_rtx_4050_6_gb_negro_144520_0005_1.png"
         ],
-        "id": 16
+        "id": 14
     },
     {
         "name": "Notebook Gamer Gigabyte Gaming A16 16\" Intel Core i7-13620H RTX 4050 6 GB GDDR6 - Black Steel",
@@ -446,7 +400,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0006_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0007_1.jpg"
         ],
-        "id": 17
+        "id": 15
     },
     {
         "name": "Placa Madre Asus TUF Gaming B650E-PLUS Wifi AM5 DDR5",
@@ -470,7 +424,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/d/8d99c1f8d99c1f-2.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/d/8d99c1f8d99c1f-5.jpg"
         ],
-        "id": 18
+        "id": 16
     },
     {
         "name": "Notebook Gamer ASUS TUF Gaming A15 FA506NFR-HN105W 15.6\" AMD Ryzen 7 7435HS RTX 2050 4 GB - Negro",
@@ -490,6 +444,7 @@
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/f/9/f9137818-e82d-444d-8826-364690a5ca9d.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0001_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0002_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0003_1.jpg",
@@ -511,7 +466,7 @@
             "Conectividad por cable": "LAN RJ45 10/100/1000 Mbps",
             "Puertos": "1x USB 3.2 Gen 2 Type-C (con DisplayPort 10Gbps)3x USB 3.2 Gen 1 Type-A (5Gbps)1x HDMI 2.1 TMDS1x RJ45 LAN1x combo audio 3.5mm"
         },
-        "id": 19
+        "id": 17
     },
     {
         "name": "Notebook Gamer Lenovo Legion Pro 5 83LT000EUS 16\" AMD Ryzen R9-8945HX RTX 5060 8 GB 1T SSD - Eclipse Negro",
@@ -548,7 +503,7 @@
             "Panel antirreflejo, ideal para largas sesiones de uso en diferentes entornos": "",
             "Copiloto IA de Windows integrado para optimizar tareas cotidianas": ""
         },
-        "id": 20
+        "id": 18
     },
     {
         "name": "Notebook Gamer HP OMEN Max 16\" Intel Core Ultra 9 275HX RTX 5090 24 GB - Negro",
@@ -572,7 +527,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_max_16_intel_core_ultra_9_275hx_rtx_5090_24_gb_negro_143653_0002_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_max_16_intel_core_ultra_9_275hx_rtx_5090_24_gb_negro_143653_0003_1.jpg"
         ],
-        "id": 21
+        "id": 19
     },
     {
         "name": "Notebook Gamer Lenovo Legion 5 83LY0007US 15.1\" Intel Core i9 14900HX RTX 5070 8 GB - Negro",
@@ -598,6 +553,61 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0003_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0004_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0005_1.png"
+        ],
+        "id": 20
+    },
+    {
+        "name": "Notebook Gamer Alienware 16X Aurora LAC16251-9599 16\" Intel Core Ultra 9 275HX GeForce RTX 5060 - Blue",
+        "price": "Gs. 15.900.000",
+        "details": {
+            "Pantalla": "LED de 16\" WQXGA (2560 x 1600), 240 Hz",
+            "Procesador": "Intel Core Ultra 9 275HX de 24 núcleos, 2.1 hasta 5.4 GHz",
+            "Memoria RAM": "32 GB DDR5 5600 MHz",
+            "Almacenamiento": "SSD M.2 NVMe PCIe de 1 TB",
+            "Gráficos": "NVIDIA GeForce RTX 5060 8 GB GDDR7",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "884116430599",
+        "categories": [
+            "Notebooks Gaming y Alto Rendimiento"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0000_1.png",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0003_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0004_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0005_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0006_1.jpg"
+        ],
+        "id": 21
+    },
+    {
+        "name": "Notebook Alienware Aurora LAC16250-7568 16\" Intel Core i7-240H 32 GB RTX 5060 8 GB 1 TB SSD - Blue",
+        "price": "Gs. 12.990.000",
+        "details": {
+            "Pantalla": "WVA LED de 16\", QHD+ (2560 x 1600), 120 Hz, 300 nits, 100% sRGB",
+            "Procesador": "Intel Core i7-240H Deca-Core, Hasta 5.20 GHz",
+            "Memoria RAM": "32GB (16 GB * 2) DDR5",
+            "Almacenamiento": "SSD M.2 PCIe NVMe de 1 TB",
+            "Gráficos": "NVIDIA GeForce RTX 5060 de 8 GB GDDR7",
+            "Sistema Operativo": "Windows 11 Home"
+        },
+        "label": "884116430568",
+        "categories": [
+            "Notebooks Gaming y Alto Rendimiento",
+            "NVIDIA Notebooks "
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0000_1.png",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0003_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0004_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0005_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0006_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0007_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_alienware_aurora_lac16250_7568_16_intel_core_i7_240h_32_gb_rtx_5060_8_gb_1_tb_ssd_blue_142396_0008_1.jpg"
         ],
         "id": 22
     },
@@ -639,7 +649,6 @@
             "Notebooks Gaming y Alto Rendimiento",
             "Ofertas",
             "NVIDIA Notebooks ",
-            "Notebooks",
             "NVIDIA | PRAGMATA"
         ],
         "srcImages": [
@@ -723,7 +732,7 @@
     },
     {
         "name": "Notebook Gamer HP Victus 15-FA2013DX 15.6\" Intel Core i5-13420H RTX3050 8 GB - Mica Silver",
-        "price": "Gs. 6.016.000",
+        "price": "Gs. 6.196.000",
         "details": {
             "Pantalla": "IPS LED de 15.6\" FHD (1920 x 1080), 144 Hz",
             "Procesador": "Intel Core i5-13420H, Octa-core, 3.4 hasta 4.6 GHz",
@@ -735,8 +744,7 @@
         "label": "198990677460",
         "categories": [
             "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA Notebooks ",
-            "Notebooks"
+            "NVIDIA Notebooks "
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fa2013dx_15_6_intel_core_i5_13420h_rtx3050_8_gb_mica_silver_140130_0000_1.jpg",
@@ -934,31 +942,6 @@
         "id": 33
     },
     {
-        "name": "Notebook HP 15-FD0113DX 15.6\" Intel Core i3-N305 8 GB DDR4 128 GB UFS - Natural Silver",
-        "price": "Gs. 2.959.000",
-        "details": {
-            "Pantalla": "15.6\" HD (1366 x 768), 250 nits, antirreflejo",
-            "Procesador": "Intel Core i3-N305 Octa Core, hasta 3.8 GHz",
-            "Memoria RAM": "8 GB DDR4 3200 MHz",
-            "Almacenamiento": "UFS de 128 GB",
-            "Gráficos": "Intel Ultra HD",
-            "Sistema operativo": "Windows 11 Home en modo S"
-        },
-        "label": "Number",
-        "categories": [
-            "Notebooks de Uso Diario y Profesionales"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0113dx_15_6_intel_core_i3_n305_8_gb_ddr4_128_gb_ufs_natural_silver_146900_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0113dx_15_6_intel_core_i3_n305_8_gb_ddr4_128_gb_ufs_natural_silver_146900_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0113dx_15_6_intel_core_i3_n305_8_gb_ddr4_128_gb_ufs_natural_silver_146900_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0113dx_15_6_intel_core_i3_n305_8_gb_ddr4_128_gb_ufs_natural_silver_146900_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0113dx_15_6_intel_core_i3_n305_8_gb_ddr4_128_gb_ufs_natural_silver_146900_0004.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fd0113dx_15_6_intel_core_i3_n305_8_gb_ddr4_128_gb_ufs_natural_silver_146900_0005.jpg"
-        ],
-        "id": 34
-    },
-    {
         "name": "Notebook HP 15-FC0146DX 15.6\" AMD Ryzen 5 7520U 8 GB LPDDR5 512 GB SSD Touch - Natural Silver",
         "price": "Gs. 3.822.000",
         "details": {
@@ -972,14 +955,41 @@
         "label": "Number",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
-            "Ofertas",
-            "Notebooks"
+            "Ofertas"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0000.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0001.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0002.jpg"
+        ],
+        "id": 34
+    },
+    {
+        "name": "Notebook Dell DB14250 14\" Intel Core Ultra 7 256V 16 GB LPDDR5x 1 TB SSD - Ice Blue",
+        "price": "Gs. 7.900.000",
+        "details": {
+            "Pantalla": "WVA de 14\", 2.5K (2560 x 1600)",
+            "Procesador": "Intel Core Ultra 7 256V Octa Core, 2.2 hasta 4.8 GHz",
+            "Memoria RAM": "16 GB LPDDR5X",
+            "Almacenamiento": "SSD M.2 NVMe de 1 TB",
+            "Gráficos": "Intel Arc",
+            "Sistema Operativo": "Windows 11 Home"
+        },
+        "label": "884116482918",
+        "categories": [
+            "Notebooks de Uso Diario y Profesionales"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0003_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0004_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0005_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0006_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0007_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0008_1.jpg"
         ],
         "id": 35
     },
