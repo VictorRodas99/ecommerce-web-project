@@ -1,5 +1,34 @@
 [
     {
+        "name": "Notebook ASUS Vivobook Go 15 E510KA-BQ1202W 15.6\" Intel Celeron N4500 4 GB DDR4 128 GB SSD M.2 - Black",
+        "price": "Gs. 1.666.000Gs. 2.086.000",
+        "details": {
+            "Pantalla": "FHD de 15.6\" (1920x1080p)",
+            "Procesador": "Intel Celeron N4500",
+            "Memoria RAM": "4 GB DDR4",
+            "Memoria de almacenamiento": "128 GB eMMC",
+            "Gráficos": "Intel UHD Graphics",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "199291193697",
+        "categories": [
+            "Asus Oficial",
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1-recuperadortgtgtgtrgrtgt.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/e/5/e510_black_wallpaper.png",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/e/5/e510_black_wallpaper_2.png",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/s/asus_e510_product_photo_8k_star_black_12_backlit.png",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/s/asus_e510_product_photo_8k_star_black_19.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/s/asus_e510_product_photo_8k_star_black_09.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/s/asus_e510_product_photo_8k_star_black_10.png",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/s/asus_e510_product_photo_8k_star_black_11.png"
+        ],
+        "id": 1
+    },
+    {
         "name": "Notebook MSI Modern 15 H C2RMTG-401US 15.6\" Intel Core 9 270H 32 GB DDR4 1 TB SSD Touch - Black",
         "price": "Gs. 9.090.000",
         "details": {
@@ -13,7 +42,8 @@
         "label": "824142420003",
         "categories": [
             "Notebooks y PCs de Escritorio",
-            "Notebooks de Uso Diario y Profesionales"
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_msi_modern_15_h_c2rmtg_401us_15_6_intel_core_9_270h_32_gb_ddr4_1_tb_ssd_touch_black_149396_0001.jpg",
@@ -30,7 +60,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_msi_modern_15_h_c2rmtg_401us_15_6_intel_core_9_270h_32_gb_ddr4_1_tb_ssd_touch_black_149396_0011.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_msi_modern_15_h_c2rmtg_401us_15_6_intel_core_9_270h_32_gb_ddr4_1_tb_ssd_touch_black_149396_0012.jpg"
         ],
-        "id": 1
+        "id": 2
     },
     {
         "name": "Notebook Lenovo IdeaPad Slim 5I 16IRH10R 83J1002KUS 16\" Intel Core 7 240H 16 GB DDR5 1 TB SSD Touch - Cosmic Blue",
@@ -45,7 +75,8 @@
         },
         "label": "Notebook",
         "categories": [
-            "Notebooks de Uso Diario y Profesionales"
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_5i_16irh10r_83j1002kus_16_intel_core_7_240h_16_gb_ddr5_1_tb_ssd_touch_cosmic_blue_149389_0001.jpg",
@@ -64,38 +95,11 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_5i_16irh10r_83j1002kus_16_intel_core_7_240h_16_gb_ddr5_1_tb_ssd_touch_cosmic_blue_149389_0013.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_5i_16irh10r_83j1002kus_16_intel_core_7_240h_16_gb_ddr5_1_tb_ssd_touch_cosmic_blue_149389_0012.jpg"
         ],
-        "id": 2
-    },
-    {
-        "name": "Notebook ASUS Vivobook 15 X1502VA-BQ583W 15.6\" Intel Core i7-13620H 16 GB DDR4 512 SSD M.2 - Quiet Blue",
-        "price": "Gs. 5.166.000Gs. 6.258.000",
-        "details": {
-            "Pantalla": "15.6\" 1920x1080p",
-            "Procesador": "Intel Core i7-13620H",
-            "Memoria RAM": "16 GB DDR4",
-            "Memoria de almacenamiento": "512 GB SSD",
-            "Gráficos": "Intel UHD Graphics",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Notebook",
-        "categories": [
-            "Notebooks de Uso Diario y Profesionales",
-            "Asus Oficial"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_2rferfref_1_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1t45t54_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_1p_oop__2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_3ujyuj_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_4_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_8rfref_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/x/1/x1502va-nj799w_9rfrefref_2.jpg"
-        ],
         "id": 3
     },
     {
         "name": "Notebook ASUS Vivobook 15 X1504VA-BQ078W 15.6\" FHD Intel Core i3-1315U 8 GB DDR4 512 GB SSD M.2 - Blue",
-        "price": "Gs. 3.990.000",
+        "price": "Gs. 3.540.000Gs. 3.990.000",
         "details": {
             "Pantalla": "15.6\" (1920x1080p)",
             "Procesador": "Intel Core i3-1315U hasta 4.50 GHz",
@@ -107,7 +111,8 @@
         "label": "Number",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
-            "Asus Oficial"
+            "Asus Oficial",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/g/e/gemini_generated_image_d297pod297pod297.png",
@@ -124,7 +129,7 @@
     },
     {
         "name": "Notebook Lenovo Ideapad 1 82VG00WXUS 15.6\" AMD Ryzen 5 7520U 8 GB LPDDR5 256 SSD - Abyss Blue",
-        "price": "Gs. 2.790.000Gs. 3.390.000",
+        "price": "Gs. 3.390.000",
         "details": {
             "Pantalla": "15.6\", Full HD (1920 x 1080), 60 Hz",
             "Procesador": "AMD Ryzen 5 7520U Quad-core, 2.8 hasta 4.3 GHz",
@@ -136,7 +141,7 @@
         "label": "199271336601",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
-            "Notebooks"
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_1_82vg00wxus_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_256_ssd_abyss_blue_149943_0000.jpg",
@@ -159,7 +164,8 @@
         },
         "label": "198156715722",
         "categories": [
-            "Notebooks de Uso Diario y Profesionales"
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_2_en_1_83kt001yus_14_amd_ryzen_ai_7_350_16_gb_lpddr5x_1tb_ssd_touch_blue_149202_0000.jpg",
@@ -170,243 +176,6 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_2_en_1_83kt001yus_14_amd_ryzen_ai_7_350_16_gb_lpddr5x_1tb_ssd_touch_blue_149202_0005.jpg"
         ],
         "id": 6
-    },
-    {
-        "name": "Notebook ASUS ROG Strix G16 G614PM-RV010W 16\" AMD Ryzen 9 8940HX 16 GB DDR5 GeForce RTX 5060 8 GB GDDR6 1 TB SSD M.2 - Gray",
-        "price": "Gs. 14.644.000",
-        "details": {
-            "Pantalla": "IPS-Level de 16\", FHD+ (1920 x 1200), 165 Hz",
-            "Procesador": "AMD Ryzen 9 8940HX Hexadeca-core, 2.4 hasta 5.3 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Almacenamiento": "SSD M.2 NVMe PCIe 4.0 de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5060 con 8 GB DDR7",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "Notebook",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "Asus Oficial"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1csdcdsc_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_3_-_2026-04-20t145708.025.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1dweedw_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1edwed_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/g/6/g614_5_2.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1dcsdcsd_1_1.jpg"
-        ],
-        "id": 7
-    },
-    {
-        "name": "Notebook Gamer Acer Predator Helios Neo 16 AI PHN16-73-92X1 16\" Intel Core Ultra 9 275HX RTX 5070 Ti 12 GB 1 TB SSD - Abyssal Black",
-        "price": "Gs. 15.079.000Gs. 17.500.000",
-        "details": {
-            "Pantalla": "LCD IPS de 16\" (2560 x 1600), 240Hz",
-            "Procesador": "Intel Core Ultra 9 275HX 24 núcleos, hasta 5.4 GHz",
-            "Memoria RAM": "32 GB DDR5",
-            "Almacenamiento": "SSD M.2 PCI Express NVMe 4.0 de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5070 Ti 12 GDDR7",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "195133310796",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA Notebooks ",
-            "NVIDIA | PRAGMATA",
-            "Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/5/150256-edit-1767868332.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16_ai_phn16-73-92x1_bk_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebbok_game_d.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16_ai_phn16-73-92x1sss.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/nob_acer.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/b/nb_acer_black.jpg"
-        ],
-        "id": 8
-    },
-    {
-        "name": "Notebook Gamer HP OMEN 16 Slim 16-AN0075CL 16\" Intel Core Ultra 9-285H RTX 5070 8 GB - Black",
-        "price": "Gs. 15.500.000",
-        "details": {
-            "Pantalla": "IPS de 16\" FHD+ (1920 x 1200), 144 Hz",
-            "Procesador": "Intel Core Ultra 9-285H Hexadeca-core, hasta 5.4 GHz",
-            "Memoria RAM": "32 GB (16 GB * 2) DDR5",
-            "Almacenamiento": "SSD PCIe de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5070 con 8 GB GDDR7",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "198990661445",
-        "categories": [
-            "Ofertas",
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA Notebooks ",
-            "NVIDIA | PRAGMATA"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_16_slim_16_an0075cl_16_intel_core_ultra_9_285h_rtx_5070_8_gb_black_149168_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_16_slim_16_an0075cl_16_intel_core_ultra_9_285h_rtx_5070_8_gb_black_149168_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_16_slim_16_an0075cl_16_intel_core_ultra_9_285h_rtx_5070_8_gb_black_149168_0002.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_16_slim_16_an0075cl_16_intel_core_ultra_9_285h_rtx_5070_8_gb_black_149168_0003.jpg"
-        ],
-        "id": 9
-    },
-    {
-        "name": "Notebook Gamer MSI Crosshair A2XWGKG-012US 18\" Intel Core Ultra Ultra 9- 275HX RTX 5070 8 GB - Gray",
-        "price": "Gs. 15.900.000",
-        "details": {
-            "Pantalla": "IPS 18\", QHD+ (2560 x 1600), 240Hz",
-            "Procesador": "Intel Core Ultra 9 275HX 24 núcleos, 2.1 hasta 5.4 GHz",
-            "Memoria RAM": "32 GB DDR5",
-            "Almacenamiento": "SSD NVMe de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5070 8GB GDDR7",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "824142423752",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA | PRAGMATA"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_crosshair_a2xwgkg_012us_18_intel_core_ultra_ultra_9_275hx_rtx_5070_8_gb_gray_146303_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_crosshair_a2xwgkg_012us_18_intel_core_ultra_ultra_9_275hx_rtx_5070_8_gb_gray_146303_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_crosshair_a2xwgkg_012us_18_intel_core_ultra_ultra_9_275hx_rtx_5070_8_gb_gray_146303_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_crosshair_a2xwgkg_012us_18_intel_core_ultra_ultra_9_275hx_rtx_5070_8_gb_gray_146303_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_crosshair_a2xwgkg_012us_18_intel_core_ultra_ultra_9_275hx_rtx_5070_8_gb_gray_146303_0004.png"
-        ],
-        "id": 10
-    },
-    {
-        "name": "Notebook Gamer Lenovo Legion 5 16IAX10 83NX0000US 16\" Intel Core Ultra 9 275HX RTX 5060 8 GB - Storm Grey",
-        "price": "Gs. 14.900.000",
-        "details": {
-            "Pantalla": "IPS de 16\", WQXGA (2560 x 1600) 500 nits, 100% DCI-P3, 240 Hz",
-            "Procesador": "Intel Core Ultra 9 275HX 24 núcleos, 2.1 hasta 5.4 GHz",
-            "Memoria RAM": "32 GB DDR5 5600 MHz",
-            "Almacenamiento": "SSD M.2 PCIe 4.0 NVMe de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5060 8 GB GDDR7",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Number",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA Notebooks "
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_16iax10_83nx0000us_16_intel_core_ultra_9_275hx_rtx_5060_8_gb_storm_grey_145902_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_16iax10_83nx0000us_16_intel_core_ultra_9_275hx_rtx_5060_8_gb_storm_grey_145902_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_16iax10_83nx0000us_16_intel_core_ultra_9_275hx_rtx_5060_8_gb_storm_grey_145902_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_16iax10_83nx0000us_16_intel_core_ultra_9_275hx_rtx_5060_8_gb_storm_grey_145902_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_16iax10_83nx0000us_16_intel_core_ultra_9_275hx_rtx_5060_8_gb_storm_grey_145902_0004.png"
-        ],
-        "id": 11
-    },
-    {
-        "name": "Notebook Gamer Acer Predator Helios Neo 16S PHN16S-71-91AW OLED 16\" Intel Core Ultra 9 9 275HX RTX 5060 8 GB - Obsidian Black",
-        "price": "Gs. 11.819.000Gs. 13.500.000",
-        "details": {
-            "Pantalla": "OLED de 16\", WQXGA (2560 x 1600) 500 nits, 240 Hz",
-            "Procesador": "Intel Core Ultra 9 275HX 24 núcleos, 2.1 hasta 5.4 GHz",
-            "Memoria RAM": "16 GB DDR5 6400 MHz",
-            "Almacenamiento": "SSD M.2 PCIe 4.0 NVMe de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5060 8 GB GDDR7",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "Number",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "Ofertas",
-            "NVIDIA Notebooks ",
-            "Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0004.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0005.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_phn16s_71_91aw_oled_16_intel_core_ultra_9_9_275hx_rtx_5060_8_gb_obsidian_bla_145648_0006.jpg"
-        ],
-        "id": 12
-    },
-    {
-        "name": "Notebook Gamer Alienware 16 Aurora LAC16250 16\" Intel Core 7 240H RTX 5050 8 GB - Blue",
-        "price": "Gs. 10.690.000",
-        "details": {
-            "Pantalla": "16\", WQXGA (2560 x 1600) 300 nits, 100% sRGB, 120 Hz",
-            "Procesador": "Intel Core 7 240H Deca Core, 1.8 hasta 5.2 GHz",
-            "Memoria RAM": "16 GB DDR5 5600 MHz",
-            "Almacenamiento": "SSD M.2 PCIe NVMe de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 5050 8 GB GDDR7",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "663810229032",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA Notebooks "
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16_aurora_lac16250_16_intel_core_7_240h_rtx_5050_8_gb_blue_145494_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16_aurora_lac16250_16_intel_core_7_240h_rtx_5050_8_gb_blue_145494_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16_aurora_lac16250_16_intel_core_7_240h_rtx_5050_8_gb_blue_145494_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16_aurora_lac16250_16_intel_core_7_240h_rtx_5050_8_gb_blue_145494_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16_aurora_lac16250_16_intel_core_7_240h_rtx_5050_8_gb_blue_145494_0004.jpg"
-        ],
-        "id": 13
-    },
-    {
-        "name": "Notebook Gamer MSI GF63 Thin A15 B7VE-466US 15.6\" AMD Ryzen 5 7535HS RTX 4050 6 GB - Negro",
-        "price": "Gs. 6.890.000",
-        "details": {
-            "Pantalla": "LCD de 15.6\" (1920x1080p)",
-            "Procesador": "AMD Ryzen 5 7535HS",
-            "Memoria RAM": "8 GB DDR5",
-            "Almacenamiento": "512 GB SSD",
-            "Gráficos": "NVIDIA GeForce RTX 4050 6 GB",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "824142411476",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA Notebooks "
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_gf63_thin_a15_b7ve_466us_15_6_amd_ryzen_5_7535hs_rtx_4050_6_gb_negro_144520_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_gf63_thin_a15_b7ve_466us_15_6_amd_ryzen_5_7535hs_rtx_4050_6_gb_negro_144520_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_gf63_thin_a15_b7ve_466us_15_6_amd_ryzen_5_7535hs_rtx_4050_6_gb_negro_144520_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_gf63_thin_a15_b7ve_466us_15_6_amd_ryzen_5_7535hs_rtx_4050_6_gb_negro_144520_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_gf63_thin_a15_b7ve_466us_15_6_amd_ryzen_5_7535hs_rtx_4050_6_gb_negro_144520_0004_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_gf63_thin_a15_b7ve_466us_15_6_amd_ryzen_5_7535hs_rtx_4050_6_gb_negro_144520_0005_1.png"
-        ],
-        "id": 14
-    },
-    {
-        "name": "Notebook Gamer Gigabyte Gaming A16 16\" Intel Core i7-13620H RTX 4050 6 GB GDDR6 - Black Steel",
-        "price": "Gs. 8.990.000",
-        "details": {
-            "Pantalla": "IPS de 16\" (1920 x 1200p)",
-            "Procesador": "Intel Core i7-13620H",
-            "Memoria RAM": "16 GB DDR5",
-            "Almacenamiento": "512 GB SSD",
-            "Gráficos": "NVIDIA GeForce RTX 4050 6 GB GDDR6",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "810162142476",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0001_1.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0004_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0005_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0006_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_gigabyte_gaming_a16_16_intel_core_i7_13620h_rtx_4050_6_gb_gddr6_black_steel_144277_0007_1.jpg"
-        ],
-        "id": 15
     },
     {
         "name": "Placa Madre Asus TUF Gaming B650E-PLUS Wifi AM5 DDR5",
@@ -421,7 +190,8 @@
         },
         "label": "197105995482",
         "categories": [
-            "Placas Madre"
+            "Placas Madre",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/d/8d99c1f8d99c1f-1.jpg",
@@ -430,352 +200,38 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/d/8d99c1f8d99c1f-2.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/d/8d99c1f8d99c1f-5.jpg"
         ],
-        "id": 16
+        "id": 7
     },
     {
-        "name": "Notebook Gamer ASUS TUF Gaming A15 FA506NFR-HN105W 15.6\" AMD Ryzen 7 7435HS RTX 2050 4 GB - Negro",
-        "price": "Gs. 6.850.000",
+        "name": "Notebook Lenovo V15 G4 15.6\" AMD Ryzen 3 7320U 8 GB LPDDR5 256 GB SSD - Arctic Grey (82YU00X4LM)",
+        "price": "Gs. 3.328.000",
         "details": {
-            "Pantalla": "IPS de 15.6\", Full HD (1920 x 1080), 144Hz",
-            "Procesador": "AMD Ryzen 7 7435HS Octa Core, 3.1 hasta 4.5 GHz",
-            "Memoria RAM": "8GB DDR5",
-            "Almacenamiento": "SSD M.2 NVMe PCIe Gen4 de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 2050 4 GB GDDR6",
-            "Sistema Operativo": "Windows 11 Home"
+            "Pantalla": "TN de 15.6\", FHD (1920 x 1080), antirreflejo, 250 nits",
+            "Procesador": "AMD Ryzen 3 7320U Quad-Core 2.4 hasta 4.1 GHz",
+            "Memoria RAM": "8 GB LPDDR5 5500 MHz",
+            "Almacenamiento": "SSD M.2 PCIe NVMe 4.0 de 256 GB",
+            "Gráficos": "AMD Radeon 610M"
         },
-        "label": "Notebook",
+        "label": "Number",
         "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "Asus Oficial"
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/f/9/f9137818-e82d-444d-8826-364690a5ca9d.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0004_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_asus_tuf_gaming_a15_fa506nfr_hn105w_15_6_amd_ryzen_7_7435hs_rtx_2050_4_gb_negro_143859_0005_1.jpg"
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_15_6_amd_ryzen_3_7320u_8_gb_lpddr5_256_gb_ssd_arctic_grey_82yu00x4lm_148145_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_15_6_amd_ryzen_3_7320u_8_gb_lpddr5_256_gb_ssd_arctic_grey_82yu00x4lm_148145_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_15_6_amd_ryzen_3_7320u_8_gb_lpddr5_256_gb_ssd_arctic_grey_82yu00x4lm_148145_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_15_6_amd_ryzen_3_7320u_8_gb_lpddr5_256_gb_ssd_arctic_grey_82yu00x4lm_148145_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_15_6_amd_ryzen_3_7320u_8_gb_lpddr5_256_gb_ssd_arctic_grey_82yu00x4lm_148145_0004.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_15_6_amd_ryzen_3_7320u_8_gb_lpddr5_256_gb_ssd_arctic_grey_82yu00x4lm_148145_0005.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_15_6_amd_ryzen_3_7320u_8_gb_lpddr5_256_gb_ssd_arctic_grey_82yu00x4lm_148145_0006.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_v15_g4_15_6_amd_ryzen_3_7320u_8_gb_lpddr5_256_gb_ssd_arctic_grey_82yu00x4lm_148145_0007.jpg"
         ],
-        "specifications": {
-            "Sistema operativo": "Windows 11 Home",
-            "Procesador": "AMD Ryzen 7 7435HS (3.1 GHz, hasta 4.5 GHz, 8 núcleos, 16 hilos, 20 MB caché)",
-            "Tarjeta gráfica": "NVIDIA GeForce RTX 2050, 4GB GDDR6",
-            "Gráficos integrados": "AMD Radeon Graphics",
-            "Pantalla": "15.6\" FHD (1920 x 1080), IPS-level, 144Hz, antirreflejo, 250 nits",
-            "Memoria RAM": "8GB DDR5-4800 (2 SODIMM, expandible hasta 64GB)",
-            "Almacenamiento": "SSD PCIe 4.0 NVMe™ M.2 de 512GB",
-            "Teclado": "Retroiluminado RGB de 1 zona (Chiclet)",
-            "Cámara": "HD 720p con micrófono de 3 micrófonos integrados",
-            "Audio": "DTS Audio Processing, AI noise-canceling, Hi-Res (auriculares)",
-            "Conectividad inalámbrica": "Wi-Fi 6 (802.11ax), Bluetooth 5.3",
-            "Conectividad por cable": "LAN RJ45 10/100/1000 Mbps",
-            "Puertos": "1x USB 3.2 Gen 2 Type-C (con DisplayPort 10Gbps)3x USB 3.2 Gen 1 Type-A (5Gbps)1x HDMI 2.1 TMDS1x RJ45 LAN1x combo audio 3.5mm"
-        },
-        "id": 17
-    },
-    {
-        "name": "Notebook Gamer Lenovo Legion Pro 5 83LT000EUS 16\" AMD Ryzen R9-8945HX RTX 5060 8 GB 1T SSD - Eclipse Negro",
-        "price": "Gs. 13.500.000",
-        "details": {
-            "Pantalla": "LCD IPS de 16\" WQXGA (2560 x 1600), 500 nits, 240 Hz, antireflejo",
-            "Procesador": "AMD Ryzen 9 8945HX Octa-core, hasta 5.2 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Almacenamiento": "SSD M.2 PCIe NVMe de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5060 8 GB GDDR7",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "198157030091",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0000_1.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0004_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0005_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0006_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0007_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0008_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_pro_5_83lt000eus_16_amd_ryzen_r9_8945hx_rtx_5060_8_gb_1t_ssd_eclipse_negro_143686_0009_1.jpg"
-        ],
-        "specifications": {
-            "Cámara frontal de 5 MP con obturador de privacidad para mayor seguridad": "",
-            "Tecnología de audio Nahimic con altavoces Harman 2 x 2 W para sonido envolvente": "",
-            "Wi-Fi 7 de última generación para conexiones más rápidas y estables": "",
-            "Construcción en aluminio y plástico, resistente y con diseño premium": "",
-            "Panel antirreflejo, ideal para largas sesiones de uso en diferentes entornos": "",
-            "Copiloto IA de Windows integrado para optimizar tareas cotidianas": ""
-        },
-        "id": 18
-    },
-    {
-        "name": "Notebook Gamer HP OMEN Max 16\" Intel Core Ultra 9 275HX RTX 5090 24 GB - Negro",
-        "price": "Gs. 30.900.000",
-        "details": {
-            "Pantalla": "IPS de 16\" FHD+(1920 x 1200) antirreflejo, 100% sRGB, 165 Hz",
-            "Procesador": "Intel Core Ultra 9 275HX 24 núcleos, 2.7 hasta 5.4 GHz",
-            "Memoria RAM": "32 GB DDR5 5600 MHz",
-            "Almacenamiento": "SSD M.2 PCIe NVMe de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5090 24 GB",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "198415353962",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA | PRAGMATA"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_max_16_intel_core_ultra_9_275hx_rtx_5090_24_gb_negro_143653_0000_1.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_max_16_intel_core_ultra_9_275hx_rtx_5090_24_gb_negro_143653_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_max_16_intel_core_ultra_9_275hx_rtx_5090_24_gb_negro_143653_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_omen_max_16_intel_core_ultra_9_275hx_rtx_5090_24_gb_negro_143653_0003_1.jpg"
-        ],
-        "id": 19
-    },
-    {
-        "name": "Notebook Gamer Lenovo Legion 5 83LY0007US 15.1\" Intel Core i9 14900HX RTX 5070 8 GB - Negro",
-        "price": "Gs. 14.750.000",
-        "details": {
-            "Pantalla": "OLED de 15.1\" 165Hz (2560x1600p)",
-            "Procesador": "Intel Core i9-14900HX 24-Core 1.60 - 5.80 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Almacenamiento": "1 TB - SSD",
-            "Gráficos": "NVIDIA GeForce RTX 5070 8 GB GDDR7",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "198155936456",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA Notebooks ",
-            "NVIDIA | PRAGMATA"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0004_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_lenovo_legion_5_83ly0007us_15_1_intel_core_i9_14900hx_rtx_5070_8_gb_negro_143120_0005_1.png"
-        ],
-        "id": 20
-    },
-    {
-        "name": "Notebook Gamer Alienware 16X Aurora LAC16251-9599 16\" Intel Core Ultra 9 275HX GeForce RTX 5060 - Blue",
-        "price": "Gs. 16.900.000",
-        "details": {
-            "Pantalla": "LED de 16\" WQXGA (2560 x 1600), 240 Hz",
-            "Procesador": "Intel Core Ultra 9 275HX de 24 núcleos, 2.1 hasta 5.4 GHz",
-            "Memoria RAM": "32 GB DDR5 5600 MHz",
-            "Almacenamiento": "SSD M.2 NVMe PCIe de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5060 8 GB GDDR7",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "884116430599",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0000_1.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0004_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0005_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_alienware_16x_aurora_lac16251_9599_16_intel_core_ultra_9_275hx_geforce_rtx_5060_blue_143049_0006_1.jpg"
-        ],
-        "id": 21
-    },
-    {
-        "name": "Notebook Gamer HP Victus 15-FA2093DX 15.6\" Intel Core i7-13620H RTX 5060 8 GB - Mica Silver",
-        "price": "Gs. 10.747.000",
-        "details": {
-            "Pantalla": "IPS de 15.6\" FHD (1920 x 1080), 300 nits, antirreflejo, 144 Hz",
-            "Procesador": "Intel Core i7-13620H Deca Core, hasta 4.9 GHz",
-            "Memoria RAM": "16 GB DDR5 5200 MHz",
-            "Almacenamiento": "SSD M.2 NVMe PCIe 4.0 de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5060 8 GB GDDR7",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "198990690650",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fa2093dx_15_6_intel_core_i7_13620h_rtx_5060_8_gb_mica_silver_142114_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fa2093dx_15_6_intel_core_i7_13620h_rtx_5060_8_gb_mica_silver_142114_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fa2093dx_15_6_intel_core_i7_13620h_rtx_5060_8_gb_mica_silver_142114_0002_1.jpg"
-        ],
-        "id": 22
-    },
-    {
-        "name": "Notebook Gamer Acer Predator Helios Neo 16S AI PHN16S-71-98RF OLED 16\" Intel Core Ultra 9 275HX RTX 5070 Ti 12 GB - Obsidian Black",
-        "price": "Gs. 17.900.000",
-        "details": {
-            "Pantalla": "OLED de 16\" (2560 x 1600) antirreflejo, 500 nits 240Hz",
-            "Procesador": "Intel Core Ultra 9 275HX Tetracosa-Core, hasta 5.4GHz",
-            "Memoria RAM": "32 GB DDR5",
-            "Almacenamiento": "SSD PCIe 4.0 de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5070 Ti",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "195133285117",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "Ofertas",
-            "NVIDIA Notebooks ",
-            "NVIDIA | PRAGMATA"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_ai_phn16s_71_98rf_oled_16_intel_core_ultra_9_275hx_rtx_5070_ti_12_gb_obsidia_141615_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_ai_phn16s_71_98rf_oled_16_intel_core_ultra_9_275hx_rtx_5070_ti_12_gb_obsidia_141615_0001_1.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_ai_phn16s_71_98rf_oled_16_intel_core_ultra_9_275hx_rtx_5070_ti_12_gb_obsidia_141615_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_ai_phn16s_71_98rf_oled_16_intel_core_ultra_9_275hx_rtx_5070_ti_12_gb_obsidia_141615_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_acer_predator_helios_neo_16s_ai_phn16s_71_98rf_oled_16_intel_core_ultra_9_275hx_rtx_5070_ti_12_gb_obsidia_141615_0004_1.jpg"
-        ],
-        "specifications": {
-            "Pantalla OLED 16": "10 con 500 nits de brillo y tiempo de respuesta ultra rápido de 0,2 ms.",
-            "NVIDIA DLSS 4 mejora FPS y calidad visual con inteligencia artificial avanzada.": "",
-            "Arquitectura NVIDIA Blackwell con núcleos RT de 4ª generación y Tensor de 5ª generación.": "",
-            "Procesador con hasta 13 TOPS en NPU para descarga inteligente de tareas IA.": "",
-            "Soporte para hasta 64 GB DDR5, con configuración actual de 2 x 16 GB.": "",
-            "Ventiladores duales con tecnología 3D Aeroblade de quinta generación.": "",
-            "Killer Control Center para priorizar tráfico y gestionar conexiones de red.": "",
-            "Micrófonos con formación de haces y PurifiedVoice 2.0 para cancelación activa de ruido.": "",
-            "Predatorsense con funciones IA como PurifiedView 2.0 para encuadre automático en cámara.": ""
-        },
-        "id": 23
-    },
-    {
-        "name": "Notebook Gamer HP Victus 15-FB3093DX 15.6\" AMD Ryzen 7-7445 HS RTX 4050 6 GB - Mica Silver",
-        "price": "Gs. 6.990.000Gs. 8.290.000",
-        "details": {
-            "Pantalla": "IPS LED de 15.6\" FHD (1920 x 1080), 144 Hz",
-            "Procesador": "AMD Ryzen 7-7445 HS Hexa-core, hasta 4.7 GHz",
-            "Memoria RAM": "16 GB (8 GB * 2) DDR5",
-            "Almacenamiento": "SSD M.2 NVMe PCIe Gen4 de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 4050 con 6 GB DDR6",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "199251266874",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fb3093dx_15_6_amd_ryzen_7_7445_hs_rtx_4050_6_gb_mica_silver_141602_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fb3093dx_15_6_amd_ryzen_7_7445_hs_rtx_4050_6_gb_mica_silver_141602_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fb3093dx_15_6_amd_ryzen_7_7445_hs_rtx_4050_6_gb_mica_silver_141602_0002_1.png"
-        ],
-        "specifications": {
-            "Windows 11 Home": ""
-        },
-        "id": 24
-    },
-    {
-        "name": "Notebook Gamer HP Victus 15-FA2013DX 15.6\" Intel Core i5-13420H RTX3050 8 GB - Mica Silver",
-        "price": "Gs. 5.575.000Gs. 6.590.000",
-        "details": {
-            "Pantalla": "IPS LED de 15.6\" FHD (1920 x 1080), 144 Hz",
-            "Procesador": "Intel Core i5-13420H, Octa-core, 3.4 hasta 4.6 GHz",
-            "Memoria RAM": "8 GB DDR4",
-            "Almacenamiento": "SSD M.2 NVMe PCIe Gen4 de 512 GB",
-            "Gráficos": "NVIDIA GeForce RTX 3050 con 6 GB GDDR6",
-            "Sistema Operativo": "Windows 11 Home"
-        },
-        "label": "198990677460",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA Notebooks ",
-            "Notebooks"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fa2013dx_15_6_intel_core_i5_13420h_rtx3050_8_gb_mica_silver_140130_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fa2013dx_15_6_intel_core_i5_13420h_rtx3050_8_gb_mica_silver_140130_0001_1.png",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_hp_victus_15_fa2013dx_15_6_intel_core_i5_13420h_rtx3050_8_gb_mica_silver_140130_0002_1.jpg"
-        ],
-        "specifications": {
-            "Pantalla antirreflejo": "Sí",
-            "Tamaño": "15.6 pulgadas",
-            "Resolución": "Full HD (1920 x 1080)",
-            "Tipo": "IPS",
-            "Brillo": "300 cd/m²",
-            "Tasa de refresco máxima": "144 Hz"
-        },
-        "id": 25
-    },
-    {
-        "name": "Notebook Gamer MSI Vector 16 HX AI A2XWIG-050US 16\" Intel Core Ultra 9 275HX RTX 5080 16 GB - Cosmos Gray",
-        "price": "Gs. 22.900.000",
-        "details": {
-            "Pantalla": "IPS de 16\", QHD+ (2560 x 1600), 240 Hz",
-            "Procesador": "Intel Core Ultra 9 275HX 24-Core, 2.1 hasta 5.4 GHz",
-            "Memoria RAM": "16 GB DDR5",
-            "Almacenamiento": "SSD M.2 NVMe PCIe Gen4 de 1 TB",
-            "Gráficos": "NVIDIA GeForce RTX 5080 con 16 GB GDDR7",
-            "Sistema Operativo": "Windows 11 Pro"
-        },
-        "label": "824142403129",
-        "categories": [
-            "Notebooks Gaming y Alto Rendimiento",
-            "NVIDIA | PRAGMATA"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0004_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0005_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0007_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0006_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0008_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0009_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_gamer_msi_vector_16_hx_ai_a2xwig_050us_16_intel_core_ultra_9_275hx_rtx_5080_16_gb_cosmos_gray_138856_0010_1.jpg"
-        ],
-        "specifications": {
-            "Procesador potente": "Intel Core Ultra 9 275HX con 24 núcleos (8 de rendimiento + 16 eficientes) y NPU para IA.",
-            "Gráfica de última generación": "NVIDIA GeForce RTX 5080 con 16 GB GDDR7, ray tracing, DLSS y más.",
-            "Memoria y almacenamiento": "16 GB DDR5 5600 MHz + SSD PCIe 4.0 de 1 TB para multitarea fluida.",
-            "Pantalla premium": "16\" IPS QHD+ (2560 x 1600), 240 Hz, 100 % DCI-P3 para colores cinematográficos.",
-            "Refrigeración avanzada": "Sistema con 2 ventiladores grandes y 7 tubos de calor.",
-            "Conectividad veloz": "2 puertos Thunderbolt 5, HDMI 2.1, Wi-Fi 6E, Ethernet 2.5G, USB-A, lector SD.",
-            "Audio y comunicación": "Jack 3.5 mm, Bluetooth 5.3, webcam IR Full HD con Windows Hello.",
-            "Teclado personalizable": "SteelSeries RGB con 24 zonas y MSI Mystic Light.",
-            "Funciones IA": "Microsoft Copilot, ajustes automáticos por actividad, generación de imágenes por texto."
-        },
-        "id": 26
-    },
-    {
-        "name": "Notebook/Tablet Lenovo IdeaPad 5 2 en 1 14\" Intel Core Ultra 5 225U 8 GB LPDDR5x 512 GB SSD Touch - Luna Grey (83KR0047US)",
-        "price": "Gs. 4.850.000",
-        "details": {
-            "Pantalla": "Touch IPS de 14\", WUXGA (1920 x 1200)",
-            "Procesador": "Intel Core Ultra 5 225U Dodeca-Core 2.4 hasta 4.8 GHz",
-            "Memoria RAM": "8 GB LPDDR5x",
-            "Almacenamiento": "SSD M.2 NVMe de 512 GB",
-            "Gráficos": "Intel Graphics",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "199271472521",
-        "categories": [
-            "Notebooks de Uso Diario y Profesionales"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_5_2_en_1_14_intel_core_ultra_5_225u_8_gb_lpddr5x_512_gb_ssd_touch_luna_grey_83kr0047us_148320_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_5_2_en_1_14_intel_core_ultra_5_225u_8_gb_lpddr5x_512_gb_ssd_touch_luna_grey_83kr0047us_148320_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_5_2_en_1_14_intel_core_ultra_5_225u_8_gb_lpddr5x_512_gb_ssd_touch_luna_grey_83kr0047us_148320_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_5_2_en_1_14_intel_core_ultra_5_225u_8_gb_lpddr5x_512_gb_ssd_touch_luna_grey_83kr0047us_148320_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_5_2_en_1_14_intel_core_ultra_5_225u_8_gb_lpddr5x_512_gb_ssd_touch_luna_grey_83kr0047us_148320_0004.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_tablet_lenovo_ideapad_5_2_en_1_14_intel_core_ultra_5_225u_8_gb_lpddr5x_512_gb_ssd_touch_luna_grey_83kr0047us_148320_0005.jpg"
-        ],
-        "id": 27
+        "id": 8
     },
     {
         "name": "Notebook Dell Inspiron 15 DC15255-A117 15.6\" AMD Ryzen 7 7730U 16 GB DDR4 512 GB SSD Touch - Carbon Black",
-        "price": "Gs. 5.297.000",
+        "price": "Gs. 5.387.000",
         "details": {
             "Pantalla": "Táctil de 15.6\", FHD (1920 x 1080)",
             "Procesador": "AMD Ryzen 7 7730U Octa Core 2.0 - 4.5 GHz",
@@ -786,7 +242,8 @@
         },
         "label": "884116430117",
         "categories": [
-            "Notebooks de Uso Diario y Profesionales"
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_inspiron_15_dc15255_a117_15_6_amd_ryzen_7_7730u_16_gb_ddr4_512_gb_ssd_touch_carbon_black_148125_0000.jpg",
@@ -803,7 +260,7 @@
             "1x Jack 3.5 mm": "",
             "1x HDMI": ""
         },
-        "id": 28
+        "id": 9
     },
     {
         "name": "Notebook ASUS Vivobook S16 M3607HA-RP064W 16\" AMD Ryzen 9 270 16 GB DDR5 1 TB SSD M.2 - Matte Gray",
@@ -819,7 +276,8 @@
         "label": "197105905719",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
-            "Asus Oficial"
+            "Asus Oficial",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/b/nb_asus_vivobook_s16_m3607f.jpg",
@@ -830,7 +288,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_13_-_2026-02-23t102342.514_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_16_-_2026-02-23t102343.466.jpg"
         ],
-        "id": 29
+        "id": 10
     },
     {
         "name": "Notebook ASUS Vivobook Go 15 E510KA-EJ1151W 15.6\" Intel Celeron N4500 4 GB DDR4 128 GB SSD M.2 - Black",
@@ -846,7 +304,8 @@
         "label": "199291111127",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
-            "Asus Oficial"
+            "Asus Oficial",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1-recuperadortgtgtgtrgrtgt_4.jpg",
@@ -858,7 +317,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e5107_1_2.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e510r_-_copia_1.jpg"
         ],
-        "id": 30
+        "id": 11
     },
     {
         "name": "Notebook ASUS Vivobook S16 M3607HA-RP064W 16\" AMD Ryzen 9 270 16 GB DDR5 1 TB SSD M.2 - Matte Gray",
@@ -874,7 +333,8 @@
         "label": "Notebook",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
-            "Asus Oficial"
+            "Asus Oficial",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_12_-_2026-02-23t102340.891.jpg",
@@ -884,7 +344,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_13_-_2026-02-23t102342.514.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_20_96_.jpg"
         ],
-        "id": 31
+        "id": 12
     },
     {
         "name": "Notebook HP 15-FC0146DX 15.6\" AMD Ryzen 5 7520U 8 GB LPDDR5 512 GB SSD Touch - Natural Silver",
@@ -900,7 +360,8 @@
         "label": "Number",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
-            "Ofertas"
+            "Ofertas",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0000.jpg",
@@ -908,7 +369,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0002.jpg"
         ],
-        "id": 32
+        "id": 13
     },
     {
         "name": "Notebook Dell DB14250 14\" Intel Core Ultra 7 256V 16 GB LPDDR5x 1 TB SSD - Ice Blue",
@@ -923,7 +384,8 @@
         },
         "label": "884116482918",
         "categories": [
-            "Notebooks de Uso Diario y Profesionales"
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0000_1.jpg",
@@ -936,11 +398,11 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0007_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_dell_db14250_14_intel_core_ultra_7_256v_16_gb_lpddr5x_1_tb_ssd_ice_blue_146376_0008_1.jpg"
         ],
-        "id": 33
+        "id": 14
     },
     {
         "name": "Notebook Acer Aspire 14 A14-52MT-94H5 14\" Intel Core Ultra 9 288V 32 GB LPDDR5X 1 TB SSD Touch - Steel Gray",
-        "price": "Gs. 7.950.000Gs. 9.090.000",
+        "price": "Gs. 9.090.000",
         "details": {
             "Pantalla": "LCD IPS Touch de 14\", WUXGA (1920 x 1200), 60 Hz",
             "Procesador": "Intel Core Ultra 9 288V Octa-Core, 3.3 hasta 5.1 GHz",
@@ -952,7 +414,7 @@
         "label": "195133311366",
         "categories": [
             "Notebooks de Uso Diario y Profesionales",
-            "Notebooks"
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0000.jpg",
@@ -962,7 +424,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0004.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0005.jpg"
         ],
-        "id": 34
+        "id": 15
     },
     {
         "name": "Monitor Gamer Gigabyte GS25F2A 25\" 240 Hz FHD IPS 240 Hz 1 ms - Negro",
@@ -977,7 +439,9 @@
         },
         "label": "3",
         "categories": [
-            "Monitores y Pantallas"
+            "Monitores y Pantallas",
+            "Ten to Ten",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_17_-_2026-02-16t110637.289.jpg",
@@ -987,7 +451,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_10_-_2026-02-16t110633.950.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_13_-_2026-02-16t110634.576.jpg"
         ],
-        "id": 35
+        "id": 16
     },
     {
         "name": "Notebook Microsoft Surface EP2-36981 13\" Snapdragon X Plus 16 GB LPDDR5x 256 GB UFS Touch - Platinum",
@@ -1002,7 +466,8 @@
         },
         "label": "Notebook",
         "categories": [
-            "Notebooks de Uso Diario y Profesionales"
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_microsoft_surface_ep2_36981_13_snapdragon_x_plus_16_gb_lpddr5x_256_gb_ufs_touch_platinum_144824_0000.jpg",
@@ -1014,7 +479,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/o/aoyp8gzpDuwKImTSx2DxBryYX8xuVLDxA4A.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_microsoft_surface_ep2_36981_13_snapdragon_x_plus_16_gb_lpddr5x_256_gb_ufs_touch_platinum_144824_0006.jpg"
         ],
-        "id": 36
+        "id": 17
     },
     {
         "name": "Terminal Pos de Escritorio SUNMI D3 Pro F3510",
@@ -1030,7 +495,8 @@
         "categories": [
             "Monitores",
             "Periféricos y Accesorios",
-            "Monitores y Pantallas"
+            "Monitores y Pantallas",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/terminal_pos_de_escritorio_sunmi_d3_pro_f3510_139635_0001.jpg",
@@ -1039,7 +505,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/terminal_pos_de_escritorio_sunmi_d3_pro_f3510_139635_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/terminal_pos_de_escritorio_sunmi_d3_pro_f3510_139635_0004.jpg"
         ],
-        "id": 37
+        "id": 18
     },
     {
         "name": "Monitor Gamer MSI G242LW/CGZ IPS 23.8\" Full HD 144 Hz / 1 ms - Negro",
@@ -1059,7 +525,9 @@
             "Periféricos y Accesorios",
             "Monitores y Pantallas",
             "Monitores Gamer",
-            "Ofertas"
+            "Ofertas",
+            "Ten to Ten",
+            "Reyes Magos"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_msi_g242lw_cgz_ips_23_8_full_hd_144_hz_1_ms_negro_144678_0000.jpg",
@@ -1069,6 +537,575 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_msi_g242lw_cgz_ips_23_8_full_hd_144_hz_1_ms_negro_144678_0004.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_msi_g242lw_cgz_ips_23_8_full_hd_144_hz_1_ms_negro_144678_0005.jpg"
         ],
+        "id": 19
+    },
+    {
+        "name": "Monitor Touch FTX MT15V1 15\" HD - Negro",
+        "price": "Gs. 2.150.000",
+        "details": {
+            "Ideal uso para": "Terminales de punto de venta (POS)",
+            "Tipo de pantalla": "Táctil Capacitiva de 15\"",
+            "Resolución": "XGA (1024p x 768p)",
+            "Tiempo de respuesta": "5 ms",
+            "Relación de aspecto": "4",
+            "Interfaz": "HDMI, VGA, USB, Jack 3.5 mm"
+        },
+        "label": "3",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores de Uso Diario y Profesional",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_touch_ftx_mt15v1_15_hd_negro_148450_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_touch_ftx_mt15v1_15_hd_negro_148450_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_touch_ftx_mt15v1_15_hd_negro_148450_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_touch_ftx_mt15v1_15_hd_negro_148450_0003.jpg"
+        ],
+        "id": 20
+    },
+    {
+        "name": "Notebook ASUS Vivobook Go 15 E510KA-EJ1150W 15.6\" Intel Celeron N4500 4 GB DDR4 128 GB SSD M.2 - Black",
+        "price": "Gs. 2.016.000",
+        "details": {
+            "Pantalla": "LCD de 15.6\", FHD (1920 x 1080)",
+            "Procesador": "Intel Celeron N4500, Dual-core 1.1 - 2.8 GHz",
+            "Memoria RAM": "4 GB DDR4",
+            "Almacenamiento": "128 GB eMMC",
+            "Gráficos": "Intel HD Graphics",
+            "Sistema Operativo": "Windows 11 Home"
+        },
+        "label": "Notebook",
+        "categories": [
+            "Notebooks de Uso Diario y Profesionales",
+            "Asus Oficial",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e510.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1-recuperadortgtgtgtrgrtgt_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e510s.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e510d.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e510w.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e510y.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e5107.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_asus_vivobook_go_e510r.jpg"
+        ],
+        "id": 21
+    },
+    {
+        "name": "Monitor LG 24MS500-B 24\" FHD 100 Hz 5 ms - Negro",
+        "price": "Gs. 837.000",
+        "details": {
+            "Tipo de pantalla": "IPS de 24\"",
+            "Resolución": "FHD (1920 x 1080p)",
+            "Frecuencia de actualización": "100 Hz",
+            "Tiempo de respuesta": "5 ms",
+            "Angulo de visión": "178° (H) / 178° (V)",
+            "Interfaz": "HDMI, VGA, salida de auriculares"
+        },
+        "label": "3",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores de Uso Diario y Profesional",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_lg_24ms500_b_24_fhd_100_hz_5_ms_negro_148391_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_lg_24ms500_b_24_fhd_100_hz_5_ms_negro_148391_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_lg_24ms500_b_24_fhd_100_hz_5_ms_negro_148391_0002.jpg"
+        ],
+        "id": 22
+    },
+    {
+        "name": "Monitor BenQ Mobiuz EX240N LCD 23.8\" Full HD 165 Hz / 1 ms - Negro",
+        "price": "Gs. 981.000Gs. 1.850.000",
+        "details": {
+            "Tipo de pantalla": "VA LCD de 23.8\"",
+            "Resolución": "Full HD (1920 x 1080)",
+            "Frecuencia de actualización": "165 Hz",
+            "Tiempo de respuesta": "1 ms (MPRT)",
+            "Tecnología": "FreeSync Premium",
+            "Angulo de visión": "178° (H) / 178° (V)",
+            "Interfaz": "1x DisplayPort 2.1, 1x HDMI 2.0"
+        },
+        "label": "3",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores Gamer",
+            "Ten to Ten",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_mobiuz_ex240n_lcd_23_8_full_hd_165_hz_1_ms_negro_147851_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_mobiuz_ex240n_lcd_23_8_full_hd_165_hz_1_ms_negro_147851_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_mobiuz_ex240n_lcd_23_8_full_hd_165_hz_1_ms_negro_147851_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_mobiuz_ex240n_lcd_23_8_full_hd_165_hz_1_ms_negro_147851_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_mobiuz_ex240n_lcd_23_8_full_hd_165_hz_1_ms_negro_147851_0004.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_mobiuz_ex240n_lcd_23_8_full_hd_165_hz_1_ms_negro_147851_0005.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_mobiuz_ex240n_lcd_23_8_full_hd_165_hz_1_ms_negro_147851_0006.jpg"
+        ],
+        "id": 23
+    },
+    {
+        "name": "Monitor Gamer Samsung Odyssey G6 LS27FG602SN QD-OLED 27\" QHD 500 Hz / 0.03 ms - Blanco",
+        "price": "Gs. 7.186.000Gs. 10.500.000",
+        "details": {
+            "Tipo de pantalla": "QD-OLED, Plana",
+            "Resolución": "QHD (2560 x 1440)",
+            "Frecuencia de actualización": "500Hz",
+            "Tiempo de respuesta": "0.03 ms",
+            "Tecnología": "HDR10/HDR10+, FreeSync Premium Pro",
+            "Sistema operativo": "Windows 11",
+            "Interfaz": "1 DisplayPort 1.4, 2 HDMI 2.1, 2 puertos USB 3.0 y salida de audífonos"
+        },
+        "label": "3",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores Gamer",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_samsung_odyssey_g6_ls27fg602sn_qd_oled_27_qhd_500_hz_0_03_ms_blanco_146713_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_samsung_odyssey_g6_ls27fg602sn_qd_oled_27_qhd_500_hz_0_03_ms_blanco_146713_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_samsung_odyssey_g6_ls27fg602sn_qd_oled_27_qhd_500_hz_0_03_ms_blanco_146713_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_samsung_odyssey_g6_ls27fg602sn_qd_oled_27_qhd_500_hz_0_03_ms_blanco_146713_0003.jpg"
+        ],
+        "id": 24
+    },
+    {
+        "name": "Notebook Samsung Galaxy Book5 Pro NP960XHA AMOLED 16\" Intel Core Ultra 7 256V 32 GB LPDDR5x 1TB SSD Touch - Gray",
+        "price": "Gs. 15.900.000",
+        "details": {
+            "Pantalla": "Touch AMOLED 16\" 3K (2880 x 1800), antirreflejo, 400 nits, 120 Hz",
+            "Procesador": "Intel Core Ultra 7 256V Octa Core, 2.2 GHz hasta 4.8 GHz",
+            "Memoria RAM": "32 GB LPDDR5x",
+            "Almacenamiento": "SSD PCIe NVMe de 1TB",
+            "Gráficos": "Intel Arc",
+            "Sistema Operativo": "Windows 11 Home"
+        },
+        "label": "Number",
+        "categories": [
+            "Notebooks de Uso Diario y Profesionales",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_samsung_galaxy_book5_pro_np960xha_amoled_16_intel_core_ultra_7_256v_32_gb_lpddr5x_1tb_ssd_touch_gray_144546_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_samsung_galaxy_book5_pro_np960xha_amoled_16_intel_core_ultra_7_256v_32_gb_lpddr5x_1tb_ssd_touch_gray_144546_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_samsung_galaxy_book5_pro_np960xha_amoled_16_intel_core_ultra_7_256v_32_gb_lpddr5x_1tb_ssd_touch_gray_144546_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_samsung_galaxy_book5_pro_np960xha_amoled_16_intel_core_ultra_7_256v_32_gb_lpddr5x_1tb_ssd_touch_gray_144546_0003_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_samsung_galaxy_book5_pro_np960xha_amoled_16_intel_core_ultra_7_256v_32_gb_lpddr5x_1tb_ssd_touch_gray_144546_0004_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_samsung_galaxy_book5_pro_np960xha_amoled_16_intel_core_ultra_7_256v_32_gb_lpddr5x_1tb_ssd_touch_gray_144546_0005_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_samsung_galaxy_book5_pro_np960xha_amoled_16_intel_core_ultra_7_256v_32_gb_lpddr5x_1tb_ssd_touch_gray_144546_0006_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_samsung_galaxy_book5_pro_np960xha_amoled_16_intel_core_ultra_7_256v_32_gb_lpddr5x_1tb_ssd_touch_gray_144546_0007_1.jpg"
+        ],
+        "specifications": {
+            "IA integrada (Copilot+)": "Generación de ilustraciones a partir de texto, búsqueda inteligente con Recall, traducciones y subtítulos en vivo, edición y creación asistida por IA.",
+            "Rendimiento de próxima generación": "Procesador Intel Core Ultra Serie 2 con NPU avanzada (hasta 47 TOPS) para tareas intensivas en IA.",
+            "Pantalla premium": "3K Dynamic AMOLED 2x, 120 Hz, antirreflejo Corning Gorilla Glass DX, Vision Booster para visibilidad con poca luz solar.",
+            "Conectividad y multitarea": "Integración con el teléfono (llamadas, mensajes, fotos), Quick Share, Multi Control y segunda pantalla con Galaxy Tab.",
+            "Autonomía": "Hasta 25 horas de duración de batería, carga rápida (35% en 30 minutos).",
+            "Funciones de productividad y creatividad": "AI Select para búsquedas, Photo Remaster, Cocreator en Paint, integración con Live Captions.",
+            "Diseño y usabilidad": "Portátil ligero, panel táctil avanzado, múltiples puertos (Thunderbolt 4, HDMI, USB-A, microSD).",
+            "Experiencia multimedia": "Cámara con HDR escalado, sistema de 4 altavoces con Dolby Atmos.",
+            "Conectividad avanzada": "Wi-Fi 7 para menor latencia y mayor velocidad.",
+            "Seguridad": "Samsung Knox con chip dedicado para protección en tiempo real."
+        },
+        "id": 25
+    },
+    {
+        "name": "Monitor MSI PRO MP243L E14 23.8'' Full HD IPS 144 Hz / 1 Ms - Negro",
+        "price": "Gs. 1.150.000",
+        "details": {
+            "Tipo de pantalla": "IPS",
+            "Resolución": "1920 x 1080p",
+            "Frecuencia de actualización": "144 Hz",
+            "Tiempo de respuesta": "1 ms",
+            "Angulo de visión": "178°",
+            "Tecnologia": "AMD FreeSync"
+        },
+        "label": "3",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores Gamer",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_msi_pro_mp243l_e14_23_8_full_hd_ips_144_hz_1_ms_negro_146461_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_msi_pro_mp243l_e14_23_8_full_hd_ips_144_hz_1_ms_negro_146461_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_msi_pro_mp243l_e14_23_8_full_hd_ips_144_hz_1_ms_negro_146461_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_msi_pro_mp243l_e14_23_8_full_hd_ips_144_hz_1_ms_negro_146461_0003_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_msi_pro_mp243l_e14_23_8_full_hd_ips_144_hz_1_ms_negro_146461_0004_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_msi_pro_mp243l_e14_23_8_full_hd_ips_144_hz_1_ms_negro_146461_0005_1.jpg"
+        ],
+        "id": 26
+    },
+    {
+        "name": "Placa Madre Gigabyte X870 Aorus Stealth ICE AM5 DDR5",
+        "price": "Gs. 3.256.000",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "AMD Ryzen 7000, 8000, 9000 Series",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "DDR5",
+            "Almacenamiento": "4 x M.2, 2 x SATA 6Gb/s",
+            "Chipset": "X870"
+        },
+        "label": "889523051276",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0004.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0005.jpg"
+        ],
+        "id": 27
+    },
+    {
+        "name": "Placa Madre ASrock B760M PG Riptide Wifi LGA 1700 DDR5",
+        "price": "Gs. 1.394.000",
+        "details": {
+            "Factor de Forma": "mATX",
+            "Soporta procesadores": "Intel Core 14.º, 13.º y 12.º generación",
+            "Socket de procesador": "LGA 1700",
+            "Memoria RAM": "4 x DDR5",
+            "Almacenamiento": "2 x M.2, 4 x SATA3 6.0Gb/s",
+            "Chipset": "B760"
+        },
+        "label": "4710483943836",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b760m_pg_riptide_wifi_lga_1700_ddr5_148308_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b760m_pg_riptide_wifi_lga_1700_ddr5_148308_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b760m_pg_riptide_wifi_lga_1700_ddr5_148308_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b760m_pg_riptide_wifi_lga_1700_ddr5_148308_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b760m_pg_riptide_wifi_lga_1700_ddr5_148308_0004.jpg"
+        ],
+        "id": 28
+    },
+    {
+        "name": "Placa Madre ASRock B450M/AC R2.0 AM4 DDR4",
+        "price": "Gs. 728.000",
+        "details": {
+            "Factor de Forma": "mATX",
+            "Soporta procesadores": "AMD Ryzen 2000, 3000, 4000 G-Series, 5000 y 5000 G-Series",
+            "Socket de procesador": "AM4",
+            "Memoria RAM": "DDR4",
+            "Almacenamiento": "4 x SATA3, 1 x Ultra M.2",
+            "Chipset": "B450"
+        },
+        "label": "4710483932809",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b450m_ac_r2_0_am4_ddr4_146216_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b450m_ac_r2_0_am4_ddr4_146216_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b450m_ac_r2_0_am4_ddr4_146216_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b450m_ac_r2_0_am4_ddr4_146216_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b450m_ac_r2_0_am4_ddr4_146216_0004.jpg"
+        ],
+        "id": 29
+    },
+    {
+        "name": "Monitor Gamer Asrock Phantom PG27FFX2A 27\" Full HD IPS 520 Hz / 1 ms - Negro",
+        "price": "Gs. 3.990.000",
+        "details": {
+            "Tipo de pantalla": "IPS",
+            "Resolución": "1920 x 1080",
+            "Frecuencia de actualización": "520 Hz",
+            "Tiempo de respuesta": "1 ms",
+            "Tecnología": "AMD FreeSync Premium",
+            "Ángulo de visión": "178°",
+            "Interfaz": "DisplayPort 1.4, HDMI 2.1"
+        },
+        "label": "Number",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores Gamer",
+            "Ofertas",
+            "Ten to Ten",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_asrock_phantom_pg27ffx2a_27_full_hd_ips_520_hz_1_ms_negro_145785_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_asrock_phantom_pg27ffx2a_27_full_hd_ips_520_hz_1_ms_negro_145785_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_asrock_phantom_pg27ffx2a_27_full_hd_ips_520_hz_1_ms_negro_145785_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_asrock_phantom_pg27ffx2a_27_full_hd_ips_520_hz_1_ms_negro_145785_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_asrock_phantom_pg27ffx2a_27_full_hd_ips_520_hz_1_ms_negro_145785_0004.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_asrock_phantom_pg27ffx2a_27_full_hd_ips_520_hz_1_ms_negro_145785_0005.jpg"
+        ],
+        "id": 30
+    },
+    {
+        "name": "Placa Madre Gigabyte B850M Eagle WIFI6E AM5 DDR5",
+        "price": "Gs. 1.421.000",
+        "details": {
+            "Factor de forma": "mATX",
+            "Soporta procesadores": "AMD Ryzen 7000, 8000, 9000 Series",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "DDR5",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Chipset": "B850"
+        },
+        "label": "889523049693",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_b850m_eagle_wifi6e_am5_ddr5_145993_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_b850m_eagle_wifi6e_am5_ddr5_145993_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_b850m_eagle_wifi6e_am5_ddr5_145993_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_b850m_eagle_wifi6e_am5_ddr5_145993_0003.jpg"
+        ],
+        "id": 31
+    },
+    {
+        "name": "Placa Madre Asus ROG Crosshair X870E Apex AM5 DDR5",
+        "price": "Gs. 7.536.000",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "AMD Ryzen 7000, 8000, 9000 Series",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "DDR5, 2 x DIMM, Máx. 128 GB",
+            "Almacenamiento": "5 x M.2, 4 x SATA 6Gb/s",
+            "Chipset": "X870E"
+        },
+        "label": "Compatibles",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0004.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0005.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0006.jpg"
+        ],
+        "id": 32
+    },
+    {
+        "name": "Monitor BenQ MA270U LED IPS 27\" 4K 60 Hz / 5 ms - Gris",
+        "price": "Gs. 5.486.000",
+        "details": {
+            "Tipo de pantalla": "LED IPS de 27\"",
+            "Resolución": "4K UHD (3840 x 2160)",
+            "Frecuencia de actualización": "60 Hz",
+            "Tiempo de respuesta": "5 ms (GtG)",
+            "Tecnología": "Flicker-free, Low Blue Light",
+            "Angulo de visión": "178° (H) / 178° (V)",
+            "Interfaz": "HDMI 2.0, 3.5 mm, USB-C y USB-A"
+        },
+        "label": "3",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores de Uso Diario y Profesional",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_ma270u_led_ips_27_4k_60_hz_5_ms_gris_145394_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_ma270u_led_ips_27_4k_60_hz_5_ms_gris_145394_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_ma270u_led_ips_27_4k_60_hz_5_ms_gris_145394_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_ma270u_led_ips_27_4k_60_hz_5_ms_gris_145394_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_ma270u_led_ips_27_4k_60_hz_5_ms_gris_145394_0004.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_ma270u_led_ips_27_4k_60_hz_5_ms_gris_145394_0005.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_benq_ma270u_led_ips_27_4k_60_hz_5_ms_gris_145394_0006.jpg"
+        ],
+        "specifications": {
+            "2 x HDMI 2.0": "",
+            "1 x USB-C (DisplayPort Alt Mode + Power Delivery 90W + datos)": "",
+            "2 x USB Type-A downstream (USB 3.2 Gen 1, 5 Gbps, carga 7.5W)": "",
+            "1 x USB Type-C downstream (USB 3.2 Gen 1, 5 Gbps, carga 15W)": "",
+            "1 x Jack de auriculares": ""
+        },
+        "id": 33
+    },
+    {
+        "name": "Monitor Portátil Triple Satellite A-DM3141 14\" para Notebook 360° USB-C",
+        "price": "Gs. 3.990.000",
+        "details": {
+            "Tipo de pantalla": "Plana",
+            "Tamaño de pantalla": "14\"",
+            "Modos de visualización": "Extendido y triplicado",
+            "Resolución": "Full HD (1920 x 1080p)",
+            "Interfaz": "USB Tipo-C"
+        },
+        "label": "3",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores de Uso Diario y Profesional",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_portatil_triple_satellite_a_dm3141_14_para_notebook_360deg_usb_c_145346_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_portatil_triple_satellite_a_dm3141_14_para_notebook_360deg_usb_c_145346_0001.jpg"
+        ],
+        "id": 34
+    },
+    {
+        "name": "Placa Madre Asus X870 Max Gaming Wifi 7 W AM5 DDR5 - Blanco",
+        "price": "Gs. 2.366.000",
+        "details": {
+            "Factor de Forma": "ATX",
+            "Soporta procesadores": "AMD Ryzen 7000, 8000, 9000 Series",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "DDR5",
+            "Almacenamiento": "3 x M.2, 4 x SATA 6 GB/s",
+            "Chipset": "X870"
+        },
+        "label": "199291007857",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_x870_max_gaming_wifi_7_w_am5_ddr5_blanco_145741_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_x870_max_gaming_wifi_7_w_am5_ddr5_blanco_145741_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_x870_max_gaming_wifi_7_w_am5_ddr5_blanco_145741_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_x870_max_gaming_wifi_7_w_am5_ddr5_blanco_145741_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_x870_max_gaming_wifi_7_w_am5_ddr5_blanco_145741_0004.jpg"
+        ],
+        "id": 35
+    },
+    {
+        "name": "Placa Madre Asus Prime B850M-K AM5 DDR5",
+        "price": "Gs. 1.161.000",
+        "details": {
+            "Factor de Forma": "micro-ATX",
+            "Soporta procesadores": "AMD Ryzen 7000, 8000, 9000 Series",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "2 x DIMM, DDR5, hasta 128GB",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Chipset": "B850"
+        },
+        "label": "199291005518",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850m_k_am5_ddr5_145736_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850m_k_am5_ddr5_145736_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850m_k_am5_ddr5_145736_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850m_k_am5_ddr5_145736_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850m_k_am5_ddr5_145736_0004.jpg"
+        ],
+        "id": 36
+    },
+    {
+        "name": "Placa Madre Asus TUF Gaming B850M-E Wifi AM5 DDR5",
+        "price": "Gs. 1.871.000",
+        "details": {
+            "Factor de Forma": "mATX",
+            "Soporta procesadores": "AMD Ryzen 7000, 8000, 9000 Series",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "DDR5",
+            "Almacenamiento": "3 x M.2, 4 x SATA 6Gb/s",
+            "Chipset": "B850"
+        },
+        "label": "199291068490",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_tuf_gaming_b850m_e_wifi_am5_ddr5_145735_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_tuf_gaming_b850m_e_wifi_am5_ddr5_145735_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_tuf_gaming_b850m_e_wifi_am5_ddr5_145735_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_tuf_gaming_b850m_e_wifi_am5_ddr5_145735_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_tuf_gaming_b850m_e_wifi_am5_ddr5_145735_0004.jpg"
+        ],
+        "id": 37
+    },
+    {
+        "name": "Placa Madre Asus B850M AYW Gaming Wifi AM5 DDR5",
+        "price": "Gs. 1.421.000",
+        "details": {
+            "Factor de Forma": "micro-ATX",
+            "Soporta procesadores": "AMD Ryzen 7000, 8000, 9000 Series",
+            "Socket de procesador": "AM5",
+            "Memoria RAM": "DDR5",
+            "Almacenamiento": "2 x M.2, 4 x SATA 6Gb/s",
+            "Chipset": "B850"
+        },
+        "label": "199291013179",
+        "categories": [
+            "Placas Madre",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850m_ayw_gaming_wifi_am5_ddr5_145734_0000.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850m_ayw_gaming_wifi_am5_ddr5_145734_0001.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850m_ayw_gaming_wifi_am5_ddr5_145734_0002.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850m_ayw_gaming_wifi_am5_ddr5_145734_0003.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850m_ayw_gaming_wifi_am5_ddr5_145734_0004.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850m_ayw_gaming_wifi_am5_ddr5_145734_0005.jpg"
+        ],
         "id": 38
+    },
+    {
+        "name": "Notebook ASUS Zenbook Duo UX8406CA OLED 14\" Intel Core Ultra 9-285H 32 GB LPDDR5x 1 TB SSD M.2 - Inkwell Gray",
+        "price": "Gs. 17.900.000",
+        "details": {
+            "Pantalla": "OLED de 14\" 3K (2880 x 1800) 500 cd/m², 120 Hz",
+            "Procesador": "Intel Core Ultra 9-285H 16 Núcleos, 2.7 hasta 5.4 GHz",
+            "Memoria RAM": "32 GB LPDDR5x",
+            "Almacenamiento": "SSD M.2 PCIe 4.0 de 1 TB",
+            "Gráficos": "Intel Arc",
+            "Sistema Operativo": "Windows 11 Home"
+        },
+        "label": "Number",
+        "categories": [
+            "Notebooks de Uso Diario y Profesionales",
+            "Asus Oficial",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1ddfrf.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/4/143854.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/b/nb_asus_zenbook_duo_oled_ux8406ca.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/4/143854ds.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/4/143854fr.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1deew.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/4/143854.jpggn.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/s/i/sin_t_tulo-1trg143854.jpg"
+        ],
+        "id": 39
+    },
+    {
+        "name": "Teclado Apple Magic Numeric Keyboard Touch ID MXK73LL/A - Plata (Inglés)",
+        "price": "Gs. 1.790.000",
+        "details": {
+            "Teclado mágico con": "Touch ID y numérico",
+            "Requisitos del sistema": "macOS 15.1 y versiones superiores de este sistema",
+            "Conexiones y expansión": "Bluetooth",
+            "Batería": "Interna, recargable",
+            "Puerto": "USB-C"
+        },
+        "label": "1",
+        "categories": [
+            "Monitores y Pantallas",
+            "Ofertas",
+            "Reyes Magos"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/teclado_apple_magic_numeric_keyboard_touch_id_mxk73ll_a_plata_ingles_143518_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/teclado_apple_magic_numeric_keyboard_touch_id_mxk73ll_a_plata_ingles_143518_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/teclado_apple_magic_numeric_keyboard_touch_id_mxk73ll_a_plata_ingles_143518_0002_1.jpg"
+        ],
+        "id": 40
     }
 ]
