@@ -57,7 +57,7 @@
     },
     {
         "name": "Placa Madre ASUS TUF Gaming B650E-PLUS AM5 DDR5 ATX Wi-Fi",
-        "price": "Gs. 1.411.000Gs. 1.654.000",
+        "price": "Gs. 1.239.000Gs. 1.654.000",
         "details": {
             "Socket de procesador": "AM5",
             "Chipset": "B650E",
@@ -68,7 +68,9 @@
         },
         "label": "197105995482",
         "categories": [
-            "Placas Madre"
+            "Placas Madre",
+            "Otros Componentes",
+            "Promo Gaming"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/d/8d99c1f8d99c1f-1.jpg",
@@ -136,6 +138,28 @@
         "id": 5
     },
     {
+        "name": "Notebook Lenovo IdeaPad 1i 83B40008US 256 15.6\" Intel Core i5-1335U 16 GB - Grey",
+        "price": "Gs. 6.212.000",
+        "details": {
+            "Procesador": "Intel Core i5-1335U (10 núcleos / 12 hilos, hasta 4.6 GHz)",
+            "Memoria RAM": "16 GB DDR4",
+            "Almacenamiento": "SSD NVMe de 256 GB",
+            "Pantalla": "15.6\" Full HD 1920 x 1080",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "199271336823",
+        "categories": [
+            "Notebooks de Uso Diario y Profesionales"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_1i_83b40008us_15_6_intel_core_i5_1335u_16_gb_ddr4_256_ssd_grey_147933_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_1i_83b40008us_15_6_intel_core_i5_1335u_16_gb_ddr4_256_ssd_grey_147933_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_1i_83b40008us_15_6_intel_core_i5_1335u_16_gb_ddr4_256_ssd_grey_147933_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_1i_83b40008us_15_6_intel_core_i5_1335u_16_gb_ddr4_256_ssd_grey_147933_0003_1.jpg"
+        ],
+        "id": 6
+    },
+    {
         "name": "Notebook ASUS Vivobook S16 M3607HA-RP064W 16\" AMD Ryzen 9 270 16 GB DDR5 1 TB SSD M.2 - Matte Gray",
         "price": "Gs. 7.790.000",
         "details": {
@@ -160,7 +184,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_13_-_2026-02-23t102342.514_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_16_-_2026-02-23t102343.466.jpg"
         ],
-        "id": 6
+        "id": 7
     },
     {
         "name": "Notebook ASUS Vivobook S16 M3607HA-RP064W 16\" AMD Ryzen 9 270 16 GB DDR5 1 TB SSD M.2 - Matte Gray",
@@ -186,7 +210,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_13_-_2026-02-23t102342.514.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_20_96_.jpg"
         ],
-        "id": 7
+        "id": 8
     },
     {
         "name": "Notebook HP 15-FC0146DX 15.6\" Táctil AMD Ryzen 5 7520U 8 GB 512 GB SSD - Natural Silver",
@@ -210,35 +234,11 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_hp_15_fc0146dx_15_6_amd_ryzen_5_7520u_8_gb_lpddr5_512_gb_ssd_touch_natural_silver_146753_0002.jpg"
         ],
-        "id": 8
-    },
-    {
-        "name": "Notebook Acer Aspire 14 A14-52MT-94H5 14\" Táctil Intel Core Ultra 9 288V 32 GB 1 TB SSD - Steel Gray",
-        "price": "Gs. 7.900.000",
-        "details": {
-            "Procesador": "Intel Core Ultra 9 288V (8 núcleos / 8 hilos, hasta 5.1 GHz)",
-            "Memoria RAM": "32 GB LPDDR5X",
-            "Almacenamiento": "SSD de 1 TB",
-            "Pantalla": "14\" IPS WUXGA 1920 x 1200",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "195133311366",
-        "categories": [
-            "Notebooks de Uso Diario y Profesionales"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0004.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_94h5_14_intel_core_ultra_9_288v_32_gb_lpddr5x_1_tb_ssd_touch_steel_gray_145745_0005.jpg"
-        ],
         "id": 9
     },
     {
         "name": "Monitor Gamer Gigabyte GS25F2A 25\" 240 Hz Full HD IPS 240 Hz 1 ms - Negro",
-        "price": "Gs. 969.000Gs. 1.939.000",
+        "price": "Gs. 875.000Gs. 1.939.000",
         "details": {
             "Tipo de pantalla": "24.5\" SS IPS, antirreflejo (Non-glare), retroiluminación Edge, 120% sRGB",
             "Resolución": "Full HD (1920 x 1080)",
@@ -250,7 +250,9 @@
         "label": "3",
         "categories": [
             "Monitores y Pantallas",
-            "Informatica"
+            "Informatica",
+            "Perifericos",
+            "Promo Gaming"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/e/celer_image_17_-_2026-02-16t110637.289.jpg",
@@ -289,7 +291,7 @@
     },
     {
         "name": "Monitor Gamer MSI G242LW / CGZ IPS 23.8\" Full HD 144 Hz / 1 ms - Negro",
-        "price": "Gs. 1.268.000",
+        "price": "Gs. 695.000Gs. 1.268.000",
         "details": {
             "Tipo de pantalla": "IPS de 23.8\"",
             "Resolución": "Full HD (1920 x 1080)",
@@ -304,7 +306,9 @@
             "Periféricos y Accesorios",
             "Monitores y Pantallas",
             "Monitores Gamer",
-            "Ofertas"
+            "Ofertas",
+            "Perifericos",
+            "Promo Gaming"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_msi_g242lw_cgz_ips_23_8_full_hd_144_hz_1_ms_negro_144678_0000.jpg",
@@ -347,7 +351,7 @@
     },
     {
         "name": "Monitor Gamer Samsung Odyssey G6 LS27FG602SN QD-OLED 27\" QHD 500 Hz / 0.03 ms - Blanco",
-        "price": "Gs. 5.218.000Gs. 6.053.000",
+        "price": "Gs. 3.935.000Gs. 6.053.000",
         "details": {
             "Tipo de pantalla": "QD-OLED Plana de 27\"",
             "Resolución": "QHD (2560 x 1440)",
@@ -359,7 +363,9 @@
         "label": "3",
         "categories": [
             "Monitores y Pantallas",
-            "Monitores Gamer"
+            "Monitores Gamer",
+            "Perifericos",
+            "Promo Gaming"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_samsung_odyssey_g6_ls27fg602sn_qd_oled_27_qhd_500_hz_0_03_ms_blanco_146713_0000.jpg",
@@ -368,32 +374,6 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_samsung_odyssey_g6_ls27fg602sn_qd_oled_27_qhd_500_hz_0_03_ms_blanco_146713_0003.jpg"
         ],
         "id": 14
-    },
-    {
-        "name": "Notebook Lenovo IdeaPad Slim 3 15IAN8 82XB00BMUS 15.6\" Intel Core i3-N305 8 GB 256 GB SSD - Abyss Blue",
-        "price": "Gs. 2.925.000Gs. 3.500.000",
-        "details": {
-            "Procesador": "Intel Core i3-N305 (8 núcleos / 8 hilos, hasta 3.8 GHz)",
-            "Memoria RAM": "8 GB LPDDR5",
-            "Almacenamiento": "SSD de 256 GB",
-            "Pantalla": "15.6\" TN Full HD 1920 x 1080",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "198155745768",
-        "categories": [
-            "Notebooks de Uso Diario y Profesionales",
-            "Vacaciones de Invierno "
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_3_15ian8_82xb00bmus_15_6_intel_core_i3_n305_8_gb_lpddr5_256_gb_ssd_abyss_blue_144593_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_3_15ian8_82xb00bmus_15_6_intel_core_i3_n305_8_gb_lpddr5_256_gb_ssd_abyss_blue_144593_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_3_15ian8_82xb00bmus_15_6_intel_core_i3_n305_8_gb_lpddr5_256_gb_ssd_abyss_blue_144593_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_3_15ian8_82xb00bmus_15_6_intel_core_i3_n305_8_gb_lpddr5_256_gb_ssd_abyss_blue_144593_0003_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_3_15ian8_82xb00bmus_15_6_intel_core_i3_n305_8_gb_lpddr5_256_gb_ssd_abyss_blue_144593_0004_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_3_15ian8_82xb00bmus_15_6_intel_core_i3_n305_8_gb_lpddr5_256_gb_ssd_abyss_blue_144593_0005_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_lenovo_ideapad_slim_3_15ian8_82xb00bmus_15_6_intel_core_i3_n305_8_gb_lpddr5_256_gb_ssd_abyss_blue_144593_0006_1.jpg"
-        ],
-        "id": 15
     },
     {
         "name": "Monitor MSI PRO MP243L E14 23.8'' Full HD IPS 144 Hz / 1 ms - Negro",
@@ -419,11 +399,11 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_msi_pro_mp243l_e14_23_8_full_hd_ips_144_hz_1_ms_negro_146461_0004_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_msi_pro_mp243l_e14_23_8_full_hd_ips_144_hz_1_ms_negro_146461_0005_1.jpg"
         ],
-        "id": 16
+        "id": 15
     },
     {
         "name": "Placa Madre Gigabyte X870 Aorus Stealth ICE AM5 DDR5 ATX",
-        "price": "Gs. 2.902.000Gs. 3.227.000",
+        "price": "Gs. 2.579.000Gs. 3.227.000",
         "details": {
             "Socket de procesador": "AM5",
             "Chipset": "X870",
@@ -434,7 +414,9 @@
         },
         "label": "889523051276",
         "categories": [
-            "Placas Madre"
+            "Placas Madre",
+            "Otros Componentes",
+            "Promo Gaming"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0000.jpg",
@@ -444,7 +426,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0004.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_x870_aorus_stealth_ice_am5_ddr5_148321_0005.jpg"
         ],
-        "id": 17
+        "id": 16
     },
     {
         "name": "Monitor Curvo Samsung ViewFinity S9 LS49C954UAN 49\" 120 Hz / 5 ms - Negro",
@@ -470,11 +452,11 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_curvo_samsung_viewfinity_s9_ls49c954uan_49_120_hz_5_ms_negro_146313_0004.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_curvo_samsung_viewfinity_s9_ls49c954uan_49_120_hz_5_ms_negro_146313_0005.jpg"
         ],
-        "id": 18
+        "id": 17
     },
     {
         "name": "Placa Madre ASRock B450M/AC R2.0 AM4 DDR4 Micro ATX",
-        "price": "Gs. 715.000",
+        "price": "Gs. 575.000Gs. 715.000",
         "details": {
             "Socket de procesador": "AM4",
             "Chipset": "B450",
@@ -485,7 +467,9 @@
         },
         "label": "4710483932809",
         "categories": [
-            "Placas Madre"
+            "Placas Madre",
+            "Otros Componentes",
+            "Promo Gaming"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b450m_ac_r2_0_am4_ddr4_146216_0000.jpg",
@@ -494,7 +478,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b450m_ac_r2_0_am4_ddr4_146216_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asrock_b450m_ac_r2_0_am4_ddr4_146216_0004.jpg"
         ],
-        "id": 19
+        "id": 18
     },
     {
         "name": "Monitor Gamer Asrock Phantom PG27FFX2A 27\" Full HD IPS 520 Hz / 1 ms - Negro",
@@ -522,33 +506,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_asrock_phantom_pg27ffx2a_27_full_hd_ips_520_hz_1_ms_negro_145785_0004.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_asrock_phantom_pg27ffx2a_27_full_hd_ips_520_hz_1_ms_negro_145785_0005.jpg"
         ],
-        "id": 20
-    },
-    {
-        "name": "Placa Madre ASUS ROG Crosshair X870E Apex AM5 DDR5 ATX",
-        "price": "Gs. 6.748.000",
-        "details": {
-            "Socket de procesador": "AM5",
-            "Chipset": "X870E",
-            "Compatibilidad de procesadores": "AMD Ryzen para socket AM5",
-            "Factor de forma": "ATX",
-            "Memoria compatible": "DDR5",
-            "Plataforma": "X870E / AM5 / DDR5 / ATX"
-        },
-        "label": "Compatibles",
-        "categories": [
-            "Placas Madre"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0000.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0001.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0002.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0003.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0004.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0005.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_rog_crosshair_x870e_apex_am5_ddr5_145827_0006.jpg"
-        ],
-        "id": 21
+        "id": 19
     },
     {
         "name": "Monitor Portátil Dual Satellite A-DM3141 14\" para Notebook 360° USB-C",
@@ -569,7 +527,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_portatil_triple_satellite_a_dm3141_14_para_notebook_360deg_usb_c_145346_0000.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_portatil_triple_satellite_a_dm3141_14_para_notebook_360deg_usb_c_145346_0001.jpg"
         ],
-        "id": 22
+        "id": 20
     },
     {
         "name": "Placa Madre ASUS X870 Max Gaming 7 AM5 DDR5 ATX Wi-Fi",
@@ -593,7 +551,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_x870_max_gaming_wifi_7_am5_ddr5_145740_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_x870_max_gaming_wifi_7_am5_ddr5_145740_0004.jpg"
         ],
-        "id": 23
+        "id": 21
     },
     {
         "name": "Placa Madre ASUS Prime B850-PLUS AM5 DDR5 ATX Wi-Fi",
@@ -618,7 +576,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850_plus_wifi_am5_ddr5_145739_0004.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850_plus_wifi_am5_ddr5_145739_0005.jpg"
         ],
-        "id": 24
+        "id": 22
     },
     {
         "name": "Monitor Touch SAT 1054FPH 15\" - Negro",
@@ -643,7 +601,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_touch_sat_1054fph_15_negro_144645_0004_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_touch_sat_1054fph_15_negro_144645_0005_1.jpg"
         ],
-        "id": 25
+        "id": 23
     },
     {
         "name": "Placa Madre ASUS Prime B850M-K AM5 DDR5 Micro ATX",
@@ -667,7 +625,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850m_k_am5_ddr5_145736_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_prime_b850m_k_am5_ddr5_145736_0004.jpg"
         ],
-        "id": 26
+        "id": 24
     },
     {
         "name": "Placa Madre ASUS TUF Gaming B850M-E AM5 DDR5 Micro ATX Wi-Fi",
@@ -691,7 +649,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_tuf_gaming_b850m_e_wifi_am5_ddr5_145735_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_tuf_gaming_b850m_e_wifi_am5_ddr5_145735_0004.jpg"
         ],
-        "id": 27
+        "id": 25
     },
     {
         "name": "Placa Madre ASUS B850M AYW Gaming AM5 DDR5 Micro ATX Wi-Fi",
@@ -716,7 +674,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850m_ayw_gaming_wifi_am5_ddr5_145734_0004.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850m_ayw_gaming_wifi_am5_ddr5_145734_0005.jpg"
         ],
-        "id": 28
+        "id": 26
     },
     {
         "name": "Teclado Apple ID Full size (MXK73LL) - Plata (Inglés)",
@@ -736,7 +694,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/teclado_apple_magic_numeric_keyboard_touch_id_mxk73ll_a_plata_ingles_143518_0001_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/t/e/teclado_apple_magic_numeric_keyboard_touch_id_mxk73ll_a_plata_ingles_143518_0002_1.jpg"
         ],
-        "id": 29
+        "id": 27
     },
     {
         "name": "Placa Madre ASUS B850 Max Gaming W AM5 DDR5 ATX Wi-Fi",
@@ -761,7 +719,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850_max_gaming_wifi_w_am5_ddr5_145726_0004.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_asus_b850_max_gaming_wifi_w_am5_ddr5_145726_0005.jpg"
         ],
-        "id": 30
+        "id": 28
     },
     {
         "name": "Placa Madre MSI X870E Gaming Plus AM5 DDR5 ATX Wi-Fi",
@@ -785,11 +743,11 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_x870e_gaming_plus_wifi_am5_ddr5_144923_0003_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_x870e_gaming_plus_wifi_am5_ddr5_144923_0004_1.jpg"
         ],
-        "id": 31
+        "id": 29
     },
     {
         "name": "Placa Madre Gigabyte B650M Gaming Plus AM5 DDR5 Micro ATX Wi-Fi",
-        "price": "Gs. 1.063.000Gs. 1.162.000",
+        "price": "Gs. 929.000Gs. 1.158.000",
         "details": {
             "Socket de procesador": "AM5",
             "Chipset": "B650",
@@ -800,7 +758,9 @@
         },
         "label": "889523042793",
         "categories": [
-            "Placas Madre"
+            "Placas Madre",
+            "Otros Componentes",
+            "Promo Gaming"
         ],
         "srcImages": [
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_b650m_gaming_plus_wifi_am5_ddr5_144668_0000_1.jpg",
@@ -808,33 +768,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_b650m_gaming_plus_wifi_am5_ddr5_144668_0002_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_gigabyte_b650m_gaming_plus_wifi_am5_ddr5_144668_0003_1.jpg"
         ],
-        "id": 32
-    },
-    {
-        "name": "Notebook Acer Aspire 3 A315-24PT-R288 15.6\" Táctil AMD Ryzen 5 7520U 16 GB 1 TB SSD - Silver",
-        "price": "Gs. 4.990.000",
-        "details": {
-            "Procesador": "AMD Ryzen 5 7520U (4 núcleos / 8 hilos, hasta 4.3 GHz)",
-            "Memoria RAM": "16 GB LPDDR5X",
-            "Almacenamiento": "SSD de 1 TB",
-            "Pantalla": "15.6\" IPS Full HD 1920 x 1080",
-            "Sistema operativo": "Windows 11 Home"
-        },
-        "label": "195133236508",
-        "categories": [
-            "Notebooks de Uso Diario y Profesionales"
-        ],
-        "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_3_a315_24pt_r288_15_6_amd_ryzen_5_7520u_16_gb_lpddr5x_1_tb_ssd_touch_silver_143509_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_3_a315_24pt_r288_15_6_amd_ryzen_5_7520u_16_gb_lpddr5x_1_tb_ssd_touch_silver_143509_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_3_a315_24pt_r288_15_6_amd_ryzen_5_7520u_16_gb_lpddr5x_1_tb_ssd_touch_silver_143509_0002_1.jpg"
-        ],
-        "specifications": {
-            "Táctil FHD IPS de 15.6\"": "",
-            "Resolución": "1920 x 1080",
-            "Frecuencia": "60 Hz"
-        },
-        "id": 33
+        "id": 30
     },
     {
         "name": "Monitor Curvo AOC Gaming C24G2 23.6\" Full HD 165 Hz / 1 ms - Negro",
@@ -859,7 +793,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_curvo_aoc_gaming_c24g2_23_6_fhd_165_hz_1_ms_negro_143208_0003.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_curvo_aoc_gaming_c24g2_23_6_fhd_165_hz_1_ms_negro_143208_0004.jpg"
         ],
-        "id": 34
+        "id": 31
     },
     {
         "name": "Monitor Teros TE-2713S IPS Full HD 120 Hz - Negro",
@@ -883,7 +817,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_teros_te_2713s_ips_fhd_120_hz_negro_143205_0003_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_teros_te_2713s_ips_fhd_120_hz_negro_143205_0004_1.jpg"
         ],
-        "id": 35
+        "id": 32
     },
     {
         "name": "Placa Madre ASUS ROG Strix X870-I Gaming AM5 DDR5 Mini ITX Wi-Fi",
@@ -910,7 +844,7 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_rog_strix_x870_i_gaming_wifi_am5_ddr5_144627_0006_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_rog_strix_x870_i_gaming_wifi_am5_ddr5_144627_0007_1.jpg"
         ],
-        "id": 36
+        "id": 33
     },
     {
         "name": "Monitor Gamer Smart Curvo Samsung Odyssey G9 LS49CG932SN OLED 49\" DQHD 240 Hz / 0.03 ms - Silver",
@@ -958,7 +892,7 @@
             "Color Máx.": "1B",
             "Gama de colores (Cobertura DCI)": "99 % (CIE1976)"
         },
-        "id": 37
+        "id": 34
     },
     {
         "name": "Monitor Gamer Curvo Dell Alienware AW3425DWM 34\" WQHD 180 Hz / 1 ms - Negro",
@@ -985,30 +919,169 @@
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_curvo_dell_alienware_aw3425dwm_34_wqhd_180_hz_1_ms_negro_143136_0005_1.jpg",
             "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_curvo_dell_alienware_aw3425dwm_34_wqhd_180_hz_1_ms_negro_143136_0006_1.jpg"
         ],
+        "id": 35
+    },
+    {
+        "name": "Monitor Xiaomi A27Ui P27UCB-RAGL IPS 27\" 4K Ultra HD 60 Hz / 6 ms - Negro",
+        "price": "Gs. 2.226.000",
+        "details": {
+            "Tipo de pantalla": "IPS de 27\"",
+            "Resolución": "4K Ultra HD (3840 x 2160)",
+            "Frecuencia de actualización": "60 Hz",
+            "Tiempo de respuesta": "6 ms",
+            "Interfaz": "HDMI, DP, USB-C",
+            "Brillo": "360 nits"
+        },
+        "label": "6941948706989",
+        "categories": [
+            "Monitores y Pantallas",
+            "Monitores de Uso Diario y Profesional"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_xiaomi_a27ui_p27ucb_ragl_ips_27_4k_uhd_60_hz_6_ms_negro_142973_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_xiaomi_a27ui_p27ucb_ragl_ips_27_4k_uhd_60_hz_6_ms_negro_142973_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_xiaomi_a27ui_p27ucb_ragl_ips_27_4k_uhd_60_hz_6_ms_negro_142973_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_xiaomi_a27ui_p27ucb_ragl_ips_27_4k_uhd_60_hz_6_ms_negro_142973_0003_1.jpg"
+        ],
+        "specifications": {
+            "Tamaño de la pantalla": "27\"",
+            "Relación de aspecto": "16",
+            "Entrada de potencia": "24 V 5 A",
+            "Resolución": "3840 x 2160",
+            "Tiempo de respuesta": "6 ms (típico)",
+            "Potencia nominal": "120 W",
+            "Frecuencia de actualización máxima": "60 Hz",
+            "Paso de puntos": "0.1554 (alto) x 0.1554 (ancho) mm",
+            "Brillo": "360 nits (típico)",
+            "Relación de contraste": "1200",
+            "Número de colores": "1.07 mil millones",
+            "Ángulo de inclinación": "Adelante 5° / Atrás 21°",
+            "Dimensiones del soporte de pared": "Soporte (VESA 75 x 75)",
+            "Dimensiones del producto (incluida la base)": "613 x 185 x 511 mm",
+            "Peso neto del producto (incluida la base)": "5.5 kilos"
+        },
+        "id": 36
+    },
+    {
+        "name": "Notebook Acer Aspire 14 A14-52MT-701K 14\" Táctil Intel Core Ultra 7 258V 32 GB 1 TB SSD - Gris",
+        "price": "Gs. 7.690.000",
+        "details": {
+            "Procesador": "Intel Core Ultra 7 258V (8 núcleos / 8 hilos, hasta 4.8 GHz)",
+            "Memoria RAM": "32 GB LPDDR5X",
+            "Almacenamiento": "SSD de 1 TB",
+            "Pantalla": "14\" WUXGA 1920 x 1200",
+            "Sistema operativo": "Windows 11 Home"
+        },
+        "label": "195133282581",
+        "categories": [
+            "Notebooks de Uso Diario y Profesionales"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_701k_14_intel_core_ultra_7_258v_32_gb_lpddr5x_1_tb_ssd_touch_gris_143051_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_701k_14_intel_core_ultra_7_258v_32_gb_lpddr5x_1_tb_ssd_touch_gris_143051_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_701k_14_intel_core_ultra_7_258v_32_gb_lpddr5x_1_tb_ssd_touch_gris_143051_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/n/o/notebook_acer_aspire_14_a14_52mt_701k_14_intel_core_ultra_7_258v_32_gb_lpddr5x_1_tb_ssd_touch_gris_143051_0003_1.jpg"
+        ],
+        "id": 37
+    },
+    {
+        "name": "Placa Madre MSI MAG X870E Tomahawk AM5 DDR5 ATX Wi-Fi",
+        "price": "Gs. 2.090.000Gs. 2.789.000",
+        "details": {
+            "Socket de procesador": "AM5",
+            "Chipset": "X870E",
+            "Compatibilidad de procesadores": "AMD Ryzen para socket AM5",
+            "Factor de forma": "ATX",
+            "Memoria RAM": "4x DDR5 UDIMM, capacidad máxima de 256GB, soporta hasta DDR5 8400+ MT/s (OC)",
+            "Conectividad destacada": "Wi-Fi integrado"
+        },
+        "label": "824142395660",
+        "categories": [
+            "Placas Madre",
+            "Otros Componentes",
+            "Promo Gaming"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_mag_x870e_tomahawk_wifi_am5_ddr5_142143_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_mag_x870e_tomahawk_wifi_am5_ddr5_142143_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_mag_x870e_tomahawk_wifi_am5_ddr5_142143_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_mag_x870e_tomahawk_wifi_am5_ddr5_142143_0003_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_mag_x870e_tomahawk_wifi_am5_ddr5_142143_0004_1.jpg"
+        ],
         "id": 38
     },
     {
-        "name": "Monitor Gamer Curvo Dell Alienware AW3425DW QD-OLED 34\" WQHD 240 Hz / 0.03 ms - Negro",
-        "price": "Gs. 8.035.000",
+        "name": "Monitor Samsung Odyssey G50D LS32DG502EN IPS 32\" QHD 180 Hz / 1 ms - Negro",
+        "price": "Gs. 2.619.000Gs. 2.995.000",
         "details": {
-            "Tipo de pantalla": "QD-OLED curvo (1800R) de 34\"",
-            "Resolución": "WQHD (3440 x 1440)",
-            "Frecuencia de actualización": "240 Hz",
-            "Tiempo de respuesta": "0.03 ms (GTG)",
-            "Tecnología": "G-SYNC, FreeSync Premium Pro",
-            "Interfaz": "DP 1.4, 2x HDMI 2.1, USB Hub"
+            "Tipo de pantalla": "IPS de 32\"",
+            "Resolución": "QHD (2560 x 1440)",
+            "Frecuencia de actualización": "180 Hz",
+            "Tiempo de respuesta": "1 ms (GtG)",
+            "Tecnología": "AMD FreeSync, HDR400",
+            "Interfaz": "HDMI 2.0, DP 1.2"
         },
-        "label": "Number",
+        "label": "3",
         "categories": [
             "Monitores y Pantallas",
-            "Monitores Gamer"
+            "Monitores de Uso Diario y Profesional",
+            "Ofertas"
         ],
         "srcImages": [
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_curvo_dell_alienware_aw3425dw_qd_oled_34_wqhd_240_hz_0_03_ms_negro_143122_0000_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_curvo_dell_alienware_aw3425dw_qd_oled_34_wqhd_240_hz_0_03_ms_negro_143122_0001_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_curvo_dell_alienware_aw3425dw_qd_oled_34_wqhd_240_hz_0_03_ms_negro_143122_0002_1.jpg",
-            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_gamer_curvo_dell_alienware_aw3425dw_qd_oled_34_wqhd_240_hz_0_03_ms_negro_143122_0003_1.jpg"
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0003_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0004_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0005_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0006_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0007_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0008_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0009_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0010_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/m/o/monitor_samsung_odyssey_g50d_ls32dg502en_ips_32_qhd_180_hz_1_ms_negro_142884_0011_1.jpg"
         ],
+        "specifications": {
+            "Tipo de pantalla": "LCD tipo IPS",
+            "Resolución": "2560 x 1440 (QHD)",
+            "Frecuencia de actualización": "180 Hz",
+            "Tiempo de respuesta": "1 ms (GtG)",
+            "Tecnología": "FreeSync | Compatible con G-Sync | DisplayHDR 400",
+            "Ángulo de visión": "178° (H) / 178° (V)",
+            "Interfaz": "1x HDMI 2.0, 1x DisplayPort 1.2, salida de audio 3,5 mm",
+            "Relación de aspecto": "16",
+            "Relación de contraste": "1000",
+            "Brillo": "350 nits (máximo), 280 nits (sostenido)",
+            "Soporte de color": "16,7 millones de colores (8 bits)",
+            "Cobertura de color": "99 % sRGB",
+            "Revestimiento": "Antideslumbrante",
+            "Consumo energético": "59 W (máx.)",
+            "Montaje VESA": "100 x 100 mm"
+        },
         "id": 39
+    },
+    {
+        "name": "Placa Madre MSI PRO X870E-P AM5 DDR5 ATX Wi-Fi",
+        "price": "Gs. 1.779.000",
+        "details": {
+            "Socket de procesador": "AM5",
+            "Chipset": "X870E",
+            "Compatibilidad de procesadores": "AMD Ryzen para socket AM5",
+            "Factor de forma": "ATX",
+            "Memoria RAM": "DDR5, 4x UDIMM, máx. 256GB",
+            "Conectividad destacada": "Wi-Fi integrado"
+        },
+        "label": "824142425565",
+        "categories": [
+            "Placas Madre"
+        ],
+        "srcImages": [
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_pro_x870e_p_wifi_am5_ddr5_141600_0000_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_pro_x870e_p_wifi_am5_ddr5_141600_0001_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_pro_x870e_p_wifi_am5_ddr5_141600_0002_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_pro_x870e_p_wifi_am5_ddr5_141600_0003_1.jpg",
+            "https://nissei.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/l/placa_madre_msi_pro_x870e_p_wifi_am5_ddr5_141600_0004_1.jpg"
+        ],
+        "id": 40
     }
 ]
